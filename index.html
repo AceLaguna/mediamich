@@ -865,8 +865,8 @@ body.dark mark{background:#78350f;color:#fde68a}
       <select id="market-filter" class="filter-select" onchange="filterDir(document.getElementById('dir-filter').value)">
         <option value="">All Markets</option>
         <option>Detroit</option><option>Grand Rapids</option><option>Lansing</option>
-        <option>Flint</option><option>Traverse City</option><option>Marquette</option>
-        <option>Statewide</option><option>Upper Peninsula</option><option>Ann Arbor</option>
+        <option>Flint</option><option>Traverse City</option>
+        <option>Upper Peninsula</option><option>Statewide</option><option>Ann Arbor</option>
       </select>
       <span id="dir-count" class="result-count"></span>
     </div>
@@ -1053,10 +1053,10 @@ tv:[
   {name:"WGTU – ABC 29",city:"Traverse City",market:"Traverse City",url:"https://www.upnorthlive.com",badge:"ABC",type:"TV",desc:"ABC affiliate; partners with WPBN for Northern Michigan coverage.",bc:"b-blue"},
   {name:"WFQX-TV – FOX 32/33",city:"Cadillac",market:"Traverse City",url:"https://www.fox32tv.com",badge:"Fox",type:"TV",desc:"Fox affiliate; Northern Michigan Fox station.",bc:"b-blue"},
   {name:"WCMU-TV – PBS",city:"Mount Pleasant",market:"Statewide",url:"https://www.wcmu.org",badge:"PBS",type:"TV",desc:"PBS affiliate; extensive northern Michigan and UP coverage.",bc:"b-blue"},
-  {name:"WLUC-TV – Upper MI Source",city:"Marquette",market:"Marquette",url:"https://www.uppermichiganssource.com",badge:"NBC/Fox",type:"TV",desc:"NBC/Fox affiliate; primary commercial news for the Upper Peninsula.",bc:"b-blue"},
-  {name:"WJMN-TV – ABC 3",city:"Escanaba",market:"Marquette",url:"https://www.abc3tv.com",badge:"ABC",type:"TV",desc:"ABC affiliate; UP-focused news programming.",bc:"b-blue"},
-  {name:"WBKP – CW 5 / ABC 10 UP",city:"Calumet",market:"Marquette",url:"https://www.abc10up.com",badge:"CW/ABC",type:"TV",desc:"UP-focused CW and ABC programming.",bc:"b-blue"},
-  {name:"WNMU – PBS",city:"Marquette",market:"Marquette",url:"https://www.nmu.edu/wnmu",badge:"PBS",type:"TV",desc:"PBS affiliate; Northern Michigan University public TV.",bc:"b-blue"},
+  {name:"WLUC-TV – Upper MI Source",city:"Marquette",market:"Upper Peninsula",url:"https://www.uppermichiganssource.com",badge:"NBC/Fox",type:"TV",desc:"NBC/Fox affiliate; primary commercial news for the Upper Peninsula.",bc:"b-blue"},
+  {name:"WJMN-TV – ABC 3",city:"Escanaba",market:"Upper Peninsula",url:"https://www.abc3tv.com",badge:"ABC",type:"TV",desc:"ABC affiliate; UP-focused news programming.",bc:"b-blue"},
+  {name:"WBKP – CW 5 / ABC 10 UP",city:"Calumet",market:"Upper Peninsula",url:"https://www.abc10up.com",badge:"CW/ABC",type:"TV",desc:"UP-focused CW and ABC programming.",bc:"b-blue"},
+  {name:"WNMU – PBS",city:"Marquette",market:"Upper Peninsula",url:"https://www.nmu.edu/wnmu",badge:"PBS",type:"TV",desc:"PBS affiliate; Northern Michigan University public TV.",bc:"b-blue"},
   {name:"WBKB-TV 11 – Alpena",city:"Alpena",market:"Alpena",url:"https://www.wbkb11.com",badge:"CBS/NBC/ABC/Fox",type:"TV",desc:"Multi-network multicast; sole commercial full-power station in Alpena DMA.",bc:"b-blue"},
   {name:"WCML – PBS Alpena",city:"Alpena",market:"Alpena",url:"https://www.wcmu.org",badge:"PBS",type:"TV",desc:"PBS satellite for Alpena; Central Michigan University.",bc:"b-blue"},
   {name:"WGTQ – ABC 8",city:"Sault Ste. Marie",market:"Sault Ste. Marie",url:"https://www.upnorthlive.com",badge:"ABC",type:"TV",desc:"ABC affiliate serving Sault Ste. Marie area.",bc:"b-blue"},
@@ -1100,7 +1100,7 @@ radio:[
   {name:"WIAA 88.7 FM – IPR Classical",city:"Interlochen",market:"Traverse City",url:"https://www.interlochenpublicradio.org",badge:"Classical",type:"Radio",desc:"Interlochen Public Radio classical; 20+ county reach.",bc:"b-green"},
   {name:"WICA 91.5 FM – IPR News",city:"Traverse City",market:"Traverse City",url:"https://www.interlochenpublicradio.org",badge:"NPR News",type:"Radio",desc:"Interlochen Public Radio NPR news for Northern Michigan.",bc:"b-green"},
   {name:"WCCW 107.5 FM",city:"Traverse City",market:"Traverse City",url:"https://www.1075wccw.com",badge:"Country",type:"Radio",desc:"Northern Michigan country station.",bc:"b-green"},
-  {name:"WNMU-FM 90.1",city:"Marquette",market:"Marquette",url:"https://www.nmu.edu/wnmu",badge:"NPR/Public",type:"Radio",desc:"Primary NPR public radio for the eastern Upper Peninsula.",bc:"b-green"},
+  {name:"WNMU-FM 90.1",city:"Marquette",market:"Upper Peninsula",url:"https://www.nmu.edu/wnmu",badge:"NPR/Public",type:"Radio",desc:"Primary NPR public radio for the eastern Upper Peninsula.",bc:"b-green"},
   {name:"WCMU 89.5 FM",city:"Mount Pleasant",market:"Statewide",url:"https://www.wcmu.org",badge:"NPR/Public",type:"Radio",desc:"CMU public radio; large northern MI and UP coverage area.",bc:"b-green"},
   {name:"WBLV 90.3 FM",city:"Twin Lake",market:"Grand Rapids",url:"https://www.bluelake.org",badge:"Classical/Arts",type:"Radio",desc:"Fine arts and classical; unique arts-focused public radio.",bc:"b-green"},
   {name:"WGRY 101.1 FM",city:"Roscommon",market:"Traverse City",url:"https://www.wgry.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate for northern Michigan.",bc:"b-green"},
@@ -1138,7 +1138,7 @@ daily:[
   {name:"Daily Mining Gazette",city:"Houghton",market:"Upper Peninsula",url:"https://www.mininggazette.com",badge:"Daily",type:"Print",desc:"Copper country UP newspaper; Houghton/Keweenaw coverage.",bc:"b-green"},
   {name:"Daily Globe",city:"Ironwood",market:"Upper Peninsula",url:"https://www.ironwoodglobe.com",badge:"Daily",type:"Print",desc:"Gogebic County UP newspaper.",bc:"b-green"},
   {name:"Daily Press",city:"Escanaba",market:"Upper Peninsula",url:"https://www.dailypress.net",badge:"Daily",type:"Print",desc:"Delta County UP newspaper.",bc:"b-green"},
-  {name:"Mining Journal",city:"Marquette",market:"Marquette",url:"https://www.miningjournal.net",badge:"Daily",type:"Print",desc:"Upper Peninsula\'s primary newspaper since 1846.",bc:"b-green"},
+  {name:"Mining Journal",city:"Marquette",market:"Upper Peninsula",url:"https://www.miningjournal.net",badge:"Daily",type:"Print",desc:"Upper Peninsula\'s primary newspaper since 1846.",bc:"b-green"},
   {name:"Daily Reporter",city:"Coldwater",market:"Grand Rapids",url:"https://www.thedailyreporter.com/",badge:"Daily",type:"Print",desc:"Coldwater\'s daily newspaper since 1895.",bc:"b-green"},
   {name:"Hillsdale Daily News",city:"Hillsdale",market:"Lansing",url:"https://www.hillsdale.net/",badge:"Daily",type:"Print",desc:"Providing continuous local coverage since 1846.",bc:"b-green"},
   {name:"Grand Haven Tribune",city:"Grand Haven",market:"Grand Rapids",url:"https://www.grandhaventribune.com/",badge:"Daily",type:"Print",desc:"Ottawa County daily newspaper since 1885.",bc:"b-green"},
@@ -1302,15 +1302,15 @@ university:[
   {name:"Grand Valley Lanthorn",city:"Allendale",market:"Grand Valley State University",url:"https://www.lanthorn.com",badge:"Student",type:"Student",desc:"Grand Valley State University student newspaper.",bc:"b-blue"},
   {name:"Western Herald",city:"Kalamazoo",market:"Western Michigan University",url:"https://www.westernherald.com",badge:"Student",type:"Student",desc:"Western Michigan University student newspaper.",bc:"b-blue"},
   {name:"Eastern Echo",city:"Ypsilanti",market:"Eastern Michigan University",url:"https://www.easternecho.com",badge:"Student",type:"Student",desc:"Eastern Michigan University student newspaper.",bc:"b-blue"},
-  {name:"North Wind",city:"Marquette",market:"Northern Michigan University",url:"https://www.thenorthwindonline.com",badge:"Student",type:"Student",desc:"Northern Michigan University student newspaper.",bc:"b-blue"},
+  {name:"North Wind",city:"Marquette",market:"Upper Peninsula",url:"https://www.thenorthwindonline.com",badge:"Student",type:"Student",desc:"Northern Michigan University student newspaper.",bc:"b-blue"},
   {name:"Ferris Torch",city:"Big Rapids",market:"Ferris State University",url:"https://www.ferristorch.com",badge:"Student",type:"Student",desc:"Ferris State University student newspaper.",bc:"b-blue"},
   {name:"Oakland Post",city:"Rochester",market:"Oakland University",url:"https://www.oaklandpostonline.com",badge:"Student",type:"Student",desc:"Oakland University student newspaper.",bc:"b-blue"},
-  {name:"The Spectator",city:"Houghton",market:"Michigan Tech",url:"https://www.mtu.edu/spectator",badge:"Student",type:"Student",desc:"Michigan Technological University student newspaper.",bc:"b-blue"},
+  {name:"The Spectator",city:"Houghton",market:"Upper Peninsula",url:"https://www.mtu.edu/spectator",badge:"Student",type:"Student",desc:"Michigan Technological University student newspaper.",bc:"b-blue"},
   {name:"Delta Collegiate",city:"University Center",market:"Delta College",url:"https://deltacollegiate.org/",badge:"Student",type:"Student",desc:"Delta College student newspaper.",bc:"b-blue"},
   {name:"GRCC Collegiate",city:"Grand Rapids",market:"Grand Rapids Community College",url:"https://thecollegiatelive.com/",badge:"Student",type:"Student",desc:"Grand Rapids Community College student newspaper.",bc:"b-blue"},
   {name:"Mirror News",city:"Dearborn",market:"Henry Ford College",url:"https://mirrornews.hfcc.edu/",badge:"Student",type:"Student",desc:"Henry Ford College student newspaper.",bc:"b-blue"},
   {name:"The Collegian",city:"Hillsdale",market:"Hillsdale College",url:"https://hillsdalecollegian.com/",badge:"Student",type:"Student",desc:"Hillsdale College student newspaper.",bc:"b-blue"},
-  {name:"The Lode",city:"Houghton",market:"Michigan Tech",url:"https://mtulode.com/",badge:"Student",type:"Student",desc:"Michigan Technological University student newspaper.",bc:"b-blue"},
+  {name:"The Lode",city:"Houghton",market:"Upper Peninsula",url:"https://mtulode.com/",badge:"Student",type:"Student",desc:"Michigan Technological University student newspaper.",bc:"b-blue"},
   {name:"The Lookout",city:"Lansing",market:"Lansing Community College",url:"https://lookout.lcc.edu/",badge:"Student",type:"Student",desc:"Lansing Community College student newspaper.",bc:"b-blue"},
   {name:"The Agora",city:"Monroe",market:"Monroe County Community College",url:"https://mcccagora.com/",badge:"Student",type:"Student",desc:"Monroe County Community College student newspaper.",bc:"b-blue"},
   {name:"The Echo",city:"Olivet",market:"University of Olivet",url:"https://www.ocecho.com/",badge:"Student",type:"Student",desc:"University of Olivet student newspaper.",bc:"b-blue"},
@@ -1416,6 +1416,18 @@ function matchOut(o,term){
   if(!term) return true;
   return (o.name+o.city+o.market+o.desc+(o.badge||'')).toLowerCase().includes(term.toLowerCase());
 }
+// ── MARKET GROUPS — selecting a parent catches all children ──────────────────
+const MARKET_GROUPS={
+  'Detroit':        ['Detroit','Metro Detroit','Ann Arbor','Global (Detroit HQ)'],
+  'Grand Rapids':   ['Grand Rapids','West Michigan'],
+  'Upper Peninsula':['Upper Peninsula','Sault Ste. Marie'],
+  'Traverse City':  ['Traverse City','Northern Michigan'],
+  'Flint':          ['Flint'],
+  'Lansing':        ['Lansing'],
+  'Statewide':      ['Statewide'],
+  'Ann Arbor':      ['Ann Arbor','Detroit','Metro Detroit'],
+};
+
 function filterDir(term=''){
   const mkt=document.getElementById('market-filter').value;
   // 'all' tab: combine every category, preserving the category key on each outlet
@@ -1424,7 +1436,16 @@ function filterDir(term=''){
     : (OUTLETS[currentTab]||[]).map(o=>({...o,_cat:currentTab}));
   const items=pool.filter(o=>{
     const ms=matchOut(o,term);
-    const mm=!mkt||o.market.toLowerCase().includes(mkt.toLowerCase())||o.city.toLowerCase().includes(mkt.toLowerCase());
+    // Use MARKET_GROUPS for hierarchical region matching
+    let mm=false;
+    if(!mkt){
+      mm=true;
+    } else {
+      const related=MARKET_GROUPS[mkt]||[mkt];
+      const oMkt=o.market.toLowerCase();
+      const oCity=o.city.toLowerCase();
+      mm=related.some(r=>oMkt.includes(r.toLowerCase())||oCity.includes(r.toLowerCase()));
+    }
     return ms&&mm;
   });
   const grid=document.getElementById('dir-grid');
