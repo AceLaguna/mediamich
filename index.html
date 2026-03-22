@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Michigan Media Hub — Every Michigan News Source</title>
-<meta name="description" content="The complete directory and live news aggregator for Michigan TV, radio, newspapers, magazines, and digital outlets."/>
+<meta name="description" content="The complete directory of Michigan TV, radio, newspapers, magazines, and digital news outlets."/>
 <!-- CSP: allow rss2json and fonts -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval'; connect-src *; font-src https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;">
 <!-- Google Fonts -->
@@ -158,7 +158,6 @@ body.dark .skeleton{background:linear-gradient(90deg,#1a2d42 25%,#22384f 50%,#1a
   white-space:nowrap;
 }
 .nav-btn:hover{background:rgba(255,255,255,0.12);color:#fff}
-.nav-feed{display:flex;align-items:center;gap:6px}
 /* Nav right controls */
 .nav-controls{display:flex;align-items:center;gap:4px}
 .icon-btn{
@@ -714,9 +713,6 @@ body.dark mark{background:#78350f;color:#fde68a}
     <nav id="desktop-nav">
       <button class="nav-btn" onclick="showPage('home')">Home</button>
       <button class="nav-btn" onclick="showPage('directory')">Directory</button>
-      <button class="nav-btn nav-feed" onclick="showPage('aggregator')">
-        <span class="live-dot live-dot-sm"></span>News Feed
-      </button>
       <button class="nav-btn" onclick="showPage('submit')">Submit Outlet</button>
       <button class="nav-btn" onclick="showPage('about')">About</button>
     </nav>
@@ -761,7 +757,6 @@ body.dark mark{background:#78350f;color:#fde68a}
   <div class="mob-nav">
     <button class="mob-btn" onclick="showPage('home');closeMob()">🏠 Home</button>
     <button class="mob-btn" onclick="showPage('directory');closeMob()">📡 Directory</button>
-    <button class="mob-btn" onclick="showPage('aggregator');closeMob()">📰 News Feed</button>
     <button class="mob-btn" onclick="showPage('submit');closeMob()">📝 Submit Outlet</button>
     <button class="mob-btn" onclick="showPage('about');closeMob()">ℹ️ About</button>
   </div>
@@ -782,7 +777,7 @@ body.dark mark{background:#78350f;color:#fde68a}
         Michigan's Complete Media Resource — 2026
       </div>
       <h1>Every Michigan<br/><em>News Source</em><br/>in One Place</h1>
-      <p>TV stations, radio, newspapers, magazines, and digital news — the complete directory and live aggregator for Michigan media.</p>
+      <p>TV stations, radio, newspapers, magazines, and digital news — the complete directory for Michigan media.</p>
 
       <!-- Search — plain HTML, no framework interference -->
       <div class="hero-search-wrap">
@@ -848,27 +843,6 @@ body.dark mark{background:#78350f;color:#fde68a}
     </div>
   </div>
 
-  <!-- Home feed preview -->
-  <div class="section">
-    <div class="container">
-      <div class="section-top">
-        <div>
-          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
-            <span class="live-dot"></span>
-            <span style="font-size:.7rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#16a34a">Live</span>
-          </div>
-          <h2 style="font-size:1.9rem;color:var(--navy)">Latest Headlines</h2>
-          <p style="color:var(--text-muted);font-size:.875rem;margin-top:4px">Pulled from Michigan's top RSS feeds</p>
-        </div>
-        <button class="text-link hide-mobile" onclick="showPage('aggregator')">Full feed →</button>
-      </div>
-      <div class="grid-3" id="home-feed-preview">
-        <div class="skeleton" style="height:140px"></div>
-        <div class="skeleton" style="height:140px"></div>
-        <div class="skeleton" style="height:140px"></div>
-      </div>
-    </div>
-  </div>
 </div><!-- /page-home -->
 
 <!-- ══════════════════════════════════════════════════════
@@ -922,133 +896,19 @@ body.dark mark{background:#78350f;color:#fde68a}
 </div>
 
 <!-- ══════════════════════════════════════════════════════
-     PAGE: AGGREGATOR
-══════════════════════════════════════════════════════ -->
-<div id="page-aggregator" class="page">
-  <div class="container" style="padding-top:2.5rem;padding-bottom:2.5rem">
-
-    <div class="agg-header">
-      <div>
-        <div class="agg-label">
-          <span class="live-dot"></span>
-          <span>Live RSS Aggregator</span>
-        </div>
-        <h1 style="font-size:2.2rem;color:var(--navy)">Michigan News Feed</h1>
-        <p class="agg-subtitle">Fetching from <strong id="src-count-label">16</strong> RSS sources. <span id="last-updated-label" style="color:var(--text-muted)"></span></p>
-      </div>
-      <div class="agg-btns">
-        <button class="btn-primary" id="refresh-btn" onclick="loadAllFeeds(true)">
-          <svg id="refresh-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
-          Refresh Feeds
-        </button>
-        <button class="btn-secondary" onclick="showSourcePanel()">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          Source Status
-        </button>
-      </div>
-    </div>
-
-    <!-- Toolbar -->
-    <div class="feed-toolbar">
-      <div class="feed-pills">
-        <button class="pill active" data-f="all"     onclick="setFeedFilter('all')">All</button>
-        <button class="pill" data-f="TV"      onclick="setFeedFilter('TV')">📺 TV</button>
-        <button class="pill" data-f="Radio"   onclick="setFeedFilter('Radio')">📻 Radio</button>
-        <button class="pill" data-f="Print"   onclick="setFeedFilter('Print')">🗞️ Print</button>
-        <button class="pill" data-f="Digital" onclick="setFeedFilter('Digital')">💻 Digital</button>
-        <button class="pill" data-f="Public"  onclick="setFeedFilter('Public')">📡 Public</button>
-      </div>
-      <div class="sort-wrap">
-        <span class="sort-label">Sort by</span>
-        <select id="feed-sort" class="sort-select" onchange="applyFeedSort()">
-          <option value="date">Newest First</option>
-          <option value="date-asc">Oldest First</option>
-          <option value="source">Source A–Z</option>
-          <option value="source-desc">Source Z–A</option>
-          <option value="type">Category</option>
-        </select>
-      </div>
-    </div>
-
-    <div id="feed-stats" class="feed-stats" style="display:none">
-      <span class="stat-live"><span class="stat-num" id="stat-live">0</span> live headlines</span>
-      <span><span class="stat-num" id="stat-sources">0</span> sources responding</span>
-      <span class="stat-fail"><span class="stat-num" id="stat-failed">0</span> unavailable</span>
-      <span style="margin-left:auto;font-size:.72rem;color:var(--text-muted)" id="stat-time"></span>
-    </div>
-
-    <div id="feed-banner" style="display:none"></div>
-
-    <div id="feed-grid" class="grid-3">
-      <div class="skeleton" style="height:144px"></div>
-      <div class="skeleton" style="height:144px"></div>
-      <div class="skeleton" style="height:144px"></div>
-      <div class="skeleton" style="height:144px"></div>
-      <div class="skeleton" style="height:144px"></div>
-      <div class="skeleton" style="height:144px"></div>
-    </div>
-
-    <div id="load-more-btn" style="display:none">
-      <div style="text-align:center;padding:1.5rem 0">
-        <button class="load-more-inner" onclick="loadMoreItems()">Load More Headlines</button>
-      </div>
-    </div>
-    <div id="load-spinner" style="display:none;text-align:center;padding:1.5rem;color:var(--text-muted);font-size:.875rem">Loading more…</div>
-    <div id="feed-end-msg" style="display:none;text-align:center;padding:1.5rem;color:var(--text-muted);font-size:.75rem;font-style:italic">— All available headlines loaded —</div>
-
-    <p style="text-align:center;font-size:.72rem;color:var(--text-muted);font-style:italic;margin-top:2rem;max-width:560px;margin-left:auto;margin-right:auto">
-      RSS feeds are fetched via rss2json.com (free tier). Headlines link directly to the source outlet. For 100% reliability, a paid rss2json API key or a server-side proxy is recommended.
-    </p>
-  </div>
-</div>
-
-<!-- Source status modal -->
-<div id="source-panel">
-  <div class="source-overlay" onclick="hideSourcePanel()"></div>
-  <div class="source-modal">
-    <div class="source-modal-head">
-      <h3>RSS Source Status</h3>
-      <button class="icon-btn" onclick="hideSourcePanel()" style="color:var(--text-muted)">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" d="M6 18L18 6M6 6l12 12"/></svg>
-      </button>
-    </div>
-    <div id="source-panel-body" class="source-modal-body"></div>
-  </div>
-</div>
-
-<!-- ══════════════════════════════════════════════════════
      PAGE: SUBMIT
 ══════════════════════════════════════════════════════ -->
 <div id="page-submit" class="page">
   <div class="container" style="padding-top:2.5rem;padding-bottom:2.5rem;max-width:760px">
     <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(200,134,10,.1);border:1px solid rgba(200,134,10,.3);color:var(--gold);font-size:.68rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;padding:6px 14px;border-radius:99px;margin-bottom:1.25rem">📝 Community Contributions</div>
     <h1 style="font-size:2.2rem;color:var(--navy);margin-bottom:.75rem">Submit a New Outlet</h1>
-    <p style="color:var(--text-muted);max-width:520px;line-height:1.65;margin-bottom:2rem">Know a Michigan media outlet we're missing? Submit it and we'll verify it for the next update. All submissions are manually reviewed before publishing.</p>
+    <p style="color:var(--text-muted);max-width:520px;line-height:1.65;margin-bottom:2rem">Know a Michigan media outlet we're missing? Fill out the form below and we'll verify it for the next directory update. All submissions are manually reviewed before publishing.</p>
 
-    <!-- Google Form option -->
-    <div class="form-section">
-      <div class="form-section-head" style="background:var(--navy)">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--gold)" stroke-width="2"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span style="color:#fff;font-weight:600;font-size:.875rem">Option A — Google Form (recommended)</span>
-      </div>
-      <div style="padding:1.5rem">
-        <p style="color:var(--text-muted);font-size:.875rem;margin-bottom:1rem">Easiest way to submit — data goes directly to a Google Sheet for review.</p>
-        <!-- Replace the URL below with your actual Google Form link -->
-        <a href="https://forms.gle/REPLACE_WITH_YOUR_GOOGLE_FORM_ID" target="_blank" rel="noopener noreferrer"
-          style="display:inline-flex;align-items:center;gap:8px;padding:11px 22px;background:var(--gold);color:#fff;border-radius:12px;font-size:.875rem;font-weight:600;text-decoration:none;transition:background .2s"
-          onmouseover="this.style.background='var(--gold-lt)'" onmouseout="this.style.background='var(--gold)'">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          Open Google Form
-        </a>
-        <p style="font-size:.72rem;color:var(--text-muted);margin-top:.75rem">Opens in a new tab. Reviewed within 5–7 business days.</p>
-      </div>
-    </div>
-
-    <!-- Built-in form -->
+    <!-- Submission form -->
     <div class="form-section">
       <div class="form-section-head" style="background:#475569">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span style="color:#fff;font-weight:600;font-size:.875rem">Option B — Email Submission</span>
+        <span style="color:#fff;font-weight:600;font-size:.875rem">Email Submission Form</span>
       </div>
       <form id="submit-form" onsubmit="handleSubmitForm(event)" class="form-body">
         <div class="form-full">
@@ -1110,7 +970,7 @@ body.dark mark{background:#78350f;color:#fde68a}
 <div id="page-about" class="page">
   <div class="container" style="padding-top:2.5rem;padding-bottom:2.5rem;max-width:900px">
     <h1 style="font-size:2.4rem;color:var(--navy);margin-bottom:.5rem">About Michigan Media Hub</h1>
-    <p style="color:var(--text-muted);margin-bottom:2.5rem">Non-commercial reference directory and live news aggregator</p>
+    <p style="color:var(--text-muted);margin-bottom:2.5rem">Non-commercial reference directory for Michigan media</p>
     <div class="grid-2" style="margin-bottom:1.5rem">
       <div class="about-card">
         <h3>What This Is</h3>
@@ -1152,7 +1012,6 @@ body.dark mark{background:#78350f;color:#fde68a}
     <div class="footer-links">
       <button onclick="showPage('home')">Home</button>
       <button onclick="showPage('directory')">Directory</button>
-      <button onclick="showPage('aggregator')">Feed</button>
       <button onclick="showPage('submit')">Submit</button>
       <button onclick="showPage('about')">About</button>
     </div>
@@ -1314,52 +1173,10 @@ university:[
 ],
 };
 
-// RSS sources
-const RSS_SOURCES=[
-  {id:"wdiv",   name:"WDIV Local 4",            type:"TV",    url:"https://www.clickondetroit.com/rss/",        priority:1},
-  {id:"wxyz",   name:"WXYZ Channel 7",           type:"TV",    url:"https://www.wxyz.com/news/rss",             priority:1},
-  {id:"wood",   name:"WOOD-TV NBC 8",            type:"TV",    url:"https://www.woodtv.com/feed/",              priority:1},
-  {id:"wlns",   name:"WLNS 6 News",              type:"TV",    url:"https://www.wlns.com/feed/",                priority:2},
-  {id:"wnem",   name:"WNEM TV5",                 type:"TV",    url:"https://www.wnem.com/rss/",                 priority:2},
-  {id:"fox2",   name:"FOX 2 Detroit",            type:"TV",    url:"https://www.fox2detroit.com/rss/",          priority:2},
-  {id:"freep",  name:"Detroit Free Press",       type:"Print", url:"https://rss.freep.com/freep/rss/index.xml",priority:1},
-  {id:"detnews",name:"Detroit News",             type:"Print", url:"https://rss.detroitnews.com/news/local",   priority:1},
-  {id:"mlive",  name:"MLive Michigan",           type:"Print", url:"https://www.mlive.com/news/rss.xml",       priority:1},
-  {id:"lsj",    name:"Lansing State Journal",    type:"Print", url:"https://rss.lansingstatejournal.com/lansingstatejournal/rss/index.xml",priority:2},
-  {id:"bridge", name:"Bridge Michigan",          type:"Digital",url:"https://www.bridgemi.com/rss.xml",        priority:1},
-  {id:"miadv",  name:"Michigan Advance",         type:"Digital",url:"https://michiganadvance.com/feed/",       priority:2},
-  {id:"miradio",name:"Michigan Public",          type:"Public",url:"https://www.michiganpublic.org/rss.xml",   priority:1},
-  {id:"wkar",   name:"WKAR Public Media",        type:"Public",url:"https://www.wkar.org/rss.xml",             priority:2},
-  {id:"910",    name:"9&10 News",                type:"TV",    url:"https://www.9and10news.com/feed/",          priority:2},
-  {id:"record", name:"Traverse Record-Eagle",    type:"Print", url:"https://www.record-eagle.com/search/?f=rss",priority:3},
-];
-
-// Static fallback
-const FALLBACK=[
-  {title:"Gov. Whitmer Declares Emergency After Historic Northern Michigan Blizzard",source:"Bridge Michigan",type:"Digital",url:"https://bridgemi.com",pubDate:new Date(Date.now()-7200000)},
-  {title:"Detroit Lions Cap Breakout Season; Ford Field Atmosphere Best in Decades",source:"Detroit Free Press",type:"Print",url:"https://www.freep.com",pubDate:new Date(Date.now()-10800000)},
-  {title:"Flint Water Settlement Payments Begin Rolling Out to Thousands of Residents",source:"MLive",type:"Print",url:"https://www.mlive.com",pubDate:new Date(Date.now()-14400000)},
-  {title:"WDIV Investigation: Metro Detroit Potholes Cost Drivers Average $1,200/Year",source:"WDIV Local 4",type:"TV",url:"https://www.clickondetroit.com",pubDate:new Date(Date.now()-18000000)},
-  {title:"MSU Research Lab Achieves Breakthrough in Solid-State Battery Technology",source:"Lansing State Journal",type:"Print",url:"https://www.lansingstatejournal.com",pubDate:new Date(Date.now()-21600000)},
-  {title:"Grand Rapids Named Top-10 Small Business City for Third Consecutive Year",source:"Crain's Detroit Business",type:"Digital",url:"https://www.crainsdetroit.com",pubDate:new Date(Date.now()-25200000)},
-  {title:"Ann Arbor Council Approves Housing Density Plan Along Transit Corridors",source:"Michigan Public",type:"Public",url:"https://www.michiganpublic.org",pubDate:new Date(Date.now()-28800000)},
-  {title:"Upper Peninsula Blizzard Leaves 100,000 Without Power; Crews Racing",source:"9&10 News",type:"TV",url:"https://www.9and10news.com",pubDate:new Date(Date.now()-32400000)},
-  {title:"Detroit Auto Show Returns to Record Crowds; EV Models Dominate Floor",source:"Automotive News",type:"Digital",url:"https://www.autonews.com",pubDate:new Date(Date.now()-36000000)},
-  {title:"Traverse City Cherry Industry Grapples With Climate Change Impacts",source:"Record-Eagle",type:"Print",url:"https://www.record-eagle.com",pubDate:new Date(Date.now()-39600000)},
-  {title:"WKAR Wins National Edward R. Murrow Award for Statehouse Investigation",source:"WKAR Public Media",type:"Public",url:"https://www.wkar.org",pubDate:new Date(Date.now()-43200000)},
-  {title:"Michigan Bridge Repair Backlog Exceeds $3 Billion, Infrastructure Report Warns",source:"Bridge Michigan",type:"Digital",url:"https://bridgemi.com",pubDate:new Date(Date.now()-46800000)},
-  {title:"FOX 2 Detroit Charity Drive Raises $2M for Metro Detroit Food Banks",source:"FOX 2 Detroit",type:"TV",url:"https://www.fox2detroit.com",pubDate:new Date(Date.now()-50400000)},
-  {title:"Michigan Unemployment Falls to 4.1%, Lowest Rate in 25 Years",source:"WOOD-TV NBC 8",type:"TV",url:"https://www.woodtv.com",pubDate:new Date(Date.now()-54000000)},
-  {title:"Petoskey News-Review Celebrates 150 Years of Independent Michigan Journalism",source:"Petoskey News-Review",type:"Print",url:"https://www.petoskeynews.com",pubDate:new Date(Date.now()-57600000)},
-  {title:"Interlochen Public Radio Expands to New Transmitter; Reaches Three More Counties",source:"Interlochen Public Radio",type:"Public",url:"https://www.interlochenpublicradio.org",pubDate:new Date(Date.now()-61200000)},
-  {title:"Detroit Lions Sign Key Free Agent Ahead of NFL Draft; Fan Reaction Positive",source:"Detroit Free Press",type:"Print",url:"https://www.freep.com",pubDate:new Date(Date.now()-64800000)},
-  {title:"Dearborn Arab-American Community Advocates Push for Census Category Reform",source:"Arab American News",type:"Print",url:"https://arabamericannews.com",pubDate:new Date(Date.now()-68400000)},
-];
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
-let currentPage='home', currentTab='tv', feedFilter='all', feedSort='date';
-let allItems=[], sourceStatus={}, visibleCount=12, rssReady=false;
-const BATCH=9;
+let currentPage = 'home';
+let currentTab  = 'tv';
 
 // ── DARK MODE ─────────────────────────────────────────────────────────────────
 function toggleDark(){
@@ -1370,7 +1187,7 @@ function toggleDark(){
   document.getElementById('icon-moon').style.display=on?'none':'block';
 }
 (function(){
-  const p=localStorage.getItem('mmh-dark'), s=window.matchMedia('(prefers-color-scheme:dark)').matches;
+  const p=localStorage.getItem('mmh-dark'),s=window.matchMedia('(prefers-color-scheme:dark)').matches;
   if(p==='1'||(p===null&&s)){
     document.body.classList.add('dark');
     document.getElementById('icon-sun').style.display='block';
@@ -1380,16 +1197,13 @@ function toggleDark(){
 
 // ── NAVIGATION ────────────────────────────────────────────────────────────────
 function showPage(id){
-  document.querySelectorAll('.page').forEach(p=>p.style.display='none');
-  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.page').forEach(p=>{p.style.display='none';p.classList.remove('active');});
   const pg=document.getElementById('page-'+id);
-  pg.style.display='block';
-  pg.classList.add('active');
+  pg.style.display='block';pg.classList.add('active');
   currentPage=id;
   window.scrollTo({top:0,behavior:'smooth'});
-  if(id==='home'&&!document.getElementById('featured-grid').innerHTML.trim()){renderFeatured();renderHomePreview();}
+  if(id==='home'&&!document.getElementById('featured-grid').innerHTML.trim()) renderFeatured();
   if(id==='directory') renderDir();
-  if(id==='aggregator'&&!rssReady){rssReady=true;loadAllFeeds(false);}
   try{if(typeof gtag==='function') gtag('event','page_view',{page_title:id});}catch(e){}
 }
 function goDir(tab){showPage('directory');switchTab(tab);}
@@ -1423,9 +1237,9 @@ function toggleSearch(){
 function onGlobalSearch(val){
   document.getElementById('dir-filter').value=val;
   const n=Object.values(OUTLETS).flat().filter(o=>matchOut(o,val)).length;
-  const c=document.getElementById('gsearch-count');
-  c.style.display=val?'inline':'none';
-  c.textContent=n+' results';
+  const cnt=document.getElementById('gsearch-count');
+  cnt.style.display=val?'inline':'none';
+  cnt.textContent=n+' results';
   if(currentPage==='directory') filterDir(val);
 }
 function clearGSearch(){
@@ -1437,9 +1251,7 @@ function clearGSearch(){
 // ── DIRECTORY ─────────────────────────────────────────────────────────────────
 function switchTab(tab){
   currentTab=tab;
-  document.querySelectorAll('.tab-btn').forEach(b=>{
-    b.classList.toggle('active',b.dataset.tab===tab);
-  });
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.toggle('active',b.dataset.tab===tab));
   filterDir(document.getElementById('dir-filter').value);
 }
 function matchOut(o,term){
@@ -1496,7 +1308,7 @@ function outletCard(o,term=''){
 </div>`;
 }
 
-// ── FEATURED ──────────────────────────────────────────────────────────────────
+// ── FEATURED OUTLETS (HOME PAGE) ──────────────────────────────────────────────
 function renderFeatured(){
   const picks=[
     OUTLETS.tv.find(o=>o.name.includes('WDIV')),
@@ -1511,227 +1323,7 @@ function renderFeatured(){
   document.getElementById('featured-grid').innerHTML=picks.map(o=>outletCard(o,'')).join('');
 }
 
-// ── RSS AGGREGATOR ────────────────────────────────────────────────────────────
-// Uses rss2json.com free API — works from GitHub Pages, no CORS issues
-async function fetchViaRss2Json(rssUrl){
-  const api=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=8&order_by=pubDate&order_dir=desc`;
-  const ctrl=new AbortController();
-  const t=setTimeout(()=>ctrl.abort(),12000);
-  const res=await fetch(api,{signal:ctrl.signal});
-  clearTimeout(t);
-  if(!res.ok) throw new Error('HTTP '+res.status);
-  const d=await res.json();
-  if(d.status!=='ok') throw new Error('rss2json: '+d.message);
-  return (d.items||[]).filter(i=>i.title&&i.title.length>8);
-}
-
-async function fetchSource(src){
-  sourceStatus[src.id]='pending';
-  try{
-    const raw=await fetchViaRss2Json(src.url);
-    const items=raw.map(i=>{
-      let link=(i.link||i.guid||src.url).trim();
-      if(link.startsWith('//')) link='https:'+link;
-      const pd=i.pubDate?new Date(i.pubDate):new Date();
-      const desc=((i.description||i.content||'')).replace(/<[^>]*>/g,'').slice(0,180).trim();
-      return{title:(i.title||'').replace(/\s+/g,' ').trim(),link,pubDate:isNaN(pd)?new Date():pd,
-        desc,source:src.name,type:src.type,isLive:true};
-    }).filter(i=>i.title.length>8&&i.link.startsWith('http'));
-    if(!items.length) throw new Error('No items');
-    sourceStatus[src.id]={status:'ok',count:items.length,name:src.name};
-    return items;
-  }catch(e){
-    sourceStatus[src.id]={status:'fail',error:e.message,name:src.name};
-    return[];
-  }
-}
-
-async function loadAllFeeds(isRefresh=false){
-  const grid=document.getElementById('feed-grid');
-  const rbtn=document.getElementById('refresh-btn');
-  const rico=document.getElementById('refresh-icon');
-  allItems=[];visibleCount=12;sourceStatus={};
-  rbtn.disabled=true;rico.classList.add('spin');
-  setBanner('info','⏳ Fetching from '+RSS_SOURCES.length+' RSS sources via rss2json…');
-  document.getElementById('feed-stats').style.display='none';
-  document.getElementById('feed-end-msg').style.display='none';
-  document.getElementById('load-more-btn').style.display='none';
-  grid.innerHTML=Array(6).fill('<div class="skeleton" style="height:144px"></div>').join('');
-
-  const sorted=[...RSS_SOURCES].sort((a,b)=>a.priority-b.priority);
-  await Promise.allSettled(sorted.map(s=>fetchSource(s).then(r=>allItems.push(...r))));
-
-  const liveCount=allItems.length;
-  const okSrc=Object.values(sourceStatus).filter(s=>s&&s.status==='ok').length;
-  const failSrc=Object.values(sourceStatus).filter(s=>s&&s.status==='fail').length;
-
-  if(liveCount<6){
-    FALLBACK.forEach(h=>allItems.push({...h,isLive:false}));
-  }
-
-  // Update stats
-  document.getElementById('stat-live').textContent=liveCount;
-  document.getElementById('stat-sources').textContent=okSrc;
-  document.getElementById('stat-failed').textContent=failSrc;
-  document.getElementById('stat-time').textContent=new Date().toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
-  document.getElementById('feed-stats').style.display='flex';
-
-  if(liveCount>0){
-    setBanner('ok',`✅ ${liveCount} live headlines from ${okSrc} source${okSrc!==1?'s':''}${failSrc?' · '+failSrc+' unavailable':''}`);
-    setTimeout(clearBanner,6000);
-  } else {
-    setBanner('warn','⚠️ Live RSS unavailable — showing curated static headlines. rss2json.com free tier may be rate-limited; try again in a moment.');
-  }
-
-  document.getElementById('last-updated-label').textContent='Updated '+new Date().toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
-  document.getElementById('src-count-label').textContent=RSS_SOURCES.length;
-  rbtn.disabled=false;rico.classList.remove('spin');
-  applyFeedSort();
-  if(isRefresh) showToast('✅','Feed refreshed — '+liveCount+' live headlines');
-
-  // Update home preview if on home page
-  if(currentPage==='home') renderHomePreview();
-}
-
-function applyFeedSort(){
-  const s=document.getElementById('feed-sort').value;
-  if(s==='date')       allItems.sort((a,b)=>b.pubDate-a.pubDate);
-  else if(s==='date-asc') allItems.sort((a,b)=>a.pubDate-b.pubDate);
-  else if(s==='source')allItems.sort((a,b)=>a.source.localeCompare(b.source));
-  else if(s==='source-desc') allItems.sort((a,b)=>b.source.localeCompare(a.source));
-  else if(s==='type')  allItems.sort((a,b)=>a.type.localeCompare(b.type));
-  visibleCount=12;
-  renderFeedPage();
-}
-
-function setFeedFilter(f){
-  feedFilter=f;
-  document.querySelectorAll('.pill').forEach(p=>{p.classList.toggle('active',p.dataset.f===f);});
-  visibleCount=12;renderFeedPage();
-}
-
-function getFiltered(){return feedFilter==='all'?allItems:allItems.filter(i=>i.type===feedFilter);}
-
-function renderFeedPage(){
-  const items=getFiltered();
-  const grid=document.getElementById('feed-grid');
-  if(!items.length){
-    grid.innerHTML='<div style="grid-column:1/-1;text-align:center;padding:4rem 0;color:var(--text-muted)"><div style="font-size:2.5rem;margin-bottom:1rem">📭</div><div style="font-weight:600">No headlines for this filter</div></div>';
-    document.getElementById('load-more-btn').style.display='none';
-    document.getElementById('feed-end-msg').style.display='none';
-    return;
-  }
-  const vis=items.slice(0,visibleCount);
-  grid.className='grid-3 stagger';
-  grid.innerHTML=vis.map(i=>feedCard(i)).join('');
-  // Sentinel
-  if(visibleCount>=items.length){
-    document.getElementById('load-more-btn').style.display='none';
-    document.getElementById('feed-end-msg').style.display='block';
-  } else {
-    document.getElementById('load-more-btn').style.display='block';
-    document.getElementById('feed-end-msg').style.display='none';
-  }
-  setupSentinel();
-}
-
-function loadMoreItems(){
-  const items=getFiltered();
-  if(visibleCount>=items.length) return;
-  document.getElementById('load-more-btn').style.display='none';
-  document.getElementById('load-spinner').style.display='block';
-  setTimeout(()=>{
-    visibleCount+=BATCH;
-    document.getElementById('load-spinner').style.display='none';
-    renderFeedPage();
-  },500);
-}
-
-let sentinelObs=null;
-function setupSentinel(){
-  if(sentinelObs) sentinelObs.disconnect();
-  const el=document.getElementById('load-more-btn');
-  sentinelObs=new IntersectionObserver(ents=>{
-    if(ents[0].isIntersecting&&el.style.display!=='none') loadMoreItems();
-  },{rootMargin:'300px'});
-  sentinelObs.observe(el);
-}
-
-function timeAgo(d){
-  if(!(d instanceof Date)||isNaN(d)) return 'Recently';
-  const s=(Date.now()-d)/1000;
-  if(s<60) return 'Just now';
-  if(s<3600) return Math.floor(s/60)+'m ago';
-  if(s<86400) return Math.floor(s/3600)+'h ago';
-  return Math.floor(s/86400)+'d ago';
-}
-const TYPE_COLOR={TV:'b-blue',Radio:'b-green',Print:'b-amber',Digital:'b-teal',Public:'b-purple'};
-
-function feedCard(item){
-  // Safe-encode the URL for use in the href attribute
-  const href=(item.link||'').replace(/"/g,'%22').replace(/'/g,'%27');
-  const title=(item.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  const desc=(item.desc||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  const bc=TYPE_COLOR[item.type]||'b-slate';
-  return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="feed-card type-${item.type}">
-  <div class="feed-card-top">
-    <span class="badge ${bc}">${item.type}</span>
-    <span class="feed-card-time">
-      ${item.isLive?'<span class="live-dot" style="width:6px;height:6px"></span>':''}
-      ${timeAgo(item.pubDate)}
-    </span>
-  </div>
-  <div class="feed-card-title">${title}</div>
-  ${desc?`<div class="feed-card-desc">${desc}</div>`:''}
-  <div class="feed-card-bottom">
-    <span class="feed-card-source">${item.source||''}</span>
-    <svg class="feed-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 5l7 7m0 0l-7 7m7-7H3" stroke-linecap="round" stroke-linejoin="round"/></svg>
-  </div>
-</a>`;
-}
-
-// Home feed preview
-function renderHomePreview(){
-  const grid=document.getElementById('home-feed-preview');
-  const show=allItems.length?allItems.slice(0,6):FALLBACK.slice(0,6).map(h=>({...h,isLive:false}));
-  grid.className='grid-3 stagger';
-  grid.innerHTML=show.map(i=>feedCard(i)).join('');
-}
-
-// Source panel
-function showSourcePanel(){
-  const body=document.getElementById('source-panel-body');
-  const panel=document.getElementById('source-panel');
-  panel.classList.add('open');
-  if(!Object.keys(sourceStatus).length){
-    body.innerHTML='<p style="color:var(--text-muted);font-size:.875rem">No feed data yet. Refresh the feed first.</p>';return;
-  }
-  body.innerHTML=RSS_SOURCES.map(src=>{
-    const s=sourceStatus[src.id];
-    let icon='⏳',detail='',cls='src-pend';
-    if(s&&s.status==='ok'){icon='✅';cls='src-ok';detail=s.count+' items';}
-    else if(s&&s.status==='fail'){icon='❌';cls='src-fail';detail=s.error||'Failed';}
-    return `<div class="src-row">
-  <div class="src-info">
-    <div class="src-name">${icon} ${src.name}</div>
-    <div class="src-meta">${src.type} · priority ${src.priority}</div>
-  </div>
-  <div class="${cls}">${detail}</div>
-</div>`;
-  }).join('');
-}
-function hideSourcePanel(){document.getElementById('source-panel').classList.remove('open');}
-
-// Banner
-function setBanner(type,msg){
-  const el=document.getElementById('feed-banner');
-  const cls={info:'banner-info',ok:'banner-ok',warn:'banner-warn',err:'banner-err'};
-  el.className='feed-banner '+(cls[type]||'banner-info');
-  el.textContent=msg;el.style.display='block';
-}
-function clearBanner(){document.getElementById('feed-banner').style.display='none';}
-
-// Toast
+// ── TOAST ─────────────────────────────────────────────────────────────────────
 function showToast(icon,msg){
   const t=document.getElementById('toast');
   document.getElementById('toast-icon').textContent=icon;
@@ -1759,10 +1351,7 @@ function handleSubmitForm(e){
 // Init
 document.addEventListener('DOMContentLoaded',()=>{
   renderFeatured();
-  renderHomePreview();
   renderDir();
-  // Start RSS load in background so home preview is live when user arrives
-  if(!rssReady){rssReady=true;loadAllFeeds(false);}
 });
 </script>
 </body>
