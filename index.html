@@ -790,11 +790,11 @@ body.dark mark{background:#78350f;color:#fde68a}
       </div>
 
       <div class="hero-stats">
-        <div><div class="hero-stat-num">44+</div><div class="hero-stat-label">TV Stations</div></div>
-        <div><div class="hero-stat-num">300+</div><div class="hero-stat-label">Radio Stations</div></div>
+        <div><div class="hero-stat-num">32</div><div class="hero-stat-label">TV Stations</div></div>
+        <div><div class="hero-stat-num">42</div><div class="hero-stat-label">Radio Stations</div></div>
         <div><div class="hero-stat-num">28</div><div class="hero-stat-label">Daily Papers</div></div>
         <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
-        <div><div class="hero-stat-num">14+</div><div class="hero-stat-label">Digital Outlets</div></div>
+        <div><div class="hero-stat-num">195</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
     </div>
   </div>
@@ -808,10 +808,10 @@ body.dark mark{background:#78350f;color:#fde68a}
       </div>
       <div class="grid-6">
         <button class="cat-tile" style="background:var(--navy)" onclick="goDir('tv')">
-          <span class="tile-emoji">📺</span><div class="tile-label">TV Stations</div><div class="tile-sub">44+ outlets</div>
+          <span class="tile-emoji">📺</span><div class="tile-label">TV Stations</div><div class="tile-sub">32 outlets</div>
         </button>
         <button class="cat-tile" style="background:var(--forest)" onclick="goDir('radio')">
-          <span class="tile-emoji">📻</span><div class="tile-label">Radio</div><div class="tile-sub">300+ stations</div>
+          <span class="tile-emoji">📻</span><div class="tile-label">Radio</div><div class="tile-sub">42 stations</div>
         </button>
         <button class="cat-tile" style="background:var(--gold)" onclick="goDir('daily')">
           <span class="tile-emoji">🗞️</span><div class="tile-label">Daily Papers</div><div class="tile-sub">28 dailies</div>
@@ -874,7 +874,8 @@ body.dark mark{background:#78350f;color:#fde68a}
     <!-- Tab bar — sticky below navbar -->
     <div class="tab-bar">
       <div class="tab-bar-inner">
-        <button class="tab-btn active" data-tab="tv"         onclick="switchTab('tv')">📺 TV</button>
+        <button class="tab-btn active" data-tab="all"        onclick="switchTab('all')">🗂️ All</button>
+        <button class="tab-btn" data-tab="tv"         onclick="switchTab('tv')">📺 TV</button>
         <button class="tab-btn" data-tab="radio"      onclick="switchTab('radio')">📻 Radio</button>
         <button class="tab-btn" data-tab="daily"      onclick="switchTab('daily')">🗞️ Daily</button>
         <button class="tab-btn" data-tab="weekly"     onclick="switchTab('weekly')">📄 Weekly</button>
@@ -1161,22 +1162,36 @@ ethnic:[
   {name:"New Michigan Media",city:"Detroit",market:"Statewide",url:"https://newmichiganmedia.com",badge:"Coalition",type:"Community",desc:"Coalition of ethnic/minority media outlets across Michigan.",bc:"b-green"},
 ],
 university:[
-  {name:"The Michigan Daily",city:"Ann Arbor",market:"Ann Arbor",url:"https://www.michigandaily.com",badge:"U of M",type:"Student",desc:"Independent student daily; est. 1890. One of nation's oldest college papers.",bc:"b-blue"},
-  {name:"State News",city:"East Lansing",market:"Lansing",url:"https://www.statenews.com",badge:"MSU",type:"Student",desc:"Independent student daily at Michigan State University.",bc:"b-green"},
-  {name:"CM Life",city:"Mount Pleasant",market:"Flint",url:"https://www.cm-life.com",badge:"CMU",type:"Student",desc:"Central Michigan University student newspaper.",bc:"b-red"},
-  {name:"Grand Valley Lanthorn",city:"Allendale",market:"Grand Rapids",url:"https://www.lanthorn.com",badge:"GVSU",type:"Student",desc:"Grand Valley State University student newspaper.",bc:"b-blue"},
-  {name:"Western Herald",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.westernherald.com",badge:"WMU",type:"Student",desc:"Western Michigan University student newspaper.",bc:"b-orange"},
-  {name:"Eastern Echo",city:"Ypsilanti",market:"Ann Arbor",url:"https://www.easternecho.com",badge:"EMU",type:"Student",desc:"Eastern Michigan University student newspaper.",bc:"b-green"},
-  {name:"North Wind",city:"Marquette",market:"Marquette",url:"https://www.thenorthwindonline.com",badge:"NMU",type:"Student",desc:"Northern Michigan University student newspaper.",bc:"b-slate"},
-  {name:"Ferris Torch",city:"Big Rapids",market:"Grand Rapids",url:"https://www.ferristorch.com",badge:"Ferris",type:"Student",desc:"Ferris State University student newspaper.",bc:"b-amber"},
-  {name:"Oakland Post",city:"Rochester",market:"Detroit",url:"https://www.oaklandpostonline.com",badge:"OU",type:"Student",desc:"Oakland University student newspaper.",bc:"b-amber"},
+  {name:"The Michigan Daily",city:"Ann Arbor",market:"University of Michigan",url:"https://www.michigandaily.com",badge:"Student",type:"Student",desc:"Est. 1890; one of the nation's oldest and most respected college newspapers.",bc:"b-blue"},
+  {name:"State News",city:"East Lansing",market:"Michigan State University",url:"https://www.statenews.com",badge:"Student",type:"Student",desc:"Independent student daily at Michigan State University.",bc:"b-blue"},
+  {name:"CM Life",city:"Mount Pleasant",market:"Central Michigan University",url:"https://www.cm-life.com",badge:"Student",type:"Student",desc:"Central Michigan University student newspaper.",bc:"b-blue"},
+  {name:"Grand Valley Lanthorn",city:"Allendale",market:"Grand Valley State University",url:"https://www.lanthorn.com",badge:"Student",type:"Student",desc:"Grand Valley State University student newspaper.",bc:"b-blue"},
+  {name:"Western Herald",city:"Kalamazoo",market:"Western Michigan University",url:"https://www.westernherald.com",badge:"Student",type:"Student",desc:"Western Michigan University student newspaper.",bc:"b-blue"},
+  {name:"Eastern Echo",city:"Ypsilanti",market:"Eastern Michigan University",url:"https://www.easternecho.com",badge:"Student",type:"Student",desc:"Eastern Michigan University student newspaper.",bc:"b-blue"},
+  {name:"North Wind",city:"Marquette",market:"Northern Michigan University",url:"https://www.thenorthwindonline.com",badge:"Student",type:"Student",desc:"Northern Michigan University student newspaper.",bc:"b-blue"},
+  {name:"Ferris Torch",city:"Big Rapids",market:"Ferris State University",url:"https://www.ferristorch.com",badge:"Student",type:"Student",desc:"Ferris State University student newspaper.",bc:"b-blue"},
+  {name:"Oakland Post",city:"Rochester",market:"Oakland University",url:"https://www.oaklandpostonline.com",badge:"Student",type:"Student",desc:"Oakland University student newspaper.",bc:"b-blue"},
+  {name:"The Spectator",city:"Houghton",market:"Michigan Tech",url:"https://www.mtu.edu/spectator",badge:"Student",type:"Student",desc:"Michigan Technological University student newspaper.",bc:"b-blue"},
+  {name:"Delta Collegiate",city:"University Center",market:"Delta College",url:"https://deltacollegiate.org/",badge:"Student",type:"Student",desc:"Delta College student newspaper.",bc:"b-blue"},
+  {name:"GRCC Collegiate",city:"Grand Rapids",market:"Grand Rapids Community College",url:"https://thecollegiatelive.com/",badge:"Student",type:"Student",desc:"Grand Rapids Community College student newspaper.",bc:"b-blue"},
+  {name:"Mirror News",city:"Dearborn",market:"Henry Ford College",url:"https://mirrornews.hfcc.edu/",badge:"Student",type:"Student",desc:"Henry Ford College student newspaper.",bc:"b-blue"},
+  {name:"The Collegian",city:"Hillsdale",market:"Hillsdale College",url:"https://hillsdalecollegian.com/",badge:"Student",type:"Student",desc:"Hillsdale College student newspaper.",bc:"b-blue"},
+  {name:"The Lode",city:"Houghton",market:"Michigan Tech",url:"https://mtulode.com/",badge:"Student",type:"Student",desc:"Michigan Technological University student newspaper.",bc:"b-blue"},
+  {name:"The Lookout",city:"Lansing",market:"Lansing Community College",url:"https://lookout.lcc.edu/",badge:"Student",type:"Student",desc:"Lansing Community College student newspaper.",bc:"b-blue"},
+  {name:"The Agora",city:"Monroe",market:"Monroe County Community College",url:"https://mcccagora.com/",badge:"Student",type:"Student",desc:"Monroe County Community College student newspaper.",bc:"b-blue"},
+  {name:"The Echo",city:"Olivet",market:"University of Olivet",url:"https://www.ocecho.com/",badge:"Student",type:"Student",desc:"University of Olivet student newspaper.",bc:"b-blue"},
+  {name:"The Valley Vanguard",city:"University Center",market:"Saginaw Valley State University",url:"https://thevalleyvanguard.com/",badge:"Student",type:"Student",desc:"Saginaw Valley State University student newspaper.",bc:"b-blue"},
+  {name:"The Connection",city:"Livonia",market:"Schoolcraft College",url:"https://schoolcraftconnection.com/",badge:"Student",type:"Student",desc:"Schoolcraft College student newspaper.",bc:"b-blue"},
+  {name:"The Varsity News",city:"Detroit",market:"University of Detroit Mercy",url:"https://www.thevarsitynews.net/",badge:"Student",type:"Student",desc:"University of Detroit Mercy student newspaper.",bc:"b-blue"},
+  {name:"The Washtenaw Voice",city:"Ann Arbor",market:"Washtenaw Community College",url:"https://www.washtenawvoice.com/",badge:"Student",type:"Student",desc:"Washtenaw Community College student newspaper.",bc:"b-blue"},
+  {name:"The South End",city:"Detroit",market:"Wayne State University",url:"https://www.thesouthend.wayne.edu/",badge:"Student",type:"Student",desc:"Wayne State University student newspaper.",bc:"b-blue"},
 ],
 };
 
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
 let currentPage = 'home';
-let currentTab  = 'tv';
+let currentTab  = 'all';
 
 // ── DARK MODE ─────────────────────────────────────────────────────────────────
 function toggleDark(){
@@ -1260,7 +1275,11 @@ function matchOut(o,term){
 }
 function filterDir(term=''){
   const mkt=document.getElementById('market-filter').value;
-  const items=(OUTLETS[currentTab]||[]).filter(o=>{
+  // 'all' tab: combine every category, preserving the category key on each outlet
+  const pool = currentTab==='all'
+    ? Object.entries(OUTLETS).flatMap(([key,arr])=>arr.map(o=>({...o,_cat:key})))
+    : (OUTLETS[currentTab]||[]).map(o=>({...o,_cat:currentTab}));
+  const items=pool.filter(o=>{
     const ms=matchOut(o,term);
     const mm=!mkt||o.market.toLowerCase().includes(mkt.toLowerCase())||o.city.toLowerCase().includes(mkt.toLowerCase());
     return ms&&mm;
@@ -1272,7 +1291,7 @@ function filterDir(term=''){
   if(!items.length){grid.innerHTML='';empty.style.display='block';return;}
   empty.style.display='none';
   grid.className='dir-grid grid-4 stagger';
-  grid.innerHTML=items.map(o=>outletCard(o,term)).join('');
+  grid.innerHTML=items.map(o=>outletCard(o,term,currentTab==='all')).join('');
 }
 function renderDir(){filterDir(document.getElementById('dir-filter').value);}
 
@@ -1280,14 +1299,28 @@ function hl(t,q){
   if(!q||!t) return t||'';
   return t.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),'<mark>$1</mark>');
 }
-function outletCard(o,term=''){
+// Human-readable category labels for the All view
+const CAT_LABELS={tv:'📺 TV',radio:'📻 Radio',daily:'🗞️ Daily Paper',weekly:'📄 Weekly Paper',
+  magazines:'📖 Magazine',digital:'💻 Digital',public:'📡 Public Media',
+  ethnic:'🌐 Community',university:'🎓 University'};
+
+function outletCard(o,term='',showCat=false){
   const init=o.name.replace(/[^A-Za-z0-9]/g,'').slice(0,3).toUpperCase();
   const isAV=(o.type==='TV'||o.type==='Radio');
+  const catLabel=showCat&&o._cat?`<span class="badge b-slate" style="font-size:.58rem;margin-left:4px">${CAT_LABELS[o._cat]||o._cat}</span>`:'';
+  // Hide Visit Site button if no URL
+  const visitBtn=o.url
+    ?`<a href="${o.url}" target="_blank" rel="noopener noreferrer" class="btn-visit">
+      Visit Site
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>`
+    :`<span class="btn-visit" style="opacity:.4;cursor:default">No website listed</span>`;
+  const watchBtn=isAV&&o.url?`<a href="${o.url}" target="_blank" rel="noopener noreferrer" class="btn-watch">${o.type==='TV'?'📺 Watch':'🎧 Listen'}</a>`:'';
   return `<div class="card outlet-card">
   <div class="outlet-body">
     <div class="outlet-top">
       <div class="outlet-initials">${init}</div>
-      <span class="badge ${o.bc||'b-slate'}">${o.badge}</span>
+      <div style="display:flex;flex-wrap:wrap;gap:3px;justify-content:flex-end">${catLabel}<span class="badge ${o.bc||'b-slate'}">${o.badge}</span></div>
     </div>
     <div>
       <div class="outlet-name">${hl(o.name,term)}</div>
@@ -1299,11 +1332,7 @@ function outletCard(o,term=''){
     <div class="outlet-desc">${hl(o.desc,term)}</div>
   </div>
   <div class="outlet-footer">
-    <a href="${o.url}" target="_blank" rel="noopener noreferrer" class="btn-visit">
-      Visit Site
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </a>
-    ${isAV?`<a href="${o.url}" target="_blank" rel="noopener noreferrer" class="btn-watch">${o.type==='TV'?'📺 Watch':'🎧 Listen'}</a>`:''}
+    ${visitBtn}${watchBtn}
   </div>
 </div>`;
 }
