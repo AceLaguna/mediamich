@@ -792,9 +792,9 @@ body.dark mark{background:#78350f;color:#fde68a}
       <div class="hero-stats">
         <div><div class="hero-stat-num">32</div><div class="hero-stat-label">TV Stations</div></div>
         <div><div class="hero-stat-num">42</div><div class="hero-stat-label">Radio Stations</div></div>
-        <div><div class="hero-stat-num">28</div><div class="hero-stat-label">Daily Papers</div></div>
+        <div><div class="hero-stat-num">43</div><div class="hero-stat-label">Daily Papers</div></div>
         <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
-        <div><div class="hero-stat-num">195</div><div class="hero-stat-label">Total Outlets</div></div>
+        <div><div class="hero-stat-num">201</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
     </div>
   </div>
@@ -814,7 +814,7 @@ body.dark mark{background:#78350f;color:#fde68a}
           <span class="tile-emoji">📻</span><div class="tile-label">Radio</div><div class="tile-sub">42 stations</div>
         </button>
         <button class="cat-tile" style="background:var(--gold)" onclick="goDir('daily')">
-          <span class="tile-emoji">🗞️</span><div class="tile-label">Daily Papers</div><div class="tile-sub">28 dailies</div>
+          <span class="tile-emoji">🗞️</span><div class="tile-label">Daily Papers</div><div class="tile-sub">43 dailies</div>
         </button>
         <button class="cat-tile" style="background:#475569" onclick="goDir('weekly')">
           <span class="tile-emoji">📄</span><div class="tile-label">Weeklies</div><div class="tile-sub">23+ papers</div>
@@ -882,8 +882,9 @@ body.dark mark{background:#78350f;color:#fde68a}
         <button class="tab-btn" data-tab="magazines"  onclick="switchTab('magazines')">📖 Magazines</button>
         <button class="tab-btn" data-tab="digital"    onclick="switchTab('digital')">💻 Digital</button>
         <button class="tab-btn" data-tab="public"     onclick="switchTab('public')">📡 Public</button>
-        <button class="tab-btn" data-tab="ethnic"     onclick="switchTab('ethnic')">🌐 Community</button>
+        <button class="tab-btn" data-tab="ethnic"     onclick="switchTab('ethnic')">🌐 Ethnic</button>
         <button class="tab-btn" data-tab="university" onclick="switchTab('university')">🎓 University</button>
+        <button class="tab-btn" data-tab="business" onclick="switchTab('business')">💼 Business</button>
       </div>
     </div>
 
@@ -1078,47 +1079,70 @@ radio:[
   {name:"WSGW 790 AM",city:"Saginaw",market:"Flint",url:"https://www.wsgw.com",badge:"Talk",type:"Radio",desc:"News/talk; Townsquare. 'NewsRadio 790' for Saginaw valley. 🎧",bc:"b-slate"},
 ],
 daily:[
-  {name:"Detroit Free Press",city:"Detroit",market:"Detroit",url:"https://www.freep.com",badge:"Gannett",type:"Print",desc:"Michigan's largest daily; founded 1831. Pulitzer Prize-winning.",bc:"b-blue"},
-  {name:"The Detroit News",city:"Detroit",market:"Detroit",url:"https://www.detroitnews.com",badge:"Gannett",type:"Print",desc:"Conservative broadsheet; founded 1873. Strong auto/politics coverage.",bc:"b-blue"},
-  {name:"Lansing State Journal",city:"Lansing",market:"Lansing",url:"https://www.lansingstatejournal.com",badge:"Gannett",type:"Print",desc:"Capital-region daily; Gannett. Statehouse and government focus.",bc:"b-blue"},
-  {name:"Grand Rapids Press",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.mlive.com/grand-rapids",badge:"MLive",type:"Print",desc:"West Michigan daily; Advance Local/MLive. Print T/Th/Sun.",bc:"b-teal"},
-  {name:"Kalamazoo Gazette",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.mlive.com/kalamazoo",badge:"MLive",type:"Print",desc:"Southwest Michigan daily; Advance Local/MLive.",bc:"b-teal"},
-  {name:"The Ann Arbor News",city:"Ann Arbor",market:"Detroit",url:"https://www.mlive.com/ann-arbor",badge:"MLive",type:"Print",desc:"Washtenaw County; Advance Local/MLive. U of M coverage.",bc:"b-teal"},
-  {name:"The Flint Journal",city:"Flint",market:"Flint",url:"https://www.mlive.com/flint",badge:"MLive",type:"Print",desc:"Genesee County; Advance Local/MLive. Investigative local news.",bc:"b-teal"},
-  {name:"Saginaw News",city:"Saginaw",market:"Flint",url:"https://www.mlive.com/saginaw",badge:"MLive",type:"Print",desc:"Saginaw valley daily; Advance Local/MLive.",bc:"b-teal"},
-  {name:"Traverse City Record-Eagle",city:"Traverse City",market:"Traverse City",url:"https://www.record-eagle.com",badge:"Indep.",type:"Print",desc:"Northwest Michigan independent daily. Strong regional coverage.",bc:"b-green"},
-  {name:"Alpena News",city:"Alpena",market:"Alpena",url:"https://www.thealpenanews.com",badge:"Indep.",type:"Print",desc:"Northeast Michigan independent daily. Family-owned.",bc:"b-green"},
-  {name:"Oakland Press",city:"Pontiac",market:"Detroit",url:"https://www.theoaklandpress.com",badge:"DFM",type:"Print",desc:"Oakland County; Digital First Media.",bc:"b-orange"},
-  {name:"Macomb Daily",city:"Mount Clemens",market:"Detroit",url:"https://www.macombdaily.com",badge:"DFM",type:"Print",desc:"Macomb County; Digital First Media.",bc:"b-orange"},
-  {name:"Battle Creek Enquirer",city:"Battle Creek",market:"Grand Rapids",url:"https://www.battlecreekenquirer.com",badge:"Gannett",type:"Print",desc:"Calhoun County daily; Gannett/USA Today Network.",bc:"b-blue"},
-  {name:"Holland Sentinel",city:"Holland",market:"Grand Rapids",url:"https://www.hollandsentinel.com",badge:"Gannett",type:"Print",desc:"Ottawa County daily; Gannett.",bc:"b-blue"},
-  {name:"Petoskey News-Review",city:"Petoskey",market:"Traverse City",url:"https://www.petoskeynews.com",badge:"Indep.",type:"Print",desc:"Emmet/Charlevoix counties. Northern Lower Peninsula.",bc:"b-green"},
-  {name:"Midland Daily News",city:"Midland",market:"Flint",url:"https://www.ourmidland.com",badge:"Indep.",type:"Print",desc:"Midland County. Dow Chemical headquarters community paper.",bc:"b-green"},
-  {name:"Monroe Evening News",city:"Monroe",market:"Detroit",url:"https://www.monroenews.com",badge:"Indep.",type:"Print",desc:"Monroe County independent daily since 1835.",bc:"b-green"},
-  {name:"Huron Daily Tribune",city:"Bad Axe",market:"Flint",url:"https://www.michigansthumb.com",badge:"Indep.",type:"Print",desc:"'Michigan's Thumb' region daily.",bc:"b-green"},
+  {name:"Detroit Free Press",city:"Detroit",market:"Detroit",url:"https://www.freep.com",badge:"Daily",type:"Print",desc:"Michigan\'s largest daily; founded 1831. Pulitzer Prize-winning investigative journalism.",bc:"b-green"},
+  {name:"The Detroit News",city:"Detroit",market:"Detroit",url:"https://www.detroitnews.com",badge:"Daily",type:"Print",desc:"Conservative broadsheet; founded 1873. Strong automotive and politics coverage.",bc:"b-green"},
+  {name:"Lansing State Journal",city:"Lansing",market:"Lansing",url:"https://www.lansingstatejournal.com",badge:"Daily",type:"Print",desc:"Capital-region daily; statehouse and local government focus.",bc:"b-green"},
+  {name:"Grand Rapids Press",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.mlive.com/grand-rapids",badge:"Daily",type:"Print",desc:"West Michigan\'s primary daily; print T/Th/Sun, digital-first.",bc:"b-green"},
+  {name:"Kalamazoo Gazette",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.mlive.com/kalamazoo",badge:"Daily",type:"Print",desc:"Southwest Michigan daily.",bc:"b-green"},
+  {name:"The Ann Arbor News",city:"Ann Arbor",market:"Detroit",url:"https://www.mlive.com/ann-arbor",badge:"Daily",type:"Print",desc:"Washtenaw County; University of Michigan and local coverage.",bc:"b-green"},
+  {name:"The Flint Journal",city:"Flint",market:"Flint",url:"https://www.mlive.com/flint",badge:"Daily",type:"Print",desc:"Genesee County; investigative local news.",bc:"b-green"},
+  {name:"Saginaw News",city:"Saginaw",market:"Flint",url:"https://www.mlive.com/saginaw",badge:"Daily",type:"Print",desc:"Saginaw valley daily.",bc:"b-green"},
+  {name:"Bay City Times",city:"Bay City",market:"Flint",url:"https://www.mlive.com/bay-city",badge:"Daily",type:"Print",desc:"Bay County daily.",bc:"b-green"},
+  {name:"Muskegon Chronicle",city:"Muskegon",market:"Grand Rapids",url:"https://www.mlive.com/muskegon",badge:"Daily",type:"Print",desc:"Muskegon County daily.",bc:"b-green"},
+  {name:"Jackson Citizen Patriot",city:"Jackson",market:"Lansing",url:"https://www.mlive.com/jackson",badge:"Daily",type:"Print",desc:"Jackson County daily.",bc:"b-green"},
+  {name:"Battle Creek Enquirer",city:"Battle Creek",market:"Grand Rapids",url:"https://www.battlecreekenquirer.com",badge:"Daily",type:"Print",desc:"Calhoun County daily; Gannett/USA Today Network.",bc:"b-green"},
+  {name:"Holland Sentinel",city:"Holland",market:"Grand Rapids",url:"https://www.hollandsentinel.com",badge:"Daily",type:"Print",desc:"Ottawa County daily.",bc:"b-green"},
+  {name:"Traverse City Record-Eagle",city:"Traverse City",market:"Traverse City",url:"https://www.record-eagle.com",badge:"Daily",type:"Print",desc:"Northwest Michigan independent daily; strong regional coverage.",bc:"b-green"},
+  {name:"Alpena News",city:"Alpena",market:"Alpena",url:"https://www.thealpenanews.com",badge:"Daily",type:"Print",desc:"Northeast Michigan independent daily; family-owned.",bc:"b-green"},
+  {name:"Petoskey News-Review",city:"Petoskey",market:"Traverse City",url:"https://www.petoskeynews.com",badge:"Daily",type:"Print",desc:"Emmet/Charlevoix counties; Northern Lower Peninsula community paper.",bc:"b-green"},
+  {name:"Midland Daily News",city:"Midland",market:"Flint",url:"https://www.ourmidland.com",badge:"Daily",type:"Print",desc:"Midland County; Dow Chemical headquarters community paper.",bc:"b-green"},
+  {name:"Morning Sun",city:"Mount Pleasant",market:"Flint",url:"https://www.themorningsun.com",badge:"Daily",type:"Print",desc:"Central Michigan; Isabella and surrounding counties.",bc:"b-green"},
+  {name:"Big Rapids Pioneer",city:"Big Rapids",market:"Grand Rapids",url:"https://www.bigrapidsnews.com",badge:"Daily",type:"Print",desc:"Mecosta County; Ferris State University community.",bc:"b-green"},
+  {name:"Huron Daily Tribune",city:"Bad Axe",market:"Flint",url:"https://www.michigansthumb.com",badge:"Daily",type:"Print",desc:"\'Michigan\'s Thumb\' region daily.",bc:"b-green"},
+  {name:"The Daily Telegram",city:"Adrian",market:"Detroit",url:"https://www.lenconnect.com",badge:"Daily",type:"Print",desc:"Lenawee/Jackson counties.",bc:"b-green"},
+  {name:"Cheboygan Daily Tribune",city:"Cheboygan",market:"Traverse City",url:"https://www.cheboygannews.com",badge:"Daily",type:"Print",desc:"Northern Lower Peninsula community daily.",bc:"b-green"},
+  {name:"Cadillac Evening News",city:"Cadillac",market:"Traverse City",url:"https://www.cadillacnews.com",badge:"Daily",type:"Print",desc:"Wexford/Missaukee/Osceola counties daily.",bc:"b-green"},
+  {name:"Oakland Press",city:"Pontiac",market:"Detroit",url:"https://www.theoaklandpress.com",badge:"Daily",type:"Print",desc:"Oakland County.",bc:"b-green"},
+  {name:"Macomb Daily",city:"Mount Clemens",market:"Detroit",url:"https://www.macombdaily.com",badge:"Daily",type:"Print",desc:"Macomb County.",bc:"b-green"},
+  {name:"Monroe Evening News",city:"Monroe",market:"Detroit",url:"https://www.monroenews.com",badge:"Daily",type:"Print",desc:"Monroe County independent daily since 1835.",bc:"b-green"},
+  {name:"The Herald-Palladium",city:"Benton Harbor",market:"Grand Rapids",url:"https://www.heraldpalladium.com",badge:"Daily",type:"Print",desc:"Southwest Michigan; St. Joseph and Benton Harbor area.",bc:"b-green"},
+  {name:"Ludington Daily News",city:"Ludington",market:"Grand Rapids",url:"https://www.shorelinemedia.net",badge:"Daily",type:"Print",desc:"Mason County; Shoreline Media group.",bc:"b-green"},
+  {name:"Daily Mining Gazette",city:"Houghton",market:"Upper Peninsula",url:"https://www.mininggazette.com",badge:"Daily",type:"Print",desc:"Copper country UP newspaper; Houghton/Keweenaw coverage.",bc:"b-green"},
+  {name:"Daily Globe",city:"Ironwood",market:"Upper Peninsula",url:"https://www.ironwoodglobe.com",badge:"Daily",type:"Print",desc:"Gogebic County UP newspaper.",bc:"b-green"},
+  {name:"Daily Press",city:"Escanaba",market:"Upper Peninsula",url:"https://www.dailypress.net",badge:"Daily",type:"Print",desc:"Delta County UP newspaper.",bc:"b-green"},
+  {name:"Mining Journal",city:"Marquette",market:"Marquette",url:"https://www.miningjournal.net",badge:"Daily",type:"Print",desc:"Upper Peninsula\'s primary newspaper since 1846.",bc:"b-green"},
+  {name:"Daily Reporter",city:"Coldwater",market:"Grand Rapids",url:"https://www.thedailyreporter.com/",badge:"Daily",type:"Print",desc:"Coldwater\'s daily newspaper since 1895.",bc:"b-green"},
+  {name:"Hillsdale Daily News",city:"Hillsdale",market:"Lansing",url:"https://www.hillsdale.net/",badge:"Daily",type:"Print",desc:"Providing continuous local coverage since 1846.",bc:"b-green"},
+  {name:"Grand Haven Tribune",city:"Grand Haven",market:"Grand Rapids",url:"https://www.grandhaventribune.com/",badge:"Daily",type:"Print",desc:"Ottawa County daily newspaper since 1885.",bc:"b-green"},
+  {name:"Daily News",city:"Greenville",market:"Grand Rapids",url:"https://www.thedailynews.cc/",badge:"Daily",type:"Print",desc:"Serving the Montcalm, Ionia, and Kent county regions for over a century.",bc:"b-green"},
+  {name:"Livingston Daily",city:"Howell",market:"Detroit",url:"https://www.livingstondaily.com/",badge:"Daily",type:"Print",desc:"Livingston County\'s only daily newspaper.",bc:"b-green"},
+  {name:"Sentinel-Standard",city:"Ionia",market:"Grand Rapids",url:"https://www.sentinel-standard.com/",badge:"Daily",type:"Print",desc:"Serving as a key news source for Ionia County for over 100 years.",bc:"b-green"},
+  {name:"News Advocate",city:"Manistee",market:"Traverse City",url:"https://www.manisteenews.com/",badge:"Daily",type:"Print",desc:"The leading local newspaper in Manistee.",bc:"b-green"},
+  {name:"Argus-Press",city:"Owosso",market:"Flint",url:"https://www.argus-press.com/",badge:"Daily",type:"Print",desc:"Long-running daily newspaper serving Owosso and Shiawassee County.",bc:"b-green"},
+  {name:"Times Herald",city:"Port Huron",market:"Detroit",url:"https://www.thetimesherald.com/",badge:"Daily",type:"Print",desc:"A daily newspaper covering the Blue Water Area of the Thumb",bc:"b-green"},
+  {name:"Evening News",city:"Sault Ste. Marie",market:"Upper Peninsula",url:"https://www.sooeveningnews.com/",badge:"Daily",type:"Print",desc:"Serving Chippewa County and Sault Ste. Marie, Michigan since 1901.",bc:"b-green"},
+  {name:"Sturgis Journal",city:"Sturgis",market:"Grand Rapids",url:"https://www.sturgisjournal.com/",badge:"Daily",type:"Print",desc:"Serving St. Joseph County since 1859.",bc:"b-green"},
 ],
 weekly:[
-  {name:"Metro Times",city:"Detroit",market:"Detroit",url:"https://www.metrotimes.com",badge:"Alt-Weekly",type:"Print",desc:"Michigan's largest alt-weekly. Arts, culture, nightlife, investigative.",bc:"b-red"},
-  {name:"Michigan Chronicle",city:"Detroit",market:"Detroit",url:"https://www.michiganchronicle.com",badge:"Community",type:"Print",desc:"African American weekly; est. 1936. Oldest Black weekly in Michigan.",bc:"b-amber"},
-  {name:"The Arab American News",city:"Dearborn",market:"Detroit",url:"https://arabamericannews.com",badge:"Bilingual",type:"Print",desc:"Largest Arab-American paper in the US; bilingual; est. 1984.",bc:"b-green"},
-  {name:"Jewish News",city:"Southfield",market:"Detroit",url:"https://www.jewishnews.net",badge:"Community",type:"Print",desc:"Metro Detroit Jewish community weekly.",bc:"b-blue"},
-  {name:"Northern Express",city:"Traverse City",market:"Traverse City",url:"https://www.northernexpress.com",badge:"Alt-Weekly",type:"Print",desc:"Northern Michigan alt-weekly. Arts, culture, environment, opinion.",bc:"b-red"},
-  {name:"Observer & Eccentric",city:"Livonia",market:"Detroit",url:"https://www.hometownlife.com",badge:"Gannett",type:"Print",desc:"Suburban Detroit weekly group; Hometown Life/Gannett.",bc:"b-blue"},
-  {name:"Mining Journal",city:"Marquette",market:"Marquette",url:"https://www.miningjournal.net",badge:"UP",type:"Print",desc:"Upper Peninsula's primary newspaper since 1846.",bc:"b-orange"},
-  {name:"C&G Newspapers",city:"Macomb/Oakland",market:"Detroit",url:"https://www.candgnews.com",badge:"Group",type:"Print",desc:"Network of 12 Oakland and Macomb county community papers.",bc:"b-slate"},
-  {name:"Daily Mining Gazette",city:"Houghton",market:"Upper Peninsula",url:"https://www.mininggazette.com",badge:"UP",type:"Print",desc:"Copper country UP newspaper. Houghton/Keweenaw coverage.",bc:"b-orange"},
-  {name:"Leelanau Enterprise",city:"Leland",market:"Traverse City",url:"https://www.leelanaunews.com",badge:"Indep.",type:"Print",desc:"Leelanau County award-winning independent weekly.",bc:"b-green"},
-  {name:"Ironwood Daily Globe",city:"Ironwood",market:"Upper Peninsula",url:"https://www.ironwoodglobe.com",badge:"UP",type:"Print",desc:"Gogebic County UP newspaper.",bc:"b-orange"},
+  {name:"Metro Times",city:"Detroit",market:"Detroit",url:"https://www.metrotimes.com",badge:"Weekly",type:"Print",desc:"Michigan\'s largest alternative weekly. Arts, culture, nightlife, investigative.",bc:"b-slate"},
+  {name:"Northern Express",city:"Traverse City",market:"Traverse City",url:"https://www.northernexpress.com",badge:"Weekly",type:"Print",desc:"Northern Michigan alt-weekly. Arts, culture, environment, opinion.",bc:"b-slate"},
+  {name:"Observer & Eccentric",city:"Livonia",market:"Detroit",url:"https://www.hometownlife.com",badge:"Weekly",type:"Print",desc:"Suburban Detroit weekly group; Plymouth, Canton, Livonia and more.",bc:"b-slate"},
+  {name:"C&G Newspapers",city:"Macomb/Oakland",market:"Detroit",url:"https://www.candgnews.com",badge:"Weekly",type:"Print",desc:"Network of 12 Oakland and Macomb county community papers.",bc:"b-slate"},
+  {name:"Leelanau Enterprise",city:"Leland",market:"Traverse City",url:"https://www.leelanaunews.com",badge:"Weekly",type:"Print",desc:"Leelanau County award-winning independent weekly.",bc:"b-slate"},
+  {name:"Charlevoix Courier",city:"Charlevoix",market:"Traverse City",url:"https://www.charlevoixcourier.com",badge:"Weekly",type:"Print",desc:"Northern Lower Peninsula community weekly.",bc:"b-slate"},
+  {name:"Iosco County News-Herald",city:"East Tawas",market:"Traverse City",url:"https://www.iosconews.com",badge:"Weekly",type:"Print",desc:"Northeast Michigan community weekly.",bc:"b-slate"},
+  {name:"Munising News",city:"Munising",market:"Upper Peninsula",url:"https://www.munisingnews.com",badge:"Weekly",type:"Print",desc:"Upper Peninsula community paper; Pictured Rocks area.",bc:"b-slate"},
+  {name:"Newberry News",city:"Newberry",market:"Upper Peninsula",url:"https://www.thenewberrynews.com",badge:"Weekly",type:"Print",desc:"Eastern Upper Peninsula community newspaper.",bc:"b-slate"},
+  {name:"St. Ignace News",city:"St. Ignace",market:"Upper Peninsula",url:"https://www.stignacenews.com",badge:"Weekly",type:"Print",desc:"Straits of Mackinac area community paper.",bc:"b-slate"},
+  {name:"The Grosse Pointe News",city:"Grosse Pointe",market:"Detroit",url:"https://www.grossepointenews.com",badge:"Weekly",type:"Print",desc:"Bi-weekly for Grosse Pointe communities.",bc:"b-slate"},
+  {name:"Dowagiac News",city:"Dowagiac",market:"Grand Rapids",url:"https://www.heraldpalladium.com/leaderpub/",badge:"Weekly",type:"Print",desc:"Was previously the only daily newspaper in rural Cass County. Now weekly.",bc:"b-slate"},
+  {name:"Niles Star",city:"Niles",market:"Grand Rapids",url:"https://www.heraldpalladium.com/leaderpub/",badge:"Weekly",type:"Print",desc:"The first daily newspaper in Berrien County, founded in 1886. Now weekly.",bc:"b-slate"},
 ],
 magazines:[
   {name:"Hour Detroit",city:"Troy",market:"Detroit",url:"https://www.hourdetroit.com",badge:"Lifestyle",type:"Magazine",desc:"Metro Detroit's premier lifestyle magazine; est. 1996. Hour Media.",bc:"b-pink"},
-  {name:"DBusiness",city:"Troy",market:"Detroit",url:"https://www.dbusiness.com",badge:"Business",type:"Magazine",desc:"Detroit's premier business magazine. Corporate profiles, real estate.",bc:"b-blue"},
   {name:"Michigan Blue",city:"Troy",market:"Statewide",url:"https://www.michiganblue.com",badge:"Lifestyle",type:"Magazine",desc:"Great Lakes lifestyle and waterfront adventures. Hour Media.",bc:"b-sky"},
   {name:"Traverse — Northern Michigan's Magazine",city:"Traverse City",market:"Traverse City",url:"https://www.mynorth.com",badge:"Regional",type:"Magazine",desc:"Northern Michigan lifestyle flagship since 1981. Travel, wine, outdoors.",bc:"b-green"},
   {name:"Grand Rapids Magazine",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.grandrapidsmagazine.com",badge:"Regional",type:"Magazine",desc:"West Michigan lifestyle since 1964. Dining, arts, community.",bc:"b-teal"},
-  {name:"Crain's Detroit Business",city:"Detroit",market:"Detroit",url:"https://www.crainsdetroit.com",badge:"Business",type:"Magazine",desc:"Premier Detroit business weekly since 1985. Automotive, real estate.",bc:"b-blue"},
-  {name:"Crain's Grand Rapids Business",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.crainsgrandrapids.com",badge:"Business",type:"Magazine",desc:"West Michigan business news. Crain Communications.",bc:"b-blue"},
-  {name:"Automotive News",city:"Detroit",market:"Detroit",url:"https://www.autonews.com",badge:"Trade",type:"Magazine",desc:"Global automotive industry trade. Crain Communications, Detroit HQ.",bc:"b-slate"},
   {name:"Michigan History Magazine",city:"Lansing",market:"Statewide",url:"https://www.michiganhistorymagazine.com",badge:"History",type:"Magazine",desc:"Bimonthly popular history; Historical Society of Michigan.",bc:"b-amber"},
   {name:"BLAC Detroit",city:"Detroit",market:"Detroit",url:"https://www.blacdetroit.com",badge:"Culture",type:"Magazine",desc:"Black lifestyle and culture magazine for Metro Detroit.",bc:"b-violet"},
   {name:"SEEN Magazine",city:"Farmington Hills",market:"Detroit",url:"https://www.seenthemagazine.com",badge:"Lifestyle",type:"Magazine",desc:"Metro Detroit lifestyle since 2015. Society, philanthropy, events.",bc:"b-pink"},
@@ -1186,6 +1210,15 @@ university:[
   {name:"The Washtenaw Voice",city:"Ann Arbor",market:"Washtenaw Community College",url:"https://www.washtenawvoice.com/",badge:"Student",type:"Student",desc:"Washtenaw Community College student newspaper.",bc:"b-blue"},
   {name:"The South End",city:"Detroit",market:"Wayne State University",url:"https://www.thesouthend.wayne.edu/",badge:"Student",type:"Student",desc:"Wayne State University student newspaper.",bc:"b-blue"},
 ],
+business:[
+  {name:"Crain\'s Detroit Business",city:"Detroit",market:"Metro Detroit",url:"https://www.crainsdetroit.com",badge:"Business",type:"Business",desc:"Premier Detroit business weekly since 1985. Automotive, real estate, healthcare.",bc:"b-blue"},
+  {name:"Crain\'s Grand Rapids Business",city:"Grand Rapids",market:"West Michigan",url:"https://www.crainsgrandrapids.com",badge:"Business",type:"Business",desc:"West Michigan business news. Formerly Grand Rapids Business Journal.",bc:"b-blue"},
+  {name:"Automotive News",city:"Detroit",market:"Global (Detroit HQ)",url:"https://www.autonews.com",badge:"Trade",type:"Business",desc:"Global automotive industry trade publication; Detroit-headquartered. Crain Communications.",bc:"b-slate"},
+  {name:"Corp! Magazine",city:"Michigan",market:"Statewide",url:"https://www.corpmagazine.com",badge:"Business",type:"Business",desc:"Michigan statewide business magazine since 1998. Entrepreneurship, marketing, workplace.",bc:"b-blue"},
+  {name:"DBusiness",city:"Troy",market:"Metro Detroit",url:"https://www.dbusiness.com",badge:"Business",type:"Business",desc:"Detroit\'s premier business magazine. Corporate profiles, real estate, finance.",bc:"b-blue"},
+  {name:"Michigan Lawyers Weekly",city:"Detroit",market:"Statewide",url:"https://michiganlawyersweekly.com",badge:"Legal",type:"Business",desc:"Legal industry news and analysis for Michigan attorneys and the legal community.",bc:"b-slate"},
+],
+
 };
 
 
@@ -1302,7 +1335,7 @@ function hl(t,q){
 // Human-readable category labels for the All view
 const CAT_LABELS={tv:'📺 TV',radio:'📻 Radio',daily:'🗞️ Daily Paper',weekly:'📄 Weekly Paper',
   magazines:'📖 Magazine',digital:'💻 Digital',public:'📡 Public Media',
-  ethnic:'🌐 Community',university:'🎓 University'};
+  ethnic:'🌐 Ethnic',university:'🎓 University',business:'💼 Business'};
 
 function outletCard(o,term='',showCat=false){
   const init=o.name.replace(/[^A-Za-z0-9]/g,'').slice(0,3).toUpperCase();
