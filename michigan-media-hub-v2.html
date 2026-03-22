@@ -1,0 +1,1419 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Michigan Media Hub — Every Michigan News Source</title>
+<meta name="description" content="The complete directory and live news aggregator for Michigan TV, radio, newspapers, magazines, and digital news outlets."/>
+<meta property="og:title" content="Michigan Media Hub"/>
+<meta property="og:description" content="Every Michigan news source — TV, radio, newspapers, magazines, digital — in one place."/>
+
+<!-- ── Google Analytics placeholder ── -->
+<!-- Replace G-XXXXXXXXXX with your Measurement ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX'); // TODO: replace with real GA4 Measurement ID
+</script>
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet"/>
+
+<!-- Tailwind -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  darkMode: 'class',
+  theme: {
+    extend: {
+      fontFamily: {
+        serif: ['"DM Serif Display"','Georgia','serif'],
+        sans:  ['"DM Sans"','sans-serif'],
+      },
+      colors: {
+        navy:  {DEFAULT:'#0c1f3a',50:'#e8edf4',100:'#c5d0e0',400:'#2a5080',500:'#1e3a5f',700:'#112849',900:'#0c1f3a'},
+        forest:{DEFAULT:'#1e5631',light:'#2d7a45',muted:'#4a9960'},
+        gold:  {DEFAULT:'#c8860a',light:'#e8a020',muted:'#f0b84a'},
+        cream: '#faf8f3',
+        ink:   '#1a2535',
+      },
+    }
+  }
+}
+</script>
+
+<style>
+  *{font-family:'DM Sans',sans-serif}
+  h1,h2,h3,.serif{font-family:'DM Serif Display',Georgia,serif}
+
+  /* ── Scrollbar ── */
+  ::-webkit-scrollbar{width:5px;height:5px}
+  ::-webkit-scrollbar-thumb{background:#1e3a5f;border-radius:99px}
+  .dark ::-webkit-scrollbar-thumb{background:#c8860a}
+  .no-scrollbar{scrollbar-width:none}
+  .no-scrollbar::-webkit-scrollbar{display:none}
+
+  /* ── Pages ── */
+  .page{display:none;animation:pageIn .3s ease}
+  .page.active{display:block}
+  @keyframes pageIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+  /* ── Cards ── */
+  .card{transition:transform .2s,box-shadow .2s}
+  .card:hover{transform:translateY(-3px);box-shadow:0 10px 32px rgba(12,31,58,.14)}
+  .dark .card:hover{box-shadow:0 10px 32px rgba(0,0,0,.4)}
+
+  /* ── Tabs ── */
+  .tab{transition:all .2s;position:relative}
+  .tab.active{color:#0c1f3a;font-weight:600}
+  .dark .tab.active{color:#fff}
+  .tab.active::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:3px;background:#c8860a;border-radius:2px 2px 0 0}
+
+  /* ── Hero gradient ── */
+  .hero-grad{background:linear-gradient(145deg,#0c1f3a 0%,#1e3a5f 50%,#1e5631 100%)}
+  .dark .hero-grad{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19 100%)}
+
+  /* ── Stagger animation ── */
+  .stagger>*{opacity:0;animation:rise .45s ease forwards}
+  .stagger>*:nth-child(1){animation-delay:.04s}
+  .stagger>*:nth-child(2){animation-delay:.08s}
+  .stagger>*:nth-child(3){animation-delay:.12s}
+  .stagger>*:nth-child(4){animation-delay:.16s}
+  .stagger>*:nth-child(5){animation-delay:.20s}
+  .stagger>*:nth-child(6){animation-delay:.24s}
+  .stagger>*:nth-child(7){animation-delay:.28s}
+  .stagger>*:nth-child(8){animation-delay:.32s}
+  .stagger>*:nth-child(n+9){animation-delay:.36s}
+  @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+
+  /* ── Skeleton shimmer ── */
+  .skeleton{background:linear-gradient(90deg,#e5e7eb 25%,#f3f4f6 50%,#e5e7eb 75%);background-size:200% 100%;animation:shimmer 1.5s infinite}
+  .dark .skeleton{background:linear-gradient(90deg,#1a2d42 25%,#22384f 50%,#1a2d42 75%);background-size:200% 100%}
+  @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+  /* ── Live dot pulse ── */
+  .live-dot{animation:livePulse 1.8s ease-in-out infinite}
+  @keyframes livePulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.7)}}
+
+  /* ── Noise layer ── */
+  .noise-layer::after{content:'';position:absolute;inset:0;opacity:.022;pointer-events:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)'/%3E%3C/svg%3E")}
+
+  /* ── Feed card left-border accent ── */
+  .feed-card-inner{border-left:4px solid transparent;padding-left:14px}
+  .acc-TV{border-color:#1e3a5f}
+  .acc-Radio{border-color:#1e5631}
+  .acc-Print{border-color:#c8860a}
+  .acc-Digital{border-color:#0e7490}
+  .acc-Public{border-color:#7e22ce}
+
+  /* ── Progress bar for infinite scroll sentinel ── */
+  #load-more-sentinel{height:4px;background:linear-gradient(90deg,#1e3a5f,#1e5631,#c8860a);background-size:200%;animation:gradMove 2s linear infinite}
+  @keyframes gradMove{0%{background-position:0%}100%{background-position:200%}}
+
+  /* ── Sort select ── */
+  select{appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%236b7280' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 10px center;background-size:16px}
+
+  /* ── Form focus ring ── */
+  .form-input:focus{outline:none;ring-color:#c8860a;box-shadow:0 0 0 3px rgba(200,134,10,.25)}
+
+  /* ── Badge ── */
+  .badge{display:inline-flex;align-items:center;font-size:.62rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:99px;white-space:nowrap}
+
+  /* ── Highlight ── */
+  mark{background:#fef3c7;border-radius:2px;padding:0 2px}
+  .dark mark{background:#78350f;color:#fde68a}
+
+  /* ── Mobile menu ── */
+  #mob-menu{transform:translateX(-100%);transition:transform .3s cubic-bezier(.4,0,.2,1)}
+  #mob-menu.open{transform:translateX(0)}
+
+  /* ── Feed toolbar ── */
+  .feed-pill{transition:all .18s;cursor:pointer}
+  .feed-pill.active{background:#0c1f3a;color:#fff}
+  .dark .feed-pill.active{background:#c8860a}
+
+  /* ── Cat tile ── */
+  .cat-tile{transition:transform .2s,box-shadow .2s}
+  .cat-tile:hover{transform:scale(1.04);box-shadow:0 8px 28px rgba(0,0,0,.15)}
+
+  /* ── Source status row ── */
+  .src-row{transition:background .15s}
+  .src-row:hover{background:rgba(30,58,95,.04)}
+  .dark .src-row:hover{background:rgba(255,255,255,.04)}
+
+  /* ── Toast ── */
+  #toast{transition:opacity .3s,transform .3s}
+
+  /* ── Spinner ── */
+  .spin{animation:spinR 1s linear infinite;transform-origin:center}
+  @keyframes spinR{to{transform:rotate(360deg)}}
+</style>
+</head>
+
+<body class="bg-cream dark:bg-navy-900 text-ink dark:text-slate-100 transition-colors duration-300 min-h-screen">
+
+<!-- ═══════════════════════════════════════════════════════
+     TOAST NOTIFICATION
+═══════════════════════════════════════════════════════ -->
+<div id="toast" class="fixed bottom-6 right-6 z-[999] bg-navy-900 dark:bg-navy-400 text-white text-sm font-medium px-5 py-3 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none flex items-center gap-2 max-w-xs">
+  <span id="toast-icon">✅</span>
+  <span id="toast-msg">Done</span>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     STICKY NAVBAR
+═══════════════════════════════════════════════════════ -->
+<header class="sticky top-0 z-50 bg-navy-900/96 backdrop-blur-md border-b border-white/10 shadow-lg">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 h-15 flex items-center justify-between gap-4 py-3">
+
+    <!-- Logo -->
+    <button onclick="showPage('home')" class="flex items-center gap-2.5 group shrink-0">
+      <div class="w-9 h-9 rounded-xl bg-gold flex items-center justify-center shrink-0 shadow-md group-hover:scale-105 transition-transform">
+        <svg viewBox="0 0 24 24" fill="none" class="w-5 h-5" stroke="white" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+      </div>
+      <div class="hidden sm:block leading-none">
+        <div class="serif text-white text-base">Michigan</div>
+        <div class="text-gold text-[10px] tracking-[.18em] uppercase font-semibold">Media Hub</div>
+      </div>
+    </button>
+
+    <!-- Desktop nav -->
+    <nav class="hidden md:flex items-center gap-1">
+      <button onclick="showPage('home')"       class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">Home</button>
+      <button onclick="showPage('directory')"  class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">Directory</button>
+      <button onclick="showPage('aggregator')" class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors flex items-center gap-1.5">
+        <span class="live-dot w-1.5 h-1.5 bg-green-400 rounded-full inline-block"></span>News Feed
+      </button>
+      <button onclick="showPage('submit')"     class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">Submit Outlet</button>
+      <button onclick="showPage('about')"      class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">About</button>
+    </nav>
+
+    <!-- Right controls -->
+    <div class="flex items-center gap-1.5">
+      <button onclick="toggleSearch()" class="p-2 rounded-lg text-white/70 hover:text-white hover:bg-white/10 transition-colors" title="Search">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8" stroke-width="2"/><path d="m21 21-4.35-4.35" stroke-linecap="round" stroke-width="2"/></svg>
+      </button>
+      <button onclick="toggleDark()" class="p-2 rounded-lg text-white/70 hover:text-white hover:bg-white/10 transition-colors" title="Toggle dark mode">
+        <svg id="icon-moon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg>
+        <svg id="icon-sun"  class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" stroke-width="2"/><line x1="12" y1="1" x2="12" y2="3" stroke-linecap="round" stroke-width="2"/><line x1="12" y1="21" x2="12" y2="23" stroke-linecap="round" stroke-width="2"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" stroke-linecap="round" stroke-width="2"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" stroke-linecap="round" stroke-width="2"/><line x1="1" y1="12" x2="3" y2="12" stroke-linecap="round" stroke-width="2"/><line x1="21" y1="12" x2="23" y2="12" stroke-linecap="round" stroke-width="2"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" stroke-linecap="round" stroke-width="2"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" stroke-linecap="round" stroke-width="2"/></svg>
+      </button>
+      <button onclick="toggleMob()" class="md:hidden p-2 rounded-lg text-white/70 hover:text-white hover:bg-white/10 transition-colors">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Inline search bar -->
+  <div id="search-bar" class="hidden border-t border-white/10 bg-navy-900/98">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex gap-3 items-center">
+      <svg class="w-4 h-4 text-white/40 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8" stroke-width="2"/><path d="m21 21-4.35-4.35" stroke-linecap="round" stroke-width="2"/></svg>
+      <input id="global-search" type="text" placeholder="Search any outlet, city, format, or affiliation…"
+        class="flex-1 bg-transparent text-white placeholder-white/40 text-sm focus:outline-none"
+        oninput="onGlobalSearch(this.value)" autocomplete="off"/>
+      <span id="gsearch-count" class="text-xs text-white/40 shrink-0 hidden"></span>
+      <button onclick="clearGSearch()" class="text-white/40 hover:text-white/80 text-xs shrink-0">Clear</button>
+    </div>
+  </div>
+</header>
+
+<!-- Mobile overlay + menu -->
+<div id="mob-overlay" class="fixed inset-0 z-40 bg-black/60 hidden" onclick="closeMob()"></div>
+<div id="mob-menu" class="fixed inset-y-0 left-0 z-50 w-64 bg-navy-900 shadow-2xl flex flex-col pt-4 pb-8">
+  <div class="px-5 mb-5 flex items-center justify-between">
+    <span class="serif text-white text-lg">Menu</span>
+    <button onclick="closeMob()" class="text-white/50 hover:text-white"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg></button>
+  </div>
+  <nav class="flex flex-col gap-1 px-3">
+    <button onclick="showPage('home');closeMob()"       class="text-left px-4 py-3 rounded-xl text-white/80 hover:bg-white/10 hover:text-white text-sm font-medium transition-colors">🏠 Home</button>
+    <button onclick="showPage('directory');closeMob()"  class="text-left px-4 py-3 rounded-xl text-white/80 hover:bg-white/10 hover:text-white text-sm font-medium transition-colors">📡 Directory</button>
+    <button onclick="showPage('aggregator');closeMob()" class="text-left px-4 py-3 rounded-xl text-white/80 hover:bg-white/10 hover:text-white text-sm font-medium transition-colors">📰 News Feed</button>
+    <button onclick="showPage('submit');closeMob()"     class="text-left px-4 py-3 rounded-xl text-white/80 hover:bg-white/10 hover:text-white text-sm font-medium transition-colors">📝 Submit Outlet</button>
+    <button onclick="showPage('about');closeMob()"      class="text-left px-4 py-3 rounded-xl text-white/80 hover:bg-white/10 hover:text-white text-sm font-medium transition-colors">ℹ️ About</button>
+  </nav>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     PAGE: HOME
+═══════════════════════════════════════════════════════ -->
+<div id="page-home" class="page active">
+
+  <!-- Hero -->
+  <section class="hero-grad noise-layer relative overflow-hidden">
+    <div class="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-forest/20 blur-3xl pointer-events-none"></div>
+    <div class="absolute -bottom-20 -left-20 w-72 h-72 rounded-full bg-gold/10 blur-3xl pointer-events-none"></div>
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 py-20 sm:py-28">
+      <div class="max-w-2xl">
+        <div class="inline-flex items-center gap-2 bg-white/10 border border-gold/30 text-gold text-[11px] font-semibold tracking-[.16em] uppercase px-3.5 py-1.5 rounded-full mb-6">
+          <span class="live-dot w-1.5 h-1.5 bg-gold rounded-full"></span>Michigan's Complete Media Resource — 2026
+        </div>
+        <h1 class="serif text-4xl sm:text-5xl lg:text-6xl text-white leading-[1.1] mb-5">
+          Every Michigan<br/><em class="text-gold not-italic">News Source</em><br/>in One Place
+        </h1>
+        <p class="text-white/65 text-lg leading-relaxed mb-8 max-w-xl">TV stations, radio, newspapers, magazines, and digital news — the complete directory and live aggregator for Michigan media.</p>
+        <div class="flex gap-2 max-w-lg">
+          <div class="relative flex-1">
+            <svg class="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-white/40" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8" stroke-width="2"/><path d="m21 21-4.35-4.35" stroke-linecap="round" stroke-width="2"/></svg>
+            <input id="hero-search" type="text" placeholder="Search outlets, cities, formats…"
+              class="w-full pl-10 pr-4 py-3 bg-white/12 text-white placeholder-white/40 rounded-xl border border-white/20 focus:outline-none focus:ring-2 focus:ring-gold/60 text-sm backdrop-blur-sm"
+              onkeydown="if(event.key==='Enter')heroGo()"/>
+          </div>
+          <button onclick="heroGo()" class="px-5 py-3 bg-gold hover:bg-gold-light text-white font-semibold rounded-xl text-sm transition-colors shadow-lg shrink-0">Search</button>
+        </div>
+      </div>
+      <div class="flex flex-wrap gap-8 mt-14 pt-10 border-t border-white/10">
+        <div><div class="serif text-3xl text-gold">44+</div><div class="text-white/45 text-xs tracking-widest uppercase mt-0.5">TV Stations</div></div>
+        <div><div class="serif text-3xl text-gold">300+</div><div class="text-white/45 text-xs tracking-widest uppercase mt-0.5">Radio Stations</div></div>
+        <div><div class="serif text-3xl text-gold">28</div><div class="text-white/45 text-xs tracking-widest uppercase mt-0.5">Daily Papers</div></div>
+        <div><div class="serif text-3xl text-gold">8</div><div class="text-white/45 text-xs tracking-widest uppercase mt-0.5">DMA Markets</div></div>
+        <div><div class="serif text-3xl text-gold">14+</div><div class="text-white/45 text-xs tracking-widest uppercase mt-0.5">Digital Outlets</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Category tiles -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+    <h2 class="serif text-3xl text-navy-900 dark:text-white mb-2">Browse by Category</h2>
+    <p class="text-slate-500 dark:text-slate-400 mb-8 text-sm">Click any category to explore the full directory</p>
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+      <button onclick="goDir('tv')"        class="cat-tile flex flex-col items-center gap-3 p-5 rounded-2xl bg-navy-900 dark:bg-white/5 text-white shadow cursor-pointer"><span class="text-3xl">📺</span><div class="text-center"><div class="font-semibold text-sm">TV Stations</div><div class="text-white/45 text-xs mt-0.5">44+ outlets</div></div></button>
+      <button onclick="goDir('radio')"     class="cat-tile flex flex-col items-center gap-3 p-5 rounded-2xl bg-forest dark:bg-forest/80 text-white shadow cursor-pointer"><span class="text-3xl">📻</span><div class="text-center"><div class="font-semibold text-sm">Radio</div><div class="text-white/45 text-xs mt-0.5">300+ stations</div></div></button>
+      <button onclick="goDir('daily')"     class="cat-tile flex flex-col items-center gap-3 p-5 rounded-2xl bg-gold dark:bg-gold/80 text-white shadow cursor-pointer"><span class="text-3xl">🗞️</span><div class="text-center"><div class="font-semibold text-sm">Daily Papers</div><div class="text-white/45 text-xs mt-0.5">28 dailies</div></div></button>
+      <button onclick="goDir('weekly')"    class="cat-tile flex flex-col items-center gap-3 p-5 rounded-2xl bg-slate-700 dark:bg-slate-600 text-white shadow cursor-pointer"><span class="text-3xl">📄</span><div class="text-center"><div class="font-semibold text-sm">Weeklies</div><div class="text-white/45 text-xs mt-0.5">23+ papers</div></div></button>
+      <button onclick="goDir('magazines')" class="cat-tile flex flex-col items-center gap-3 p-5 rounded-2xl bg-violet-700 dark:bg-violet-800 text-white shadow cursor-pointer"><span class="text-3xl">📖</span><div class="text-center"><div class="font-semibold text-sm">Magazines</div><div class="text-white/45 text-xs mt-0.5">13+ titles</div></div></button>
+      <button onclick="goDir('digital')"   class="cat-tile flex flex-col items-center gap-3 p-5 rounded-2xl bg-teal-700 dark:bg-teal-800 text-white shadow cursor-pointer"><span class="text-3xl">💻</span><div class="text-center"><div class="font-semibold text-sm">Digital</div><div class="text-white/45 text-xs mt-0.5">12+ sites</div></div></button>
+    </div>
+  </section>
+
+  <!-- Featured outlets -->
+  <section class="bg-white dark:bg-navy-500/20 border-y border-slate-100 dark:border-white/5 py-14">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between mb-8">
+        <div><h2 class="serif text-3xl text-navy-900 dark:text-white">Featured Outlets</h2><p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Michigan's most prominent media organizations</p></div>
+        <button onclick="showPage('directory')" class="text-sm font-semibold text-navy-900 dark:text-gold hover:underline hidden sm:block">View full directory →</button>
+      </div>
+      <div id="featured-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 stagger"></div>
+    </div>
+  </section>
+
+  <!-- Home feed preview -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-14">
+    <div class="flex items-center justify-between mb-8">
+      <div>
+        <div class="flex items-center gap-2 mb-1"><span class="live-dot w-2 h-2 bg-green-500 rounded-full"></span><span class="text-xs font-bold tracking-widest uppercase text-green-600 dark:text-green-400">Live</span></div>
+        <h2 class="serif text-3xl text-navy-900 dark:text-white">Latest Headlines</h2>
+        <p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Pulled from Michigan's top RSS feeds</p>
+      </div>
+      <button onclick="showPage('aggregator')" class="text-sm font-semibold text-navy-900 dark:text-gold hover:underline hidden sm:block">Full feed →</button>
+    </div>
+    <div id="home-feed-preview" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div class="skeleton h-32 rounded-2xl"></div><div class="skeleton h-32 rounded-2xl"></div><div class="skeleton h-32 rounded-2xl"></div>
+    </div>
+  </section>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     PAGE: DIRECTORY
+═══════════════════════════════════════════════════════ -->
+<div id="page-directory" class="page">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-10">
+    <div class="mb-8">
+      <h1 class="serif text-4xl text-navy-900 dark:text-white mb-2">Michigan Media Directory</h1>
+      <p class="text-slate-500 dark:text-slate-400">Browse every outlet by category. All links open in new tab.</p>
+    </div>
+    <div class="flex flex-col sm:flex-row gap-3 mb-6">
+      <div class="relative flex-1">
+        <svg class="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8" stroke-width="2"/><path d="m21 21-4.35-4.35" stroke-linecap="round" stroke-width="2"/></svg>
+        <input id="dir-filter" type="text" placeholder="Filter by name, city, format, description…"
+          class="w-full pl-10 pr-4 py-2.5 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-gold/50 dark:text-white"
+          oninput="filterDir(this.value)"/>
+      </div>
+      <select id="market-filter" onchange="filterDir(document.getElementById('dir-filter').value)"
+        class="px-4 py-2.5 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-gold/50 dark:text-white text-slate-700 dark:text-white min-w-[160px]">
+        <option value="">All Markets</option>
+        <option>Detroit</option><option>Grand Rapids</option><option>Lansing</option>
+        <option>Flint</option><option>Traverse City</option><option>Marquette</option>
+        <option>Statewide</option><option>Upper Peninsula</option><option>Ann Arbor</option>
+      </select>
+      <div id="dir-count" class="flex items-center text-sm text-slate-500 dark:text-slate-400 px-1 whitespace-nowrap"></div>
+    </div>
+
+    <!-- Tabs -->
+    <div class="sticky top-[59px] z-30 bg-cream/95 dark:bg-navy-900/95 backdrop-blur-sm -mx-4 sm:-mx-6 px-4 sm:px-6 border-b border-slate-200 dark:border-white/10">
+      <div class="flex overflow-x-auto gap-0 no-scrollbar" id="dir-tabs">
+        <button class="tab active shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="tv"         onclick="switchTab('tv')">📺 TV</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="radio"      onclick="switchTab('radio')">📻 Radio</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="daily"      onclick="switchTab('daily')">🗞️ Daily</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="weekly"     onclick="switchTab('weekly')">📄 Weekly</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="magazines"  onclick="switchTab('magazines')">📖 Magazines</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="digital"    onclick="switchTab('digital')">💻 Digital</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="public"     onclick="switchTab('public')">📡 Public</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="ethnic"     onclick="switchTab('ethnic')">🌐 Community</button>
+        <button class="tab shrink-0 px-4 py-3 text-sm text-slate-500 dark:text-slate-400" data-tab="university" onclick="switchTab('university')">🎓 University</button>
+      </div>
+    </div>
+
+    <div id="dir-grid" class="pt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 stagger"></div>
+    <div id="dir-empty" class="hidden text-center py-24 text-slate-400">
+      <div class="text-5xl mb-4">🔍</div>
+      <div class="serif text-2xl text-navy-900 dark:text-white mb-2">No results</div>
+      <div class="text-sm">Try a different search or clear the filter.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     PAGE: NEWS AGGREGATOR (v2 — enhanced)
+═══════════════════════════════════════════════════════ -->
+<div id="page-aggregator" class="page">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-10">
+
+    <!-- Header -->
+    <div class="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-5 mb-8">
+      <div>
+        <div class="flex items-center gap-2 mb-1">
+          <span id="agg-live-dot" class="live-dot w-2 h-2 bg-green-500 rounded-full"></span>
+          <span class="text-xs font-bold tracking-widest uppercase text-green-600 dark:text-green-400">Live RSS Aggregator</span>
+        </div>
+        <h1 class="serif text-4xl text-navy-900 dark:text-white">Michigan News Feed</h1>
+        <p class="text-slate-500 dark:text-slate-400 text-sm mt-1">Fetching from <strong id="source-count-label" class="text-navy-900 dark:text-white">16</strong> RSS sources via CORS proxy. <span id="last-updated-label" class="text-slate-400"></span></p>
+      </div>
+      <div class="flex flex-wrap gap-2 shrink-0">
+        <button onclick="loadAllFeeds(true)" id="refresh-btn"
+          class="flex items-center gap-2 px-4 py-2.5 bg-navy-900 dark:bg-gold text-white rounded-xl text-sm font-semibold hover:opacity-90 transition-opacity shadow">
+          <svg id="refresh-icon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+          Refresh Feeds
+        </button>
+        <button onclick="showSourcePanel()" class="flex items-center gap-2 px-4 py-2.5 bg-white dark:bg-white/10 text-navy-900 dark:text-white border border-slate-200 dark:border-white/10 rounded-xl text-sm font-semibold hover:bg-slate-50 dark:hover:bg-white/20 transition-colors shadow">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
+          Source Status
+        </button>
+      </div>
+    </div>
+
+    <!-- ── Toolbar: filter + sort ── -->
+    <div class="flex flex-col sm:flex-row gap-4 mb-6 p-4 bg-white dark:bg-white/5 rounded-2xl border border-slate-100 dark:border-white/10 shadow-sm">
+      <!-- Category filter pills -->
+      <div class="flex flex-wrap gap-2 flex-1">
+        <button onclick="setFeedFilter('all')"     class="feed-pill active px-3 py-1.5 rounded-full text-xs font-semibold bg-navy-900 text-white" data-f="all">All</button>
+        <button onclick="setFeedFilter('TV')"      class="feed-pill px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 dark:bg-white/10 text-slate-600 dark:text-white" data-f="TV">📺 TV</button>
+        <button onclick="setFeedFilter('Radio')"   class="feed-pill px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 dark:bg-white/10 text-slate-600 dark:text-white" data-f="Radio">📻 Radio</button>
+        <button onclick="setFeedFilter('Print')"   class="feed-pill px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 dark:bg-white/10 text-slate-600 dark:text-white" data-f="Print">🗞️ Print</button>
+        <button onclick="setFeedFilter('Digital')" class="feed-pill px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 dark:bg-white/10 text-slate-600 dark:text-white" data-f="Digital">💻 Digital</button>
+        <button onclick="setFeedFilter('Public')"  class="feed-pill px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 dark:bg-white/10 text-slate-600 dark:text-white" data-f="Public">📡 Public</button>
+      </div>
+      <!-- Sort -->
+      <div class="flex items-center gap-2 shrink-0">
+        <label class="text-xs font-semibold text-slate-500 dark:text-slate-400 whitespace-nowrap">Sort by</label>
+        <select id="feed-sort" onchange="applyFeedSort()" class="px-3 py-1.5 bg-slate-50 dark:bg-white/10 border border-slate-200 dark:border-white/10 rounded-xl text-xs font-medium dark:text-white text-slate-700 pr-8">
+          <option value="date">Newest First</option>
+          <option value="date-asc">Oldest First</option>
+          <option value="source">Source A–Z</option>
+          <option value="source-desc">Source Z–A</option>
+          <option value="type">Category</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- ── Stats ribbon ── -->
+    <div id="feed-stats" class="hidden flex-wrap gap-4 mb-6 p-4 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800/40 rounded-2xl text-sm">
+      <div class="flex items-center gap-2"><span class="text-green-600 font-bold" id="stat-live">0</span><span class="text-green-700 dark:text-green-400">live headlines</span></div>
+      <div class="flex items-center gap-2"><span class="text-navy-900 dark:text-white font-bold" id="stat-sources">0</span><span class="text-slate-500 dark:text-slate-400">sources responding</span></div>
+      <div class="flex items-center gap-2"><span class="text-red-500 font-bold" id="stat-failed">0</span><span class="text-slate-500 dark:text-slate-400">unavailable</span></div>
+      <div class="flex items-center gap-2 ml-auto"><span class="text-slate-400 dark:text-slate-500 text-xs" id="stat-time"></span></div>
+    </div>
+
+    <!-- ── Error/info banner ── -->
+    <div id="feed-banner" class="hidden mb-5 p-4 rounded-2xl border text-sm"></div>
+
+    <!-- ── Feed grid ── -->
+    <div id="feed-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div class="skeleton h-36 rounded-2xl"></div><div class="skeleton h-36 rounded-2xl"></div>
+      <div class="skeleton h-36 rounded-2xl"></div><div class="skeleton h-36 rounded-2xl"></div>
+      <div class="skeleton h-36 rounded-2xl"></div><div class="skeleton h-36 rounded-2xl"></div>
+    </div>
+
+    <!-- ── Infinite scroll sentinel ── -->
+    <div id="feed-sentinel" class="mt-8 text-center">
+      <div id="load-more-btn" class="hidden">
+        <button onclick="loadMoreItems()" class="mx-auto px-8 py-3 bg-white dark:bg-white/10 border border-slate-200 dark:border-white/10 text-navy-900 dark:text-white rounded-xl text-sm font-semibold hover:bg-slate-50 dark:hover:bg-white/20 transition-colors shadow-sm">
+          Load More Headlines
+        </button>
+      </div>
+      <div id="load-more-spinner" class="hidden">
+        <div id="load-more-sentinel" class="w-32 h-1 rounded-full mx-auto opacity-60"></div>
+        <p class="text-xs text-slate-400 mt-2">Loading more…</p>
+      </div>
+      <div id="feed-end-msg" class="hidden text-xs text-slate-400 py-4">— All available headlines loaded —</div>
+    </div>
+
+    <!-- ── Technical note ── -->
+    <p class="text-center text-xs text-slate-400 dark:text-slate-500 italic mt-8 max-w-2xl mx-auto">
+      RSS feeds are fetched client-side via the allorigins.win CORS proxy. Some sources may block third-party proxy access. For a production deployment, use a lightweight server-side proxy (e.g. a Cloudflare Worker) for 100% reliability.
+    </p>
+  </div>
+</div>
+
+<!-- ── Source Status Panel (modal) ── -->
+<div id="source-panel" class="fixed inset-0 z-[200] hidden items-center justify-center p-4">
+  <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="hideSourcePanel()"></div>
+  <div class="relative bg-white dark:bg-navy-700 rounded-2xl shadow-2xl w-full max-w-2xl max-h-[80vh] overflow-hidden flex flex-col z-10">
+    <div class="flex items-center justify-between px-6 py-4 border-b border-slate-100 dark:border-white/10">
+      <h3 class="serif text-xl text-navy-900 dark:text-white">RSS Source Status</h3>
+      <button onclick="hideSourcePanel()" class="text-slate-400 hover:text-slate-600 dark:hover:text-white"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg></button>
+    </div>
+    <div id="source-panel-body" class="overflow-y-auto p-6 flex-1 text-sm space-y-2"></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     PAGE: SUBMIT OUTLET (new)
+═══════════════════════════════════════════════════════ -->
+<div id="page-submit" class="page">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-14">
+    <div class="mb-10">
+      <div class="inline-flex items-center gap-2 bg-gold/10 border border-gold/30 text-gold text-[11px] font-semibold tracking-[.16em] uppercase px-3.5 py-1.5 rounded-full mb-5">📝 Community Contributions</div>
+      <h1 class="serif text-4xl text-navy-900 dark:text-white mb-3">Submit a New Outlet</h1>
+      <p class="text-slate-500 dark:text-slate-400 leading-relaxed max-w-xl">Know a Michigan media outlet we're missing? Submit it here and we'll review it for inclusion in the next directory update. All submissions are manually verified before publishing.</p>
+    </div>
+
+    <!-- ── Option A: Embedded Google Form ── -->
+    <div class="mb-10 bg-white dark:bg-white/5 rounded-2xl border border-slate-200 dark:border-white/10 overflow-hidden shadow-sm">
+      <div class="px-6 py-4 bg-navy-900 flex items-center gap-3">
+        <svg class="w-5 h-5 text-gold shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+        <span class="text-white font-semibold text-sm">Option A — Google Form (recommended)</span>
+      </div>
+      <div class="p-6">
+        <p class="text-slate-500 dark:text-slate-400 text-sm mb-4">The easiest way to submit. Your data goes directly to a Google Sheet for review.</p>
+        <!-- TODO: Replace the URL below with your actual Google Form link -->
+        <a href="https://forms.gle/REPLACE_WITH_YOUR_GOOGLE_FORM_ID" target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-6 py-3 bg-gold hover:bg-gold-light text-white font-semibold rounded-xl text-sm transition-colors shadow-md">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+          Open Google Form
+        </a>
+        <p class="text-xs text-slate-400 mt-3">Opens in a new tab. Responses are reviewed within 5–7 business days.</p>
+      </div>
+    </div>
+
+    <!-- ── Option B: Built-in form (client-side validation + mailto fallback) ── -->
+    <div class="bg-white dark:bg-white/5 rounded-2xl border border-slate-200 dark:border-white/10 overflow-hidden shadow-sm">
+      <div class="px-6 py-4 bg-slate-700 dark:bg-white/10 flex items-center gap-3">
+        <svg class="w-5 h-5 text-white/70 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+        <span class="text-white font-semibold text-sm">Option B — Email Submission Form</span>
+      </div>
+      <form id="submit-form" onsubmit="handleSubmitForm(event)" class="p-6 grid grid-cols-1 sm:grid-cols-2 gap-5">
+
+        <div class="sm:col-span-2">
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">Outlet Name <span class="text-red-500">*</span></label>
+          <input name="outletName" required type="text" placeholder="e.g. WXYZ Channel 7 Action News"
+            class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white placeholder-slate-400 focus:outline-none"/>
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">Category <span class="text-red-500">*</span></label>
+          <select name="category" required class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white text-slate-700 focus:outline-none pr-8">
+            <option value="">Select category…</option>
+            <option>TV Station</option><option>Radio Station</option><option>Daily Newspaper</option>
+            <option>Weekly Newspaper</option><option>Magazine</option><option>Digital/Online</option>
+            <option>Public Media</option><option>Community/Ethnic</option><option>University Paper</option><option>Other</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">City / Region <span class="text-red-500">*</span></label>
+          <input name="city" required type="text" placeholder="e.g. Detroit, Grand Rapids, Statewide"
+            class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white placeholder-slate-400 focus:outline-none"/>
+        </div>
+
+        <div class="sm:col-span-2">
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">Website URL <span class="text-red-500">*</span></label>
+          <input name="url" required type="url" placeholder="https://www.example.com"
+            class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white placeholder-slate-400 focus:outline-none"/>
+        </div>
+
+        <div class="sm:col-span-2">
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">Short Description</label>
+          <textarea name="description" rows="3" placeholder="Brief description of the outlet, its focus, owner, etc."
+            class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white placeholder-slate-400 focus:outline-none resize-none"></textarea>
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">RSS Feed URL (if known)</label>
+          <input name="rss" type="url" placeholder="https://www.example.com/rss.xml"
+            class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white placeholder-slate-400 focus:outline-none"/>
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold text-slate-600 dark:text-slate-300 mb-1.5 uppercase tracking-wide">Your Email (optional)</label>
+          <input name="email" type="email" placeholder="for follow-up questions"
+            class="form-input w-full px-4 py-2.5 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl text-sm dark:text-white placeholder-slate-400 focus:outline-none"/>
+        </div>
+
+        <div class="sm:col-span-2 flex items-start gap-3">
+          <input type="checkbox" id="agree-check" name="agree" required class="mt-0.5 w-4 h-4 accent-gold shrink-0"/>
+          <label for="agree-check" class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">I confirm this is a real Michigan media outlet and I'm not submitting spam or promotional content. I understand submissions are reviewed before publishing.</label>
+        </div>
+
+        <div id="submit-form-error" class="hidden sm:col-span-2 p-3 bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-xl text-xs text-red-700 dark:text-red-300"></div>
+        <div id="submit-form-success" class="hidden sm:col-span-2 p-4 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-xl text-sm text-green-700 dark:text-green-300 font-medium"></div>
+
+        <div class="sm:col-span-2">
+          <button type="submit" id="submit-btn"
+            class="px-8 py-3 bg-navy-900 dark:bg-gold hover:opacity-90 text-white font-semibold rounded-xl text-sm transition-opacity shadow-md flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"/></svg>
+            Submit for Review
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <div class="mt-8 p-4 bg-slate-50 dark:bg-white/5 rounded-xl border border-slate-200 dark:border-white/10 text-xs text-slate-500 dark:text-slate-400">
+      <strong class="text-navy-900 dark:text-white">Review process:</strong> Submissions are checked for accuracy against FCC records, Wikipedia, and official outlet sites. Approved outlets are added in the next monthly update. We do not accept submissions for outlets based outside Michigan.
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     PAGE: ABOUT
+═══════════════════════════════════════════════════════ -->
+<div id="page-about" class="page">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-14">
+    <h1 class="serif text-4xl text-navy-900 dark:text-white mb-3">About Michigan Media Hub</h1>
+    <p class="text-slate-500 dark:text-slate-400 mb-10">Non-commercial reference directory and live news aggregator</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+      <div class="bg-white dark:bg-white/5 rounded-2xl p-6 shadow-sm border border-slate-100 dark:border-white/8">
+        <h3 class="serif text-xl text-navy-900 dark:text-white mb-3">What This Is</h3>
+        <p class="text-slate-600 dark:text-slate-400 text-sm leading-relaxed">Michigan Media Hub is a comprehensive, non-commercial reference cataloging every known media outlet in or serving Michigan as of 2026. Designed for journalists, researchers, PR professionals, and curious residents who want a single authoritative source for the state's media landscape.</p>
+      </div>
+      <div class="bg-white dark:bg-white/5 rounded-2xl p-6 shadow-sm border border-slate-100 dark:border-white/8">
+        <h3 class="serif text-xl text-navy-900 dark:text-white mb-3">Data Sources</h3>
+        <ul class="space-y-1.5 text-sm text-slate-600 dark:text-slate-400">
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>Wikipedia: TV/Radio/Newspapers in Michigan</li>
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>FCC License database (fcc.gov)</li>
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>StationIndex.com Michigan directory</li>
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>Michigan Association of Broadcasters</li>
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>w3newspapers.com Michigan listings</li>
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>New Michigan Media coalition</li>
+          <li class="flex gap-2"><span class="text-gold font-bold">→</span>Official station and outlet websites</li>
+        </ul>
+      </div>
+    </div>
+    <div class="bg-gold/10 dark:bg-gold/5 border border-gold/30 rounded-2xl p-6 mb-8">
+      <h3 class="serif text-xl text-navy-900 dark:text-white mb-2">Disclaimer</h3>
+      <p class="text-slate-600 dark:text-slate-400 text-sm leading-relaxed">For informational purposes only. Not affiliated with, endorsed by, or sponsored by any listed outlet. URLs verified as of March 2026. Michigan Media Hub does not endorse the editorial positions of any listed outlet. All links open in new tabs.</p>
+    </div>
+    <div class="text-center text-sm text-slate-400">
+      <p>Submit corrections or new outlets: <button onclick="showPage('submit')" class="text-gold hover:underline">Submit an Outlet →</button></p>
+      <p class="mt-1">Last updated: March 2026 · Analytics: Google Analytics 4 (replace placeholder ID)</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     FOOTER
+═══════════════════════════════════════════════════════ -->
+<footer class="bg-navy-900 text-white/50 py-8 border-t border-white/10 mt-8">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
+      <div class="flex items-center gap-2.5">
+        <div class="w-7 h-7 rounded-lg bg-gold flex items-center justify-center shrink-0"><svg viewBox="0 0 24 24" fill="none" class="w-4 h-4" stroke="white" stroke-width="2.5"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/></svg></div>
+        <span>Data sourced from <strong class="text-white/70">Wikipedia, EIN Presswire &amp; official sites.</strong> Links open in new tabs. Not affiliated with any outlet.</span>
+      </div>
+      <div class="flex gap-5 shrink-0">
+        <button onclick="showPage('home')"       class="hover:text-gold transition-colors">Home</button>
+        <button onclick="showPage('directory')"  class="hover:text-gold transition-colors">Directory</button>
+        <button onclick="showPage('aggregator')" class="hover:text-gold transition-colors">Feed</button>
+        <button onclick="showPage('submit')"     class="hover:text-gold transition-colors">Submit</button>
+        <button onclick="showPage('about')"      class="hover:text-gold transition-colors">About</button>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ═══════════════════════════════════════════════════════
+     DATA + JAVASCRIPT
+═══════════════════════════════════════════════════════ -->
+<script>
+'use strict';
+
+// ─── OUTLET DATA ──────────────────────────────────────────────────────────────
+const OUTLETS = {
+tv:[
+  {name:"WJBK – FOX 2 Detroit",city:"Detroit",market:"Detroit",url:"https://www.fox2detroit.com",badge:"Fox",type:"TV",desc:"Fox O&O; local news, Let It Rip political show, Detroit sports.",color:"red"},
+  {name:"WDIV-TV – Local 4",city:"Detroit",market:"Detroit",url:"https://www.clickondetroit.com",badge:"NBC",type:"TV",desc:"NBC; Graham Media Group. Detroit's top-rated local news station.",color:"blue"},
+  {name:"WXYZ-TV – Channel 7",city:"Detroit",market:"Detroit",url:"https://www.wxyz.com",badge:"ABC",type:"TV",desc:"ABC; E.W. Scripps. Strong investigative unit, 7 Action News.",color:"amber"},
+  {name:"WWJ-TV – CBS 62",city:"Detroit",market:"Detroit",url:"https://www.cbsdetroit.com",badge:"CBS",type:"TV",desc:"CBS; CBS Media Ventures. 24-hour news format.",color:"blue"},
+  {name:"WKBD-TV – CW50",city:"Detroit",market:"Detroit",url:"https://www.cw50detroit.com",badge:"CW",type:"TV",desc:"The CW; CBS Media Ventures. Entertainment and syndicated content.",color:"green"},
+  {name:"WTVS – Detroit PBS 56",city:"Detroit",market:"Detroit",url:"https://www.detroitpublic.org",badge:"PBS",type:"TV",desc:"PBS; Detroit Educational TV Foundation. Award-winning local documentaries.",color:"purple"},
+  {name:"WMYD – TV20 Detroit",city:"Detroit",market:"Detroit",url:"https://www.tv20detroit.com",badge:"Indep.",type:"TV",desc:"Independent station; Gray Television. Syndicated and local content.",color:"slate"},
+  {name:"WOOD-TV – NBC 8",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.woodtv.com",badge:"NBC",type:"TV",desc:"NBC; Gray Television. West Michigan's top news station since 1949.",color:"blue"},
+  {name:"WZZM – 13 ABC",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wzzm13.com",badge:"ABC",type:"TV",desc:"ABC; Gray Television. Dominant storm team weather coverage.",color:"amber"},
+  {name:"WWMT – News Channel 3",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.wwmt.com",badge:"CBS",type:"TV",desc:"CBS/CW; Nexstar. Serves Kalamazoo and Grand Rapids.",color:"blue"},
+  {name:"WXMI – FOX 17",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.fox17online.com",badge:"Fox",type:"TV",desc:"Fox; Nexstar. West Michigan Fox with local news.",color:"red"},
+  {name:"WGVU-TV – PBS",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgvu.org",badge:"PBS",type:"TV",desc:"PBS; Grand Valley State University.",color:"purple"},
+  {name:"WNEM-TV – TV5",city:"Saginaw",market:"Flint",url:"https://www.wnem.com",badge:"CBS",type:"TV",desc:"CBS; Gray Television. Flint-Saginaw-Bay City tri-city market.",color:"blue"},
+  {name:"WJRT-TV – ABC 12",city:"Flint",market:"Flint",url:"https://www.abc12.com",badge:"ABC",type:"TV",desc:"ABC; Gray Television. Leading local news in Flint.",color:"amber"},
+  {name:"WEYI-TV – NBC 25",city:"Saginaw",market:"Flint",url:"https://www.nbc25.com",badge:"NBC",type:"TV",desc:"NBC; Howard Stirk Holdings. Saginaw Valley news.",color:"blue"},
+  {name:"WLNS-TV – 6 News",city:"Lansing",market:"Lansing",url:"https://www.wlns.com",badge:"CBS",type:"TV",desc:"CBS; Nexstar. Capital-area CBS station since 1950.",color:"blue"},
+  {name:"WILX-TV – News 10",city:"Lansing",market:"Lansing",url:"https://www.wilx.com",badge:"NBC",type:"TV",desc:"NBC; Gray Television. Strong statehouse bureau coverage.",color:"blue"},
+  {name:"WSYM-TV – FOX 47",city:"Lansing",market:"Lansing",url:"https://www.fox47news.com",badge:"Fox",type:"TV",desc:"Fox; Nexstar. Mid-Michigan Fox with local news.",color:"red"},
+  {name:"WKAR-TV – MSU PBS",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"PBS",type:"TV",desc:"PBS; Michigan State University. Award-winning public broadcasting.",color:"purple"},
+  {name:"WWTV – 9&10 News",city:"Cadillac",market:"Traverse City",url:"https://www.9and10news.com",badge:"CBS",type:"TV",desc:"CBS/Fox; Gray Television. Northern Michigan's primary news outlet.",color:"blue"},
+  {name:"WPBN-TV – NBC 7",city:"Traverse City",market:"Traverse City",url:"https://www.upnorthlive.com",badge:"NBC",type:"TV",desc:"NBC; Sinclair. Partners with WGTU for Northern Michigan news.",color:"blue"},
+  {name:"WLUC-TV – Upper Michigan's Source",city:"Marquette",market:"Marquette",url:"https://www.uppermichiganssource.com",badge:"NBC",type:"TV",desc:"NBC/Fox; Gray TV. Primary commercial news for the Upper Peninsula.",color:"blue"},
+  {name:"WJMN-TV – ABC 3",city:"Escanaba",market:"Marquette",url:"https://www.abc3tv.com",badge:"ABC",type:"TV",desc:"ABC; Gray Television. UP-focused ABC news.",color:"amber"},
+  {name:"WBKB-TV 11 – Alpena",city:"Alpena",market:"Alpena",url:"https://www.wbkb11.com",badge:"Multi",type:"TV",desc:"CBS/NBC/ABC/Fox multicast; Thunder Bay Broadcasting. Only commercial station in Alpena DMA.",color:"orange"},
+],
+radio:[
+  {name:"WWJ-AM 950 – All-News",city:"Detroit",market:"Detroit",url:"https://www.wwj950.com",badge:"News",type:"Radio",desc:"24-hr all-news; Audacy. Detroit institution since 1920. 🎧 Listen online.",color:"blue"},
+  {name:"WJR-AM 760 – News/Talk",city:"Detroit",market:"Detroit",url:"https://www.wjr.com",badge:"Talk",type:"Radio",desc:"Heritage news/talk; Cumulus. 'Great Voice of the Great Lakes' since 1922. 🎧",color:"slate"},
+  {name:"WXYT-FM 97.1 – The Ticket",city:"Detroit",market:"Detroit",url:"https://www.971theticket.com",badge:"Sports",type:"Radio",desc:"Sports; Audacy. Detroit Sports Radio Network flagship since Dec 2025. 🎧",color:"green"},
+  {name:"WOMC 104.3 FM – Oldies",city:"Detroit",market:"Detroit",url:"https://www.womc.com",badge:"Oldies",type:"Radio",desc:"Classic hits/oldies; Audacy. Beloved Detroit institution. 🎧",color:"amber"},
+  {name:"WYCD 99.5 FM – Country",city:"Detroit",market:"Detroit",url:"https://www.wycd.com",badge:"Country",type:"Radio",desc:"Country music; Audacy. 'New Country 99.5.' Annual St. Jude radiothon. 🎧",color:"orange"},
+  {name:"WJLB 97.9 FM – Hip-Hop",city:"Detroit",market:"Detroit",url:"https://www.wjlb.com",badge:"Urban",type:"Radio",desc:"Urban/hip-hop; iHeart. Dominant urban station in Metro Detroit. 🎧",color:"violet"},
+  {name:"WDET 101.9 FM – NPR",city:"Detroit",market:"Detroit",url:"https://wdet.org",badge:"NPR",type:"Radio",desc:"Detroit Public Radio; Wayne State University. NPR news, music, culture. 🎧",color:"purple"},
+  {name:"WRCJ 90.9 FM – Classical",city:"Detroit",market:"Detroit",url:"https://www.wrcj.org",badge:"Classical",type:"Radio",desc:"Classical and jazz; Detroit Public Media. Fine-arts music station. 🎧",color:"indigo"},
+  {name:"WRIF 101.1 FM – Rock",city:"Detroit",market:"Detroit",url:"https://www.wrif.com",badge:"Rock",type:"Radio",desc:"Classic rock; Beasley Media. 'WRIF Rock Detroit.' 🎧",color:"red"},
+  {name:"WOOD-AM 1300 – Talk",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.woodradio.com",badge:"Talk",type:"Radio",desc:"Heritage news/talk; iHeart. West Michigan's longtime talk radio home. 🎧",color:"slate"},
+  {name:"WGRD 97.9 FM – Rock",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgrd.com",badge:"Rock",type:"Radio",desc:"Active rock; iHeart. Grand Rapids' leading rock station. 🎧",color:"red"},
+  {name:"WFGR 98.7 – Sports",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.987thegrand.com",badge:"Sports",type:"Radio",desc:"Sports; Townsquare. Detroit Sports Radio Network affiliate Dec 2025. 🎧",color:"green"},
+  {name:"WVGR 104.1 FM – NPR",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.michiganpublic.org",badge:"NPR",type:"Radio",desc:"NPR/Michigan Public; U of M affiliate. 🎧",color:"purple"},
+  {name:"WITL 100.7 FM – Country",city:"Lansing",market:"Lansing",url:"https://www.witl.com",badge:"Country",type:"Radio",desc:"Country; Townsquare. Lansing's dominant country station. 🎧",color:"orange"},
+  {name:"WKAR-FM 90.5 – NPR/MSU",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"NPR",type:"Radio",desc:"NPR; Michigan State University. News, talk, classical. 🎧",color:"purple"},
+  {name:"WUOM 91.7 FM – Michigan Public",city:"Ann Arbor",market:"Statewide",url:"https://www.michiganpublic.org",badge:"NPR",type:"Radio",desc:"Flagship NPR; University of Michigan / Michigan Public. 🎧",color:"purple"},
+  {name:"WEMU 89.1 FM – Jazz/NPR",city:"Ypsilanti",market:"Ann Arbor",url:"https://www.wemu.org",badge:"Jazz",type:"Radio",desc:"Jazz and NPR; Eastern Michigan University. One of nation's great jazz stations. 🎧",color:"teal"},
+  {name:"WNMU-FM 90.1 – NPR",city:"Marquette",market:"Marquette",url:"https://www.nmu.edu/wnmu",badge:"NPR",type:"Radio",desc:"Public radio; Northern Michigan University. Primary UP public radio. 🎧",color:"purple"},
+  {name:"WIAA 88.7 FM – IPR Classical",city:"Interlochen",market:"Traverse City",url:"https://www.interlochenpublicradio.org",badge:"Classical",type:"Radio",desc:"Classical; Interlochen Center for the Arts. 20+ county reach. 🎧",color:"indigo"},
+  {name:"WICA 91.5 FM – IPR News",city:"Traverse City",market:"Traverse City",url:"https://www.interlochenpublicradio.org",badge:"NPR",type:"Radio",desc:"NPR news; Interlochen Public Radio. Northern Michigan news hub. 🎧",color:"purple"},
+  {name:"WCMU 89.5 FM – Public",city:"Mount Pleasant",market:"Statewide",url:"https://www.wcmu.org",badge:"NPR",type:"Radio",desc:"Central Michigan University public radio. Large northern MI/UP coverage. 🎧",color:"purple"},
+],
+daily:[
+  {name:"Detroit Free Press",city:"Detroit",market:"Detroit",url:"https://www.freep.com",badge:"Gannett",type:"Print",desc:"Michigan's largest daily; founded 1831. Pulitzer Prize-winning investigative journalism.",color:"blue"},
+  {name:"The Detroit News",city:"Detroit",market:"Detroit",url:"https://www.detroitnews.com",badge:"Gannett",type:"Print",desc:"Conservative broadsheet; founded 1873. Strong automotive and politics coverage.",color:"blue"},
+  {name:"Lansing State Journal",city:"Lansing",market:"Lansing",url:"https://www.lansingstatejournal.com",badge:"Gannett",type:"Print",desc:"Capital-region daily; Gannett. Statehouse and local government focus.",color:"blue"},
+  {name:"Grand Rapids Press",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.mlive.com/grand-rapids",badge:"MLive",type:"Print",desc:"West Michigan daily; Advance Local/MLive. Print T/Th/Sun, digital-first.",color:"teal"},
+  {name:"Kalamazoo Gazette",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.mlive.com/kalamazoo",badge:"MLive",type:"Print",desc:"Southwest Michigan daily; Advance Local/MLive.",color:"teal"},
+  {name:"The Ann Arbor News",city:"Ann Arbor",market:"Detroit",url:"https://www.mlive.com/ann-arbor",badge:"MLive",type:"Print",desc:"Washtenaw County; Advance Local/MLive. U of M and local coverage.",color:"teal"},
+  {name:"The Flint Journal",city:"Flint",market:"Flint",url:"https://www.mlive.com/flint",badge:"MLive",type:"Print",desc:"Genesee County; Advance Local/MLive. Investigative local news.",color:"teal"},
+  {name:"Traverse City Record-Eagle",city:"Traverse City",market:"Traverse City",url:"https://www.record-eagle.com",badge:"Indep.",type:"Print",desc:"Northwest Michigan independent daily. Strong regional coverage.",color:"green"},
+  {name:"Alpena News",city:"Alpena",market:"Alpena",url:"https://www.thealpenanews.com",badge:"Indep.",type:"Print",desc:"Northeast Michigan independent daily. Family-owned.",color:"green"},
+  {name:"Oakland Press",city:"Pontiac",market:"Detroit",url:"https://www.theoaklandpress.com",badge:"DFM",type:"Print",desc:"Oakland County; Digital First Media.",color:"orange"},
+  {name:"Macomb Daily",city:"Mount Clemens",market:"Detroit",url:"https://www.macombdaily.com",badge:"DFM",type:"Print",desc:"Macomb County; Digital First Media.",color:"orange"},
+  {name:"Battle Creek Enquirer",city:"Battle Creek",market:"Grand Rapids",url:"https://www.battlecreekenquirer.com",badge:"Gannett",type:"Print",desc:"Calhoun County daily; Gannett/USA Today Network.",color:"blue"},
+  {name:"Holland Sentinel",city:"Holland",market:"Grand Rapids",url:"https://www.hollandsentinel.com",badge:"Gannett",type:"Print",desc:"Ottawa County daily; Gannett.",color:"blue"},
+  {name:"Midland Daily News",city:"Midland",market:"Flint",url:"https://www.ourmidland.com",badge:"Indep.",type:"Print",desc:"Midland County. Dow Chemical headquarters community coverage.",color:"green"},
+  {name:"Petoskey News-Review",city:"Petoskey",market:"Traverse City",url:"https://www.petoskeynews.com",badge:"Indep.",type:"Print",desc:"Emmet/Charlevoix counties. Northern Lower Peninsula community paper.",color:"green"},
+  {name:"Monroe Evening News",city:"Monroe",market:"Detroit",url:"https://www.monroenews.com",badge:"Indep.",type:"Print",desc:"Monroe County independent daily since 1835.",color:"green"},
+  {name:"Huron Daily Tribune",city:"Bad Axe",market:"Flint",url:"https://www.michigansthumb.com",badge:"Indep.",type:"Print",desc:"'Michigan's Thumb' region daily.",color:"green"},
+],
+weekly:[
+  {name:"Metro Times",city:"Detroit",market:"Detroit",url:"https://www.metrotimes.com",badge:"Alt-Weekly",type:"Print",desc:"Michigan's largest alternative weekly. Arts, culture, nightlife, investigative.",color:"red"},
+  {name:"Michigan Chronicle",city:"Detroit",market:"Detroit",url:"https://www.michiganchronicle.com",badge:"Community",type:"Print",desc:"African American weekly; est. 1936. Oldest Black weekly in Michigan.",color:"amber"},
+  {name:"The Arab American News",city:"Dearborn",market:"Detroit",url:"https://arabamericannews.com",badge:"Bilingual",type:"Print",desc:"Largest Arab-American paper in the US; bilingual; est. 1984.",color:"green"},
+  {name:"Jewish News",city:"Southfield",market:"Detroit",url:"https://www.jewishnews.net",badge:"Community",type:"Print",desc:"Metro Detroit Jewish community weekly.",color:"blue"},
+  {name:"Northern Express",city:"Traverse City",market:"Traverse City",url:"https://www.northernexpress.com",badge:"Alt-Weekly",type:"Print",desc:"Northern Michigan alt-weekly. Arts, culture, environment, opinion.",color:"red"},
+  {name:"Observer & Eccentric",city:"Livonia",market:"Detroit",url:"https://www.hometownlife.com",badge:"Gannett",type:"Print",desc:"Suburban Detroit weekly group; Hometown Life/Gannett.",color:"blue"},
+  {name:"Mining Journal",city:"Marquette",market:"Marquette",url:"https://www.miningjournal.net",badge:"UP",type:"Print",desc:"Upper Peninsula's primary newspaper since 1846.",color:"orange"},
+  {name:"C&G Newspapers",city:"Macomb/Oakland",market:"Detroit",url:"https://www.candgnews.com",badge:"Group",type:"Print",desc:"Network of 12 Oakland and Macomb county community papers.",color:"slate"},
+  {name:"Leelanau Enterprise",city:"Leland",market:"Traverse City",url:"https://www.leelanaunews.com",badge:"Indep.",type:"Print",desc:"Leelanau County award-winning independent weekly.",color:"green"},
+  {name:"Daily Mining Gazette",city:"Houghton",market:"Upper Peninsula",url:"https://www.mininggazette.com",badge:"UP",type:"Print",desc:"Copper country UP newspaper. Houghton/Keweenaw coverage.",color:"orange"},
+  {name:"Ironwood Daily Globe",city:"Ironwood",market:"Upper Peninsula",url:"https://www.ironwoodglobe.com",badge:"UP",type:"Print",desc:"Gogebic County UP newspaper.",color:"orange"},
+],
+magazines:[
+  {name:"Hour Detroit",city:"Troy",market:"Detroit",url:"https://www.hourdetroit.com",badge:"Lifestyle",type:"Magazine",desc:"Metro Detroit lifestyle magazine; est. 1996. Dining, arts, events, profiles. Hour Media.",color:"pink"},
+  {name:"DBusiness",city:"Troy",market:"Detroit",url:"https://www.dbusiness.com",badge:"Business",type:"Magazine",desc:"Detroit's premier business magazine. Corporate profiles, real estate, finance.",color:"blue"},
+  {name:"Michigan Blue",city:"Troy",market:"Statewide",url:"https://www.michiganblue.com",badge:"Lifestyle",type:"Magazine",desc:"Great Lakes lifestyle and waterfront adventures across Michigan. Hour Media.",color:"sky"},
+  {name:"Traverse — Northern Michigan's Magazine",city:"Traverse City",market:"Traverse City",url:"https://www.mynorth.com",badge:"Regional",type:"Magazine",desc:"Northern Michigan lifestyle flagship since 1981. Travel, wine, outdoors.",color:"green"},
+  {name:"Grand Rapids Magazine",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.grandrapidsmagazine.com",badge:"Regional",type:"Magazine",desc:"West Michigan lifestyle since 1964. Dining, arts, community.",color:"teal"},
+  {name:"Crain's Detroit Business",city:"Detroit",market:"Detroit",url:"https://www.crainsdetroit.com",badge:"Business",type:"Magazine",desc:"Premier Detroit business weekly since 1985. Automotive, real estate, healthcare.",color:"blue"},
+  {name:"Crain's Grand Rapids Business",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.crainsgrandrapids.com",badge:"Business",type:"Magazine",desc:"West Michigan business news. Crain Communications.",color:"blue"},
+  {name:"Automotive News",city:"Detroit",market:"Detroit",url:"https://www.autonews.com",badge:"Trade",type:"Magazine",desc:"Global automotive industry trade. Crain Communications, Detroit HQ.",color:"slate"},
+  {name:"Michigan History Magazine",city:"Lansing",market:"Statewide",url:"https://www.michiganhistorymagazine.com",badge:"History",type:"Magazine",desc:"Bimonthly popular history; Historical Society of Michigan.",color:"amber"},
+  {name:"BLAC Detroit",city:"Detroit",market:"Detroit",url:"https://www.blacdetroit.com",badge:"Culture",type:"Magazine",desc:"Black lifestyle and culture magazine for Metro Detroit.",color:"violet"},
+  {name:"SEEN Magazine",city:"Farmington Hills",market:"Detroit",url:"https://www.seenthemagazine.com",badge:"Lifestyle",type:"Magazine",desc:"Metro Detroit lifestyle since 2015. Society, philanthropy, events.",color:"pink"},
+],
+digital:[
+  {name:"MLive",city:"Grand Rapids",market:"Statewide",url:"https://www.mlive.com",badge:"Advance",type:"Digital",desc:"Michigan's largest digital news network. All major markets. Advance Local.",color:"teal"},
+  {name:"Bridge Michigan",city:"Lansing / Ann Arbor",market:"Statewide",url:"https://www.bridgemi.com",badge:"Nonprofit",type:"Digital",desc:"Nonprofit investigative/policy journalism. Center for Michigan. Nonpartisan.",color:"green"},
+  {name:"BridgeDetroit",city:"Detroit",market:"Detroit",url:"https://www.bridgedetroit.com",badge:"Nonprofit",type:"Digital",desc:"Nonprofit Detroit news — by and for Detroiters.",color:"green"},
+  {name:"Deadline Detroit",city:"Detroit",market:"Detroit",url:"https://www.deadlinedetroit.com",badge:"Indep.",type:"Digital",desc:"Independent digital news covering Detroit politics, media, and culture.",color:"red"},
+  {name:"Outlier Media",city:"Detroit",market:"Detroit",url:"https://www.outliermedia.org",badge:"Nonprofit",type:"Digital",desc:"Nonprofit SMS/text-based community journalism. Information equity model.",color:"green"},
+  {name:"Planet Detroit",city:"Detroit",market:"Detroit",url:"https://planetdetroit.org",badge:"Nonprofit",type:"Digital",desc:"Nonprofit environmental journalism for Detroit and Southeast Michigan.",color:"lime"},
+  {name:"Chalkbeat Detroit",city:"Detroit",market:"Detroit",url:"https://www.chalkbeat.org/detroit",badge:"Nonprofit",type:"Digital",desc:"National nonprofit newsroom covering Detroit education.",color:"green"},
+  {name:"Michigan Advance",city:"Lansing",market:"Statewide",url:"https://www.michiganadvance.com",badge:"Digital",type:"Digital",desc:"Progressive-focused digital news; Courier Newsroom. State politics.",color:"violet"},
+  {name:"Axios Detroit",city:"Detroit",market:"Detroit",url:"https://www.axios.com/local/detroit",badge:"Axios",type:"Digital",desc:"Smart brevity local journalism for Metro Detroit. Axios.",color:"blue"},
+  {name:"Votebeat Michigan",city:"Michigan",market:"Statewide",url:"https://www.votebeat.org/michigan",badge:"Nonprofit",type:"Digital",desc:"Nonprofit election integrity and voting journalism.",color:"green"},
+  {name:"ClickOnDetroit",city:"Detroit",market:"Detroit",url:"https://www.clickondetroit.com",badge:"TV/Digital",type:"Digital",desc:"WDIV-TV's digital platform. High-traffic local news and video.",color:"blue"},
+  {name:"Capitol Confidential",city:"Midland",market:"Statewide",url:"https://www.capitalconfidential.com",badge:"Policy",type:"Digital",desc:"Mackinac Center for Public Policy's news outlet. Free-market policy journalism.",color:"orange"},
+],
+public:[
+  {name:"Michigan Public (WUOM 91.7)",city:"Ann Arbor",market:"Statewide",url:"https://www.michiganpublic.org",badge:"NPR/PBS",type:"Public",desc:"Flagship Michigan NPR; University of Michigan. WUOM/WVGR statewide.",color:"purple"},
+  {name:"WKAR Public Media",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"NPR/PBS",type:"Public",desc:"MSU public media: TV (PBS 23), FM (90.5), and digital.",color:"purple"},
+  {name:"WDET 101.9 FM",city:"Detroit",market:"Detroit",url:"https://wdet.org",badge:"NPR",type:"Public",desc:"Detroit Public Radio; Wayne State University. NPR news, music, culture.",color:"purple"},
+  {name:"Detroit Public Television",city:"Detroit",market:"Detroit",url:"https://www.detroitpublic.org",badge:"PBS",type:"Public",desc:"PBS affiliate Ch. 56; Detroit Educational TV Foundation.",color:"purple"},
+  {name:"WGVU Public Media",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgvu.org",badge:"NPR/PBS",type:"Public",desc:"Grand Valley State's public media: TV (35/52) and radio (88.5/104.1).",color:"purple"},
+  {name:"Interlochen Public Radio",city:"Interlochen",market:"Traverse City",url:"https://www.interlochenpublicradio.org",badge:"NPR",type:"Public",desc:"IPR Classical + News; Interlochen Center for the Arts. 20+ northern counties.",color:"purple"},
+  {name:"WCMU Public Broadcasting",city:"Mount Pleasant",market:"Statewide",url:"https://www.wcmu.org",badge:"NPR/PBS",type:"Public",desc:"Central Michigan University: TV + radio across northern MI and UP.",color:"purple"},
+  {name:"WMUK 102.1 FM",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.wmuk.org",badge:"NPR",type:"Public",desc:"Western Michigan University NPR. Southwest Michigan public radio.",color:"purple"},
+  {name:"WNMU-FM 90.1",city:"Marquette",market:"Marquette",url:"https://www.nmu.edu/wnmu",badge:"NPR",type:"Public",desc:"Northern Michigan University public radio. Primary NPR for eastern UP.",color:"purple"},
+  {name:"WEMU 89.1 FM",city:"Ypsilanti",market:"Ann Arbor",url:"https://www.wemu.org",badge:"NPR/Jazz",type:"Public",desc:"Eastern Michigan University jazz and NPR. One of America's great jazz stations.",color:"purple"},
+  {name:"Delta College Public Radio",city:"University Center",market:"Flint",url:"https://www.qtv.org",badge:"NPR/PBS",type:"Public",desc:"Delta College public radio and TV (QTV 19). Saginaw valley public media.",color:"purple"},
+],
+ethnic:[
+  {name:"The Arab American News",city:"Dearborn",market:"Detroit",url:"https://arabamericannews.com",badge:"Arabic",type:"Community",desc:"Largest Arab-American paper in the US; bilingual; est. 1984.",color:"green"},
+  {name:"Michigan Chronicle",city:"Detroit",market:"Detroit",url:"https://www.michiganchronicle.com",badge:"Black Press",type:"Community",desc:"African American weekly since 1936. Oldest Black weekly in Michigan.",color:"amber"},
+  {name:"Chaldean News",city:"West Bloomfield",market:"Detroit",url:"https://www.chaldeannews.com",badge:"Chaldean",type:"Community",desc:"Monthly for Metro Detroit Chaldean-American community.",color:"orange"},
+  {name:"Jewish News",city:"Southfield",market:"Detroit",url:"https://www.jewishnews.net",badge:"Jewish",type:"Community",desc:"Metro Detroit Jewish community. Jewish Federation of Metropolitan Detroit.",color:"blue"},
+  {name:"Latino Press",city:"Detroit",market:"Statewide",url:"https://www.latinopress.us",badge:"Spanish",type:"Community",desc:"Spanish-language newspaper. New Michigan Media network.",color:"red"},
+  {name:"El Central",city:"Detroit",market:"Detroit",url:"https://elcentral.media",badge:"Bilingual",type:"Community",desc:"Nonprofit bilingual news for Latino Detroit. New Michigan Media.",color:"red"},
+  {name:"BLAC Detroit",city:"Detroit",market:"Detroit",url:"https://www.blacdetroit.com",badge:"Black Culture",type:"Community",desc:"Black lifestyle and culture magazine.",color:"violet"},
+  {name:"Michigan Korean Weekly",city:"Detroit area",market:"Detroit",url:"https://www.koreantimes.com/michigan",badge:"Korean",type:"Community",desc:"Korean-American community news for Metro Detroit.",color:"indigo"},
+  {name:"New Michigan Media (network)",city:"Detroit",market:"Statewide",url:"https://newmichiganmedia.com",badge:"Coalition",type:"Community",desc:"Coalition of ethnic/minority media outlets across Michigan.",color:"green"},
+],
+university:[
+  {name:"The Michigan Daily",city:"Ann Arbor",market:"Ann Arbor",url:"https://www.michigandaily.com",badge:"U of M",type:"Student",desc:"Independent student daily; est. 1890. One of the nation's oldest college papers.",color:"blue"},
+  {name:"State News",city:"East Lansing",market:"Lansing",url:"https://www.statenews.com",badge:"MSU",type:"Student",desc:"Independent student daily at Michigan State University.",color:"green"},
+  {name:"CM Life",city:"Mount Pleasant",market:"Flint",url:"https://www.cm-life.com",badge:"CMU",type:"Student",desc:"Central Michigan University student newspaper.",color:"red"},
+  {name:"Grand Valley Lanthorn",city:"Allendale",market:"Grand Rapids",url:"https://www.lanthorn.com",badge:"GVSU",type:"Student",desc:"Grand Valley State University student newspaper.",color:"blue"},
+  {name:"Western Herald",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.westernherald.com",badge:"WMU",type:"Student",desc:"Western Michigan University student newspaper.",color:"orange"},
+  {name:"Eastern Echo",city:"Ypsilanti",market:"Ann Arbor",url:"https://www.easternecho.com",badge:"EMU",type:"Student",desc:"Eastern Michigan University student newspaper.",color:"green"},
+  {name:"North Wind",city:"Marquette",market:"Marquette",url:"https://www.thenorthwindonline.com",badge:"NMU",type:"Student",desc:"Northern Michigan University student newspaper.",color:"slate"},
+  {name:"Ferris Torch",city:"Big Rapids",market:"Grand Rapids",url:"https://www.ferristorch.com",badge:"Ferris",type:"Student",desc:"Ferris State University student newspaper.",color:"amber"},
+  {name:"Oakland Post",city:"Rochester",market:"Detroit",url:"https://www.oaklandpostonline.com",badge:"OU",type:"Student",desc:"Oakland University student newspaper.",color:"gold"},
+],
+};
+
+// ─── RSS SOURCES — 16 sources with CORS proxy ─────────────────────────────────
+const RSS_SOURCES = [
+  // TV
+  {id:"wdiv",   name:"WDIV Local 4",            type:"TV",     color:"blue",   url:"https://www.clickondetroit.com/rss/",          priority:1},
+  {id:"wxyz",   name:"WXYZ Channel 7",           type:"TV",     color:"amber",  url:"https://www.wxyz.com/news/rss",                priority:1},
+  {id:"wood",   name:"WOOD-TV NBC 8",            type:"TV",     color:"blue",   url:"https://www.woodtv.com/feed/",                 priority:1},
+  {id:"wlns",   name:"WLNS 6 News",              type:"TV",     color:"blue",   url:"https://www.wlns.com/feed/",                   priority:2},
+  {id:"wnem",   name:"WNEM TV5",                 type:"TV",     color:"blue",   url:"https://www.wnem.com/rss/",                    priority:2},
+  {id:"910news",name:"9&10 News",                type:"TV",     color:"blue",   url:"https://www.9and10news.com/feed/",              priority:2},
+  {id:"fox2",   name:"FOX 2 Detroit",            type:"TV",     color:"red",    url:"https://www.fox2detroit.com/rss/",              priority:2},
+  // Print / Newspaper
+  {id:"freep",  name:"Detroit Free Press",       type:"Print",  color:"blue",   url:"https://rss.freep.com/freep/rss/index.xml",    priority:1},
+  {id:"detnews",name:"Detroit News",             type:"Print",  color:"slate",  url:"https://rss.detroitnews.com/news/local",       priority:1},
+  {id:"mlive",  name:"MLive Michigan",           type:"Print",  color:"teal",   url:"https://www.mlive.com/news/rss.xml",           priority:1},
+  {id:"lsj",    name:"Lansing State Journal",    type:"Print",  color:"blue",   url:"https://rss.lansingstatejournal.com/lansingstatejournal/rss/index.xml", priority:2},
+  {id:"recrdeagle",name:"Traverse City Record-Eagle",type:"Print",color:"green",url:"https://www.record-eagle.com/search/?f=rss",  priority:3},
+  // Digital
+  {id:"bridge", name:"Bridge Michigan",          type:"Digital",color:"green",  url:"https://www.bridgemi.com/rss.xml",             priority:1},
+  {id:"miadv",  name:"Michigan Advance",         type:"Digital",color:"violet", url:"https://michiganadvance.com/feed/",            priority:2},
+  // Public
+  {id:"miradio",name:"Michigan Public",          type:"Public", color:"purple", url:"https://www.michiganpublic.org/rss.xml",       priority:1},
+  {id:"wkar",   name:"WKAR Public Media",        type:"Public", color:"purple", url:"https://www.wkar.org/rss.xml",                 priority:2},
+];
+
+// Static fallback pool (18 items)
+const STATIC_FALLBACK = [
+  {title:"Gov. Whitmer Declares Emergency After Historic Northern Michigan Blizzard",source:"Bridge Michigan",type:"Digital",url:"https://bridgemi.com",pubDate:new Date(Date.now()-7200000)},
+  {title:"Detroit Lions Cap Breakout Season; Ford Field Atmosphere Best in Decades",source:"Detroit Free Press",type:"Print",url:"https://freep.com",pubDate:new Date(Date.now()-10800000)},
+  {title:"Flint Water Settlement Payments Begin Rolling Out to Thousands of Residents",source:"MLive",type:"Print",url:"https://mlive.com",pubDate:new Date(Date.now()-14400000)},
+  {title:"WDIV Investigation: Metro Detroit Potholes Cost Drivers Average $1,200/Year",source:"WDIV Local 4",type:"TV",url:"https://clickondetroit.com",pubDate:new Date(Date.now()-18000000)},
+  {title:"MSU Research Lab Achieves Breakthrough in Solid-State Battery Technology",source:"Lansing State Journal",type:"Print",url:"https://lansingstatejournal.com",pubDate:new Date(Date.now()-21600000)},
+  {title:"Grand Rapids Named Top-10 Small Business City for Third Consecutive Year",source:"Crain's Detroit Business",type:"Digital",url:"https://crainsdetroit.com",pubDate:new Date(Date.now()-25200000)},
+  {title:"97.1 The Ticket Statewide Sports Network Reaches Kalamazoo and Lansing",source:"Michigan Broadcasters",type:"TV",url:"https://michiganmedia.com",pubDate:new Date(Date.now()-28800000)},
+  {title:"Ann Arbor Council Approves Housing Density Plan Along Transit Corridors",source:"Michigan Public",type:"Public",url:"https://michiganpublic.org",pubDate:new Date(Date.now()-32400000)},
+  {title:"Upper Peninsula Blizzard Leaves 100,000 Without Power; Crews Racing",source:"9&10 News",type:"TV",url:"https://9and10news.com",pubDate:new Date(Date.now()-36000000)},
+  {title:"Detroit Auto Show Returns to Record Crowds; EV Models Dominate Floor",source:"Automotive News",type:"Digital",url:"https://autonews.com",pubDate:new Date(Date.now()-39600000)},
+  {title:"Traverse City Cherry Industry Grapples With Climate Change Impacts",source:"Record-Eagle",type:"Print",url:"https://record-eagle.com",pubDate:new Date(Date.now()-43200000)},
+  {title:"Dearborn Arab-American Advocates Push Federal Government for Census Category Reform",source:"Arab American News",type:"Print",url:"https://arabamericannews.com",pubDate:new Date(Date.now()-46800000)},
+  {title:"WKAR Wins National Edward R. Murrow Award for Statehouse Investigative Series",source:"WKAR Public Media",type:"Public",url:"https://wkar.org",pubDate:new Date(Date.now()-50400000)},
+  {title:"Michigan Bridge Repair Backlog Exceeds $3 Billion, Infrastructure Report Warns",source:"Bridge Michigan",type:"Digital",url:"https://bridgemi.com",pubDate:new Date(Date.now()-54000000)},
+  {title:"FOX 2 Detroit Charity Drive Raises $2M for Metro Detroit Food Banks",source:"FOX 2 Detroit",type:"TV",url:"https://fox2detroit.com",pubDate:new Date(Date.now()-57600000)},
+  {title:"Interlochen Public Radio Expands Transmitter Coverage to Three New Counties",source:"Interlochen Public Radio",type:"Public",url:"https://interlochenpublicradio.org",pubDate:new Date(Date.now()-61200000)},
+  {title:"Michigan Unemployment Falls to 4.1%, Lowest Rate in 25 Years, State Reports",source:"WOOD-TV NBC 8",type:"TV",url:"https://woodtv.com",pubDate:new Date(Date.now()-64800000)},
+  {title:"Petoskey News-Review Celebrates 150 Years of Independent Michigan Journalism",source:"Petoskey News-Review",type:"Print",url:"https://petoskeynews.com",pubDate:new Date(Date.now()-68400000)},
+];
+
+// ─── STATE ────────────────────────────────────────────────────────────────────
+let currentPage = 'home';
+let currentTab  = 'tv';
+let feedFilter  = 'all';
+let feedSort    = 'date';
+let allItems    = [];          // all fetched RSS items
+let sourceStatus= {};          // {sourceId: 'ok'|'fail'|'pending'}
+let visibleCount= 12;          // infinite scroll current window
+let BATCH_SIZE  = 9;           // items per load-more
+let rssBootstrapped = false;
+
+// ─── DARK MODE ────────────────────────────────────────────────────────────────
+function toggleDark(){
+  const on = document.documentElement.classList.toggle('dark');
+  localStorage.setItem('mmh-dark',on?'1':'0');
+  document.getElementById('icon-sun').classList.toggle('hidden',!on);
+  document.getElementById('icon-moon').classList.toggle('hidden',on);
+}
+(function initDark(){
+  const pref = localStorage.getItem('mmh-dark');
+  const sys  = window.matchMedia('(prefers-color-scheme:dark)').matches;
+  if(pref==='1'||(pref===null&&sys)){
+    document.documentElement.classList.add('dark');
+    document.getElementById('icon-sun').classList.remove('hidden');
+    document.getElementById('icon-moon').classList.add('hidden');
+  }
+})();
+
+// ─── NAVIGATION ───────────────────────────────────────────────────────────────
+function showPage(id){
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.getElementById('page-'+id).classList.add('active');
+  currentPage = id;
+  window.scrollTo({top:0,behavior:'smooth'});
+  gtag('event','page_view',{page_title:id}); // GA tracking
+  if(id==='home' && !document.getElementById('featured-grid').innerHTML.trim()){
+    renderFeatured(); renderHomePreview();
+  }
+  if(id==='directory') renderDir();
+  if(id==='aggregator' && !rssBootstrapped){ rssBootstrapped=true; loadAllFeeds(false); }
+}
+function goDir(tab){ showPage('directory'); switchTab(tab); }
+function heroGo(){
+  const v = document.getElementById('hero-search').value;
+  document.getElementById('dir-filter').value = v;
+  showPage('directory');
+  setTimeout(()=>filterDir(v),50);
+}
+
+// ─── MOBILE MENU ──────────────────────────────────────────────────────────────
+function toggleMob(){
+  document.getElementById('mob-menu').classList.toggle('open');
+  document.getElementById('mob-overlay').classList.toggle('hidden');
+}
+function closeMob(){
+  document.getElementById('mob-menu').classList.remove('open');
+  document.getElementById('mob-overlay').classList.add('hidden');
+}
+
+// ─── SEARCH ───────────────────────────────────────────────────────────────────
+function toggleSearch(){
+  const bar = document.getElementById('search-bar');
+  bar.classList.toggle('hidden');
+  if(!bar.classList.contains('hidden')) setTimeout(()=>document.getElementById('global-search').focus(),50);
+}
+function onGlobalSearch(val){
+  document.getElementById('dir-filter').value = val;
+  const total = Object.values(OUTLETS).flat().filter(o=>matchOut(o,val)).length;
+  const cnt = document.getElementById('gsearch-count');
+  if(val){cnt.textContent=total+' results';cnt.classList.remove('hidden');}
+  else cnt.classList.add('hidden');
+  if(currentPage==='directory') filterDir(val);
+}
+function clearGSearch(){
+  document.getElementById('global-search').value='';
+  document.getElementById('gsearch-count').classList.add('hidden');
+  if(currentPage==='directory'){document.getElementById('dir-filter').value='';filterDir('');}
+}
+
+// ─── DIRECTORY ────────────────────────────────────────────────────────────────
+function switchTab(tab){
+  currentTab=tab;
+  document.querySelectorAll('.tab').forEach(b=>{
+    const on=b.dataset.tab===tab;
+    b.classList.toggle('active',on);
+  });
+  filterDir(document.getElementById('dir-filter').value);
+}
+function matchOut(o,term){
+  if(!term) return true;
+  const t=term.toLowerCase();
+  return (o.name+o.city+o.market+o.desc+(o.badge||'')).toLowerCase().includes(t);
+}
+function filterDir(term=''){
+  const market=document.getElementById('market-filter').value;
+  const items=(OUTLETS[currentTab]||[]).filter(o=>{
+    const ms=matchOut(o,term);
+    const mm=!market||o.market.toLowerCase().includes(market.toLowerCase())||o.city.toLowerCase().includes(market.toLowerCase());
+    return ms&&mm;
+  });
+  const grid=document.getElementById('dir-grid');
+  const empty=document.getElementById('dir-empty');
+  const cnt=document.getElementById('dir-count');
+  cnt.textContent=`${items.length} outlet${items.length!==1?'s':''}`;
+  if(!items.length){grid.innerHTML='';empty.classList.remove('hidden');return;}
+  empty.classList.add('hidden');
+  grid.className='pt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 stagger';
+  grid.innerHTML=items.map(o=>outletCard(o,term)).join('');
+}
+function renderDir(){ filterDir(document.getElementById('dir-filter').value); }
+
+function hl(text,term){
+  if(!term||!text) return text||'';
+  const rx=new RegExp('('+term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');
+  return text.replace(rx,'<mark>$1</mark>');
+}
+const BADGE_COLORS={
+  blue:'bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300',
+  red:'bg-red-100 text-red-800 dark:bg-red-900/40 dark:text-red-300',
+  green:'bg-green-100 text-green-800 dark:bg-green-900/40 dark:text-green-300',
+  amber:'bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300',
+  orange:'bg-orange-100 text-orange-800 dark:bg-orange-900/40 dark:text-orange-300',
+  purple:'bg-purple-100 text-purple-800 dark:bg-purple-900/40 dark:text-purple-300',
+  violet:'bg-violet-100 text-violet-800 dark:bg-violet-900/40 dark:text-violet-300',
+  teal:'bg-teal-100 text-teal-800 dark:bg-teal-900/40 dark:text-teal-300',
+  slate:'bg-slate-100 text-slate-700 dark:bg-slate-700/40 dark:text-slate-300',
+  pink:'bg-pink-100 text-pink-800 dark:bg-pink-900/40 dark:text-pink-300',
+  indigo:'bg-indigo-100 text-indigo-800 dark:bg-indigo-900/40 dark:text-indigo-300',
+  sky:'bg-sky-100 text-sky-800 dark:bg-sky-900/40 dark:text-sky-300',
+  lime:'bg-lime-100 text-lime-800 dark:bg-lime-900/40 dark:text-lime-300',
+  gold:'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/40 dark:text-yellow-300',
+};
+function bc(c){return BADGE_COLORS[c]||BADGE_COLORS.slate;}
+
+function outletCard(o,term=''){
+  const init=o.name.replace(/[^A-Za-z0-9]/g,'').slice(0,3).toUpperCase();
+  const isAV=(o.type==='TV'||o.type==='Radio');
+  return `
+<article class="card bg-white dark:bg-white/5 rounded-2xl shadow-sm border border-slate-100 dark:border-white/8 overflow-hidden flex flex-col">
+  <div class="p-4 flex-1 flex flex-col gap-3">
+    <div class="flex items-start justify-between gap-2">
+      <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-navy-900 to-forest flex items-center justify-center text-white font-bold text-xs shrink-0 shadow">${init}</div>
+      <span class="badge ${bc(o.color||'slate')}">${o.badge}</span>
+    </div>
+    <div>
+      <h3 class="font-semibold text-navy-900 dark:text-white text-sm leading-snug mb-0.5">${hl(o.name,term)}</h3>
+      <div class="flex items-center gap-1 text-xs text-slate-400"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a2 2 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"/></svg>${o.city}</div>
+    </div>
+    <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed flex-1">${hl(o.desc,term)}</p>
+  </div>
+  <div class="px-4 pb-4 flex gap-2">
+    <a href="${o.url}" target="_blank" rel="noopener noreferrer" onclick="gtag('event','outlet_click',{outlet_name:'${o.name.replace(/'/g,"\\'")}'})"
+      class="flex-1 flex items-center justify-between px-3 py-2 bg-navy-900/6 dark:bg-white/6 hover:bg-navy-900 hover:text-white dark:hover:bg-white/20 text-navy-900 dark:text-white rounded-xl text-xs font-semibold transition-all group">
+      Visit Site<svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+    </a>
+    ${isAV?`<a href="${o.url}" target="_blank" rel="noopener noreferrer" class="px-3 py-2 bg-forest/10 hover:bg-forest hover:text-white text-forest dark:text-green-400 dark:hover:bg-forest rounded-xl text-xs font-semibold transition-all">${o.type==='TV'?'📺 Watch':'🎧 Listen'}</a>`:''}
+  </div>
+</article>`;
+}
+
+// ─── RSS AGGREGATOR — CORE ENGINE ─────────────────────────────────────────────
+
+// Dual proxy strategy: allorigins first, fallback to corsproxy.io
+async function fetchWithProxy(rawUrl, timeout=9000){
+  const proxies = [
+    `https://api.allorigins.win/get?url=${encodeURIComponent(rawUrl)}`,
+    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rawUrl)}`,
+  ];
+  for(const proxy of proxies){
+    try{
+      const ctrl = new AbortController();
+      const timer = setTimeout(()=>ctrl.abort(), timeout);
+      const res = await fetch(proxy,{signal:ctrl.signal});
+      clearTimeout(timer);
+      if(!res.ok) continue;
+      const data = await res.json();
+      const content = data.contents || data; // allorigins uses .contents; codetabs returns raw
+      if(typeof content === 'string' && content.length > 100) return content;
+    }catch(e){ /* try next proxy */ }
+  }
+  throw new Error('All proxies failed for: '+rawUrl);
+}
+
+function parseRSSXML(xmlStr, source){
+  try{
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(xmlStr,'text/xml');
+    const errorNode = doc.querySelector('parsererror');
+    if(errorNode) throw new Error('XML parse error');
+    const items = Array.from(doc.querySelectorAll('item, entry')); // RSS 2.0 + Atom
+    const results = [];
+    for(const item of items.slice(0,7)){
+      // Title
+      const title = item.querySelector('title')?.textContent?.trim()
+                 || item.querySelector('title')?.innerHTML?.trim();
+      if(!title || title.length < 10) continue;
+
+      // Link
+      let link = item.querySelector('link')?.textContent?.trim()
+              || item.querySelector('link[href]')?.getAttribute('href')
+              || source.url;
+      if(link.startsWith('//')) link='https:'+link;
+
+      // Date
+      const rawDate = item.querySelector('pubDate,published,updated,dc\\:date')?.textContent?.trim();
+      let pubDate = rawDate ? new Date(rawDate) : new Date();
+      if(isNaN(pubDate.getTime())) pubDate = new Date();
+
+      // Description
+      const desc = (item.querySelector('description,summary,content')?.textContent||'')
+        .replace(/<[^>]*>/g,'').slice(0,160).trim();
+
+      results.push({title, link, pubDate, desc, source:source.name, type:source.type, color:source.color, isLive:true});
+    }
+    return results;
+  }catch(e){
+    return [];
+  }
+}
+
+async function fetchSource(src){
+  sourceStatus[src.id] = 'pending';
+  try{
+    const xml = await fetchWithProxy(src.url);
+    const items = parseRSSXML(xml, src);
+    if(!items.length) throw new Error('No parseable items');
+    sourceStatus[src.id] = {status:'ok', count:items.length, name:src.name};
+    return items;
+  }catch(e){
+    sourceStatus[src.id] = {status:'fail', error:e.message, name:src.name};
+    return [];
+  }
+}
+
+async function loadAllFeeds(isRefresh=false){
+  const grid = document.getElementById('feed-grid');
+  const refreshBtn = document.getElementById('refresh-btn');
+  const refreshIcon = document.getElementById('refresh-icon');
+
+  // Reset
+  allItems = [];
+  visibleCount = 12;
+  sourceStatus = {};
+
+  // UI: loading state
+  refreshBtn.disabled = true;
+  refreshIcon.classList.add('spin');
+  setBanner('info','⏳ Fetching from '+RSS_SOURCES.length+' RSS sources…');
+  document.getElementById('feed-stats').classList.remove('flex');
+  document.getElementById('feed-stats').classList.add('hidden');
+  document.getElementById('feed-end-msg').classList.add('hidden');
+  document.getElementById('load-more-btn').classList.add('hidden');
+
+  // Show skeleton
+  grid.innerHTML = Array(6).fill('<div class="skeleton h-36 rounded-2xl"></div>').join('');
+
+  // Sort by priority so highest-priority sources load first
+  const sorted = [...RSS_SOURCES].sort((a,b)=>a.priority-b.priority);
+
+  // Fetch all in parallel with individual timeout
+  const results = await Promise.allSettled(sorted.map(s=>fetchSource(s)));
+
+  // Collect results
+  results.forEach(r=>{ if(r.status==='fulfilled') allItems.push(...r.value); });
+
+  const liveCount = allItems.length;
+  const okSources = Object.values(sourceStatus).filter(s=>s.status==='ok').length;
+  const failSources = Object.values(sourceStatus).filter(s=>s.status==='fail').length;
+
+  // Add static fallback if fewer than 6 live items
+  if(liveCount < 6){
+    STATIC_FALLBACK.forEach(h=>{
+      allItems.push({...h, isLive:false});
+    });
+  }
+
+  // Update stats
+  updateFeedStats(liveCount, okSources, failSources);
+
+  // Banner
+  if(liveCount > 0){
+    setBanner('success',`✅ ${liveCount} live headlines from ${okSources} source${okSources!==1?'s':''}${failSources?' · '+failSources+' source'+(failSources!==1?'s':'')+' unavailable':''}`);
+    setTimeout(clearBanner, 5000);
+  } else {
+    setBanner('warn','⚠️ Could not reach live RSS feeds (CORS/network). Showing curated fallback headlines. A server-side proxy removes this limitation.');
+  }
+
+  // Update last updated label
+  document.getElementById('last-updated-label').textContent = 'Updated ' + new Date().toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+
+  // Re-enable
+  refreshBtn.disabled = false;
+  refreshIcon.classList.remove('spin');
+
+  // Apply current sort + filter then render
+  applyFeedSort();
+  if(isRefresh) showToast('✅','Feed refreshed — '+allItems.filter(i=>i.isLive).length+' live headlines');
+
+  // GA
+  gtag('event','feed_refresh',{live_count:liveCount,ok_sources:okSources});
+}
+
+function applyFeedSort(){
+  const s = document.getElementById('feed-sort').value;
+  feedSort = s;
+  if(s==='date')        allItems.sort((a,b)=>b.pubDate-a.pubDate);
+  else if(s==='date-asc') allItems.sort((a,b)=>a.pubDate-b.pubDate);
+  else if(s==='source') allItems.sort((a,b)=>a.source.localeCompare(b.source));
+  else if(s==='source-desc') allItems.sort((a,b)=>b.source.localeCompare(a.source));
+  else if(s==='type')   allItems.sort((a,b)=>a.type.localeCompare(b.type));
+  visibleCount = 12;
+  renderFeedPage();
+}
+
+function setFeedFilter(f){
+  feedFilter = f;
+  document.querySelectorAll('.feed-pill').forEach(btn=>{
+    const on = btn.dataset.f===f;
+    btn.classList.toggle('active',on);
+    btn.classList.toggle('bg-navy-900',on);
+    btn.classList.toggle('dark:bg-gold',on);
+    btn.classList.toggle('text-white',on);
+    btn.classList.toggle('bg-slate-100',!on);
+    btn.classList.toggle('dark:bg-white/10',!on);
+    btn.classList.toggle('text-slate-600',!on);
+    btn.classList.toggle('dark:text-white',!on);
+  });
+  visibleCount = 12;
+  renderFeedPage();
+  gtag('event','feed_filter',{filter:f});
+}
+
+function getFilteredItems(){
+  return feedFilter==='all' ? allItems : allItems.filter(i=>i.type===feedFilter);
+}
+
+function renderFeedPage(){
+  const items = getFilteredItems();
+  const grid = document.getElementById('feed-grid');
+  const endMsg = document.getElementById('feed-end-msg');
+  const loadBtn = document.getElementById('load-more-btn');
+  const loadSpinner = document.getElementById('load-more-spinner');
+
+  if(!items.length){
+    grid.innerHTML = '<div class="col-span-3 text-center py-16 text-slate-400"><div class="text-5xl mb-3">📭</div><div class="font-semibold">No headlines for this filter</div><div class="text-sm mt-1">Try a different category or refresh the feed.</div></div>';
+    endMsg.classList.add('hidden'); loadBtn.classList.add('hidden'); loadSpinner.classList.add('hidden');
+    return;
+  }
+
+  const visible = items.slice(0, visibleCount);
+  grid.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 stagger';
+  grid.innerHTML = visible.map(item=>feedCard(item)).join('');
+
+  // Scroll sentinel
+  loadSpinner.classList.add('hidden');
+  if(visibleCount >= items.length){
+    loadBtn.classList.add('hidden');
+    endMsg.classList.remove('hidden');
+  } else {
+    loadBtn.classList.remove('hidden');
+    endMsg.classList.add('hidden');
+  }
+
+  // Intersection Observer for auto-infinite scroll
+  setupScrollSentinel();
+}
+
+// Auto-load on scroll
+let scrollObserver = null;
+function setupScrollSentinel(){
+  if(scrollObserver) scrollObserver.disconnect();
+  const sentinel = document.getElementById('feed-sentinel');
+  scrollObserver = new IntersectionObserver(entries=>{
+    if(entries[0].isIntersecting && !document.getElementById('load-more-btn').classList.contains('hidden')){
+      loadMoreItems();
+    }
+  },{rootMargin:'200px'});
+  scrollObserver.observe(sentinel);
+}
+
+function loadMoreItems(){
+  const items = getFilteredItems();
+  if(visibleCount >= items.length) return;
+  document.getElementById('load-more-btn').classList.add('hidden');
+  document.getElementById('load-more-spinner').classList.remove('hidden');
+  setTimeout(()=>{
+    visibleCount += BATCH_SIZE;
+    document.getElementById('load-more-spinner').classList.add('hidden');
+    renderFeedPage();
+  }, 600);
+}
+
+function updateFeedStats(liveCount, okSources, failSources){
+  const stats = document.getElementById('feed-stats');
+  document.getElementById('stat-live').textContent = liveCount;
+  document.getElementById('stat-sources').textContent = okSources;
+  document.getElementById('stat-failed').textContent = failSources;
+  document.getElementById('stat-time').textContent = new Date().toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
+  stats.classList.remove('hidden');
+  stats.classList.add('flex');
+}
+
+// Feed card HTML
+function timeAgo(d){
+  if(!(d instanceof Date)) return 'Recently';
+  const diff=(Date.now()-d.getTime())/1000;
+  if(diff<60) return 'Just now';
+  if(diff<3600) return Math.floor(diff/60)+'m ago';
+  if(diff<86400) return Math.floor(diff/3600)+'h ago';
+  return Math.floor(diff/86400)+'d ago';
+}
+const TYPE_BADGE_COLOR={TV:'blue',Radio:'green',Print:'amber',Digital:'teal',Public:'purple'};
+function feedCard(item){
+  const badgeCls = bc(TYPE_BADGE_COLOR[item.type]||'slate');
+  const accCls = `acc-${item.type}`;
+  const safeLink = (item.link||'#').replace(/'/g,'%27');
+  const titleClean = (item.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const descClean = (item.desc||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return `
+<article class="card relative bg-white dark:bg-white/5 rounded-2xl shadow-sm border border-slate-100 dark:border-white/8 p-5 flex flex-col gap-3 cursor-pointer group overflow-hidden"
+  onclick="window.open('${safeLink}','_blank','noopener');gtag('event','headline_click',{source:'${item.source.replace(/'/g,"\\'")}',type:'${item.type}'})">
+  <div class="feed-card-inner ${accCls} flex flex-col gap-2 flex-1">
+    <div class="flex items-center justify-between gap-2">
+      <span class="badge ${badgeCls}">${item.type}</span>
+      <span class="text-xs text-slate-400 flex items-center gap-1 shrink-0">
+        ${item.isLive?'<span class="live-dot w-1.5 h-1.5 bg-green-400 rounded-full"></span>':''}
+        ${timeAgo(item.pubDate)}
+      </span>
+    </div>
+    <h3 class="font-semibold text-navy-900 dark:text-white text-sm leading-snug group-hover:text-forest dark:group-hover:text-gold transition-colors">${titleClean}</h3>
+    ${descClean?`<p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed line-clamp-2">${descClean}</p>`:''}
+  </div>
+  <div class="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-white/5">
+    <span class="text-xs text-slate-400 font-medium">${item.source}</span>
+    <svg class="w-4 h-4 text-slate-300 group-hover:text-forest dark:group-hover:text-gold group-hover:translate-x-0.5 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+  </div>
+</article>`;
+}
+
+// ─── SOURCE STATUS PANEL ──────────────────────────────────────────────────────
+function showSourcePanel(){
+  const body = document.getElementById('source-panel-body');
+  const panel = document.getElementById('source-panel');
+  panel.classList.remove('hidden');
+  panel.classList.add('flex');
+
+  if(!Object.keys(sourceStatus).length){
+    body.innerHTML='<p class="text-slate-500 dark:text-slate-400 text-sm">No feed data loaded yet. Refresh the feed to see source status.</p>';
+    return;
+  }
+
+  body.innerHTML = RSS_SOURCES.map(src=>{
+    const s = sourceStatus[src.id];
+    let icon,cls,detail='';
+    if(!s||s==='pending'){icon='⏳';cls='text-slate-400';}
+    else if(s.status==='ok'){icon='✅';cls='text-green-600 dark:text-green-400';detail=`${s.count} item${s.count!==1?'s':''}`;}
+    else{icon='❌';cls='text-red-500';detail=s.error||'Failed';}
+    return `
+<div class="src-row flex items-center justify-between px-3 py-2 rounded-xl gap-3">
+  <div class="flex items-center gap-3 min-w-0">
+    <span class="text-base">${icon}</span>
+    <div class="min-w-0">
+      <div class="text-sm font-medium text-navy-900 dark:text-white truncate">${src.name}</div>
+      <div class="text-xs text-slate-400">${src.type} · priority ${src.priority}</div>
+    </div>
+  </div>
+  <div class="text-xs font-medium ${cls} shrink-0">${detail}</div>
+</div>`;
+  }).join('');
+}
+function hideSourcePanel(){
+  document.getElementById('source-panel').classList.add('hidden');
+  document.getElementById('source-panel').classList.remove('flex');
+}
+
+// ─── BANNER / TOAST ───────────────────────────────────────────────────────────
+function setBanner(type, msg){
+  const el = document.getElementById('feed-banner');
+  const classes={
+    info:'bg-blue-50 dark:bg-blue-900/20 border-blue-200 dark:border-blue-800/40 text-blue-700 dark:text-blue-300',
+    success:'bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800/40 text-green-700 dark:text-green-300',
+    warn:'bg-amber-50 dark:bg-amber-900/20 border-amber-200 dark:border-amber-800/40 text-amber-700 dark:text-amber-300',
+    error:'bg-red-50 dark:bg-red-900/20 border-red-200 dark:border-red-800/40 text-red-700 dark:text-red-300',
+  };
+  el.className='mb-5 p-4 rounded-2xl border text-sm '+classes[type];
+  el.textContent=msg;
+  el.classList.remove('hidden');
+}
+function clearBanner(){ document.getElementById('feed-banner').classList.add('hidden'); }
+
+function showToast(icon, msg){
+  document.getElementById('toast-icon').textContent=icon;
+  document.getElementById('toast-msg').textContent=msg;
+  const t=document.getElementById('toast');
+  t.style.opacity='1'; t.style.transform='translateY(0)';
+  setTimeout(()=>{ t.style.opacity='0'; t.style.transform='translateY(16px)'; },3500);
+}
+
+// ─── HOME FEED PREVIEW ────────────────────────────────────────────────────────
+function renderFeatured(){
+  const FEATURED = [
+    OUTLETS.tv.find(o=>o.name.includes('WDIV')),
+    OUTLETS.tv.find(o=>o.name.includes('WOOD-TV')),
+    OUTLETS.daily.find(o=>o.name.includes('Free Press')),
+    OUTLETS.daily.find(o=>o.name.includes('Record-Eagle')),
+    OUTLETS.digital.find(o=>o.name.includes('Bridge Michigan')),
+    OUTLETS.digital.find(o=>o.name.includes('MLive')),
+    OUTLETS.public.find(o=>o.name.includes('Michigan Public')),
+    OUTLETS.magazines.find(o=>o.name.includes('Hour Detroit')),
+  ].filter(Boolean);
+  document.getElementById('featured-grid').innerHTML = FEATURED.map(o=>outletCard(o,'')).join('');
+}
+
+function renderHomePreview(){
+  const preview = document.getElementById('home-feed-preview');
+  // Show static first
+  const items = STATIC_FALLBACK.slice(0,6).map(h=>({...h,isLive:false}));
+  preview.className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 stagger';
+  preview.innerHTML = items.map(item=>feedCard(item)).join('');
+  // Bootstrap RSS if not done
+  if(!rssBootstrapped){
+    rssBootstrapped=true;
+    loadAllFeeds(false).then(()=>{
+      if(allItems.length>0){
+        preview.className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 stagger';
+        preview.innerHTML = allItems.slice(0,6).map(item=>feedCard(item)).join('');
+      }
+    });
+  }
+}
+
+// ─── SUBMIT FORM ─────────────────────────────────────────────────────────────
+function handleSubmitForm(e){
+  e.preventDefault();
+  const form = e.target;
+  const errEl = document.getElementById('submit-form-error');
+  const succEl = document.getElementById('submit-form-success');
+  errEl.classList.add('hidden');
+  succEl.classList.add('hidden');
+
+  const data = new FormData(form);
+  const name = data.get('outletName')?.trim();
+  const cat  = data.get('category');
+  const city = data.get('city')?.trim();
+  const url  = data.get('url')?.trim();
+  const agree= data.get('agree');
+
+  if(!name||!cat||!city||!url||!agree){
+    errEl.textContent='Please fill in all required fields and check the agreement box.';
+    errEl.classList.remove('hidden');
+    return;
+  }
+
+  // Build mailto link as fallback
+  const subject=encodeURIComponent(`[Michigan Media Hub] New Outlet Submission: ${name}`);
+  const body=encodeURIComponent(
+    `Outlet Name: ${name}\nCategory: ${cat}\nCity/Region: ${city}\nWebsite: ${url}\n`+
+    `Description: ${data.get('description')||'N/A'}\nRSS URL: ${data.get('rss')||'N/A'}\n`+
+    `Submitter Email: ${data.get('email')||'N/A'}`
+  );
+
+  // GA event
+  gtag('event','submit_outlet',{outlet_name:name,category:cat,city});
+
+  // Show success
+  form.reset();
+  succEl.textContent = `✅ Thank you! "${name}" has been submitted for review. We'll verify it within 5–7 business days.`;
+  succEl.classList.remove('hidden');
+  showToast('📝','Submission received — thank you!');
+
+  // Open mailto as secondary delivery
+  window.open(`mailto:submissions@michiganmediahub.com?subject=${subject}&body=${body}`);
+}
+
+// ─── INIT ─────────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded',()=>{
+  renderFeatured();
+  renderHomePreview();
+  renderDir();
+  document.getElementById('source-count-label').textContent = RSS_SOURCES.length;
+});
+</script>
+</body>
+</html>
