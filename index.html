@@ -51,9 +51,15 @@ tailwind.config = {
   h1,h2,h3,.serif{font-family:'DM Serif Display',Georgia,serif}
 
   /* ── Scrollbar ── */
-  ::-webkit-scrollbar{width:5px;height:5px}
-  ::-webkit-scrollbar-thumb{background:#1e3a5f;border-radius:99px}
-  .dark ::-webkit-scrollbar-thumb{background:#c8860a}
+  ::-webkit-scrollbar{width:10px;height:10px}
+  ::-webkit-scrollbar-track{background:#e8edf4;border-radius:99px}
+  ::-webkit-scrollbar-thumb{background:#1e3a5f;border-radius:99px;border:2px solid #e8edf4}
+  ::-webkit-scrollbar-thumb:hover{background:#0c1f3a}
+  .dark ::-webkit-scrollbar-track{background:#112849}
+  .dark ::-webkit-scrollbar-thumb{background:#c8860a;border-color:#112849}
+  .dark ::-webkit-scrollbar-thumb:hover{background:#e8a020}
+  html{scrollbar-width:auto;scrollbar-color:#1e3a5f #e8edf4}
+  .dark html{scrollbar-color:#c8860a #112849}
   .no-scrollbar{scrollbar-width:none}
   .no-scrollbar::-webkit-scrollbar{display:none}
 
@@ -185,13 +191,13 @@ tailwind.config = {
 
     <!-- Desktop nav -->
     <nav class="hidden md:flex items-center gap-1">
-      <button onclick="showPage('home')"       class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">Home</button>
-      <button onclick="showPage('directory')"  class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">Directory</button>
-      <button onclick="showPage('aggregator')" class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors flex items-center gap-1.5">
+      <button onclick="showPage('home')"       class="nav-lnk px-3 py-2 rounded-lg text-sm font-medium transition-colors" style="color:rgba(255,255,255,0.85)">Home</button>
+      <button onclick="showPage('directory')"  class="nav-lnk px-3 py-2 rounded-lg text-sm font-medium transition-colors" style="color:rgba(255,255,255,0.85)">Directory</button>
+      <button onclick="showPage('aggregator')" class="nav-lnk px-3 py-2 rounded-lg text-sm font-medium transition-colors flex items-center gap-1.5" style="color:rgba(255,255,255,0.85)">
         <span class="live-dot w-1.5 h-1.5 bg-green-400 rounded-full inline-block"></span>News Feed
       </button>
-      <button onclick="showPage('submit')"     class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">Submit Outlet</button>
-      <button onclick="showPage('about')"      class="nav-lnk px-3 py-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 text-sm font-medium transition-colors">About</button>
+      <button onclick="showPage('submit')"     class="nav-lnk px-3 py-2 rounded-lg text-sm font-medium transition-colors" style="color:rgba(255,255,255,0.85)">Submit Outlet</button>
+      <button onclick="showPage('about')"      class="nav-lnk px-3 py-2 rounded-lg text-sm font-medium transition-colors" style="color:rgba(255,255,255,0.85)">About</button>
     </nav>
 
     <!-- Right controls -->
@@ -244,10 +250,10 @@ tailwind.config = {
 <div id="page-home" class="page active">
 
   <!-- Hero -->
-  <section class="hero-grad noise-layer relative overflow-hidden">
+  <section class="hero-grad noise-layer relative" style="overflow:visible">
     <div class="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-forest/20 blur-3xl pointer-events-none"></div>
     <div class="absolute -bottom-20 -left-20 w-72 h-72 rounded-full bg-gold/10 blur-3xl pointer-events-none"></div>
-    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 py-20 sm:py-28">
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 py-20 sm:py-28" style="z-index:10">
       <div class="max-w-2xl">
         <div class="inline-flex items-center gap-2 bg-white/10 border border-gold/30 text-gold text-[11px] font-semibold tracking-[.16em] uppercase px-3.5 py-1.5 rounded-full mb-6">
           <span class="live-dot w-1.5 h-1.5 bg-gold rounded-full"></span>Michigan's Complete Media Resource — 2026
@@ -1008,25 +1014,65 @@ function outletCard(o,term=''){
 
 // ─── RSS AGGREGATOR — CORE ENGINE ─────────────────────────────────────────────
 
-// Dual proxy strategy: allorigins first, fallback to corsproxy.io
-async function fetchWithProxy(rawUrl, timeout=9000){
-  const proxies = [
-    `https://api.allorigins.win/get?url=${encodeURIComponent(rawUrl)}`,
-    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rawUrl)}`,
-  ];
-  for(const proxy of proxies){
-    try{
-      const ctrl = new AbortController();
-      const timer = setTimeout(()=>ctrl.abort(), timeout);
-      const res = await fetch(proxy,{signal:ctrl.signal});
-      clearTimeout(timer);
-      if(!res.ok) continue;
-      const data = await res.json();
-      const content = data.contents || data; // allorigins uses .contents; codetabs returns raw
-      if(typeof content === 'string' && content.length > 100) return content;
-    }catch(e){ /* try next proxy */ }
-  }
-  throw new Error('All proxies failed for: '+rawUrl);
+// ── RSS fetch strategy ──────────────────────────────────────────────────────
+// 1. rss2json.com  — dedicated RSS→JSON API, no CORS issues on GitHub Pages
+// 2. allorigins.win — general CORS proxy fallback
+// 3. Static fallback pool — always available
+
+async function fetchViaRss2Json(rssUrl, timeout=10000){
+  // rss2json free tier: no API key needed for basic use (up to 100 req/day shared)
+  const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=8`;
+  const ctrl = new AbortController();
+  const timer = setTimeout(()=>ctrl.abort(), timeout);
+  const res = await fetch(api, {signal:ctrl.signal});
+  clearTimeout(timer);
+  if(!res.ok) throw new Error('rss2json HTTP '+res.status);
+  const data = await res.json();
+  if(data.status !== 'ok') throw new Error('rss2json status: '+data.status);
+  return data.items || [];
+}
+
+async function fetchViaAllOrigins(rssUrl, timeout=10000){
+  const api = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`;
+  const ctrl = new AbortController();
+  const timer = setTimeout(()=>ctrl.abort(), timeout);
+  const res = await fetch(api, {signal:ctrl.signal});
+  clearTimeout(timer);
+  if(!res.ok) throw new Error('allorigins HTTP '+res.status);
+  const data = await res.json();
+  if(!data.contents || data.contents.length < 50) throw new Error('Empty response');
+  // Parse the returned XML
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(data.contents, 'text/xml');
+  if(doc.querySelector('parsererror')) throw new Error('XML parse error');
+  const items = Array.from(doc.querySelectorAll('item, entry')).slice(0,8);
+  return items.map(item => {
+    let link = item.querySelector('link')?.textContent?.trim()
+             || item.querySelector('link[href]')?.getAttribute('href') || '';
+    if(link.startsWith('//')) link = 'https:'+link;
+    return {
+      title: item.querySelector('title')?.textContent?.trim() || '',
+      link,
+      pubDate: item.querySelector('pubDate,published,updated')?.textContent?.trim() || '',
+      description: (item.querySelector('description,summary')?.textContent||'').replace(/<[^>]*>/g,'').slice(0,200)
+    };
+  }).filter(i=>i.title && i.title.length > 8);
+}
+
+async function fetchWithProxy(rawUrl, timeout=10000){
+  // Try rss2json first (most reliable on GitHub Pages)
+  try{
+    const items = await fetchViaRss2Json(rawUrl, timeout);
+    if(items.length > 0) return {source:'rss2json', items};
+  }catch(e){ /* fall through */ }
+
+  // Try allorigins as fallback
+  try{
+    const items = await fetchViaAllOrigins(rawUrl, timeout);
+    if(items.length > 0) return {source:'allorigins', items};
+  }catch(e){ /* fall through */ }
+
+  throw new Error('All proxies failed');
 }
 
 function parseRSSXML(xmlStr, source){
@@ -1069,11 +1115,24 @@ function parseRSSXML(xmlStr, source){
 async function fetchSource(src){
   sourceStatus[src.id] = 'pending';
   try{
-    const xml = await fetchWithProxy(src.url);
-    const items = parseRSSXML(xml, src);
-    if(!items.length) throw new Error('No parseable items');
-    sourceStatus[src.id] = {status:'ok', count:items.length, name:src.name};
-    return items;
+    const result = await fetchWithProxy(src.url);
+    // Normalize items regardless of which proxy returned them
+    const normalized = result.items.map(item => {
+      // rss2json returns objects with .title .link .pubDate .description
+      // allorigins returns objects with same shape after our parsing above
+      const title = (item.title||'').replace(/\s+/g,' ').trim();
+      const link  = item.link || item.url || src.url;
+      const rawDate = item.pubDate || item.published || '';
+      let pubDate = rawDate ? new Date(rawDate) : new Date();
+      if(isNaN(pubDate.getTime())) pubDate = new Date();
+      const desc = ((item.description||item.content||item.summary)||'')
+        .replace(/<[^>]*>/g,'').slice(0,180).trim();
+      return {title, link, pubDate, desc, source:src.name, type:src.type, color:src.color, isLive:true};
+    }).filter(i => i.title && i.title.length > 8);
+
+    if(!normalized.length) throw new Error('No useable items after normalize');
+    sourceStatus[src.id] = {status:'ok', count:normalized.length, name:src.name, via:result.source};
+    return normalized;
   }catch(e){
     sourceStatus[src.id] = {status:'fail', error:e.message, name:src.name};
     return [];
@@ -1261,12 +1320,17 @@ const TYPE_BADGE_COLOR={TV:'blue',Radio:'green',Print:'amber',Digital:'teal',Pub
 function feedCard(item){
   const badgeCls = bc(TYPE_BADGE_COLOR[item.type]||'slate');
   const accCls = `acc-${item.type}`;
-  const safeLink = (item.link||'#').replace(/'/g,'%27');
+  // Encode only double-quotes; keep URL intact so the <a href> works properly
+  const safeHref = (item.link||'').replace(/"/g,'&quot;');
   const titleClean = (item.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   const descClean = (item.desc||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const srcName = (item.source||'').replace(/'/g,"\'");
+  // Use a real <a> element — works on every browser, not blocked by GitHub Pages CSP
   return `
-<article class="card relative bg-white dark:bg-white/5 rounded-2xl shadow-sm border border-slate-100 dark:border-white/8 p-5 flex flex-col gap-3 cursor-pointer group overflow-hidden"
-  onclick="window.open('${safeLink}','_blank','noopener');safeGtag('event','headline_click',{source:'${item.source.replace(/'/g,"\\'")}',type:'${item.type}'})">
+<a href="${safeHref}" target="_blank" rel="noopener noreferrer"
+  class="card relative bg-white dark:bg-white/5 rounded-2xl shadow-sm border border-slate-100 dark:border-white/8 p-5 flex flex-col gap-3 group overflow-hidden"
+  style="text-decoration:none;cursor:pointer"
+  onclick="safeGtag('event','headline_click',{source:'${srcName}',type:'${item.type}'})">
   <div class="feed-card-inner ${accCls} flex flex-col gap-2 flex-1">
     <div class="flex items-center justify-between gap-2">
       <span class="badge ${badgeCls}">${item.type}</span>
@@ -1275,14 +1339,14 @@ function feedCard(item){
         ${timeAgo(item.pubDate)}
       </span>
     </div>
-    <h3 class="font-semibold text-navy-900 dark:text-white text-sm leading-snug group-hover:text-forest dark:group-hover:text-gold transition-colors">${titleClean}</h3>
+    <h3 class="font-semibold text-navy-900 dark:text-white text-sm leading-snug group-hover:text-forest dark:group-hover:text-gold transition-colors" style="text-decoration:none">${titleClean}</h3>
     ${descClean?`<p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed line-clamp-2">${descClean}</p>`:''}
   </div>
   <div class="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-white/5">
     <span class="text-xs text-slate-400 font-medium">${item.source}</span>
     <svg class="w-4 h-4 text-slate-300 group-hover:text-forest dark:group-hover:text-gold group-hover:translate-x-0.5 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
   </div>
-</article>`;
+</a>`;
 }
 
 // ─── SOURCE STATUS PANEL ──────────────────────────────────────────────────────
