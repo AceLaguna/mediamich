@@ -696,7 +696,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   padding:0;
   display:flex;
   align-items:stretch;
-  min-height:160px;
+  min-height:190px;
 }
 #ticker-label{
   flex-shrink:0;
@@ -736,7 +736,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   pointer-events:none;
   transform:translateY(10px);
   transition:opacity .5s ease, transform .5s ease;
-  padding:16px 28px 28px 28px;
+  padding:12px 28px 20px 28px;
   align-items:center;
 }
 .ticker-slide.active{
@@ -753,7 +753,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   display:flex;
   align-items:center;
   gap:14px;
-  padding:10px 0;
+  padding:7px 0;
   border-bottom:1px solid rgba(255,255,255,.1);
   line-height:1.4;
   max-width:900px;
@@ -2172,7 +2172,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 (function(){
   const WORKER_RSS = 'https://ace-proxy.attorneydoyle.workers.dev/rss';
   const ROTATE_MS  = 10000; // 10 seconds per slide
-  const PER_SLIDE  = 3;     // headlines per slide
+  const PER_SLIDE  = 4;     // headlines per slide
 
   let slides = [];
   let current = 0;
@@ -2188,11 +2188,41 @@ document.addEventListener('DOMContentLoaded',()=>{
       const items = await res.json();
       if(!items || items.length === 0) throw new Error('No items');
 
-      // Chunk into groups of 3
-      slides = [];
-      for(let i=0; i<items.length; i+=PER_SLIDE){
-        slides.push(items.slice(i, i+PER_SLIDE));
+      // Deduplicate by link, cap to 120 items, then spread sources evenly
+      const seen = new Set();
+      const deduped = [];
+      for(const item of items){
+        if(!seen.has(item.link)){
+          seen.add(item.link);
+          deduped.push(item);
+        }
+        if(deduped.length >= 120) break;
       }
+
+      // Interleave sources so slides aren't all from the same outlet
+      const bySource = {};
+      deduped.forEach(item => {
+        (bySource[item.name] = bySource[item.name] || []).push(item);
+      });
+      const sourceQueues = Object.values(bySource);
+      const interleaved = [];
+      let hasMore = true;
+      while(hasMore){
+        hasMore = false;
+        for(const q of sourceQueues){
+          if(q.length){ interleaved.push(q.shift()); hasMore = true; }
+        }
+      }
+
+      // Chunk into slides of PER_SLIDE headlines
+      slides = [];
+      for(let i=0; i<interleaved.length; i+=PER_SLIDE){
+        const group = interleaved.slice(i, i+PER_SLIDE);
+        if(group.length > 0) slides.push(group);
+      }
+
+      // Cap at 30 slides (120 headlines) so dots bar doesn't overflow
+      if(slides.length > 30) slides = slides.slice(0, 30);
 
       renderSlides(panel);
       buildDots();
