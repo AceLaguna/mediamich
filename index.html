@@ -1134,7 +1134,7 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         <div><div class="hero-stat-num">42</div><div class="hero-stat-label">Radio Stations</div></div>
         <div><div class="hero-stat-num">43</div><div class="hero-stat-label">Daily Papers</div></div>
         <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
-        <div><div class="hero-stat-num">275</div><div class="hero-stat-label">Total Outlets</div></div>
+        <div><div class="hero-stat-num">340</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
     </div>
   </div>
@@ -1182,13 +1182,13 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
           <span class="tile-emoji">🗞️</span><div class="tile-label">Daily Papers</div><div class="tile-sub">43 dailies</div>
         </button>
         <button class="cat-tile" style="background:#475569" onclick="goDir('weekly')">
-          <span class="tile-emoji">📄</span><div class="tile-label">Weeklies</div><div class="tile-sub">13 papers</div>
+          <span class="tile-emoji">📄</span><div class="tile-label">Weeklies</div><div class="tile-sub">50 papers</div>
         </button>
         <button class="cat-tile" style="background:#6d28d9" onclick="goDir('magazines')">
           <span class="tile-emoji">📖</span><div class="tile-label">Magazines</div><div class="tile-sub">10 titles</div>
         </button>
         <button class="cat-tile" style="background:#0f766e" onclick="goDir('digital')">
-          <span class="tile-emoji">💻</span><div class="tile-label">Digital</div><div class="tile-sub">11 sites</div>
+          <span class="tile-emoji">💻</span><div class="tile-label">Digital</div><div class="tile-sub">35 sites</div>
         </button>
         <button class="cat-tile" style="background:#1565a7" onclick="goDir('public')">
           <span class="tile-emoji">📡</span><div class="tile-label">Public Media</div><div class="tile-sub">52 outlets</div>
@@ -1200,7 +1200,7 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
           <span class="tile-emoji">🎓</span><div class="tile-label">University</div><div class="tile-sub">22 papers</div>
         </button>
         <button class="cat-tile" style="background:#1e3a5f" onclick="goDir('business')">
-          <span class="tile-emoji">💼</span><div class="tile-label">Business</div><div class="tile-sub">5 outlets</div>
+          <span class="tile-emoji">💼</span><div class="tile-label">Business</div><div class="tile-sub">9 outlets</div>
         </button>
       </div>
     </div>
@@ -1280,14 +1280,20 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
 <div id="page-submit" class="page">
   <div class="container" style="padding-top:2.5rem;padding-bottom:2.5rem;max-width:760px">
     <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(200,134,10,.1);border:1px solid rgba(200,134,10,.3);color:var(--gold);font-size:.68rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;padding:6px 14px;border-radius:99px;margin-bottom:1.25rem">📝 Community Contributions</div>
-    <h1 style="font-size:2.2rem;color:var(--navy);margin-bottom:.75rem">Submit a New Outlet</h1>
-    <p style="color:var(--text-muted);max-width:520px;line-height:1.65;margin-bottom:2rem">Know a Michigan media outlet we're missing? Fill out the form below and we'll verify it for the next directory update. All submissions are manually reviewed before publishing.</p>
+    <h1 style="font-size:2.2rem;color:var(--navy);margin-bottom:.75rem">Help Us Stay Complete</h1>
+    <p style="color:var(--text-muted);max-width:560px;line-height:1.65;margin-bottom:2rem">Know a Michigan media outlet we're missing? Found an error in a listing? Use the forms below. All submissions are manually reviewed before any changes are made.</p>
 
-    <!-- Submission form -->
-    <div class="form-section">
+    <!-- Tab toggle -->
+    <div style="display:flex;gap:8px;margin-bottom:1.75rem">
+      <button id="tab-submit-btn" onclick="switchSubmitTab('submit')" style="padding:9px 20px;border-radius:99px;border:2px solid var(--gold);background:var(--gold);color:#fff;font-weight:700;font-size:.82rem;cursor:pointer;transition:all .2s">➕ Submit New Outlet</button>
+      <button id="tab-correct-btn" onclick="switchSubmitTab('correct')" style="padding:9px 20px;border-radius:99px;border:2px solid var(--border);background:transparent;color:var(--text);font-weight:700;font-size:.82rem;cursor:pointer;transition:all .2s">✏️ Report a Correction</button>
+    </div>
+
+    <!-- SUBMIT NEW OUTLET FORM -->
+    <div id="form-submit" class="form-section">
       <div class="form-section-head" style="background:#475569">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span style="color:#fff;font-weight:600;font-size:.875rem">Email Submission Form</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2"><path d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span style="color:#fff;font-weight:600;font-size:.875rem">Submit a New Outlet</span>
       </div>
       <form id="submit-form" onsubmit="handleSubmitForm(event)" class="form-body">
         <div class="form-full">
@@ -1297,10 +1303,26 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         <div>
           <label class="form-label">Category <span style="color:#dc2626">*</span></label>
           <select name="category" required class="form-input filter-select" style="padding-left:14px">
-            <option value="">Select…</option>
-            <option>TV Station</option><option>Radio Station</option><option>Daily Newspaper</option>
-            <option>Weekly Newspaper</option><option>Magazine</option><option>Digital/Online</option>
-            <option>Public Media</option><option>Community/Ethnic</option><option>University Paper</option><option>Other</option>
+            <option value="">Select category…</option>
+            <optgroup label="Broadcast">
+              <option>📺 TV Station</option>
+              <option>📻 Radio Station</option>
+              <option>📡 Public Media</option>
+            </optgroup>
+            <optgroup label="Print">
+              <option>🗞️ Daily Newspaper</option>
+              <option>📄 Weekly Newspaper</option>
+              <option>📖 Magazine</option>
+            </optgroup>
+            <optgroup label="Digital">
+              <option>💻 Digital / Online News</option>
+              <option>💼 Business Publication</option>
+            </optgroup>
+            <optgroup label="Community">
+              <option>🌐 Ethnic &amp; Religious Media</option>
+              <option>🎓 University / Student Paper</option>
+            </optgroup>
+            <option>Other</option>
           </select>
         </div>
         <div>
@@ -1316,10 +1338,14 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
           <textarea name="description" class="form-input form-textarea" rows="3" placeholder="Brief description of the outlet, owner, focus area…"></textarea>
         </div>
         <div>
+          <label class="form-label">Owner / Parent Company</label>
+          <input name="owner" type="text" class="form-input" placeholder="e.g. Gannett, Independent, Nonprofit"/>
+        </div>
+        <div>
           <label class="form-label">RSS Feed URL (if known)</label>
           <input name="rss" type="url" class="form-input" placeholder="https://www.example.com/rss.xml"/>
         </div>
-        <div>
+        <div class="form-full">
           <label class="form-label">Your Email (optional)</label>
           <input name="email" type="email" class="form-input" placeholder="for follow-up questions"/>
         </div>
@@ -1337,16 +1363,63 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         </div>
       </form>
     </div>
-    <div style="padding:1rem;background:var(--slate-100);border-radius:12px;font-size:.78rem;color:var(--text-muted);line-height:1.6">
-      <strong style="color:var(--navy)">Review process:</strong> Submissions are checked against FCC records, Wikipedia, and official outlet sites. Approved outlets are added in the next monthly update. Michigan outlets only.
+
+    <!-- REPORT A CORRECTION FORM -->
+    <div id="form-correct" class="form-section" style="display:none">
+      <div class="form-section-head" style="background:#b45309">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7" stroke-linecap="round" stroke-linejoin="round"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span style="color:#fff;font-weight:600;font-size:.875rem">Report a Correction</span>
+      </div>
+      <form id="correct-form" onsubmit="handleCorrectForm(event)" class="form-body">
+        <div class="form-full">
+          <label class="form-label">Outlet Name <span style="color:#dc2626">*</span></label>
+          <input name="outletName" required type="text" class="form-input" placeholder="Name of the outlet with the error"/>
+        </div>
+        <div>
+          <label class="form-label">What needs correcting? <span style="color:#dc2626">*</span></label>
+          <select name="correctionType" required class="form-input filter-select" style="padding-left:14px">
+            <option value="">Select…</option>
+            <option>Wrong or broken website URL</option>
+            <option>Incorrect outlet name</option>
+            <option>Wrong city or market</option>
+            <option>Wrong category</option>
+            <option>Incorrect owner / parent company</option>
+            <option>Outdated or inaccurate description</option>
+            <option>Outlet has closed / no longer publishing</option>
+            <option>Duplicate listing</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div class="form-full">
+          <label class="form-label">What is the correct information? <span style="color:#dc2626">*</span></label>
+          <textarea name="correction" required class="form-input form-textarea" rows="3" placeholder="Please describe what is wrong and what the correct information should be…"></textarea>
+        </div>
+        <div class="form-full">
+          <label class="form-label">Source / Reference (optional)</label>
+          <input name="source" type="text" class="form-input" placeholder="URL or source confirming the correct info"/>
+        </div>
+        <div class="form-full">
+          <label class="form-label">Your Email (optional)</label>
+          <input name="email" type="email" class="form-input" placeholder="for follow-up questions"/>
+        </div>
+        <div id="correct-form-error" class="form-error form-full" style="display:none"></div>
+        <div id="correct-form-success" class="form-success form-full" style="display:none"></div>
+        <div class="form-full">
+          <button type="submit" class="btn-primary" style="background:#b45309">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7" stroke-linecap="round" stroke-linejoin="round"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Submit Correction
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <div style="padding:1rem;background:var(--slate-100);border-radius:12px;font-size:.78rem;color:var(--text-muted);line-height:1.6;margin-top:1rem">
+      <strong style="color:var(--navy)">Review process:</strong> All submissions are checked against FCC records, Wikipedia, and official outlet sites before any changes are made. New outlets are added in the next monthly update. Michigan outlets only.
     </div>
   </div>
 </div>
 
-<!-- ══════════════════════════════════════════════════════
-     PAGE: ABOUT
-══════════════════════════════════════════════════════ -->
-<div id="page-about" class="page">
+id="page-about" class="page">
   <div class="container" style="padding-top:2.5rem;padding-bottom:2.5rem;max-width:900px">
     <h1 style="font-size:2.4rem;color:var(--navy);margin-bottom:.5rem">About Michigan Media Hub</h1>
     <p style="color:var(--text-muted);margin-bottom:2.5rem">Non-commercial reference directory for Michigan media</p>
@@ -1572,19 +1645,56 @@ daily:[
   {name:"Sturgis Journal",city:"Sturgis",market:"Grand Rapids",url:"https://www.sturgisjournal.com/",badge:"Daily",type:"Print",desc:"Serving St. Joseph County since 1859.",bc:"b-green"},
 ],
 weekly:[
-  {name:"Metro Times",city:"Detroit",market:"Detroit",url:"https://www.metrotimes.com",badge:"Weekly",type:"Print",desc:"Michigan\'s largest alternative weekly. Arts, culture, nightlife, investigative.",bc:"b-slate"},
-  {name:"Northern Express",city:"Traverse City",market:"Traverse City",url:"https://www.northernexpress.com",badge:"Weekly",type:"Print",desc:"Northern Michigan alt-weekly. Arts, culture, environment, opinion.",bc:"b-slate"},
-  {name:"Observer & Eccentric",city:"Livonia",market:"Detroit",url:"https://www.hometownlife.com",badge:"Weekly",type:"Print",desc:"Suburban Detroit weekly group; Plymouth, Canton, Livonia and more.",bc:"b-slate"},
-  {name:"C&G Newspapers",city:"Macomb/Oakland",market:"Detroit",url:"https://www.candgnews.com",badge:"Weekly",type:"Print",desc:"Network of 12 Oakland and Macomb county community papers.",bc:"b-slate"},
-  {name:"Leelanau Enterprise",city:"Leland",market:"Traverse City",url:"https://www.leelanaunews.com",badge:"Weekly",type:"Print",desc:"Leelanau County award-winning independent weekly.",bc:"b-slate"},
-  {name:"Charlevoix Courier",city:"Charlevoix",market:"Traverse City",url:"https://www.charlevoixcourier.com",badge:"Weekly",type:"Print",desc:"Northern Lower Peninsula community weekly.",bc:"b-slate"},
-  {name:"Iosco County News-Herald",city:"East Tawas",market:"Traverse City",url:"https://www.iosconews.com",badge:"Weekly",type:"Print",desc:"Northeast Michigan community weekly.",bc:"b-slate"},
-  {name:"Munising News",city:"Munising",market:"Upper Peninsula",url:"https://www.munisingnews.com",badge:"Weekly",type:"Print",desc:"Upper Peninsula community paper; Pictured Rocks area.",bc:"b-slate"},
-  {name:"Newberry News",city:"Newberry",market:"Upper Peninsula",url:"https://www.thenewberrynews.com",badge:"Weekly",type:"Print",desc:"Eastern Upper Peninsula community newspaper.",bc:"b-slate"},
-  {name:"St. Ignace News",city:"St. Ignace",market:"Upper Peninsula",url:"https://www.stignacenews.com",badge:"Weekly",type:"Print",desc:"Straits of Mackinac area community paper.",bc:"b-slate"},
-  {name:"The Grosse Pointe News",city:"Grosse Pointe",market:"Detroit",url:"https://www.grossepointenews.com",badge:"Weekly",type:"Print",desc:"Bi-weekly for Grosse Pointe communities.",bc:"b-slate"},
-  {name:"Dowagiac News",city:"Dowagiac",market:"Grand Rapids",url:"https://www.heraldpalladium.com/leaderpub/",badge:"Weekly",type:"Print",desc:"Was previously the only daily newspaper in rural Cass County. Now weekly.",bc:"b-slate"},
-  {name:"Niles Star",city:"Niles",market:"Grand Rapids",url:"https://www.heraldpalladium.com/leaderpub/",badge:"Weekly",type:"Print",desc:"The first daily newspaper in Berrien County, founded in 1886. Now weekly.",bc:"b-slate"},
+  {name:"Metro Times",city:"Detroit",market:"Detroit",url:"https://www.metrotimes.com",badge:"Weekly",type:"Weekly",desc:"Michigan\'s largest alternative weekly. Arts, culture, nightlife, investigative.",bc:"b-slate"},
+  {name:"Northern Express",city:"Traverse City",market:"Traverse City",url:"https://www.northernexpress.com",badge:"Weekly",type:"Weekly",desc:"Northern Michigan alt-weekly. Arts, culture, environment, opinion.",bc:"b-slate"},
+  {name:"Leelanau Enterprise",city:"Leland",market:"Traverse City",url:"https://www.leelanaunews.com",badge:"Weekly",type:"Weekly",desc:"Leelanau County award-winning independent weekly.",bc:"b-slate"},
+  {name:"Charlevoix Courier",city:"Charlevoix",market:"Traverse City",url:"https://www.charlevoixcourier.com",badge:"Weekly",type:"Weekly",desc:"Northern Lower Peninsula community weekly.",bc:"b-slate"},
+  {name:"Iosco County News-Herald",city:"East Tawas",market:"Traverse City",url:"https://www.iosconews.com",badge:"Weekly",type:"Weekly",desc:"Northeast Michigan community weekly.",bc:"b-slate"},
+  {name:"Munising News",city:"Munising",market:"Upper Peninsula",url:"https://www.munisingnews.com",badge:"Weekly",type:"Weekly",desc:"Upper Peninsula community paper; Pictured Rocks area.",bc:"b-slate"},
+  {name:"Dowagiac News",city:"Dowagiac",market:"Grand Rapids",url:"https://www.heraldpalladium.com/leaderpub/",badge:"Weekly",type:"Weekly",desc:"Was previously the only daily newspaper in rural Cass County. Now weekly.",bc:"b-slate"},
+  {name:"Niles Star",city:"Niles",market:"Grand Rapids",url:"https://www.heraldpalladium.com/leaderpub/",badge:"Weekly",type:"Weekly",desc:"The first daily newspaper in Berrien County, founded in 1886. Now weekly.",bc:"b-slate"},
+  {name:"Observer & Eccentric / Hometown Life",city:"Livonia",market:"Detroit",url:"https://www.hometownlife.com",badge:"Weekly",type:"Weekly",desc:"Network of suburban Detroit weeklies serving Plymouth, Canton, Birmingham, Farmington, South Lyon, Milford, Northville and Novi.",bc:"b-slate"},
+  {name:"C&G Newspapers",city:"Macomb",market:"Detroit",url:"https://www.candgnews.com",badge:"Weekly",type:"Weekly",desc:"Network of 12 community weeklies serving Oakland and Macomb county suburbs including Sterling Heights, Troy, and Warren.",bc:"b-slate"},
+  {name:"Leelanau Enterprise",city:"Leland",market:"Traverse City",url:"https://www.leelanaunews.com",badge:"Weekly",type:"Weekly",desc:"Award-winning independent weekly serving Leelanau County since 1889.",bc:"b-slate"},
+  {name:"Newberry News",city:"Newberry",market:"Upper Peninsula",url:"https://www.thenewberrynews.com",badge:"Weekly",type:"Weekly",desc:"Community newspaper serving Luce County and the eastern Upper Peninsula.",bc:"b-slate"},
+  {name:"St. Ignace News",city:"St. Ignace",market:"Upper Peninsula",url:"https://www.stignacenews.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving the Straits of Mackinac area.",bc:"b-slate"},
+  {name:"The Grosse Pointe News",city:"Grosse Pointe",market:"Detroit",url:"https://www.grossepointenews.com",badge:"Weekly",type:"Weekly",desc:"Bi-weekly serving the five Grosse Pointe communities since 1940.",bc:"b-slate"},
+  {name:"The County Press",city:"Lapeer",market:"Flint",url:"https://thecountypress.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Michigan\'s oldest rural weekly (est. 1840); flagship of the View Newspaper Group. Lapeer County\'s paper of record.",bc:"b-slate"},
+  {name:"Tri-County Times",city:"Fenton",market:"Flint",url:"https://www.tricountytimes.com",badge:"Weekly",type:"Weekly",desc:"Award-winning Genesee/Livingston county community weekly based in Fenton.",bc:"b-slate"},
+  {name:"Lapeer Area View",city:"Lapeer",market:"Flint",url:"https://lapeerareaview.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Free community weekly serving Lapeer County residents.",bc:"b-slate"},
+  {name:"Oxford Leader",city:"Oxford",market:"Detroit",url:"https://oxfordleader.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Northern Oakland County community weekly; 124-year history. Acquired by View Newspaper Group in 2022.",bc:"b-slate"},
+  {name:"Lake Orion Review",city:"Lake Orion",market:"Detroit",url:"https://lakeorionreview.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Northern Oakland County community weekly; 140-year history. Acquired by View Newspaper Group in 2022.",bc:"b-slate"},
+  {name:"Clarkston News",city:"Clarkston",market:"Detroit",url:"https://clarkstonnews.com",badge:"Weekly",type:"Weekly",desc:"Northern Oakland County community weekly published continuously since 1929.",bc:"b-slate"},
+  {name:"Tri-County Citizen",city:"Chesaning",market:"Flint",url:"https://tricountycitizen.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Free community weekly serving Saginaw, Shiawassee, and Clinton counties.",bc:"b-slate"},
+  {name:"Sanilac County News",city:"Sandusky",market:"Flint",url:"https://sanilaccountynews.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Sanilac County in Michigan\'s Thumb region.",bc:"b-slate"},
+  {name:"Genesee County View",city:"Davison",market:"Flint",url:"https://geneseecountyview.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Free community weekly serving Genesee County suburbs including Davison, Grand Blanc, and Flushing.",bc:"b-slate"},
+  {name:"Hastings Banner",city:"Hastings",market:"Grand Rapids",url:"https://hastingsbanner.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Barry County community weekly. Subscription-based; acquired by View Newspaper Group in 2024.",bc:"b-slate"},
+  {name:"Lowell Ledger",city:"Lowell",market:"Grand Rapids",url:"https://lowellledger.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Kent County community weekly serving the Lowell area. Acquired by View Newspaper Group in 2024.",bc:"b-slate"},
+  {name:"Press & Guide",city:"Dearborn",market:"Detroit",url:"https://www.pressandguide.com",badge:"Weekly",type:"Weekly",desc:"Downriver and Dearborn area community weekly serving Wayne County communities.",bc:"b-slate"},
+  {name:"News-Herald",city:"Southgate",market:"Detroit",url:"https://www.thenewsherald.com",badge:"Weekly",type:"Weekly",desc:"Downriver community paper serving southeast Wayne County communities; 150+ year history.",bc:"b-slate"},
+  {name:"Dearborn Times-Herald",city:"Dearborn",market:"Detroit",url:"https://www.dearbornherald.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Dearborn and Dearborn Heights.",bc:"b-slate"},
+  {name:"Milford Times",city:"Milford",market:"Detroit",url:"https://www.hometownlife.com/milford-times",badge:"Weekly",type:"Weekly",desc:"Oakland County community weekly serving Milford and surrounding communities.",bc:"b-slate"},
+  {name:"Northville Record",city:"Northville",market:"Detroit",url:"https://www.hometownlife.com/northville-record",badge:"Weekly",type:"Weekly",desc:"One of Michigan\'s oldest community weeklies (est. 1869); serving Northville and Plymouth Township.",bc:"b-slate"},
+  {name:"South Lyon Herald",city:"South Lyon",market:"Detroit",url:"https://www.hometownlife.com/south-lyon-herald",badge:"Weekly",type:"Weekly",desc:"Oakland County community weekly serving South Lyon, Lyon Township, and Green Oak Township.",bc:"b-slate"},
+  {name:"Novi News",city:"Novi",market:"Detroit",url:"https://www.hometownlife.com/novi-news",badge:"Weekly",type:"Weekly",desc:"Oakland County community weekly serving Novi and Wixom.",bc:"b-slate"},
+  {name:"Cedar Springs Post",city:"Cedar Springs",market:"Grand Rapids",url:"https://cedarspringspost.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Cedar Springs and northern Kent County since 1988.",bc:"b-slate"},
+  {name:"Lowell Area News",city:"Lowell",market:"Grand Rapids",url:"https://www.lowellareaanews.com",badge:"Weekly",type:"Weekly",desc:"Community news for Lowell and surrounding Kent County communities.",bc:"b-slate"},
+  {name:"Hastings Reminder",city:"Hastings",market:"Grand Rapids",url:"https://hastingsreminder.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Barry County community shopper/newspaper based in Hastings.",bc:"b-slate"},
+  {name:"Allegan County News",city:"Allegan",market:"Grand Rapids",url:"https://www.allegannews.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Allegan County since 1860.",bc:"b-slate"},
+  {name:"Oceana\'s Herald-Journal",city:"Hart",market:"Grand Rapids",url:"https://www.oceanasheraldjournal.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Oceana County on Michigan\'s lakeshore.",bc:"b-slate"},
+  {name:"The Sun Times News",city:"Chelsea",market:"Lansing",url:"https://www.thesuntimesnews.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Chelsea and western Washtenaw County.",bc:"b-slate"},
+  {name:"Clare County Review",city:"Clare",market:"Flint",url:"https://www.clarereview.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Clare County in central Michigan.",bc:"b-slate"},
+  {name:"Beaverton Clarion",city:"Beaverton",market:"Flint",url:"https://www.beavertonclarion.com",badge:"Weekly",type:"Weekly",desc:"Gladwin County community weekly serving the Beaverton area.",bc:"b-slate"},
+  {name:"Tri County Citizen",city:"Ithaca",market:"Flint",url:"https://tricountycitizen.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Gratiot, Clinton, and Montcalm counties.",bc:"b-slate"},
+  {name:"Boyne City Gazette",city:"Boyne City",market:"Traverse City",url:"https://www.boynegazette.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Boyne City and Charlevoix County.",bc:"b-slate"},
+  {name:"Antrim County News",city:"Bellaire",market:"Traverse City",url:"https://www.antrimcountynews.com",badge:"Weekly",type:"Weekly",desc:"Northern Michigan community weekly serving Antrim County.",bc:"b-slate"},
+  {name:"Elk Rapids News",city:"Elk Rapids",market:"Traverse City",url:"https://www.elkrapidsnews.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Elk Rapids and southern Antrim County on Grand Traverse Bay.",bc:"b-slate"},
+  {name:"Montmorency County Tribune",city:"Atlanta",market:"Traverse City",url:"https://www.montmorencycountytribune.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Montmorency County in northern Lower Michigan.",bc:"b-slate"},
+  {name:"Gaylord Herald Times",city:"Gaylord",market:"Traverse City",url:"https://www.gaylordheraldtimes.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Gaylord and Otsego County.",bc:"b-slate"},
+  {name:"Ontonagon Herald",city:"Ontonagon",market:"Upper Peninsula",url:"https://www.ontonagonherald.com",badge:"Weekly",type:"Weekly",desc:"Weekly community paper serving Ontonagon County; published continuously since 1881.",bc:"b-slate"},
+  {name:"Iron County Reporter",city:"Iron River",market:"Upper Peninsula",url:"https://www.ironcountyreporter.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Iron County in the western Upper Peninsula.",bc:"b-slate"},
+  {name:"Menominee County Journal",city:"Stephenson",market:"Upper Peninsula",url:"https://www.mcjonline.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Menominee County in Michigan\'s western UP.",bc:"b-slate"},
+  {name:"Keweenaw Report",city:"Houghton",market:"Upper Peninsula",url:"https://keweenawreport.com",badge:"Weekly",type:"Weekly",desc:"Digital-first community news outlet serving the Keweenaw Peninsula and Copper Country.",bc:"b-slate"},
 ],
 magazines:[
   {name:"Hour Detroit",city:"Troy",market:"Metro Detroit",url:"https://www.hourdetroit.com",badge:"Magazine",type:"Magazine",desc:"Metro Detroit\'s premier lifestyle magazine; est. 1996. Dining, arts, events, profiles.",bc:"b-pink"},
@@ -1599,17 +1709,41 @@ magazines:[
   {name:"Michigan Farmer",city:"Michigan",market:"Statewide",url:"https://www.michiganfarmer.com",badge:"Magazine",type:"Magazine",desc:"Agricultural trade publication; Michigan farming news and markets.",bc:"b-pink"},
 ],
 digital:[
-  {name:"MLive",city:"Grand Rapids",market:"",url:"https://www.mlive.com",badge:"Digital",type:"Digital",desc:"Michigan\'s largest digital news network; all major markets.",bc:"b-teal"},
-  {name:"Bridge Michigan",city:"Lansing / Ann Arbor",market:"",url:"https://www.bridgemi.com",badge:"Digital",type:"Digital",desc:"Nonprofit investigative and policy journalism. Nonpartisan, in-depth.",bc:"b-teal"},
-  {name:"BridgeDetroit",city:"Detroit",market:"",url:"https://www.bridgedetroit.com",badge:"Digital",type:"Digital",desc:"Community-driven nonprofit news; by and for Detroiters.",bc:"b-teal"},
-  {name:"Deadline Detroit",city:"Detroit",market:"",url:"https://www.deadlinedetroit.com",badge:"Digital",type:"Digital",desc:"Independent digital news covering Detroit politics, media, and culture.",bc:"b-teal"},
-  {name:"Outlier Media",city:"Detroit",market:"",url:"https://www.outliermedia.org",badge:"Digital",type:"Digital",desc:"Nonprofit SMS/text-based community journalism; information equity model.",bc:"b-teal"},
-  {name:"Planet Detroit",city:"Detroit",market:"",url:"https://planetdetroit.org",badge:"Digital",type:"Digital",desc:"Nonprofit environmental journalism for Detroit and Southeast Michigan.",bc:"b-teal"},
-  {name:"Chalkbeat Detroit",city:"Detroit",market:"",url:"https://www.chalkbeat.org/detroit",badge:"Digital",type:"Digital",desc:"National nonprofit newsroom covering Detroit education and school policy.",bc:"b-teal"},
-  {name:"Michigan Advance",city:"Lansing",market:"",url:"https://www.michiganadvance.com",badge:"Digital",type:"Digital",desc:"Progressive-focused digital news; state politics and policy.",bc:"b-teal"},
-  {name:"Axios Detroit",city:"Detroit",market:"",url:"https://www.axios.com/local/detroit",badge:"Digital",type:"Digital",desc:"Smart brevity local journalism for Metro Detroit; Axios network.",bc:"b-teal"},
-  {name:"Votebeat Michigan",city:"Michigan",market:"",url:"https://www.votebeat.org/michigan",badge:"Digital",type:"Digital",desc:"Nonprofit election integrity and voting journalism.",bc:"b-teal"},
-  {name:"Capitol Confidential",city:"Midland",market:"",url:"https://www.capitalconfidential.com",badge:"Digital",type:"Digital",desc:"Mackinac Center for Public Policy; free-market policy journalism.",bc:"b-teal"},
+  {name:"MLive",city:"Grand Rapids",market:"Statewide",url:"https://www.mlive.com",badge:"Digital",type:"Digital",desc:"Michigan\'s largest digital news network; all major markets.",bc:"b-teal"},
+  {name:"Bridge Michigan",city:"Lansing / Ann Arbor",market:"Statewide",url:"https://www.bridgemi.com",badge:"Digital",type:"Digital",desc:"Michigan\'s largest nonprofit news service; est. 2011. Nonpartisan, fact-driven, no paywall. Investigative and policy journalism statewide. 20+ full-time staff.",bc:"b-teal"},
+  {name:"BridgeDetroit",city:"Detroit",market:"Metro Detroit",url:"https://www.bridgedetroit.com",badge:"Digital",type:"Digital",desc:"Community-driven nonprofit news for Detroit; launched 2020. Six full-time reporters covering neighborhoods, housing, education, and civic life.",bc:"b-teal"},
+  {name:"Deadline Detroit",city:"Detroit",market:"Metro Detroit",url:"https://www.deadlinedetroit.com",badge:"Digital",type:"Digital",desc:"Independent digital news covering Detroit politics, media, business, and culture. Founded 2011; known for sharp aggregation and original reporting.",bc:"b-teal"},
+  {name:"Outlier Media",city:"Detroit",market:"Metro Detroit",url:"https://outliermedia.org",badge:"Digital",type:"Digital",desc:"Nonprofit community newsroom; est. 2016. SMS-based information service for Detroiters on housing, utilities, and city services. Detroit Documenters project trains residents to cover government meetings.",bc:"b-teal"},
+  {name:"Planet Detroit",city:"Detroit",market:"Metro Detroit",url:"https://planetdetroit.org",badge:"Digital",type:"Digital",desc:"Nonprofit environmental and climate journalism for Detroit and Southeast Michigan. Coverage of environmental justice, water, air quality.",bc:"b-teal"},
+  {name:"Chalkbeat Detroit",city:"Detroit",market:"Metro Detroit",url:"https://www.chalkbeat.org/detroit",badge:"Digital",type:"Digital",desc:"National nonprofit newsroom covering Detroit K-12 education policy, schools, and families.",bc:"b-teal"},
+  {name:"Michigan Advance",city:"Lansing",market:"Statewide",url:"https://www.michiganadvance.com",badge:"Digital",type:"Digital",desc:"Progressive-focused nonprofit digital news; state politics and policy. Affiliate of States Newsroom, the nation\'s largest state-focused nonprofit news network.",bc:"b-teal"},
+  {name:"Axios Detroit",city:"Detroit",market:"Metro Detroit",url:"https://www.axios.com/local/detroit",badge:"Digital",type:"Digital",desc:"Smart brevity local journalism for Metro Detroit; Axios local newsletter and digital hub launched 2022.",bc:"b-teal"},
+  {name:"Votebeat Michigan",city:"Lansing",market:"Statewide",url:"https://www.votebeat.org/michigan",badge:"Digital",type:"Digital",desc:"Nonprofit election integrity and voting journalism; national nonprofit with Michigan-focused reporter covering elections, voting rights, and election administration.",bc:"b-teal"},
+  {name:"Capitol Confidential",city:"Midland",market:"Statewide",url:"https://www.capitalconfidential.com",badge:"Digital",type:"Digital",desc:"Free-market policy journalism from the Mackinac Center for Public Policy. Conservative-leaning; covers Michigan government, taxes, and regulatory policy.",bc:"b-teal"},
+  {name:"Flint Beat",city:"Flint",market:"Flint",url:"https://flintbeat.com",badge:"Digital",type:"Digital",desc:"Nonprofit community newsroom for Flint; rigorous evidence-based reporting on how residents are solving Flint\'s biggest problems. Water crisis accountability journalism.",bc:"b-teal"},
+  {name:"NowKalamazoo",city:"Kalamazoo",market:"Grand Rapids",url:"https://nowkalamazoo.org",badge:"Digital",type:"Digital",desc:"Independent nonprofit newsroom for Kalamazoo County; est. 2019. Deep investigative reporting on homelessness, gun violence, and civic affairs. Michigan Press Association award winner.",bc:"b-teal"},
+  {name:"The Rapidian",city:"Grand Rapids",market:"Grand Rapids",url:"https://therapidian.org",badge:"Digital",type:"Digital",desc:"Citizen journalism project for Grand Rapids; Knight Foundation supported. Covers neighborhoods, nonprofits, and community issues often missed by mainstream media.",bc:"b-teal"},
+  {name:"Great Lakes Echo",city:"East Lansing",market:"Statewide",url:"https://greatlakesecho.org",badge:"Digital",type:"Digital",desc:"Environmental news of the Great Lakes region from Michigan State University\'s Knight Center for Environmental Journalism. Student and professional journalists.",bc:"b-teal"},
+  {name:"Great Lakes Now",city:"Detroit",market:"Statewide",url:"https://www.greatlakesnow.org",badge:"Digital",type:"Digital",desc:"Detroit PBS digital and TV platform covering Great Lakes environmental news. Part of the Great Lakes News Collaborative with Bridge Michigan, Michigan Public, Circle of Blue, and The Narwhal.",bc:"b-teal"},
+  {name:"Traverse City Ticker",city:"Traverse City",market:"Traverse City",url:"https://www.traverseticker.com",badge:"Digital",type:"Digital",desc:"Digital news and events publication for Traverse City and northern Michigan. Business openings, community news, and local events coverage.",bc:"b-teal"},
+  {name:"MyNorth / Traverse Magazine",city:"Traverse City",market:"Traverse City",url:"https://www.mynorth.com",badge:"Digital",type:"Digital",desc:"Digital and print media hub for northern Michigan. News, travel, food, and lifestyle for the Traverse City region and surrounding communities.",bc:"b-teal"},
+  {name:"Model D",city:"Detroit",market:"Metro Detroit",url:"https://modeldmedia.com",badge:"Digital",type:"Digital",desc:"Detroit\'s digital solutions-journalism magazine; est. 2005 — Michigan\'s first online community news site. Covers entrepreneurship, development, and community innovation in Detroit.",bc:"b-teal"},
+  {name:"Flintside",city:"Flint",market:"Flint",url:"https://flintside.com",badge:"Digital",type:"Digital",desc:"Digital solutions-journalism magazine for Flint and Genesee County. Covers community transformation, health equity, and economic development.",bc:"b-teal"},
+  {name:"Second Wave SW Michigan",city:"Kalamazoo / Battle Creek",market:"Grand Rapids",url:"https://www.secondwavemedia.com/southwest",badge:"Digital",type:"Digital",desc:"Digital community news for Southwest Michigan covering Kalamazoo and Battle Creek; innovation, nonprofits, and community development.",bc:"b-teal"},
+  {name:"The Keel",city:"Port Huron",market:"Flint",url:"https://www.secondwavemedia.com/the-keel",badge:"Digital",type:"Digital",desc:"Digital community magazine for Port Huron and St. Clair County (Blue Water area). Community development and civic stories.",bc:"b-teal"},
+  {name:"Catalyst Midland",city:"Midland",market:"Flint",url:"https://www.secondwavemedia.com/catalyst",badge:"Digital",type:"Digital",desc:"Digital community news for Midland and mid-Michigan; covers innovation, education, and economic development in the Midland area.",bc:"b-teal"},
+  {name:"Route Bay City",city:"Bay City",market:"Flint",url:"https://www.secondwavemedia.com/route",badge:"Digital",type:"Digital",desc:"Digital community magazine for Bay City and the Bay Area; covers community development and local innovation in the Saginaw Bay region.",bc:"b-teal"},
+  {name:"Epicenter Mt. Pleasant",city:"Mt. Pleasant",market:"Flint",url:"https://www.secondwavemedia.com/epicenter",badge:"Digital",type:"Digital",desc:"Digital community news for Mt. Pleasant and Isabella County; covers CMU, entrepreneurship, and community development in central Michigan.",bc:"b-teal"},
+  {name:"UPword",city:"Upper Peninsula",market:"Upper Peninsula",url:"https://www.secondwavemedia.com/upword",badge:"Digital",type:"Digital",desc:"Digital community magazine covering innovation, community development, and economic growth across Michigan\'s Upper Peninsula.",bc:"b-teal"},
+  {name:"Rural Innovation Exchange",city:"Michigan",market:"Statewide",url:"https://www.secondwavemedia.com/ruralinnov",badge:"Digital",type:"Digital",desc:"Digital publication covering rural community innovation and economic development across Michigan\'s rural communities.",bc:"b-teal"},
+  {name:"Michigan Truth",city:"Michigan",market:"Statewide",url:"https://michigantruth.com",badge:"Digital",type:"Digital",desc:"Digital news covering Michigan politics and government from a conservative perspective.",bc:"b-teal"},
+  {name:"Upper Michigan Source",city:"Marquette",market:"Upper Peninsula",url:"https://www.uppermichiganssource.com",badge:"Digital",type:"Digital",desc:"Digital news hub for Upper Michigan serving as the web companion to WLUC-TV; covers UP communities from Ironwood to Sault Ste. Marie.",bc:"b-teal"},
+  {name:"My UP Now",city:"Marquette",market:"Upper Peninsula",url:"https://www.myupnow.com",badge:"Digital",type:"Digital",desc:"Independent digital news for Michigan\'s Upper Peninsula; covers communities from the Keweenaw to Menominee. Founded by veteran UP journalists.",bc:"b-teal"},
+  {name:"Circle of Blue",city:"Traverse City",market:"Statewide",url:"https://www.circleofblue.org",badge:"Digital",type:"Digital",desc:"Nonprofit journalism organization focused on water and the global freshwater crisis; Michigan-based with strong Great Lakes coverage. Part of Great Lakes News Collaborative.",bc:"b-teal"},
+  {name:"Michigan Environment Watch",city:"Lansing",market:"Statewide",url:"https://www.politico.com/states/michigan",badge:"Digital",type:"Digital",desc:"POLITICO\'s Michigan-focused digital coverage; state politics, environment, and policy reporting from Lansing.",bc:"b-teal"},
+  {name:"Michigan\'s Thumb",city:"Bad Axe",market:"Flint",url:"https://www.michigansthumb.com",badge:"Digital",type:"Digital",desc:"Digital-first community news for Michigan\'s Thumb region (Huron County). Growing digital subscribers; community-focused reporting since 2019 pivot.",bc:"b-teal"},
+  {name:"Detour Detroit",city:"Detroit",market:"Metro Detroit",url:"https://www.detourdetroiter.com",badge:"Digital",type:"Digital",desc:"Independent digital publication covering Detroit culture, art, architecture, and urban affairs from a design-forward perspective.",bc:"b-teal"},
+  {name:"Informed Aging (Michigan)",city:"Lansing",market:"Statewide",url:"https://www.michiganpublic.org/aging",badge:"Digital",type:"Digital",desc:"Michigan Public\'s digital reporting hub on aging, long-term care, and issues facing Michigan\'s growing senior population.",bc:"b-teal"},
 ],
 public:[
   {name:"Michigan Public (WUOM 91.7)",city:"Ann Arbor",market:"Statewide",url:"https://www.michiganpublic.org",badge:"NPR/PBS",type:"Public",desc:"Flagship NPR station for Michigan; WUOM/WVGR statewide network.",bc:"b-purple"},
@@ -1737,11 +1871,15 @@ university:[
   {name:"The South End",city:"Detroit",market:"Wayne State University",url:"https://www.thesouthend.wayne.edu/",badge:"Student",type:"Student",desc:"Wayne State University student newspaper",bc:"b-blue"},
 ],
 business:[
+  {name:"Crain\'s Detroit Business",city:"Detroit",market:"Metro Detroit",url:"https://www.crainsdetroit.com",badge:"Business",type:"Business",desc:"Premier Detroit business weekly since 1985. Automotive, real estate, healthcare.",bc:"b-blue"},
   {name:"Crain\'s Grand Rapids Business",city:"Grand Rapids",market:"West Michigan",url:"https://www.crainsgrandrapids.com",badge:"Business",type:"Business",desc:"West Michigan business news. Formerly Grand Rapids Business Journal.",bc:"b-blue"},
   {name:"Automotive News",city:"Detroit",market:"Global (Detroit HQ)",url:"https://www.autonews.com",badge:"Business",type:"Business",desc:"Global automotive industry trade publication; Detroit-headquartered.",bc:"b-blue"},
   {name:"Corp! Magazine",city:"Michigan",market:"Statewide",url:"https://www.corpmagazine.com",badge:"Business",type:"Business",desc:"Michigan statewide business magazine since 1998. Entrepreneurship, marketing.",bc:"b-blue"},
   {name:"DBusiness",city:"Troy",market:"Metro Detroit",url:"https://www.dbusiness.com",badge:"Business",type:"Business",desc:"Detroit\'s premier business magazine. Corporate profiles, real estate, finance.",bc:"b-blue"},
   {name:"Michigan Lawyers Weekly",city:"Detroit",market:"Metro Detroit",url:"https://milawyersweekly.com/",badge:"Business",type:"Business",desc:"Provides 24/7 legal news coverage and events honoring top legal professionals.",bc:"b-blue"},
+  {name:"Metromode",city:"Metro Detroit",market:"Metro Detroit",url:"https://metromodemedia.com",badge:"Business",type:"Business",desc:"Digital news magazine covering entrepreneurship, innovation, and community development across Southeast Michigan\'s suburbs.",bc:"b-blue"},
+  {name:"Rapid Growth",city:"Grand Rapids",market:"Grand Rapids",url:"https://rapidgrowthmedia.com",badge:"Business",type:"Business",desc:"Online news magazine covering community growth, development, and innovation in Grand Rapids. Solutions journalism supported by community foundations.",bc:"b-blue"},
+  {name:"Concentrate (Ann Arbor/Ypsilanti)",city:"Ann Arbor",market:"Detroit",url:"https://www.secondwavemedia.com/concentrate",badge:"Business",type:"Business",desc:"Digital community news for Ann Arbor and Ypsilanti; covers innovation, entrepreneurship, and community development in Washtenaw County.",bc:"b-blue"},
 ],
 
 };
@@ -1941,6 +2079,47 @@ function showToast(icon,msg){
 }
 
 // Submit form
+function switchSubmitTab(tab){
+  const submitForm = document.getElementById('form-submit');
+  const correctForm = document.getElementById('form-correct');
+  const submitBtn = document.getElementById('tab-submit-btn');
+  const correctBtn = document.getElementById('tab-correct-btn');
+  if(tab==='submit'){
+    submitForm.style.display='';
+    correctForm.style.display='none';
+    submitBtn.style.background='var(--gold)';
+    submitBtn.style.color='#fff';
+    submitBtn.style.borderColor='var(--gold)';
+    correctBtn.style.background='transparent';
+    correctBtn.style.color='var(--text)';
+    correctBtn.style.borderColor='var(--border)';
+  } else {
+    submitForm.style.display='none';
+    correctForm.style.display='';
+    correctBtn.style.background='#b45309';
+    correctBtn.style.color='#fff';
+    correctBtn.style.borderColor='#b45309';
+    submitBtn.style.background='transparent';
+    submitBtn.style.color='var(--text)';
+    submitBtn.style.borderColor='var(--border)';
+  }
+}
+
+function handleCorrectForm(e){
+  e.preventDefault();
+  const form=e.target,data=new FormData(form);
+  const errEl=document.getElementById('correct-form-error');
+  const succEl=document.getElementById('correct-form-success');
+  errEl.style.display='none';succEl.style.display='none';
+  const outlet=data.get('outletName');
+  const type=data.get('correctionType');
+  const correction=data.get('correction');
+  try{if(typeof gtag==='function') gtag('event','report_correction',{outlet_name:outlet});}catch(e){}
+  succEl.textContent=`✅ Correction for "${outlet}" submitted. Thank you — we'll review it shortly!`;
+  succEl.style.display='block';
+  form.reset();
+}
+
 function handleSubmitForm(e){
   e.preventDefault();
   const form=e.target,data=new FormData(form);
