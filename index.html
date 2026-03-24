@@ -697,6 +697,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   display:flex;
   align-items:stretch;
   min-height:380px;
+  flex-direction:row;
 }
 #ticker-label{
   flex-shrink:0;
@@ -736,7 +737,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   pointer-events:none;
   transform:translateY(10px);
   transition:opacity .5s ease, transform .5s ease;
-  padding:12px 28px 20px 28px;
+  padding:14px 40px 8px 40px;
   align-items:center;
 }
 .ticker-slide.active{
@@ -784,14 +785,27 @@ body.dark mark{background:#78350f;color:#fde68a}
   color:var(--gold);
   text-decoration:underline;
 }
+#ticker-bottom{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:6px 40px 8px 40px;
+  flex-shrink:0;
+  border-top:1px solid rgba(255,255,255,.08);
+}
+#ticker-meta-bar{
+  font-size:.65rem;
+  color:rgba(255,255,255,.40);
+  letter-spacing:.04em;
+  white-space:nowrap;
+}
 #ticker-dots{
-  position:absolute;
-  bottom:10px;
-  right:16px;
   display:flex;
   gap:6px;
   align-items:center;
   pointer-events:auto;
+  flex:1;
+  justify-content:center;
 }
 #ticker-controls{
   flex-shrink:0;
@@ -1170,6 +1184,10 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
     <div id="ticker-label">Headlines</div>
     <div id="ticker-panel">
       <span id="ticker-loading">Loading latest headlines from Michigan outlets…</span>
+    </div>
+    <div id="ticker-bottom">
+      <div id="ticker-meta-bar"></div>
+      <div id="ticker-dots"></div>
     </div>
     <div id="ticker-controls">
       <button id="ticker-prev-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)-1)" aria-label="Previous headlines" title="Previous">
@@ -2266,14 +2284,11 @@ document.addEventListener('DOMContentLoaded',()=>{
 
   function renderSlides(panel, totalItems){
     panel.innerHTML = '';
-    // Meta bar: headline count + last updated time
+    // Update the bottom bar: meta timestamp
     const now = new Date();
     const timeStr = now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});
-    const meta = document.createElement('div');
-    meta.id = 'ticker-meta';
-    meta.style.cssText = 'position:absolute;bottom:6px;left:28px;font-size:.65rem;color:rgba(255,255,255,.35);letter-spacing:.04em;z-index:2;pointer-events:none;';
-    meta.textContent = (totalItems || 0) + ' headlines from Michigan sources · Updated ' + timeStr;
-    panel.appendChild(meta);
+    const metaBar = document.getElementById('ticker-meta-bar');
+    if(metaBar) metaBar.textContent = (totalItems || 0) + ' headlines · Updated ' + timeStr;
     slides.forEach((group, idx) => {
       const slide = document.createElement('div');
       slide.className = 'ticker-slide';
@@ -2286,11 +2301,7 @@ document.addEventListener('DOMContentLoaded',()=>{
       ).join('');
       panel.appendChild(slide);
     });
-    // Dots container
-    const dots = document.createElement('div');
-    dots.id = 'ticker-dots';
-    panel.appendChild(dots);
-  }
+  }  // end renderSlides
 
   function buildDots(){
     const dots = document.getElementById('ticker-dots');
