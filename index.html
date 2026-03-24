@@ -688,6 +688,117 @@ body.dark mark{background:#78350f;color:#fde68a}
 .icon{display:inline-block;vertical-align:middle;flex-shrink:0}
 
 /* ═══════════════════════════════════════════════════════
+   NEWS TICKER PANEL
+═══════════════════════════════════════════════════════ */
+#news-ticker{
+  background:var(--navy);
+  border-bottom:3px solid var(--gold);
+  padding:0;
+  overflow:hidden;
+  display:flex;
+  align-items:stretch;
+  min-height:108px;
+}
+#ticker-label{
+  flex-shrink:0;
+  background:var(--gold);
+  color:#fff;
+  font-size:.75rem;
+  font-weight:800;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  writing-mode:vertical-rl;
+  text-orientation:mixed;
+  transform:rotate(180deg);
+  padding:18px 12px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  white-space:nowrap;
+}
+#ticker-panel{
+  flex:1;
+  position:relative;
+  overflow:hidden;
+  padding:0;
+}
+.ticker-slide{
+  position:absolute;
+  inset:0;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  gap:0;
+  opacity:0;
+  transform:translateY(12px);
+  transition:opacity .6s ease, transform .6s ease;
+  padding:14px 24px;
+}
+.ticker-slide.active{
+  opacity:1;
+  transform:translateY(0);
+}
+.ticker-slide.exit{
+  opacity:0;
+  transform:translateY(-12px);
+}
+.ticker-row{
+  display:flex;
+  align-items:baseline;
+  gap:10px;
+  padding:5px 0;
+  border-bottom:1px solid rgba(255,255,255,.08);
+  line-height:1.35;
+}
+.ticker-row:last-child{
+  border-bottom:none;
+}
+.ticker-source{
+  flex-shrink:0;
+  color:var(--gold);
+  font-weight:800;
+  font-size:.72rem;
+  text-transform:uppercase;
+  letter-spacing:.05em;
+  min-width:140px;
+}
+.ticker-headline{
+  color:#fff;
+  text-decoration:none;
+  font-size:.85rem;
+  font-weight:500;
+  line-height:1.35;
+  transition:color .15s;
+}
+.ticker-headline:hover{
+  color:var(--gold);
+  text-decoration:underline;
+}
+#ticker-dots{
+  position:absolute;
+  bottom:8px;
+  right:14px;
+  display:flex;
+  gap:5px;
+  align-items:center;
+}
+.ticker-dot{
+  width:6px;height:6px;border-radius:50%;
+  background:rgba(255,255,255,.25);
+  cursor:pointer;transition:background .2s;
+}
+.ticker-dot.active{ background:var(--gold); }
+#ticker-loading{
+  color:rgba(255,255,255,.5);
+  font-size:.8rem;
+  font-style:italic;
+  padding:14px 24px;
+  display:flex;
+  align-items:center;
+  height:100%;
+}
+
+/* ═══════════════════════════════════════════════════════
    ACE CHATBOT
 ═══════════════════════════════════════════════════════ */
 #ace-btn{
@@ -816,6 +927,67 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
   text-align:center;font-size:.6rem;color:var(--text-muted);
   padding:0 12px 8px;flex-shrink:0;
 }
+
+/* ═══════════════════════════════════════════════════════
+   NEWS TICKER
+═══════════════════════════════════════════════════════ */
+#news-ticker{
+  background:var(--navy);
+  color:#fff;
+  overflow:hidden;
+  padding:0;
+  border-bottom:2px solid var(--gold);
+  height:36px;
+  display:flex;
+  align-items:center;
+  position:relative;
+}
+#ticker-label{
+  flex-shrink:0;
+  background:var(--gold);
+  color:#fff;
+  font-size:.7rem;
+  font-weight:800;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  padding:0 14px;
+  height:100%;
+  display:flex;
+  align-items:center;
+  white-space:nowrap;
+  z-index:2;
+}
+
+
+
+
+}
+
+.ticker-source{
+  color:var(--gold);
+  font-weight:700;
+  font-size:.65rem;
+  text-transform:uppercase;
+  letter-spacing:.05em;
+  flex-shrink:0;
+}
+.ticker-headline{
+  color:rgba(255,255,255,.88);
+  text-decoration:none;
+  transition:color .15s;
+}
+.ticker-headline:hover{ color:#fff; text-decoration:underline; }
+.ticker-dot{
+  color:var(--gold);
+  opacity:.5;
+  font-size:.55rem;
+}
+#ticker-loading{
+  padding:0 20px;
+  font-size:.72rem;
+  color:rgba(255,255,255,.5);
+  font-style:italic;
+}
 </style>
 </head>
 <body>
@@ -926,6 +1098,16 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
         <div><div class="hero-stat-num">275</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
+    </div>
+  </div>
+
+
+
+  <!-- ══ NEWS TICKER ══════════════════════════════════════════════════════ -->
+  <div id="news-ticker" role="region" aria-label="Latest Michigan news headlines">
+    <div id="ticker-label">Headlines</div>
+    <div id="ticker-panel">
+      <span id="ticker-loading">Loading latest headlines from Michigan outlets…</span>
     </div>
   </div>
 
@@ -1714,6 +1896,111 @@ document.addEventListener('DOMContentLoaded',()=>{
   renderFeatured();
   renderDir();
 });
+
+
+// ── NEWS TICKER ───────────────────────────────────────────────────────────────
+(function(){
+  const WORKER_RSS = 'https://ace-proxy.attorneydoyle.workers.dev/rss';
+  const ROTATE_MS  = 10000; // 10 seconds per slide
+  const PER_SLIDE  = 3;     // headlines per slide
+
+  let slides = [];
+  let current = 0;
+  let timer = null;
+
+  async function loadTicker(){
+    const panel = document.getElementById('ticker-panel');
+    if(!panel) return;
+
+    try {
+      const res = await fetch(WORKER_RSS);
+      if(!res.ok) throw new Error('Feed error');
+      const items = await res.json();
+      if(!items || items.length === 0) throw new Error('No items');
+
+      // Chunk into groups of 3
+      slides = [];
+      for(let i=0; i<items.length; i+=PER_SLIDE){
+        slides.push(items.slice(i, i+PER_SLIDE));
+      }
+
+      renderSlides(panel);
+      showSlide(0);
+      buildDots();
+      startRotation();
+
+    } catch(e) {
+      panel.innerHTML = '<span id="ticker-loading">Headlines temporarily unavailable — check back soon.</span>';
+    }
+  }
+
+  function renderSlides(panel){
+    panel.innerHTML = '';
+    slides.forEach((group, idx) => {
+      const slide = document.createElement('div');
+      slide.className = 'ticker-slide';
+      slide.id = 'ticker-slide-' + idx;
+      slide.innerHTML = group.map(item =>
+        `<div class="ticker-row">
+          <span class="ticker-source">${item.name}</span>
+          <a class="ticker-headline" href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+        </div>`
+      ).join('');
+      panel.appendChild(slide);
+    });
+    // Dots container
+    const dots = document.createElement('div');
+    dots.id = 'ticker-dots';
+    panel.appendChild(dots);
+  }
+
+  function buildDots(){
+    const dots = document.getElementById('ticker-dots');
+    if(!dots) return;
+    dots.innerHTML = slides.map((_,i) =>
+      `<div class="ticker-dot${i===0?' active':''}" onclick="tickerGoTo(${i})"></div>`
+    ).join('');
+  }
+
+  function showSlide(idx){
+    // Remove active/exit from all
+    document.querySelectorAll('.ticker-slide').forEach((el, i) => {
+      el.classList.remove('active','exit');
+      if(i === current && i !== idx) el.classList.add('exit');
+    });
+    current = idx;
+    const el = document.getElementById('ticker-slide-' + idx);
+    if(el) el.classList.add('active');
+    // Update dots
+    document.querySelectorAll('.ticker-dot').forEach((d,i) => {
+      d.classList.toggle('active', i===idx);
+    });
+  }
+
+  function startRotation(){
+    if(timer) clearInterval(timer);
+    timer = setInterval(()=>{
+      showSlide((current + 1) % slides.length);
+    }, ROTATE_MS);
+  }
+
+  window.tickerGoTo = function(idx){
+    showSlide(idx);
+    startRotation(); // reset timer
+  };
+
+  if(document.readyState === 'loading'){
+    document.addEventListener('DOMContentLoaded', loadTicker);
+  } else {
+    loadTicker();
+  }
+
+  // Refresh feeds every 30 minutes
+  setInterval(()=>{
+    loadTicker();
+  }, 30 * 60 * 1000);
+})();
+
 
 // ── ACE CHATBOT ───────────────────────────────────────────────────────────────
 (function(){
