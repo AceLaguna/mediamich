@@ -222,7 +222,7 @@ body.dark .skeleton{background:linear-gradient(90deg,#1a2d42 25%,#22384f 50%,#1a
 body.dark .hero{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19 100%)}
 .hero-blob1{position:absolute;top:-80px;right:-80px;width:380px;height:380px;border-radius:50%;background:rgba(30,86,49,.2);filter:blur(60px);pointer-events:none}
 .hero-blob2{position:absolute;bottom:-60px;left:-60px;width:300px;height:300px;border-radius:50%;background:rgba(200,134,10,.1);filter:blur(60px);pointer-events:none}
-.hero-content{position:relative;z-index:5;max-width:1280px;margin:0 auto;padding:80px 1.25rem 80px;display:grid;grid-template-columns:1fr auto;gap:2rem;align-items:center}
+.hero-content{position:relative;z-index:5;max-width:1280px;margin:0 auto;padding:80px 1.25rem 80px}
 .hero-badge{
   display:inline-flex;align-items:center;gap:8px;
   background:rgba(255,255,255,.1);border:1px solid rgba(200,134,10,.35);
@@ -1112,8 +1112,6 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
     <div class="hero-blob1"></div>
     <div class="hero-blob2"></div>
     <div class="hero-content">
-      <!-- Left column: text + search + stats -->
-      <div class="hero-left">
         <div class="hero-badge">
           <span class="live-dot live-dot-sm" style="background:var(--gold)"></span>
           Michigan's Complete Media Resource — 2026
@@ -1135,7 +1133,6 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
           <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
           <div><div class="hero-stat-num">366</div><div class="hero-stat-label">Total Outlets</div></div>
         </div>
-      </div><!-- /hero-left -->
 
       <!-- Right column: Michigan silhouette -->
       <div class="hero-mi-map" aria-hidden="true">
