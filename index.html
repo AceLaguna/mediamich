@@ -2221,10 +2221,10 @@ document.addEventListener('DOMContentLoaded',()=>{
         if(group.length > 0) slides.push(group);
       }
 
-      // Cap at 30 slides (120 headlines) so dots bar doesn't overflow
-      if(slides.length > 30) slides = slides.slice(0, 30);
+      // Cap at 50 slides (200 headlines) — plenty of variety
+      if(slides.length > 50) slides = slides.slice(0, 50);
 
-      renderSlides(panel);
+      renderSlides(panel, interleaved.length);
       buildDots();
       // Small delay to ensure DOM is painted before activating first slide
       setTimeout(() => {
@@ -2237,8 +2237,16 @@ document.addEventListener('DOMContentLoaded',()=>{
     }
   }
 
-  function renderSlides(panel){
+  function renderSlides(panel, totalItems){
     panel.innerHTML = '';
+    // Meta bar: headline count + last updated time
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});
+    const meta = document.createElement('div');
+    meta.id = 'ticker-meta';
+    meta.style.cssText = 'position:absolute;bottom:6px;left:28px;font-size:.65rem;color:rgba(255,255,255,.35);letter-spacing:.04em;z-index:2;pointer-events:none;';
+    meta.textContent = (totalItems || 0) + ' headlines from Michigan sources · Updated ' + timeStr;
+    panel.appendChild(meta);
     slides.forEach((group, idx) => {
       const slide = document.createElement('div');
       slide.className = 'ticker-slide';
