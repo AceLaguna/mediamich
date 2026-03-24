@@ -737,6 +737,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   transform:translateY(10px);
   transition:opacity .5s ease, transform .5s ease;
   padding:16px 28px 28px 28px;
+  align-items:center;
 }
 .ticker-slide.active{
   opacity:1;
@@ -750,11 +751,14 @@ body.dark mark{background:#78350f;color:#fde68a}
 }
 .ticker-row{
   display:flex;
-  align-items:baseline;
+  align-items:center;
   gap:14px;
   padding:10px 0;
   border-bottom:1px solid rgba(255,255,255,.1);
   line-height:1.4;
+  max-width:900px;
+  margin:0 auto;
+  width:100%;
 }
 .ticker-row:last-child{
   border-bottom:none;
@@ -1142,6 +1146,18 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         </button>
         <button class="cat-tile" style="background:#0f766e" onclick="goDir('digital')">
           <span class="tile-emoji">💻</span><div class="tile-label">Digital</div><div class="tile-sub">12+ sites</div>
+        </button>
+        <button class="cat-tile" style="background:#1565a7" onclick="goDir('public')">
+          <span class="tile-emoji">📡</span><div class="tile-label">Public Media</div><div class="tile-sub">52 outlets</div>
+        </button>
+        <button class="cat-tile" style="background:#7c3aed" onclick="goDir('ethnic')">
+          <span class="tile-emoji">🌐</span><div class="tile-label">Ethnic &amp; Religious</div><div class="tile-sub">45+ outlets</div>
+        </button>
+        <button class="cat-tile" style="background:#b45309" onclick="goDir('university')">
+          <span class="tile-emoji">🎓</span><div class="tile-label">University</div><div class="tile-sub">22 papers</div>
+        </button>
+        <button class="cat-tile" style="background:#1e3a5f" onclick="goDir('business')">
+          <span class="tile-emoji">💼</span><div class="tile-label">Business</div><div class="tile-sub">5 outlets</div>
         </button>
       </div>
     </div>
