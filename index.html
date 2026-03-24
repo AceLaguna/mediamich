@@ -28,9 +28,9 @@ select,input,textarea{font-family:inherit}
 img{max-width:100%}
 
 /* Scrollbar */
-::-webkit-scrollbar{width:10px;height:10px}
+::-webkit-scrollbar{width:16px;height:16px}
 ::-webkit-scrollbar-track{background:#dde3ec}
-::-webkit-scrollbar-thumb{background:#1e3a5f;border-radius:99px;border:2px solid #dde3ec}
+::-webkit-scrollbar-thumb{background:#1e3a5f;border-radius:99px;border:3px solid #dde3ec}
 ::-webkit-scrollbar-thumb:hover{background:#0c1f3a}
 
 /* ═══════════════════════════════════════════════════════
@@ -57,7 +57,7 @@ img{max-width:100%}
   --bg-header: rgba(12,31,58,0.96);
   --border:    #e2e8f0;
   --text:      #1a2535;
-  --text-muted:#64748b;
+  --text-muted:#475569;
   --shadow:    0 2px 16px rgba(12,31,58,0.08);
   --shadow-lg: 0 8px 32px rgba(12,31,58,0.14);
 }
@@ -232,7 +232,7 @@ body.dark .hero{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19
 .hero h1{font-size:3.5rem;color:#fff;line-height:1.1;margin-bottom:1.25rem}
 .hero h1 em{color:var(--gold);font-style:normal}
 @media(max-width:768px){.hero h1{font-size:2.2rem}}
-.hero p{color:rgba(255,255,255,.68);font-size:1.1rem;line-height:1.65;max-width:520px;margin-bottom:2rem}
+.hero p{color:rgba(255,255,255,.85);font-size:1.1rem;line-height:1.65;max-width:520px;margin-bottom:2rem}
 /* Hero search — deliberately no backdrop-filter, no overflow:hidden, full z-index */
 .hero-search-wrap{display:flex;gap:8px;max-width:520px;position:relative;z-index:10}
 .hero-search-field{
@@ -270,7 +270,7 @@ body.dark .hero{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19
   border-top:1px solid rgba(255,255,255,.12);
 }
 .hero-stat-num{font-family:'DM Serif Display',serif;font-size:1.75rem;color:var(--gold)}
-.hero-stat-label{color:rgba(255,255,255,.45);font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;margin-top:2px}
+.hero-stat-label{color:rgba(255,255,255,.80);font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;margin-top:2px}
 
 /* ═══════════════════════════════════════════════════════
    SECTIONS
@@ -696,7 +696,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   padding:0;
   display:flex;
   align-items:stretch;
-  min-height:190px;
+  min-height:380px;
 }
 #ticker-label{
   flex-shrink:0;
@@ -719,7 +719,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   flex:1;
   overflow:hidden;
   padding:0;
-  min-height:160px;
+  min-height:380px;
   /* Stack slides using grid so only one is visible at a time */
   display:grid;
   grid-template-rows:1fr;
@@ -803,6 +803,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   padding:0 16px;
   border-left:1px solid rgba(255,255,255,.1);
 }
+#ticker-prev-btn,
 #ticker-pause-btn,
 #ticker-next-btn{
   background:rgba(255,255,255,.1);
@@ -891,7 +892,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:1rem;
 }
 .ace-name{color:#fff;font-weight:700;font-size:.9rem;line-height:1.1;}
-.ace-sub{color:rgba(255,255,255,.55);font-size:.65rem;}
+.ace-sub{color:rgba(255,255,255,.80);font-size:.65rem;}
 #ace-close{
   background:rgba(255,255,255,.12);border:none;border-radius:8px;
   width:28px;height:28px;cursor:pointer;color:#fff;
@@ -1026,6 +1027,29 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
   color:rgba(255,255,255,.5);
   font-style:italic;
 }
+
+@media(max-width:600px){
+  #ace-panel{
+    right:.5rem;left:.5rem;width:auto;bottom:4.5rem;
+    background:#f8f9fc!important;
+  }
+  body.dark #ace-panel{
+    background:#0f1e3a!important;
+  }
+}
+
+#scroll-up-btn,#scroll-down-btn{
+  position:fixed;right:1px;z-index:600;
+  width:16px;height:28px;
+  background:#1e3a5f;color:#fff;border:none;
+  border-radius:3px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  font-size:9px;line-height:1;opacity:.80;
+  transition:opacity .15s,background .15s;padding:0;
+}
+#scroll-up-btn{top:80px;}
+#scroll-down-btn{bottom:24px;}
+#scroll-up-btn:hover,#scroll-down-btn:hover{background:#0c1f3a;opacity:1;}
 </style>
 </head>
 <body>
@@ -1148,6 +1172,9 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
       <span id="ticker-loading">Loading latest headlines from Michigan outlets…</span>
     </div>
     <div id="ticker-controls">
+      <button id="ticker-prev-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)-1)" aria-label="Previous headlines" title="Previous">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15,18 9,12 15,6"/></svg>
+      </button>
       <button id="ticker-pause-btn" onclick="tickerTogglePause()" aria-label="Pause headlines" title="Pause">
         <svg id="ticker-pause-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
           <rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>
@@ -2171,8 +2198,8 @@ document.addEventListener('DOMContentLoaded',()=>{
 // ── NEWS TICKER ───────────────────────────────────────────────────────────────
 (function(){
   const WORKER_RSS = 'https://ace-proxy.attorneydoyle.workers.dev/rss';
-  const ROTATE_MS  = 10000; // 10 seconds per slide
-  const PER_SLIDE  = 4;     // headlines per slide
+  const ROTATE_MS  = 30000; // 30 seconds per slide
+  const PER_SLIDE  = 10;    // headlines per slide
 
   let slides = [];
   let current = 0;
@@ -2294,6 +2321,8 @@ document.addEventListener('DOMContentLoaded',()=>{
       showSlide((current + 1) % slides.length);
     }, ROTATE_MS);
   }
+
+  window.tickerGetCurrent = function(){ return current; };
 
   window.tickerGoTo = function(idx){
     // Wrap around
@@ -2523,5 +2552,8 @@ Always be helpful, specific, and cite outlet names when answering. If a user ask
   });
 })();
 </script>
+
+  <button id="scroll-up-btn" onclick="window.scrollBy({top:-300,behavior:'smooth'})" title="Scroll up" aria-label="Scroll up">▲</button>
+  <button id="scroll-down-btn" onclick="window.scrollBy({top:300,behavior:'smooth'})" title="Scroll down" aria-label="Scroll down">▼</button>
 </body>
 </html>
