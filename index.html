@@ -793,6 +793,34 @@ body.dark mark{background:#78350f;color:#fde68a}
   align-items:center;
   pointer-events:auto;
 }
+#ticker-controls{
+  flex-shrink:0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  padding:0 16px;
+  border-left:1px solid rgba(255,255,255,.1);
+}
+#ticker-pause-btn,
+#ticker-next-btn{
+  background:rgba(255,255,255,.1);
+  border:1px solid rgba(255,255,255,.2);
+  border-radius:50%;
+  width:38px;height:38px;
+  display:flex;align-items:center;justify-content:center;
+  cursor:pointer;
+  color:#fff;
+  transition:background .15s,transform .15s;
+  flex-shrink:0;
+}
+#ticker-pause-btn:hover,
+#ticker-next-btn:hover{
+  background:var(--gold);
+  border-color:var(--gold);
+  transform:scale(1.08);
+}
 .ticker-dot{
   width:7px;height:7px;border-radius:50%;
   background:rgba(255,255,255,.25);
@@ -1118,6 +1146,21 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
     <div id="ticker-label">Headlines</div>
     <div id="ticker-panel">
       <span id="ticker-loading">Loading latest headlines from Michigan outlets…</span>
+    </div>
+    <div id="ticker-controls">
+      <button id="ticker-pause-btn" onclick="tickerTogglePause()" aria-label="Pause headlines" title="Pause">
+        <svg id="ticker-pause-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+          <rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>
+        </svg>
+        <svg id="ticker-play-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display:none">
+          <polygon points="5,3 19,12 5,21"/>
+        </svg>
+      </button>
+      <button id="ticker-next-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)+1)" aria-label="Next headlines" title="Next">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <polyline points="9,18 15,12 9,6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
     </div>
   </div>
 
@@ -2010,9 +2053,32 @@ document.addEventListener('DOMContentLoaded',()=>{
   }
 
   window.tickerGoTo = function(idx){
-    showSlide(idx);
-    startRotation(); // reset timer
+    // Wrap around
+    const total = slides.length;
+    if(total === 0) return;
+    showSlide(((idx % total) + total) % total);
+    if(!paused) startRotation();
   };
+
+  let paused = false;
+  window.tickerTogglePause = function(){
+    paused = !paused;
+    const pauseIcon = document.getElementById('ticker-pause-icon');
+    const playIcon  = document.getElementById('ticker-play-icon');
+    if(paused){
+      if(timer) clearInterval(timer);
+      if(pauseIcon) pauseIcon.style.display = 'none';
+      if(playIcon)  playIcon.style.display  = '';
+      document.getElementById('ticker-pause-btn').title = 'Play';
+    } else {
+      startRotation();
+      if(pauseIcon) pauseIcon.style.display = '';
+      if(playIcon)  playIcon.style.display  = 'none';
+      document.getElementById('ticker-pause-btn').title = 'Pause';
+    }
+  };
+
+  window.tickerGetCurrent = function(){ return current; };
 
   if(document.readyState === 'loading'){
     document.addEventListener('DOMContentLoaded', loadTicker);
