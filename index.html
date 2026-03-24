@@ -692,7 +692,7 @@ body.dark mark{background:#78350f;color:#fde68a}
 ═══════════════════════════════════════════════════════ */
 #news-ticker{
   background:var(--navy);
-  border-bottom:3px solid var(--gold);
+  border-bottom:none;
   padding:0;
   display:flex;
   align-items:stretch;
@@ -795,9 +795,9 @@ body.dark mark{background:#78350f;color:#fde68a}
 }
 .mi-state-img{
   display:block;width:220px;height:auto;
-  filter:brightness(0) saturate(100%) invert(75%) sepia(55%) saturate(500%) hue-rotate(2deg) brightness(0.92) opacity(0.80);
-  filter:drop-shadow(0 0 28px rgba(200,134,10,0.22)) brightness(0) saturate(100%) invert(75%) sepia(55%) saturate(500%) hue-rotate(2deg) brightness(0.92) opacity(0.80);
+  filter:brightness(0) saturate(100%) invert(62%) sepia(70%) saturate(700%) hue-rotate(4deg) brightness(1.1) drop-shadow(0 0 28px rgba(200,134,10,0.30)) opacity(0.88);
 }
+
 #ticker-controls{
   flex-shrink:0;
   display:flex;
@@ -1036,6 +1036,22 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
   #ace-panel{right:.75rem;left:.75rem;width:auto;bottom:5rem}
 }
 @media(max-width:600px){#ace-panel{right:.5rem;left:.5rem;width:auto;bottom:4.5rem;background:#f8f9fc!important;box-shadow:0 8px 40px rgba(0,0,0,.35)!important}body.dark #ace-panel{background:#0f1e3a!important}}
+
+/* Scroll arrow buttons */
+#scroll-up-btn,
+#scroll-down-btn{
+  position:fixed;right:2px;z-index:600;
+  width:18px;height:32px;
+  background:#1e3a5f;color:#fff;border:none;
+  border-radius:4px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  opacity:0.82;transition:opacity .15s,background .15s;
+  font-size:10px;line-height:1;
+  padding:0;
+}
+#scroll-up-btn{ top:80px; }
+#scroll-down-btn{ bottom:24px; }
+#scroll-up-btn:hover,#scroll-down-btn:hover{ background:#0c1f3a;opacity:1; }
 </style>
 </head>
 <body>
@@ -1298,8 +1314,8 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
 <div id="page-submit" class="page">
   <div class="container" style="padding-top:2.5rem;padding-bottom:2.5rem;max-width:760px">
     <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(200,134,10,.1);border:1px solid rgba(200,134,10,.3);color:var(--gold);font-size:.68rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;padding:6px 14px;border-radius:99px;margin-bottom:1.25rem">📝 Get in Touch</div>
-    <h1 style="font-size:2.2rem;color:var(--navy);margin-bottom:.75rem">Contact Us</h1>
-    <p style="color:var(--text);max-width:560px;opacity:0.75;line-height:1.65;margin-bottom:2rem">Know a Michigan media outlet we're missing? Found an error in a listing? Use the forms below. All submissions are manually reviewed before any changes are made.</p>
+    <h1 style="font-size:2.2rem;color:var(--navy);margin-bottom:.75rem;font-weight:700">Contact Us</h1>
+    <p style="color:var(--text-muted);max-width:560px;line-height:1.65;margin-bottom:2rem">Know a Michigan media outlet we're missing? Found an error in a listing? Use the forms below. All submissions are manually reviewed before any changes are made.</p>
 
     <!-- Tab toggle -->
     <div style="display:flex;gap:8px;margin-bottom:1.75rem">
@@ -2541,5 +2557,9 @@ Always be helpful, specific, and cite outlet names when answering. If a user ask
   });
 })();
 </script>
+
+  <!-- Scroll arrow buttons alongside scrollbar -->
+  <button id="scroll-up-btn" onclick="window.scrollBy({top:-300,behavior:'smooth'})" title="Scroll up" aria-label="Scroll up">▲</button>
+  <button id="scroll-down-btn" onclick="window.scrollBy({top:300,behavior:'smooth'})" title="Scroll down" aria-label="Scroll down">▼</button>
 </body>
 </html>
