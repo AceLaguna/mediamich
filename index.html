@@ -1870,7 +1870,14 @@ Always be helpful, specific, and cite outlet names when answering. If a user ask
       }
 
       const data=await response.json();
-      const reply=data.content?.map(b=>b.type==='text'?b.text:'').join('')||'Sorry, I didn\'t get a response.';
+      // Surface any error details to help diagnose
+      if(data.error){
+        throw new Error(data.error.message||JSON.stringify(data.error));
+      }
+      const reply=data.content?.map(b=>b.type==='text'?b.text:'').join('');
+      if(!reply){
+        throw new Error('Empty response. Raw: '+JSON.stringify(data).slice(0,200));
+      }
       aceHistory.push({role:'assistant',content:reply});
       aceAddMsg('bot',reply);
 
