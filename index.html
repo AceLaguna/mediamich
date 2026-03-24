@@ -721,6 +721,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   position:relative;
   overflow:hidden;
   padding:0;
+  min-height:108px;
 }
 .ticker-slide{
   position:absolute;
@@ -1925,12 +1926,15 @@ document.addEventListener('DOMContentLoaded',()=>{
       }
 
       renderSlides(panel);
-      showSlide(0);
       buildDots();
-      startRotation();
+      // Small delay to ensure DOM is painted before activating first slide
+      setTimeout(() => {
+        showSlide(0);
+        startRotation();
+      }, 50);
 
     } catch(e) {
-      panel.innerHTML = '<span id="ticker-loading">Headlines temporarily unavailable — check back soon.</span>';
+      panel.innerHTML = '<span id="ticker-loading">Headlines unavailable: ' + e.message + '</span>';
     }
   }
 
