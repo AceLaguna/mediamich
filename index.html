@@ -716,6 +716,11 @@ body.dark mark{background:#78350f;color:#fde68a}
   justify-content:center;
   white-space:nowrap;
 }
+#ticker-content{
+  flex:1;
+  display:flex;
+  flex-direction:column;
+}
 #ticker-panel{
   flex:1;
   overflow:hidden;
@@ -789,7 +794,7 @@ body.dark mark{background:#78350f;color:#fde68a}
   display:flex;
   align-items:center;
   justify-content:space-between;
-  padding:6px 40px 8px 40px;
+  padding:6px 20px 8px 20px;
   flex-shrink:0;
   border-top:1px solid rgba(255,255,255,.08);
 }
@@ -808,14 +813,11 @@ body.dark mark{background:#78350f;color:#fde68a}
   justify-content:center;
 }
 #ticker-controls{
-  flex-shrink:0;
   display:flex;
-  flex-direction:column;
+  flex-direction:row;
   align-items:center;
-  justify-content:center;
-  gap:10px;
-  padding:0 16px;
-  border-left:1px solid rgba(255,255,255,.1);
+  gap:6px;
+  flex-shrink:0;
 }
 #ticker-prev-btn,
 #ticker-pause-btn,
@@ -1155,13 +1157,13 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         Michigan's Complete Media Resource — 2026
       </div>
       <h1>Every Michigan<br/><em>News Source</em><br/>in One Place</h1>
-      <p>TV stations, radio, newspapers, magazines, and digital news — the complete directory for Michigan media.</p>
+      <p>TV stations, radio, newspapers, magazines, and digital news — the complete directory of Michigan media.</p>
 
       <!-- Search — plain HTML, no framework interference -->
       <div class="hero-search-wrap">
         <div class="hero-search-field">
           <svg class="hero-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35" stroke-linecap="round"/></svg>
-          <input id="hero-search" type="text" placeholder="Search outlets, cities, formats…"
+          <input id="hero-search" type="text" placeholder="Search outlets, cities, DMAs…"
             onkeydown="if(event.key==='Enter')heroGo()"/>
         </div>
         <button class="hero-search-btn" onclick="heroGo()">Search</button>
@@ -1182,32 +1184,34 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
   <!-- ══ NEWS TICKER ══════════════════════════════════════════════════════ -->
   <div id="news-ticker" role="region" aria-label="Latest Michigan news headlines">
     <div id="ticker-label">Headlines</div>
+    <div id="ticker-content">
     <div id="ticker-panel">
       <span id="ticker-loading">Loading latest headlines from Michigan outlets…</span>
     </div>
     <div id="ticker-bottom">
       <div id="ticker-meta-bar"></div>
       <div id="ticker-dots"></div>
+      <div id="ticker-controls">
+        <button id="ticker-prev-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)-1)" aria-label="Previous headlines" title="Previous">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15,18 9,12 15,6"/></svg>
+        </button>
+        <button id="ticker-pause-btn" onclick="tickerTogglePause()" aria-label="Pause headlines" title="Pause">
+          <svg id="ticker-pause-icon" width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+            <rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>
+          </svg>
+          <svg id="ticker-play-icon" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="display:none">
+            <polygon points="5,3 19,12 5,21"/>
+          </svg>
+        </button>
+        <button id="ticker-next-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)+1)" aria-label="Next headlines" title="Next">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <polyline points="9,18 15,12 9,6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
     </div>
-    <div id="ticker-controls">
-      <button id="ticker-prev-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)-1)" aria-label="Previous headlines" title="Previous">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15,18 9,12 15,6"/></svg>
-      </button>
-      <button id="ticker-pause-btn" onclick="tickerTogglePause()" aria-label="Pause headlines" title="Pause">
-        <svg id="ticker-pause-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-          <rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>
-        </svg>
-        <svg id="ticker-play-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display:none">
-          <polygon points="5,3 19,12 5,21"/>
-        </svg>
-      </button>
-      <button id="ticker-next-btn" onclick="tickerGoTo((typeof tickerGetCurrent==='function'?tickerGetCurrent():0)+1)" aria-label="Next headlines" title="Next">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <polyline points="9,18 15,12 9,6" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </button>
-    </div>
-  </div>
+    </div><!-- /ticker-content -->
+  </div><!-- /news-ticker -->
 
   <!-- Category tiles -->
   <div class="section">
@@ -1257,7 +1261,7 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
       <div class="section-top">
         <div class="section-head" style="margin-bottom:0">
           <h2>Featured Outlets</h2>
-          <p>Michigan's most prominent media organizations</p>
+          <p>A random array of Michigan media</p>
         </div>
         <button class="text-link hide-mobile" onclick="showPage('directory')">View full directory →</button>
       </div>
@@ -2127,16 +2131,12 @@ function outletCard(o,term='',showCat=false){
 
 // ── FEATURED OUTLETS (HOME PAGE) ──────────────────────────────────────────────
 function renderFeatured(){
-  const picks=[
-    OUTLETS.tv.find(o=>o.name.includes('WDIV')),
-    OUTLETS.tv.find(o=>o.name.includes('WOOD-TV')),
-    OUTLETS.daily.find(o=>o.name.includes('Free Press')),
-    OUTLETS.daily.find(o=>o.name.includes('Record-Eagle')),
-    OUTLETS.digital.find(o=>o.name.includes('Bridge Michigan')),
-    OUTLETS.digital.find(o=>o.name.includes('MLive')),
-    OUTLETS.public.find(o=>o.name.includes('Michigan Public')),
-    OUTLETS.magazines.find(o=>o.name.includes('Hour Detroit')),
-  ].filter(Boolean);
+  // One random outlet from each of the 10 categories
+  const cats=['tv','radio','daily','weekly','magazines','digital','public','ethnic','university','business'];
+  const picks=cats.map(cat=>{
+    const arr=OUTLETS[cat];
+    return arr[Math.floor(Math.random()*arr.length)];
+  }).filter(Boolean);
   document.getElementById('featured-grid').innerHTML=picks.map(o=>outletCard(o,'')).join('');
 }
 
