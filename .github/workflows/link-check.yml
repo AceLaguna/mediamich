@@ -1,0 +1,30 @@
+name: Monthly link check
+on:
+  schedule:
+    - cron: "0 8 1 * *"      # 8:00 UTC on the 1st of every month
+  workflow_dispatch: {}       # also lets you run it manually from the Actions tab
+permissions:
+  issues: write
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check every outlet URL
+        run: python scripts/check_links.py
+      - name: Open an issue if anything is broken
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if grep -q "All links OK" broken_links.md; then
+            echo "All links OK — no issue needed."
+          else
+            gh issue create \
+              --title "Broken links found — $(date +'%B %Y') link check" \
+              --body-file broken_links.md \
+              --label "link-check"
+          fi
