@@ -1186,7 +1186,7 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         <div><div class="hero-stat-num">52</div><div class="hero-stat-label">Radio Stations</div></div>
         <div><div class="hero-stat-num">45</div><div class="hero-stat-label">Daily Papers</div></div>
         <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
-        <div><div class="hero-stat-num">427</div><div class="hero-stat-label">Total Outlets</div></div>
+        <div><div class="hero-stat-num">447</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
     </div>
   </div>
@@ -1266,6 +1266,9 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         <button class="cat-tile" style="background:#14532d" onclick="goDir('sports')">
           <span class="tile-emoji">🏈</span><div class="tile-label">Sports &amp; Outdoors</div><div class="tile-sub">7 outlets</div>
         </button>
+        <button class="cat-tile" style="background:#7f1d1d" onclick="goDir('border')">
+          <span class="tile-emoji">🌉</span><div class="tile-label">Border Coverage</div><div class="tile-sub">20 outlets</div>
+        </button>
       </div>
     </div>
   </div>
@@ -1327,6 +1330,7 @@ body.dark #ace-input{background:rgba(255,255,255,.07);color:#fff;}
         <button class="tab-btn" data-tab="university" onclick="switchTab('university')">🎓 University</button>
         <button class="tab-btn" data-tab="business" onclick="switchTab('business')">💼 Business</button>
         <button class="tab-btn" data-tab="sports" onclick="switchTab('sports')">🏈 Sports</button>
+        <button class="tab-btn" data-tab="border" onclick="switchTab('border')">🌉 Border</button>
       </div>
     </div>
 
@@ -2052,11 +2056,39 @@ sports:[
   {name:"Woodward Sports Network",city:"Detroit",market:"Detroit",url:"https://woodwardsports.com",badge:"Sports",type:"Sports",desc:"Independent Detroit sports network — shows, podcasts, and video across all Detroit teams.",bc:"b-green"},
 ],
 
+border:[
+  {name:"WTOL 11 — CBS Toledo",city:"Toledo, OH",market:"Border",url:"https://www.wtol.com",badge:"Border",type:"Border",desc:"CBS affiliate; the Toledo DMA officially includes Monroe and Lenawee counties in Michigan.",bc:"b-slate"},
+  {name:"WTVG — 13abc Toledo",city:"Toledo, OH",market:"Border",url:"https://www.13abc.com",badge:"Border",type:"Border",desc:"ABC affiliate covering southeast Michigan's border counties from Toledo.",bc:"b-slate"},
+  {name:"WNWO — NBC 24 Toledo",city:"Toledo, OH",market:"Border",url:"https://nbc24.com",badge:"Border",type:"Border",desc:"NBC affiliate for the Toledo DMA, including Monroe County, Michigan.",bc:"b-slate"},
+  {name:"WUPW — Fox 36 Toledo",city:"Toledo, OH",market:"Border",url:"https://www.wupw.com",badge:"Border",type:"Border",desc:"Fox affiliate for the Toledo DMA reaching into southern Michigan.",bc:"b-slate"},
+  {name:"The Blade",city:"Toledo, OH",market:"Border",url:"https://www.toledoblade.com",badge:"Border",type:"Border",desc:"Toledo's daily newspaper; regularly covers Monroe County and Michigan border news.",bc:"b-slate"},
+  {name:"WNDU — NBC 16 South Bend",city:"South Bend, IN",market:"Border",url:"https://www.wndu.com",badge:"Border",type:"Border",desc:"NBC affiliate; the South Bend DMA includes Berrien, Cass, and St. Joseph counties in Michigan.",bc:"b-slate"},
+  {name:"WSBT 22 — CBS South Bend",city:"South Bend, IN",market:"Border",url:"https://wsbt.com",badge:"Border",type:"Border",desc:"CBS affiliate covering 'Michiana,' including southwest Michigan.",bc:"b-slate"},
+  {name:"ABC57 — WBND South Bend",city:"South Bend, IN",market:"Border",url:"https://abc57.com",badge:"Border",type:"Border",desc:"ABC affiliate for the Michiana region including Niles and Berrien County.",bc:"b-slate"},
+  {name:"South Bend Tribune",city:"South Bend, IN",market:"Border",url:"https://www.southbendtribune.com",badge:"Border",type:"Border",desc:"Daily paper whose coverage area includes Niles and southwest Michigan communities.",bc:"b-slate"},
+  {name:"WVPE 88.1 FM",city:"Elkhart, IN",market:"Border",url:"https://www.wvpe.org",badge:"Border",type:"Border",desc:"NPR affiliate for Michiana, serving southwest Michigan listeners.",bc:"b-slate"},
+  {name:"WBAY — ABC 2 Green Bay",city:"Green Bay, WI",market:"Border",url:"https://www.wbay.com",badge:"Border",type:"Border",desc:"ABC affiliate; the Green Bay DMA includes Menominee County in Michigan's UP.",bc:"b-slate"},
+  {name:"WLUK — Fox 11 Green Bay",city:"Green Bay, WI",market:"Border",url:"https://fox11online.com",badge:"Border",type:"Border",desc:"Fox affiliate covering northeast Wisconsin and Menominee, Michigan.",bc:"b-slate"},
+  {name:"WFRV — CBS 5 Green Bay",city:"Green Bay, WI",market:"Border",url:"https://www.wearegreenbay.com",badge:"Border",type:"Border",desc:"CBS affiliate serving the Wisconsin–Michigan border region.",bc:"b-slate"},
+  {name:"EagleHerald",city:"Marinette, WI",market:"Border",url:"https://www.ehextra.com",badge:"Border",type:"Border",desc:"Daily for the twin cities of Marinette, WI and Menominee, MI — the primary paper for Menominee County.",bc:"b-slate"},
+  {name:"KBJR 6 — NBC Duluth",city:"Duluth, MN",market:"Border",url:"https://www.kbjr6.com",badge:"Border",type:"Border",desc:"NBC affiliate; the Duluth–Superior DMA includes Gogebic County (Ironwood) in Michigan.",bc:"b-slate"},
+  {name:"WDIO — ABC Duluth",city:"Duluth, MN",market:"Border",url:"https://www.wdio.com",badge:"Border",type:"Border",desc:"ABC affiliate covering the western tip of Michigan's UP from Duluth.",bc:"b-slate"},
+  {name:"CTV Windsor",city:"Windsor, ON",market:"Border",url:"https://windsor.ctvnews.ca",badge:"Border",type:"Border",desc:"Windsor's TV newsroom, minutes from downtown Detroit; frequent cross-border Michigan coverage.",bc:"b-slate"},
+  {name:"CBC Windsor",city:"Windsor, ON",market:"Border",url:"https://www.cbc.ca/news/canada/windsor",badge:"Border",type:"Border",desc:"Canadian public broadcaster covering the Windsor–Detroit region.",bc:"b-slate"},
+  {name:"AM800 CKLW",city:"Windsor, ON",market:"Border",url:"https://www.iheartradio.ca/am800",badge:"Border",type:"Border",desc:"News/talk successor to 'The Big 8,' the legendary station that dominated Detroit radio for decades.",bc:"b-slate"},
+  {name:"Windsor Star",city:"Windsor, ON",market:"Border",url:"https://windsorstar.com",badge:"Border",type:"Border",desc:"Windsor's daily newspaper; covers Detroit and cross-border stories.",bc:"b-slate"},
+],
+
 };
 
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
 let currentPage = 'home';
+// Open a specific section when arriving from another page (e.g. map.html#directory)
+window.addEventListener('DOMContentLoaded', () => {
+  const h = location.hash.replace('#','');
+  if (['home','directory','submit','about'].includes(h)) showPage(h);
+});
 let currentTab  = 'all';
 
 // ── DARK MODE ─────────────────────────────────────────────────────────────────
@@ -2675,6 +2707,12 @@ Always be helpful, specific, and cite outlet names when answering. If a user ask
       }
     },3000);
   });
+})();
+
+// Allow direct links like index.html#directory (used by the map page's navbar)
+(function(){
+  const h = location.hash.replace('#','');
+  if (['home','directory','submit','about'].includes(h)) { try { showPage(h); } catch(e){} }
 })();
 </script>
 

@@ -9,14 +9,37 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
 <style>
-  :root { --navy:#14385C; --blue:#185FA5; --gold:#C8A24A; }
+  :root { --navy:#0c1f3a; --navy-mid:#1e3a5f; --gold:#c8860a; --blue:#185FA5; }
   * { box-sizing: border-box; margin: 0; }
   body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-  header { background: var(--navy); color: #fff; padding: 14px 20px;
-           display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
-  header h1 { font-size: 1.2rem; font-weight: 700; }
-  header a { color: var(--gold); text-decoration: none; font-size: .9rem; }
-  #stats { margin-left: auto; font-size: .85rem; opacity: .85; }
+
+  /* Navbar — styled to match the main site */
+  #navbar { position: sticky; top: 0; z-index: 1000; background: rgba(12,31,58,0.96);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            box-shadow: 0 2px 12px rgba(0,0,0,0.3); }
+  .nav-inner { max-width: 1280px; margin: 0 auto; padding: 0 1.25rem; height: 58px;
+               display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .logo-btn { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+  .logo-icon { width: 36px; height: 36px; border-radius: 10px; background: var(--gold);
+               display: flex; align-items: center; justify-content: center; font-size: 1.1rem; }
+  .logo-text { display: flex; flex-direction: column; line-height: 1; }
+  .logo-name { font-family: Georgia, 'Times New Roman', serif; color: #fff; font-size: .95rem; }
+  .logo-sub { color: var(--gold); font-size: .6rem; letter-spacing: .18em;
+              text-transform: uppercase; font-weight: 600; margin-top: 2px; }
+  #desktop-nav { display: flex; align-items: center; gap: 2px; }
+  .nav-btn { color: rgba(255,255,255,0.85); font-size: .875rem; font-weight: 500;
+             padding: 6px 12px; border-radius: 8px; text-decoration: none;
+             transition: background .15s, color .15s; white-space: nowrap; }
+  .nav-btn:hover { background: rgba(255,255,255,0.12); color: #fff; }
+  .nav-btn.active { background: rgba(255,255,255,0.16); color: #fff; font-weight: 600; }
+  #stats { color: rgba(255,255,255,0.7); font-size: .8rem; white-space: nowrap; }
+  @media (max-width: 760px) {
+    #stats { display: none; }
+    .logo-sub { display: none; }
+    .nav-btn { padding: 6px 8px; font-size: .8rem; }
+  }
+
+  /* Filters + map */
   #filters { background: #f4f8fc; padding: 10px 20px; display: flex; flex-wrap: wrap;
              gap: 8px; border-bottom: 1px solid #d7e2ec; }
   .chip { border: 1.5px solid var(--blue); border-radius: 20px; padding: 5px 12px;
@@ -24,6 +47,8 @@
           user-select: none; }
   .chip.on { background: var(--blue); color: #fff; }
   #map { height: calc(100vh - 118px); min-height: 480px; }
+
+  /* Popups */
   .popup-name { font-weight: 700; color: var(--navy); font-size: 1rem; }
   .popup-meta { color: #5a6572; font-size: .8rem; margin: 3px 0; }
   .popup-desc { font-size: .84rem; margin: 5px 0; }
@@ -33,11 +58,25 @@
 </style>
 </head>
 <body>
-<header>
-  <h1>🗺️ Michigan Media Map</h1>
-  <a href="index.html">← Back to Michigan Media Hub</a>
-  <span id="stats">Loading…</span>
-</header>
+<div id="navbar">
+  <div class="nav-inner">
+    <a class="logo-btn" href="index.html">
+      <div class="logo-icon">📡</div>
+      <div class="logo-text">
+        <div class="logo-name">Michigan Media Hub</div>
+        <div class="logo-sub">Media Map</div>
+      </div>
+    </a>
+    <nav id="desktop-nav">
+      <a class="nav-btn" href="index.html">Home</a>
+      <a class="nav-btn" href="index.html#directory">Directory</a>
+      <a class="nav-btn active" href="map.html">Map</a>
+      <a class="nav-btn" href="index.html#submit">Submit Outlet</a>
+      <a class="nav-btn" href="index.html#about">About</a>
+    </nav>
+    <span id="stats">Loading…</span>
+  </div>
+</div>
 <div id="filters"></div>
 <div id="map"></div>
 
@@ -92,7 +131,7 @@ function buildChips(cats) {
   all.onclick = () => {
     const on = active.size === 0;
     active.clear();
-    document.querySelectorAll("#filters .chip").forEach((ch, i) => {
+    document.querySelectorAll("#filters .chip").forEach(ch => {
       if (ch === all) return;
       ch.classList.toggle("on", on);
       if (on) active.add(ch.textContent);
