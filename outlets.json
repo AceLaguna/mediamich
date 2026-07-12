@@ -1496,7 +1496,11 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 45.062,
    "lng": -83.433,
-   "id": "mmh-0092"
+   "id": "mmh-0092",
+   "tipEmail": "newsroom@thealpenanews.com",
+   "tipUrl": "https://www.thealpenanews.com/submit-news/",
+   "tipNote": "Ogden Newspapers group",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1509,7 +1513,10 @@
    "status": "active",
    "lat": 42.998,
    "lng": -84.177,
-   "id": "mmh-0093"
+   "id": "mmh-0093",
+   "tipEmail": "news@argus-press.com",
+   "tipNote": "Independent",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1523,7 +1530,10 @@
    "lat": 42.321,
    "lng": -85.18,
    "id": "mmh-0094",
-   "frontpage": "mi_bce-Battle_Creek_Enquirer"
+   "frontpage": "mi_bce-Battle_Creek_Enquirer",
+   "tipUrl": "https://help.battlecreekenquirer.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1536,7 +1546,10 @@
    "status": "active",
    "lat": 43.594,
    "lng": -83.889,
-   "id": "mmh-0095"
+   "id": "mmh-0095",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1579,7 +1592,10 @@
    "lat": 45.647,
    "lng": -84.475,
    "id": "mmh-0098",
-   "frontpage": "mi_cdt-Cheboygan_Daily_Tribune"
+   "frontpage": "mi_cdt-Cheboygan_Daily_Tribune",
+   "tipUrl": "https://help.cheboygannews.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1593,7 +1609,10 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 46.455,
    "lng": -90.171,
-   "id": "mmh-0099"
+   "id": "mmh-0099",
+   "tipUrl": "https://www.yourdailyglobe.com/contact/",
+   "tipNote": "Contact form includes an 'Editorial question or news item' topic",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1607,7 +1626,11 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 47.121,
    "lng": -88.569,
-   "id": "mmh-0100"
+   "id": "mmh-0100",
+   "tipEmail": "clerk@mininggazette.com",
+   "tipUrl": "https://www.mininggazette.com/submit-news/",
+   "tipNote": "Editorial clerk's published address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1634,7 +1657,10 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 45.745,
    "lng": -87.064,
-   "id": "mmh-0102"
+   "id": "mmh-0102",
+   "tipEmail": "news@dailypress.net",
+   "tipNote": "Ogden Newspapers group",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1647,7 +1673,10 @@
    "status": "active",
    "lat": 41.94,
    "lng": -85.0,
-   "id": "mmh-0103"
+   "id": "mmh-0103",
+   "tipUrl": "https://help.thedailyreporter.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1661,7 +1690,10 @@
    "lat": 42.331,
    "lng": -83.046,
    "id": "mmh-0104",
-   "frontpage": "mi_dfp-Detroit_Free_Press"
+   "frontpage": "mi_dfp-Detroit_Free_Press",
+   "tipUrl": "https://help.freep.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1675,7 +1707,10 @@
    "lat": 46.49,
    "lng": -84.345,
    "id": "mmh-0105",
-   "frontpage": "mi_en-The_Sault_News"
+   "frontpage": "mi_en-The_Sault_News",
+   "tipUrl": "https://help.sooeveningnews.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1688,7 +1723,9 @@
    "status": "active",
    "lat": 43.063,
    "lng": -86.228,
-   "id": "mmh-0106"
+   "id": "mmh-0106",
+   "tipEmail": "news@grandhaventribune.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1702,7 +1739,10 @@
    "lat": 42.963,
    "lng": -85.668,
    "id": "mmh-0107",
-   "frontpage": "mi_grp-The_Grand_Rapids_Press"
+   "frontpage": "mi_grp-The_Grand_Rapids_Press",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1716,7 +1756,10 @@
    "lat": 41.92,
    "lng": -84.63,
    "id": "mmh-0108",
-   "frontpage": "mi_hdn-The_Hillsdale_Daily_News"
+   "frontpage": "mi_hdn-The_Hillsdale_Daily_News",
+   "tipUrl": "https://help.hillsdale.net/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1730,7 +1773,10 @@
    "lat": 42.788,
    "lng": -86.109,
    "id": "mmh-0109",
-   "frontpage": "mi_hs-Holland_Sentinel"
+   "frontpage": "mi_hs-Holland_Sentinel",
+   "tipUrl": "https://help.hollandsentinel.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1758,7 +1804,10 @@
    "added": "2026-07",
    "lat": 45.82,
    "lng": -88.066,
-   "id": "mmh-0111"
+   "id": "mmh-0111",
+   "tipEmail": "news@ironmountaindailynews.com",
+   "tipNote": "Ogden Newspapers group",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1772,7 +1821,10 @@
    "lat": 42.246,
    "lng": -84.401,
    "id": "mmh-0112",
-   "frontpage": "mi_jcp-Jackson_Citizen_Patriot"
+   "frontpage": "mi_jcp-Jackson_Citizen_Patriot",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1786,7 +1838,10 @@
    "lat": 42.291,
    "lng": -85.587,
    "id": "mmh-0113",
-   "frontpage": "mi_kg-Kalamazoo_Gazette"
+   "frontpage": "mi_kg-Kalamazoo_Gazette",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1800,7 +1855,10 @@
    "lat": 42.732,
    "lng": -84.556,
    "id": "mmh-0114",
-   "frontpage": "mi_lsj-Lansing_State_Journal"
+   "frontpage": "mi_lsj-Lansing_State_Journal",
+   "tipUrl": "https://help.lansingstatejournal.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1814,7 +1872,10 @@
    "lat": 42.607,
    "lng": -83.929,
    "id": "mmh-0115",
-   "frontpage": "mi_ldpa-Livingston_Daily_Press_%26_Argus"
+   "frontpage": "mi_ldpa-Livingston_Daily_Press_%26_Argus",
+   "tipUrl": "https://help.livingstondaily.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1840,7 +1901,10 @@
    "status": "active",
    "lat": 42.597,
    "lng": -82.878,
-   "id": "mmh-0117"
+   "id": "mmh-0117",
+   "tipUrl": "https://www.macombdaily.com/contact-us/",
+   "tipNote": "MediaNews Group contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1868,7 +1932,11 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 46.544,
    "lng": -87.396,
-   "id": "mmh-0119"
+   "id": "mmh-0119",
+   "tipEmail": "jmarietti@miningjournal.net",
+   "tipUrl": "https://www.miningjournal.net/submit-news/",
+   "tipNote": "News editor's published address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1883,7 +1951,10 @@
    "lat": 41.916,
    "lng": -83.398,
    "id": "mmh-0120",
-   "frontpage": "mi_men-Monroe_News"
+   "frontpage": "mi_men-Monroe_News",
+   "tipEmail": "newstips@monroenews.com",
+   "tipNote": "Dedicated news-tips address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1896,7 +1967,10 @@
    "status": "active",
    "lat": 43.598,
    "lng": -84.768,
-   "id": "mmh-0121"
+   "id": "mmh-0121",
+   "tipUrl": "https://www.themorningsun.com/contact-us/",
+   "tipNote": "MediaNews Group contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1910,7 +1984,10 @@
    "lat": 43.234,
    "lng": -86.248,
    "id": "mmh-0122",
-   "frontpage": "mi_mc-The_Muskegon_Chronicle"
+   "frontpage": "mi_mc-The_Muskegon_Chronicle",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1923,7 +2000,10 @@
    "status": "active",
    "lat": 44.244,
    "lng": -86.324,
-   "id": "mmh-0123"
+   "id": "mmh-0123",
+   "tipEmail": "mnainfo@pioneergroup.com",
+   "tipNote": "General contact address; no dedicated tip line",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1936,7 +2016,10 @@
    "status": "active",
    "lat": 42.639,
    "lng": -83.291,
-   "id": "mmh-0124"
+   "id": "mmh-0124",
+   "tipUrl": "https://www.theoaklandpress.com/contact/",
+   "tipNote": "MediaNews Group contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1951,7 +2034,10 @@
    "lat": 45.373,
    "lng": -84.955,
    "id": "mmh-0125",
-   "frontpage": "mi_pnr-Petoskey_News-Review"
+   "frontpage": "mi_pnr-Petoskey_News-Review",
+   "tipUrl": "https://help.petoskeynews.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1964,7 +2050,10 @@
    "status": "active",
    "lat": 43.419,
    "lng": -83.951,
-   "id": "mmh-0126"
+   "id": "mmh-0126",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1977,7 +2066,10 @@
    "status": "active",
    "lat": 42.987,
    "lng": -85.071,
-   "id": "mmh-0127"
+   "id": "mmh-0127",
+   "tipUrl": "https://help.sentinel-standard.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -1991,7 +2083,10 @@
    "lat": 41.799,
    "lng": -85.419,
    "id": "mmh-0128",
-   "frontpage": "mi_sj-Sturgis_Journal"
+   "frontpage": "mi_sj-Sturgis_Journal",
+   "tipUrl": "https://help.sturgisjournal.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -2004,7 +2099,11 @@
    "status": "active",
    "lat": 42.281,
    "lng": -83.743,
-   "id": "mmh-0129"
+   "id": "mmh-0129",
+   "tipEmail": "aanews@mlive.com",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Only per-paper newsroom email MLive publishes",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -2017,7 +2116,10 @@
    "status": "active",
    "lat": 41.898,
    "lng": -84.037,
-   "id": "mmh-0130"
+   "id": "mmh-0130",
+   "tipUrl": "https://help.lenconnect.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -2031,7 +2133,10 @@
    "lat": 42.331,
    "lng": -83.046,
    "id": "mmh-0131",
-   "frontpage": "mi_dn-The_Detroit_News"
+   "frontpage": "mi_dn-The_Detroit_News",
+   "tipUrl": "https://help.detroitnews.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -2044,7 +2149,10 @@
    "status": "active",
    "lat": 43.013,
    "lng": -83.687,
-   "id": "mmh-0132"
+   "id": "mmh-0132",
+   "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
+   "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -2058,7 +2166,10 @@
    "lat": 42.117,
    "lng": -86.454,
    "id": "mmh-0133",
-   "frontpage": "mi_hp-The_Herald-Palladium"
+   "frontpage": "mi_hp-The_Herald-Palladium",
+   "tipEmail": "localnews@TheHP.com",
+   "tipNote": "Dedicated local-news tips address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
@@ -2087,7 +2198,10 @@
    "lat": 42.971,
    "lng": -82.425,
    "id": "mmh-0135",
-   "frontpage": "mi_th-Times_Herald"
+   "frontpage": "mi_th-Times_Herald",
+   "tipUrl": "https://help.thetimesherald.com/contact-us/",
+   "tipNote": "Gannett Help Center contact form; no public newsroom email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Daily",
