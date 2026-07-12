@@ -1,7 +1,13 @@
 {
- "generated": "2026-07-12T13:54:15+00:00",
+ "generated": "2026-07-12T19:30:10+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "U.S. Sen. Lindsey Graham dead at 71",
+   "link": "https://lansingcitypulse.com/u-s-sen-lindsey-graham-dead-at-71/",
+   "published": "Sun, 12 Jul 2026 15:23:06 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Grillmaster the weekend with banana-marshmellow-chocolate and a meat-free seitan skewer",
@@ -13,12 +19,6 @@
    "title": "Upcoming comic cons in and around Michigan",
    "link": "https://lansingcitypulse.com/upcoming-comic-cons-in-and-around-michigan/",
    "published": "Fri, 10 Jul 2026 14:03:59 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Bryan Gruley’s latest ‘Bitterfrost’ novel based on 1989 Detroit murder case",
-   "link": "https://lansingcitypulse.com/bryan-gruleys-latest-bitterfrost-novel-based-on-1989-detroit-murder-case/",
-   "published": "Thu, 09 Jul 2026 21:00:31 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "How Downriver Detroit’s working communities fought for their region’s environment",
+   "link": "https://greatlakesecho.org/2026/07/12/how-downriver-detroits-working-communities-fought-for-their-regions-environment/",
+   "published": "Sun, 12 Jul 2026 11:20:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Protect yourself: Why ticks are spreading in the Great Lakes region",
    "link": "https://greatlakesecho.org/2026/07/11/protect-yourself-why-ticks-are-spreading-in-the-great-lakes-region/",
    "published": "Sat, 11 Jul 2026 10:12:00 +0000"
@@ -105,10 +111,10 @@
    "published": "Fri, 10 Jul 2026 11:07:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Invasives, oak wilt threaten Skyline High School natural areas, adjacent neighborhoods",
-   "link": "https://greatlakesecho.org/2026/07/09/invasives-oak-wilt-threaten-skyline-high-school-natural-areas-adjacent-neighborhoods/",
-   "published": "Thu, 09 Jul 2026 10:58:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "15 states sue Trump administration to block school mental health funding cuts",
+   "link": "https://michiganadvance.com/2026/07/12/repub/15-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/",
+   "published": "Sun, 12 Jul 2026 15:40:04 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -118,33 +124,27 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "BREAKING: South Carolina US Sen. Lindsey Graham dies after ‘brief and sudden illness’",
+   "title": "South Carolina US Sen. Lindsey Graham dies after ‘brief and sudden illness’",
    "link": "https://michiganadvance.com/2026/07/12/repub/breaking-south-carolina-us-sen-lindsey-graham-dies-after-brief-and-sudden-illness/",
    "published": "Sun, 12 Jul 2026 11:43:14 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "DHS extends permits for immigrants set to lose status when justices’ order takes effect",
-   "link": "https://michiganadvance.com/2026/07/12/repub/dhs-extends-permits-for-immigrants-set-to-lose-status-when-justices-order-takes-effect/",
-   "published": "Sun, 12 Jul 2026 11:41:05 +0000"
+   "outlet": "MLive",
+   "title": "15 tourists killed after boat capsizes in southern Vietnam; Police detail captain",
+   "link": "https://www.mlive.com/news/2026/07/15-tourists-killed-after-boat-capsizes-in-southern-vietnam-police-detail-captain.html",
+   "published": "Sun, 12 Jul 2026 19:16:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Motorcyclist injured avoiding deer in Mecosta County crash",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/07/motorcyclist-injured-avoiding-deer-in-mecosta-county-crash.html",
-   "published": "Sun, 12 Jul 2026 13:33:33 +0000"
+   "title": "‘I’m innocent’: Woman cleared in baby’s death at Electric Forest speaks out",
+   "link": "https://www.mlive.com/news/muskegon/2026/07/im-innocent-woman-cleared-in-babys-death-at-electric-forest-speaks-out.html",
+   "published": "Sun, 12 Jul 2026 18:36:57 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ada Township seeks voter approval for parks funding increase Aug. 4",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/07/ada-township-seeks-voter-approval-for-parks-funding-increase-aug-4.html",
-   "published": "Sun, 12 Jul 2026 13:25:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Powerball numbers for 07/11/26: $1 million winner sold in New Jersey",
-   "link": "https://www.mlive.com/lottery/2026/07/powerball-numbers-for-071126-1-million-winner-sold-in-new-jersey.html",
-   "published": "Sun, 12 Jul 2026 13:24:00 +0000"
+   "title": "Michigan county sheriff wants $10.5M for new centralized training facility",
+   "link": "https://www.mlive.com/news/detroit/2026/07/michigan-county-sheriff-wants-105m-for-new-centralized-training-facility.html",
+   "published": "Sun, 12 Jul 2026 18:25:35 +0000"
   },
   {
    "outlet": "Outlier Media",
