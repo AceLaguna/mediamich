@@ -1411,7 +1411,8 @@
    "status": "active",
    "lat": 42.321,
    "lng": -85.18,
-   "id": "mmh-0094"
+   "id": "mmh-0094",
+   "frontpage": "mi_bce-Battle_Creek_Enquirer"
   },
   {
    "category": "Daily",
@@ -1466,7 +1467,8 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 45.647,
    "lng": -84.475,
-   "id": "mmh-0098"
+   "id": "mmh-0098",
+   "frontpage": "mi_cdt-Cheboygan_Daily_Tribune"
   },
   {
    "category": "Daily",
@@ -1547,7 +1549,8 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0104"
+   "id": "mmh-0104",
+   "frontpage": "mi_dfp-Detroit_Free_Press"
   },
   {
    "category": "Daily",
@@ -1560,7 +1563,8 @@
    "status": "active",
    "lat": 46.49,
    "lng": -84.345,
-   "id": "mmh-0105"
+   "id": "mmh-0105",
+   "frontpage": "mi_en-The_Sault_News"
   },
   {
    "category": "Daily",
@@ -1586,7 +1590,8 @@
    "status": "active",
    "lat": 42.963,
    "lng": -85.668,
-   "id": "mmh-0107"
+   "id": "mmh-0107",
+   "frontpage": "mi_grp-The_Grand_Rapids_Press"
   },
   {
    "category": "Daily",
@@ -1599,7 +1604,8 @@
    "status": "active",
    "lat": 41.92,
    "lng": -84.63,
-   "id": "mmh-0108"
+   "id": "mmh-0108",
+   "frontpage": "mi_hdn-The_Hillsdale_Daily_News"
   },
   {
    "category": "Daily",
@@ -1612,7 +1618,8 @@
    "status": "active",
    "lat": 42.788,
    "lng": -86.109,
-   "id": "mmh-0109"
+   "id": "mmh-0109",
+   "frontpage": "mi_hs-Holland_Sentinel"
   },
   {
    "category": "Daily",
@@ -1653,7 +1660,8 @@
    "status": "active",
    "lat": 42.246,
    "lng": -84.401,
-   "id": "mmh-0112"
+   "id": "mmh-0112",
+   "frontpage": "mi_jcp-Jackson_Citizen_Patriot"
   },
   {
    "category": "Daily",
@@ -1666,7 +1674,8 @@
    "status": "active",
    "lat": 42.291,
    "lng": -85.587,
-   "id": "mmh-0113"
+   "id": "mmh-0113",
+   "frontpage": "mi_kg-Kalamazoo_Gazette"
   },
   {
    "category": "Daily",
@@ -1679,7 +1688,8 @@
    "status": "active",
    "lat": 42.732,
    "lng": -84.556,
-   "id": "mmh-0114"
+   "id": "mmh-0114",
+   "frontpage": "mi_lsj-Lansing_State_Journal"
   },
   {
    "category": "Daily",
@@ -1692,7 +1702,8 @@
    "status": "active",
    "lat": 42.607,
    "lng": -83.929,
-   "id": "mmh-0115"
+   "id": "mmh-0115",
+   "frontpage": "mi_ldpa-Livingston_Daily_Press_%26_Argus"
   },
   {
    "category": "Daily",
@@ -1760,7 +1771,8 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 41.916,
    "lng": -83.398,
-   "id": "mmh-0120"
+   "id": "mmh-0120",
+   "frontpage": "mi_men-Monroe_News"
   },
   {
    "category": "Daily",
@@ -1786,7 +1798,8 @@
    "status": "active",
    "lat": 43.234,
    "lng": -86.248,
-   "id": "mmh-0122"
+   "id": "mmh-0122",
+   "frontpage": "mi_mc-The_Muskegon_Chronicle"
   },
   {
    "category": "Daily",
@@ -1826,7 +1839,8 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 45.373,
    "lng": -84.955,
-   "id": "mmh-0125"
+   "id": "mmh-0125",
+   "frontpage": "mi_pnr-Petoskey_News-Review"
   },
   {
    "category": "Daily",
@@ -1865,7 +1879,8 @@
    "status": "active",
    "lat": 41.799,
    "lng": -85.419,
-   "id": "mmh-0128"
+   "id": "mmh-0128",
+   "frontpage": "mi_sj-Sturgis_Journal"
   },
   {
    "category": "Daily",
@@ -1904,7 +1919,8 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0131"
+   "id": "mmh-0131",
+   "frontpage": "mi_dn-The_Detroit_News"
   },
   {
    "category": "Daily",
@@ -1930,7 +1946,8 @@
    "status": "active",
    "lat": 42.117,
    "lng": -86.454,
-   "id": "mmh-0133"
+   "id": "mmh-0133",
+   "frontpage": "mi_hp-The_Herald-Palladium"
   },
   {
    "category": "Daily",
@@ -1958,7 +1975,8 @@
    "status": "active",
    "lat": 42.971,
    "lng": -82.425,
-   "id": "mmh-0135"
+   "id": "mmh-0135",
+   "frontpage": "mi_th-Times_Herald"
   },
   {
    "category": "Daily",

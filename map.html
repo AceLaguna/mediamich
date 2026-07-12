@@ -163,7 +163,9 @@ function render() {
       <div class="popup-name">${o.name}${status}</div>
       <div class="popup-meta">${o.category} · ${o.city || ""}${o.market ? " · " + o.market : ""}</div>
       <div class="popup-desc">${o.description || ""}</div>
-      <div class="popup-link"><a href="${o.website}" target="_blank" rel="noopener">Visit website →</a></div>`);
+      <div class="popup-link"><a href="${o.website}" target="_blank" rel="noopener">Visit website →</a>${
+        o.frontpage ? ` &nbsp;·&nbsp; <a href="https://frontpages.freedomforum.org/newspapers/${o.frontpage}" target="_blank" rel="noopener">Today's front page →</a>` : ""
+      }</div>`);
     cluster.addLayer(m);
     shown++;
   });
