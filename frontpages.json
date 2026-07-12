@@ -1,0 +1,134 @@
+{
+  "updated": "2026-07-12",
+  "base_url": "https://frontpages.freedomforum.org/newspapers/",
+  "gallery_url": "https://frontpages.freedomforum.org/gallery",
+  "note": "Each slug is the exact page address on Freedom Forum's Today's Front Pages. To add a paper: find it at frontpages.freedomforum.org/gallery, copy everything after /newspapers/ in its address, and add an entry below. See FRONTPAGES-SETUP.md.",
+  "papers": [
+    {
+      "name": "Detroit Free Press",
+      "city": "Detroit",
+      "region": "Metro Detroit & Southeast",
+      "owner": "Gannett",
+      "slug": "mi_dfp-Detroit_Free_Press"
+    },
+    {
+      "name": "The Detroit News",
+      "city": "Detroit",
+      "region": "Metro Detroit & Southeast",
+      "owner": "MediaNews Group",
+      "slug": "mi_dn-The_Detroit_News"
+    },
+    {
+      "name": "Times Herald",
+      "city": "Port Huron",
+      "region": "Metro Detroit & Southeast",
+      "owner": "Gannett",
+      "slug": "mi_th-Times_Herald"
+    },
+    {
+      "name": "The Monroe News",
+      "city": "Monroe",
+      "region": "Metro Detroit & Southeast",
+      "owner": "Gannett",
+      "slug": "mi_men-Monroe_News"
+    },
+    {
+      "name": "Livingston Daily Press & Argus",
+      "city": "Howell",
+      "region": "Metro Detroit & Southeast",
+      "owner": "Gannett",
+      "slug": "mi_ldpa-Livingston_Daily_Press_&_Argus"
+    },
+    {
+      "name": "Lansing State Journal",
+      "city": "Lansing",
+      "region": "Mid-Michigan",
+      "owner": "Gannett",
+      "slug": "mi_lsj-Lansing_State_Journal"
+    },
+    {
+      "name": "Jackson Citizen Patriot",
+      "city": "Jackson",
+      "region": "Mid-Michigan",
+      "owner": "MLive Media Group",
+      "slug": "mi_jcp-Jackson_Citizen_Patriot"
+    },
+    {
+      "name": "The Grand Rapids Press",
+      "city": "Grand Rapids",
+      "region": "West Michigan",
+      "owner": "MLive Media Group",
+      "slug": "mi_grp-The_Grand_Rapids_Press"
+    },
+    {
+      "name": "The Muskegon Chronicle",
+      "city": "Muskegon",
+      "region": "West Michigan",
+      "owner": "MLive Media Group",
+      "slug": "mi_mc-The_Muskegon_Chronicle"
+    },
+    {
+      "name": "The Holland Sentinel",
+      "city": "Holland",
+      "region": "West Michigan",
+      "owner": "Gannett",
+      "slug": "mi_hs-Holland_Sentinel"
+    },
+    {
+      "name": "Kalamazoo Gazette",
+      "city": "Kalamazoo",
+      "region": "Southwest & South Central",
+      "owner": "MLive Media Group",
+      "slug": "mi_kg-Kalamazoo_Gazette"
+    },
+    {
+      "name": "Battle Creek Enquirer",
+      "city": "Battle Creek",
+      "region": "Southwest & South Central",
+      "owner": "Gannett",
+      "slug": "mi_bce-Battle_Creek_Enquirer"
+    },
+    {
+      "name": "The Herald-Palladium",
+      "city": "St. Joseph",
+      "region": "Southwest & South Central",
+      "owner": "Paxton Media Group",
+      "slug": "mi_hp-The_Herald-Palladium"
+    },
+    {
+      "name": "Sturgis Journal",
+      "city": "Sturgis",
+      "region": "Southwest & South Central",
+      "owner": "Gannett",
+      "slug": "mi_sj-Sturgis_Journal"
+    },
+    {
+      "name": "The Hillsdale Daily News",
+      "city": "Hillsdale",
+      "region": "Southwest & South Central",
+      "owner": "Gannett",
+      "slug": "mi_hdn-The_Hillsdale_Daily_News"
+    },
+    {
+      "name": "Petoskey News-Review",
+      "city": "Petoskey",
+      "region": "Northern Michigan & the U.P.",
+      "owner": "Gannett",
+      "slug": "mi_pnr-Petoskey_News-Review"
+    },
+    {
+      "name": "Cheboygan Daily Tribune",
+      "city": "Cheboygan",
+      "region": "Northern Michigan & the U.P.",
+      "owner": "Gannett",
+      "slug": "mi_cdt-Cheboygan_Daily_Tribune"
+    },
+    {
+      "name": "The Sault News",
+      "city": "Sault Ste. Marie",
+      "region": "Northern Michigan & the U.P.",
+      "owner": "Gannett",
+      "slug": "mi_en-The_Sault_News"
+    }
+  ]
+}

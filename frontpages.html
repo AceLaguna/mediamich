@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Today's Michigan Front Pages — Michigan Media Hub</title>
+<meta name="description" content="See today's front page from Michigan's daily newspapers — Detroit, Lansing, Grand Rapids, and beyond — via Freedom Forum's Today's Front Pages project.">
+<style>
+  :root { --navy:#0c1f3a; --navy-mid:#1e3a5f; --gold:#c8860a; --blue:#185FA5;
+          --paper:#faf8f4; --ink:#1c2733; --rule:#d8d2c4; }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         background: var(--paper); color: var(--ink); }
+  a { color: var(--blue); }
+  :focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+
+  /* ── Navbar — matches the main site ─────────────────────────── */
+  #navbar { position: sticky; top: 0; z-index: 1000; background: rgba(12,31,58,0.96);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            box-shadow: 0 2px 12px rgba(0,0,0,0.3); }
+  .nav-inner { max-width: 1280px; margin: 0 auto; padding: 0 1.25rem; height: 58px;
+               display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .logo-btn { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+  .logo-icon { width: 36px; height: 36px; border-radius: 10px; background: var(--gold);
+               display: flex; align-items: center; justify-content: center; font-size: 1.1rem; }
+  .logo-text { display: flex; flex-direction: column; line-height: 1; }
+  .logo-name { font-family: Georgia, 'Times New Roman', serif; color: #fff; font-size: .95rem; }
+  .logo-sub { color: var(--gold); font-size: .6rem; letter-spacing: .18em;
+              text-transform: uppercase; font-weight: 600; margin-top: 2px; }
+  #desktop-nav { display: flex; align-items: center; gap: 2px; flex-wrap: wrap; }
+  .nav-btn { color: rgba(255,255,255,0.85); font-size: .875rem; font-weight: 500;
+             padding: 6px 12px; border-radius: 6px; text-decoration: none;
+             transition: background .2s, color .2s; }
+  .nav-btn:hover { color: #fff; background: rgba(255,255,255,0.1); }
+  .nav-btn.active { color: #fff; background: rgba(255,255,255,0.12); }
+  @media (max-width: 720px) {
+    .nav-inner { height: auto; padding: 8px 1rem; flex-wrap: wrap; }
+    #desktop-nav { width: 100%; justify-content: flex-start; padding-bottom: 4px; }
+    .nav-btn { font-size: .8rem; padding: 5px 9px; }
+  }
+
+  /* ── Masthead hero ───────────────────────────────────────────── */
+  #hero { background: var(--navy); color: #fff; text-align: center;
+          padding: 2.6rem 1.25rem 2.4rem; }
+  .dateline { color: var(--gold); font-size: .72rem; letter-spacing: .22em;
+              text-transform: uppercase; font-weight: 600; }
+  #hero h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 700;
+             font-size: clamp(1.7rem, 4.5vw, 2.6rem); margin: .55rem auto .35rem;
+             max-width: 800px; }
+  .hero-rule { width: 130px; margin: .9rem auto; border: none;
+               border-top: 1px solid rgba(255,255,255,.35);
+               border-bottom: 1px solid rgba(255,255,255,.35); height: 3px; }
+  #hero p { color: rgba(255,255,255,.82); font-size: .95rem; max-width: 640px;
+            margin: 0 auto; line-height: 1.55; }
+  #hero p a { color: #ecc16a; }
+
+  /* ── Controls ────────────────────────────────────────────────── */
+  #controls { max-width: 1100px; margin: 1.6rem auto .4rem; padding: 0 1.25rem;
+              display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .chip { border: 1px solid var(--rule); background: #fff; color: #45536b;
+          font-size: .8rem; font-weight: 600; padding: 6px 13px; border-radius: 999px;
+          cursor: pointer; transition: all .15s; }
+  .chip:hover { border-color: var(--gold); color: var(--navy); }
+  .chip.on { background: var(--navy); border-color: var(--navy); color: #fff; }
+  #search { margin-left: auto; border: 1px solid var(--rule); border-radius: 8px;
+            padding: 7px 12px; font-size: .85rem; min-width: 180px; background: #fff; }
+  @media (max-width: 640px) { #search { margin-left: 0; width: 100%; } }
+
+  /* ── Region sections & nameplate cards ───────────────────────── */
+  main { max-width: 1100px; margin: 0 auto 3rem; padding: 0 1.25rem; }
+  .region { margin-top: 2.1rem; }
+  .region h2 { font-size: .78rem; letter-spacing: .2em; text-transform: uppercase;
+               color: var(--navy-mid); font-weight: 700; display: flex;
+               align-items: center; gap: 12px; }
+  .region h2::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+          gap: 14px; margin-top: 1rem; }
+
+  .card { display: flex; flex-direction: column; text-decoration: none; color: inherit;
+          background: #fff; border: 1px solid var(--rule); border-radius: 10px;
+          padding: 1.05rem 1.1rem .95rem; position: relative; overflow: hidden;
+          transition: transform .15s, box-shadow .15s, border-color .15s; }
+  .card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px;
+                  background: var(--navy); }
+  .card:hover { transform: translateY(-2px); border-color: var(--gold);
+                box-shadow: 0 8px 22px rgba(12,31,58,.12); }
+  .nameplate { font-family: Georgia, 'Times New Roman', serif; font-weight: 700;
+               font-size: 1.16rem; line-height: 1.2; color: var(--navy);
+               padding-bottom: .5rem; margin-bottom: .5rem;
+               border-bottom: 3px double #b7b0a0; }
+  .card-meta { font-size: .72rem; letter-spacing: .14em; text-transform: uppercase;
+               color: #6b7687; font-weight: 600; }
+  .card-owner { font-size: .78rem; color: #8a93a1; margin-top: 3px; }
+  .card-cta { margin-top: auto; padding-top: .8rem; font-size: .84rem; font-weight: 600;
+              color: var(--blue); }
+  .card:hover .card-cta { text-decoration: underline; }
+
+  .gallery-card { border-style: dashed; background: transparent; justify-content: center;
+                  text-align: center; min-height: 130px; }
+  .gallery-card::before { display: none; }
+  .gallery-card .nameplate { border-bottom: none; padding-bottom: 0; margin-bottom: .3rem;
+                             font-size: 1.02rem; }
+  .gallery-card .card-cta { margin-top: 0; padding-top: .2rem; }
+
+  #empty { display: none; text-align: center; color: #6b7687; margin: 2.5rem 0; }
+  #load-error { display: none; text-align: center; color: #8a3b2e; margin: 2.5rem 1rem; }
+
+  /* ── Footer note ─────────────────────────────────────────────── */
+  footer { background: var(--navy); color: rgba(255,255,255,.75); font-size: .82rem;
+           text-align: center; padding: 1.8rem 1.25rem; line-height: 1.65; }
+  footer a { color: #ecc16a; }
+  footer .foot-links { margin-top: .7rem; }
+  footer .foot-links a { margin: 0 .6rem; color: rgba(255,255,255,.85);
+                         text-decoration: none; }
+  footer .foot-links a:hover { text-decoration: underline; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .card, .chip { transition: none; }
+    .card:hover { transform: none; }
+  }
+</style>
+</head>
+<body>
+
+<div id="navbar">
+  <div class="nav-inner">
+    <a class="logo-btn" href="index.html">
+      <div class="logo-icon">📡</div>
+      <div class="logo-text">
+        <div class="logo-name">Michigan Media Hub</div>
+        <div class="logo-sub">Front Pages</div>
+      </div>
+    </a>
+    <nav id="desktop-nav">
+      <a class="nav-btn" href="index.html">Home</a>
+      <a class="nav-btn" href="index.html#directory">Directory</a>
+      <a class="nav-btn" href="map.html">Map</a>
+      <a class="nav-btn active" href="frontpages.html">Front Pages</a>
+      <a class="nav-btn" href="index.html#submit">Submit Outlet</a>
+      <a class="nav-btn" href="index.html#about">About</a>
+    </nav>
+  </div>
+</div>
+
+<section id="hero">
+  <div class="dateline" id="dateline">Today's Front Pages</div>
+  <h1>Michigan's Newspapers, This Morning</h1>
+  <hr class="hero-rule">
+  <p>Each card below opens today's front page for that newspaper, hosted by the
+     <a href="https://frontpages.freedomforum.org/" target="_blank" rel="noopener">Freedom Forum's
+     Today's Front Pages</a> project. Papers that don't print seven days a week show
+     their most recent edition.</p>
+</section>
+
+<div id="controls" role="group" aria-label="Filter front pages">
+  <button class="chip on" data-region="all">All Regions</button>
+  <!-- Region chips are added automatically from frontpages.json -->
+  <input id="search" type="search" placeholder="Search papers or cities…" aria-label="Search papers or cities">
+</div>
+
+<main>
+  <div id="regions"></div>
+  <p id="empty">No papers match that search.</p>
+  <p id="load-error">Couldn't load <strong>frontpages.json</strong>. Make sure it's uploaded
+     to the same folder as this page. In the meantime, you can browse
+     <a href="https://frontpages.freedomforum.org/gallery" target="_blank" rel="noopener">all
+     front pages at Freedom Forum</a>.</p>
+</main>
+
+<footer>
+  <div>
+    Front-page images are displayed on Freedom Forum's website through its agreements with
+    each newspaper. The Michigan Media Hub links to them and does not host, copy, or archive
+    any front pages. To reuse a front page, contact the newspaper's publisher directly.
+  </div>
+  <div class="foot-links">
+    <a href="index.html">Home</a> ·
+    <a href="map.html">Media Map</a> ·
+    <a href="https://frontpages.freedomforum.org/gallery" target="_blank" rel="noopener">Full Gallery (600+ papers)</a>
+  </div>
+</footer>
+
+<script>
+(function () {
+  // ── Dateline: render today's date like a paper's folio line ──
+  var d = new Date();
+  var opts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+  document.getElementById('dateline').textContent = d.toLocaleDateString('en-US', opts);
+
+  var DATA = null;
+  var activeRegion = 'all';
+  var query = '';
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function paperUrl(p) {
+    // Slugs may contain characters like & — encode each URL-unsafe char, keep the rest readable.
+    return DATA.base_url + encodeURI(p.slug).replace(/&/g, '%26');
+  }
+
+  function render() {
+    var wrap = document.getElementById('regions');
+    var q = query.trim().toLowerCase();
+    var regions = [];
+    DATA.papers.forEach(function (p) {
+      if (regions.indexOf(p.region) === -1) regions.push(p.region);
+    });
+
+    var html = '';
+    var shown = 0;
+
+    regions.forEach(function (region) {
+      if (activeRegion !== 'all' && region !== activeRegion) return;
+      var papers = DATA.papers.filter(function (p) {
+        if (p.region !== region) return false;
+        if (!q) return true;
+        return (p.name + ' ' + p.city + ' ' + (p.owner || '')).toLowerCase().indexOf(q) !== -1;
+      });
+      if (!papers.length) return;
+      shown += papers.length;
+
+      html += '<section class="region"><h2>' + esc(region) + '</h2><div class="grid">';
+      papers.forEach(function (p) {
+        html += '<a class="card" href="' + paperUrl(p) + '" target="_blank" rel="noopener"' +
+                ' aria-label="Open today\'s ' + esc(p.name) + ' front page on Freedom Forum (new tab)">' +
+                  '<div class="nameplate">' + esc(p.name) + '</div>' +
+                  '<div class="card-meta">' + esc(p.city) + '</div>' +
+                  (p.owner ? '<div class="card-owner">' + esc(p.owner) + '</div>' : '') +
+                  '<div class="card-cta">View today\'s front page ↗</div>' +
+                '</a>';
+      });
+      html += '</div></section>';
+    });
+
+    // Closing card: the full gallery
+    if (shown && !q && activeRegion === 'all') {
+      html += '<section class="region"><h2>Beyond Michigan</h2><div class="grid">' +
+              '<a class="card gallery-card" href="' + esc(DATA.gallery_url) + '" target="_blank" rel="noopener">' +
+                '<div class="nameplate">Full Gallery</div>' +
+                '<div class="card-owner">600+ front pages from across the U.S. and the world</div>' +
+                '<div class="card-cta">Browse at Freedom Forum ↗</div>' +
+              '</a></div></section>';
+    }
+
+    wrap.innerHTML = html;
+    document.getElementById('empty').style.display = shown ? 'none' : 'block';
+  }
+
+  function buildChips() {
+    var controls = document.getElementById('controls');
+    var searchBox = document.getElementById('search');
+    var seen = [];
+    DATA.papers.forEach(function (p) {
+      if (seen.indexOf(p.region) !== -1) return;
+      seen.push(p.region);
+      var b = document.createElement('button');
+      b.className = 'chip';
+      b.dataset.region = p.region;
+      b.textContent = p.region;
+      controls.insertBefore(b, searchBox);
+    });
+
+    controls.addEventListener('click', function (e) {
+      var chip = e.target.closest('.chip');
+      if (!chip) return;
+      activeRegion = chip.dataset.region;
+      controls.querySelectorAll('.chip').forEach(function (c) {
+        c.classList.toggle('on', c === chip);
+      });
+      render();
+    });
+
+    searchBox.addEventListener('input', function () {
+      query = this.value;
+      render();
+    });
+  }
+
+  fetch('frontpages.json')
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (json) { DATA = json; buildChips(); render(); })
+    .catch(function () {
+      document.getElementById('load-error').style.display = 'block';
+      document.getElementById('controls').style.display = 'none';
+    });
+})();
+</script>
+</body>
+</html>
