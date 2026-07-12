@@ -51,10 +51,11 @@ const COLORS = {
   "Sports & Outdoors": "#27ae60"
 };
 const map = L.map("map").setView([44.3, -85.4], 6);
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  maxZoom: 18, attribution: "&copy; OpenStreetMap contributors"
+L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+  maxZoom: 19, subdomains: "abcd",
+  attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
 }).addTo(map);
-const cluster = L.markerClusterGroup({ maxClusterRadius: 42 });
+const cluster = L.markerClusterGroup({ maxClusterRadius: 38, disableClusteringAtZoom: 9 });
 map.addLayer(cluster);
 
 let OUTLETS = [], active = new Set();
