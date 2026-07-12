@@ -328,7 +328,7 @@ body.dark .text-link{color:var(--gold)}
 body.dark .outlet-name{color:#fff}
 .outlet-city{display:flex;align-items:center;gap:4px;font-size:.72rem;color:var(--text-muted)}
 .outlet-desc{font-size:.75rem;color:var(--text-muted);line-height:1.55;flex:1}
-.outlet-footer{padding:.75rem 1rem;display:flex;gap:.5rem}
+.outlet-footer{padding:.75rem 1rem;display:flex;flex-wrap:wrap;gap:.5rem}
 .btn-visit{
   flex:1;display:flex;align-items:center;justify-content:space-between;
   padding:8px 12px;border-radius:10px;font-size:.75rem;font-weight:600;
@@ -1413,43 +1413,43 @@ const OUTLETS={
 tv:[
   {name:"WADL — TV 38",city:"Detroit",market:"Detroit",url:"https://www.wadldetroit.com",badge:"MyNetworkTV",type:"TV",desc:"Detroit independent/MyNetworkTV station; sold to Mission Broadcasting in 2024.",bc:"b-blue"},
   {name:"WAQP — TCT 49",city:"Saginaw",market:"Flint",url:"https://www.tct.tv",badge:"TCT",type:"TV",desc:"Flagship of the TCT religious network, headquartered in Michigan.",bc:"b-blue"},
-  {name:"WBKB-TV 11 – Alpena",city:"Alpena",market:"Alpena",url:"https://www.wbkb11.com",badge:"CBS/NBC/ABC/Fox",type:"TV",desc:"Multi-network multicast; sole commercial full-power station in Alpena DMA.",bc:"b-blue"},
-  {name:"WBKP – CW 5 / ABC 10 UP",city:"Calumet",market:"Marquette",url:"https://www.abc10up.com",badge:"CW/ABC",type:"TV",desc:"UP-focused CW and ABC programming.",bc:"b-blue"},
-  {name:"WBSF — CW 46",city:"Bay City",market:"Flint",url:"https://www.wbsf.tv",badge:"The CW",type:"TV",desc:"CW affiliate for the Flint–Saginaw market.",bc:"b-blue"},
+  {name:"WBKB-TV 11 – Alpena",city:"Alpena",market:"Alpena",url:"https://www.wbkb11.com",badge:"CBS/NBC/ABC/Fox",type:"TV",desc:"Multi-network multicast; sole commercial full-power station in Alpena DMA.",bc:"b-blue",te:"news@wbkb11.com"},
+  {name:"WBKP – CW 5 / ABC 10 UP",city:"Calumet",market:"Marquette",url:"https://www.abc10up.com",badge:"CW/ABC",type:"TV",desc:"UP-focused CW and ABC programming.",bc:"b-blue",te:"news@myupnow.com",tu:"https://www.myupnow.com/submit-a-tip/"},
+  {name:"WBSF — CW 46",city:"Bay City",market:"Flint",url:"https://www.wbsf.tv",badge:"The CW",type:"TV",desc:"CW affiliate for the Flint–Saginaw market.",bc:"b-blue",te:"news@mid-michigannow.com",tu:"https://midmichigannow.com/chimein"},
   {name:"WCML – PBS Alpena",city:"Alpena",market:"Alpena",url:"https://www.wcmu.org",badge:"PBS",type:"TV",desc:"PBS satellite for Alpena; Central Michigan University.",bc:"b-blue"},
   {name:"WCMU-TV – PBS",city:"Mount Pleasant",market:"Statewide",url:"https://www.wcmu.org",badge:"PBS",type:"TV",desc:"PBS affiliate; extensive northern Michigan and UP coverage.",bc:"b-blue"},
-  {name:"WDIV-TV – Local 4",city:"Detroit",market:"Detroit",url:"https://www.clickondetroit.com",badge:"NBC",type:"TV",desc:"NBC affiliate; Detroit's top-rated local news station.",bc:"b-blue"},
-  {name:"WEYI-TV – NBC 25",city:"Saginaw",market:"Flint",url:"https://www.nbc25.com",badge:"NBC",type:"TV",desc:"NBC affiliate; Saginaw Valley news coverage.",bc:"b-blue"},
-  {name:"WFQX-TV – FOX 32/33",city:"Cadillac",market:"Traverse City",url:"https://www.fox32tv.com",badge:"Fox",type:"TV",desc:"Fox affiliate; Northern Michigan Fox station.",bc:"b-blue"},
-  {name:"WGTQ – ABC 8",city:"Sault Ste. Marie",market:"Sault Ste. Marie",url:"https://www.upnorthlive.com",badge:"ABC",type:"TV",desc:"ABC affiliate serving Sault Ste. Marie area.",bc:"b-blue"},
-  {name:"WGTU – ABC 29",city:"Traverse City",market:"Traverse City",url:"https://www.upnorthlive.com",badge:"ABC",type:"TV",desc:"ABC affiliate; partners with WPBN for Northern Michigan coverage.",bc:"b-blue"},
-  {name:"WGVU-TV – PBS",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgvu.org",badge:"PBS",type:"TV",desc:"PBS affiliate; Grand Valley State University public broadcasting.",bc:"b-blue"},
-  {name:"WILX-TV – News 10",city:"Lansing",market:"Lansing",url:"https://www.wilx.com",badge:"NBC",type:"TV",desc:"NBC affiliate; strong statehouse bureau in Lansing.",bc:"b-blue"},
-  {name:"WJBK – FOX 2 Detroit",city:"Detroit",market:"Detroit",url:"https://www.fox2detroit.com",badge:"Fox",type:"TV",desc:"Fox owned-and-operated; local news, Let It Rip political show, sports.",bc:"b-blue"},
-  {name:"WJMN-TV – ABC 3",city:"Escanaba",market:"Marquette",url:"https://www.abc3tv.com",badge:"ABC",type:"TV",desc:"ABC affiliate; UP-focused news programming.",bc:"b-blue"},
-  {name:"WJRT-TV – ABC 12",city:"Flint",market:"Flint",url:"https://www.abc12.com",badge:"ABC",type:"TV",desc:"ABC affiliate; leading local news in the Flint area.",bc:"b-blue"},
-  {name:"WKAR-TV – MSU PBS",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"PBS",type:"TV",desc:"PBS affiliate; Michigan State University public broadcasting.",bc:"b-blue"},
-  {name:"WKBD-TV – CW50",city:"Detroit",market:"Detroit",url:"https://www.cw50detroit.com",badge:"The CW",type:"TV",desc:"The CW affiliate; entertainment and syndicated content.",bc:"b-blue"},
-  {name:"WLAJ — ABC 53",city:"Lansing",market:"Lansing",url:"https://www.wlaj.com",badge:"ABC",type:"TV",desc:"ABC affiliate for the Lansing DMA; operated alongside WLNS.",bc:"b-blue"},
-  {name:"WLNS-TV – 6 News",city:"Lansing",market:"Lansing",url:"https://www.wlns.com",badge:"CBS",type:"TV",desc:"CBS affiliate; capital-area CBS station since 1950.",bc:"b-blue"},
-  {name:"WLUC-TV – Upper MI Source",city:"Marquette",market:"Marquette",url:"https://www.uppermichiganssource.com",badge:"NBC/Fox",type:"TV",desc:"NBC/Fox affiliate; primary commercial news for the Upper Peninsula.",bc:"b-blue"},
-  {name:"WMYD – TV20 Detroit",city:"Detroit",market:"Detroit",url:"https://www.tv20detroit.com",badge:"Independent",type:"TV",desc:"Independent station; syndicated and local content.",bc:"b-blue"},
-  {name:"WNEM-TV – TV5",city:"Saginaw",market:"Flint",url:"https://www.wnem.com",badge:"CBS",type:"TV",desc:"CBS affiliate; covers Flint-Saginaw-Bay City tri-city market.",bc:"b-blue"},
-  {name:"WNMU – PBS",city:"Marquette",market:"Marquette",url:"https://www.nmu.edu/wnmu",badge:"PBS",type:"TV",desc:"PBS affiliate; Northern Michigan University public TV.",bc:"b-blue"},
-  {name:"WOOD-TV – NBC 8",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.woodtv.com",badge:"NBC",type:"TV",desc:"NBC affiliate; West Michigan's top news station since 1949.",bc:"b-blue"},
-  {name:"WOTV — ABC 4",city:"Battle Creek",market:"Grand Rapids",url:"https://www.wotv4women.com",badge:"ABC",type:"TV",desc:"ABC affiliate serving Battle Creek and the southern Grand Rapids DMA; sister to WOOD-TV.",bc:"b-blue"},
-  {name:"WPBN-TV – NBC 7",city:"Traverse City",market:"Traverse City",url:"https://www.upnorthlive.com",badge:"NBC",type:"TV",desc:"NBC affiliate; partners with WGTU for Northern Michigan news.",bc:"b-blue"},
+  {name:"WDIV-TV – Local 4",city:"Detroit",market:"Detroit",url:"https://www.clickondetroit.com",badge:"NBC",type:"TV",desc:"NBC affiliate; Detroit's top-rated local news station.",bc:"b-blue",te:"news@wdiv.com"},
+  {name:"WEYI-TV – NBC 25",city:"Saginaw",market:"Flint",url:"https://www.nbc25.com",badge:"NBC",type:"TV",desc:"NBC affiliate; Saginaw Valley news coverage.",bc:"b-blue",te:"news@mid-michigannow.com",tu:"https://midmichigannow.com/chimein"},
+  {name:"WFQX-TV – FOX 32/33",city:"Cadillac",market:"Traverse City",url:"https://www.fox32tv.com",badge:"Fox",type:"TV",desc:"Fox affiliate; Northern Michigan Fox station.",bc:"b-blue",te:"news@9and10news.com",tu:"https://www.9and10news.com/news/news-tips/"},
+  {name:"WGTQ – ABC 8",city:"Sault Ste. Marie",market:"Sault Ste. Marie",url:"https://www.upnorthlive.com",badge:"ABC",type:"TV",desc:"ABC affiliate serving Sault Ste. Marie area.",bc:"b-blue",te:"newsroom@upnorthlive.com"},
+  {name:"WGTU – ABC 29",city:"Traverse City",market:"Traverse City",url:"https://www.upnorthlive.com",badge:"ABC",type:"TV",desc:"ABC affiliate; partners with WPBN for Northern Michigan coverage.",bc:"b-blue",te:"newsroom@upnorthlive.com"},
+  {name:"WGVU-TV – PBS",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgvu.org",badge:"PBS",type:"TV",desc:"PBS affiliate; Grand Valley State University public broadcasting.",bc:"b-blue",te:"news@wgvunews.org",tu:"https://www.wgvu.org/about/contact/"},
+  {name:"WILX-TV – News 10",city:"Lansing",market:"Lansing",url:"https://www.wilx.com",badge:"NBC",type:"TV",desc:"NBC affiliate; strong statehouse bureau in Lansing.",bc:"b-blue",te:"newstips@wilx.com",tu:"https://www.wilx.com/page/news-tips/"},
+  {name:"WJBK – FOX 2 Detroit",city:"Detroit",market:"Detroit",url:"https://www.fox2detroit.com",badge:"Fox",type:"TV",desc:"Fox owned-and-operated; local news, Let It Rip political show, sports.",bc:"b-blue",te:"fox2newsdesk@foxtv.com"},
+  {name:"WJMN-TV – ABC 3",city:"Escanaba",market:"Marquette",url:"https://www.abc3tv.com",badge:"ABC",type:"TV",desc:"ABC affiliate; UP-focused news programming.",bc:"b-blue",te:"news@myupnow.com",tu:"https://www.myupnow.com/submit-a-tip/"},
+  {name:"WJRT-TV – ABC 12",city:"Flint",market:"Flint",url:"https://www.abc12.com",badge:"ABC",type:"TV",desc:"ABC affiliate; leading local news in the Flint area.",bc:"b-blue",te:"abc12news@abc12.com",tu:"https://www.abc12.com/site/forms/submit_a_story/"},
+  {name:"WKAR-TV – MSU PBS",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"PBS",type:"TV",desc:"PBS affiliate; Michigan State University public broadcasting.",bc:"b-blue",te:"newsinfo@wkar.org"},
+  {name:"WKBD-TV – CW50",city:"Detroit",market:"Detroit",url:"https://www.cw50detroit.com",badge:"The CW",type:"TV",desc:"The CW affiliate; entertainment and syndicated content.",bc:"b-blue",tu:"https://www.cbsnews.com/detroit/news-tips/"},
+  {name:"WLAJ — ABC 53",city:"Lansing",market:"Lansing",url:"https://www.wlaj.com",badge:"ABC",type:"TV",desc:"ABC affiliate for the Lansing DMA; operated alongside WLNS.",bc:"b-blue",tu:"https://www.wlns.com/contact-us-report-it/"},
+  {name:"WLNS-TV – 6 News",city:"Lansing",market:"Lansing",url:"https://www.wlns.com",badge:"CBS",type:"TV",desc:"CBS affiliate; capital-area CBS station since 1950.",bc:"b-blue",tu:"https://www.wlns.com/contact-us-report-it/"},
+  {name:"WLUC-TV – Upper MI Source",city:"Marquette",market:"Marquette",url:"https://www.uppermichiganssource.com",badge:"NBC/Fox",type:"TV",desc:"NBC/Fox affiliate; primary commercial news for the Upper Peninsula.",bc:"b-blue",te:"wlucnews@wluctv6.com"},
+  {name:"WMYD – TV20 Detroit",city:"Detroit",market:"Detroit",url:"https://www.tv20detroit.com",badge:"Independent",type:"TV",desc:"Independent station; syndicated and local content.",bc:"b-blue",te:"news@wxyz.com",tu:"https://www.wxyz.com/about/contact-us"},
+  {name:"WNEM-TV – TV5",city:"Saginaw",market:"Flint",url:"https://www.wnem.com",badge:"CBS",type:"TV",desc:"CBS affiliate; covers Flint-Saginaw-Bay City tri-city market.",bc:"b-blue",te:"wnem@wnem.com",tu:"https://www.wnem.com/submit/"},
+  {name:"WNMU – PBS",city:"Marquette",market:"Marquette",url:"https://www.nmu.edu/wnmu",badge:"PBS",type:"TV",desc:"PBS affiliate; Northern Michigan University public TV.",bc:"b-blue",te:"dtv13@nmu.edu"},
+  {name:"WOOD-TV – NBC 8",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.woodtv.com",badge:"NBC",type:"TV",desc:"NBC affiliate; West Michigan's top news station since 1949.",bc:"b-blue",tu:"https://www.woodtv.com/reportit/"},
+  {name:"WOTV — ABC 4",city:"Battle Creek",market:"Grand Rapids",url:"https://www.wotv4women.com",badge:"ABC",type:"TV",desc:"ABC affiliate serving Battle Creek and the southern Grand Rapids DMA; sister to WOOD-TV.",bc:"b-blue",tu:"https://www.woodtv.com/reportit/"},
+  {name:"WPBN-TV – NBC 7",city:"Traverse City",market:"Traverse City",url:"https://www.upnorthlive.com",badge:"NBC",type:"TV",desc:"NBC affiliate; partners with WGTU for Northern Michigan news.",bc:"b-blue",te:"newsroom@upnorthlive.com"},
   {name:"WPXD — ION 31",city:"Ann Arbor",market:"Detroit",url:"https://iontelevision.com",badge:"ION",type:"TV",desc:"ION Television owned-and-operated station for the Detroit market.",bc:"b-blue"},
-  {name:"WSMH — Fox 66",city:"Flint",market:"Flint",url:"https://www.fox66news.com",badge:"Fox",type:"TV",desc:"Fox affiliate for the Flint–Saginaw–Bay City market.",bc:"b-blue"},
-  {name:"WSYM-TV – FOX 47",city:"Lansing",market:"Lansing",url:"https://www.fox47news.com",badge:"Fox",type:"TV",desc:"Fox affiliate; mid-Michigan Fox with local news and sports.",bc:"b-blue"},
+  {name:"WSMH — Fox 66",city:"Flint",market:"Flint",url:"https://www.fox66news.com",badge:"Fox",type:"TV",desc:"Fox affiliate for the Flint–Saginaw–Bay City market.",bc:"b-blue",te:"news@mid-michigannow.com",tu:"https://midmichigannow.com/chimein"},
+  {name:"WSYM-TV – FOX 47",city:"Lansing",market:"Lansing",url:"https://www.fox47news.com",badge:"Fox",type:"TV",desc:"Fox affiliate; mid-Michigan Fox with local news and sports.",bc:"b-blue",te:"newstips@fox47news.com",tu:"https://www.fox47news.com/news/news-tips"},
   {name:"WTVS – Detroit PBS 56",city:"Detroit",market:"Detroit",url:"https://www.detroitpbs.org",badge:"PBS",type:"TV",desc:"PBS flagship for Metro Detroit; award-winning local documentaries.",bc:"b-blue"},
-  {name:"WWJ-TV – CBS 62",city:"Detroit",market:"Detroit",url:"https://www.cbsdetroit.com",badge:"CBS",type:"TV",desc:"CBS affiliate; 24-hour news format.",bc:"b-blue"},
-  {name:"WWMT – News Channel 3",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.wwmt.com",badge:"CBS/CW",type:"TV",desc:"CBS/CW affiliate; serves Kalamazoo and Grand Rapids markets.",bc:"b-blue"},
-  {name:"WWTV – 9&10 News",city:"Cadillac",market:"Traverse City",url:"https://www.9and10news.com",badge:"CBS/Fox",type:"TV",desc:"CBS/Fox affiliate; Northern Michigan's primary news outlet.",bc:"b-blue"},
-  {name:"WWUP – CBS 10",city:"Sault Ste. Marie",market:"Sault Ste. Marie",url:"https://www.9and10news.com",badge:"CBS/Fox",type:"TV",desc:"CBS/Fox affiliate; eastern Upper Peninsula coverage.",bc:"b-blue"},
-  {name:"WXMI – FOX 17",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.fox17online.com",badge:"Fox",type:"TV",desc:"Fox affiliate; West Michigan Fox station with local news.",bc:"b-blue"},
-  {name:"WXYZ-TV – Channel 7",city:"Detroit",market:"Detroit",url:"https://www.wxyz.com",badge:"ABC",type:"TV",desc:"ABC affiliate; strong investigative unit, 7 Action News.",bc:"b-blue"},
-  {name:"WZZM – 13 ABC",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wzzm13.com",badge:"ABC",type:"TV",desc:"ABC affiliate; dominant storm team weather coverage.",bc:"b-blue"},
+  {name:"WWJ-TV – CBS 62",city:"Detroit",market:"Detroit",url:"https://www.cbsdetroit.com",badge:"CBS",type:"TV",desc:"CBS affiliate; 24-hour news format.",bc:"b-blue",tu:"https://www.cbsnews.com/detroit/news-tips/"},
+  {name:"WWMT – News Channel 3",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.wwmt.com",badge:"CBS/CW",type:"TV",desc:"CBS/CW affiliate; serves Kalamazoo and Grand Rapids markets.",bc:"b-blue",te:"desk@wwmt.com",tu:"https://wwmt.com/chimein"},
+  {name:"WWTV – 9&10 News",city:"Cadillac",market:"Traverse City",url:"https://www.9and10news.com",badge:"CBS/Fox",type:"TV",desc:"CBS/Fox affiliate; Northern Michigan's primary news outlet.",bc:"b-blue",te:"news@9and10news.com",tu:"https://www.9and10news.com/news/news-tips/"},
+  {name:"WWUP – CBS 10",city:"Sault Ste. Marie",market:"Sault Ste. Marie",url:"https://www.9and10news.com",badge:"CBS/Fox",type:"TV",desc:"CBS/Fox affiliate; eastern Upper Peninsula coverage.",bc:"b-blue",te:"news@9and10news.com",tu:"https://www.9and10news.com/news/news-tips/"},
+  {name:"WXMI – FOX 17",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.fox17online.com",badge:"Fox",type:"TV",desc:"Fox affiliate; West Michigan Fox station with local news.",bc:"b-blue",te:"wxmi-news@fox17online.com",tu:"https://www.fox17online.com/about-us/contact-us"},
+  {name:"WXYZ-TV – Channel 7",city:"Detroit",market:"Detroit",url:"https://www.wxyz.com",badge:"ABC",type:"TV",desc:"ABC affiliate; strong investigative unit, 7 Action News.",bc:"b-blue",te:"tips@wxyz.com",tu:"https://www.wxyz.com/about/contact-us"},
+  {name:"WZZM – 13 ABC",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wzzm13.com",badge:"ABC",type:"TV",desc:"ABC affiliate; dominant storm team weather coverage.",bc:"b-blue",te:"news@wzzm13.com",tu:"https://www.wzzm13.com/contact-us"},
 ],
 
 radio:[
@@ -2048,6 +2048,7 @@ function outletCard(o,term='',showCat=false){
     </a>`
     :`<span class="btn-visit" style="opacity:.4;cursor:default">No website listed</span>`;
   const watchBtn=isAV&&o.url?`<a href="${o.url}" target="_blank" rel="noopener noreferrer" class="btn-watch">${o.type==='TV'?'📺 Watch':'🎧 Listen'}</a>`:'';
+  const tipBtn=(o.te||o.tu)?`<a href="${o.te?`mailto:${o.te}`:o.tu}" ${o.te?'':'target="_blank" rel="noopener noreferrer"'} class="btn-watch" title="Send a news tip${o.te?` to ${o.te}`:''}">📨 News Tip</a>`:'';
   const fpBtn=o.fp?`<a href="https://frontpages.freedomforum.org/newspapers/${o.fp}" target="_blank" rel="noopener noreferrer" class="btn-watch" title="Today's front page, via Freedom Forum">🗞️ Front Page</a>`:'';
   return `<div class="card outlet-card">
   <div class="outlet-body">
@@ -2065,7 +2066,7 @@ function outletCard(o,term='',showCat=false){
     <div class="outlet-desc">${hl(o.desc,term)}</div>
   </div>
   <div class="outlet-footer">
-    ${visitBtn}${watchBtn}${fpBtn}
+    ${visitBtn}${watchBtn}${fpBtn}${tipBtn}
   </div>
 </div>`;
 }

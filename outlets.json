@@ -60,7 +60,9 @@
    "status": "active",
    "lat": 45.062,
    "lng": -83.433,
-   "id": "mmh-0003"
+   "id": "mmh-0003",
+   "tipEmail": "news@wbkb11.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -74,7 +76,11 @@
    "status": "active",
    "lat": 47.245,
    "lng": -88.454,
-   "id": "mmh-0004"
+   "id": "mmh-0004",
+   "tipEmail": "news@myupnow.com",
+   "tipUrl": "https://www.myupnow.com/submit-a-tip/",
+   "tipNote": "Shared 'My UP Now' newsroom with WJMN",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -90,7 +96,11 @@
    "affiliation": "The CW",
    "lat": 43.594,
    "lng": -83.889,
-   "id": "mmh-0005"
+   "id": "mmh-0005",
+   "tipEmail": "news@mid-michigannow.com",
+   "tipUrl": "https://midmichigannow.com/chimein",
+   "tipNote": "Shared Mid-Michigan Now newsroom with WEYI/WSMH",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -132,7 +142,9 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0008"
+   "id": "mmh-0008",
+   "tipEmail": "news@wdiv.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -146,7 +158,11 @@
    "status": "active",
    "lat": 43.419,
    "lng": -83.951,
-   "id": "mmh-0009"
+   "id": "mmh-0009",
+   "tipEmail": "news@mid-michigannow.com",
+   "tipUrl": "https://midmichigannow.com/chimein",
+   "tipNote": "Shared Mid-Michigan Now newsroom with WSMH/WBSF",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -160,7 +176,11 @@
    "status": "active",
    "lat": 44.252,
    "lng": -85.401,
-   "id": "mmh-0010"
+   "id": "mmh-0010",
+   "tipEmail": "news@9and10news.com",
+   "tipUrl": "https://www.9and10news.com/news/news-tips/",
+   "tipNote": "Shared 9&10 News newsroom with WWTV/WWUP",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -174,7 +194,10 @@
    "status": "active",
    "lat": 46.49,
    "lng": -84.345,
-   "id": "mmh-0011"
+   "id": "mmh-0011",
+   "tipEmail": "newsroom@upnorthlive.com",
+   "tipNote": "Shared UpNorthLive newsroom with WPBN/WGTU",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -188,7 +211,10 @@
    "status": "active",
    "lat": 44.763,
    "lng": -85.62,
-   "id": "mmh-0012"
+   "id": "mmh-0012",
+   "tipEmail": "newsroom@upnorthlive.com",
+   "tipNote": "Shared UpNorthLive newsroom with WPBN/WGTQ",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -202,7 +228,11 @@
    "status": "active",
    "lat": 42.963,
    "lng": -85.668,
-   "id": "mmh-0013"
+   "id": "mmh-0013",
+   "tipEmail": "news@wgvunews.org",
+   "tipUrl": "https://www.wgvu.org/about/contact/",
+   "tipNote": "Email verified via station's official social profile",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -216,7 +246,11 @@
    "status": "active",
    "lat": 42.732,
    "lng": -84.556,
-   "id": "mmh-0014"
+   "id": "mmh-0014",
+   "tipEmail": "newstips@wilx.com",
+   "tipUrl": "https://www.wilx.com/page/news-tips/",
+   "tipNote": "Dedicated tips address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -230,7 +264,9 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0015"
+   "id": "mmh-0015",
+   "tipEmail": "fox2newsdesk@foxtv.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -244,7 +280,11 @@
    "status": "active",
    "lat": 45.745,
    "lng": -87.064,
-   "id": "mmh-0016"
+   "id": "mmh-0016",
+   "tipEmail": "news@myupnow.com",
+   "tipUrl": "https://www.myupnow.com/submit-a-tip/",
+   "tipNote": "Shared 'My UP Now' newsroom with WBKP",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -258,7 +298,10 @@
    "status": "active",
    "lat": 43.013,
    "lng": -83.687,
-   "id": "mmh-0017"
+   "id": "mmh-0017",
+   "tipEmail": "abc12news@abc12.com",
+   "tipUrl": "https://www.abc12.com/site/forms/submit_a_story/",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -272,7 +315,9 @@
    "status": "active",
    "lat": 42.737,
    "lng": -84.484,
-   "id": "mmh-0018"
+   "id": "mmh-0018",
+   "tipEmail": "newsinfo@wkar.org",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -286,7 +331,10 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0019"
+   "id": "mmh-0019",
+   "tipUrl": "https://www.cbsnews.com/detroit/news-tips/",
+   "tipNote": "Tips via shared CBS Detroit newsroom (WWJ)",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -301,7 +349,10 @@
    "affiliation": "ABC",
    "lat": 42.732,
    "lng": -84.556,
-   "id": "mmh-0020"
+   "id": "mmh-0020",
+   "tipUrl": "https://www.wlns.com/contact-us-report-it/",
+   "tipNote": "Tips via sister station WLNS 'Report It' form",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -315,7 +366,10 @@
    "status": "active",
    "lat": 42.732,
    "lng": -84.556,
-   "id": "mmh-0021"
+   "id": "mmh-0021",
+   "tipUrl": "https://www.wlns.com/contact-us-report-it/",
+   "tipNote": "Nexstar 'Report It' form; no public email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -329,7 +383,10 @@
    "status": "active",
    "lat": 46.544,
    "lng": -87.396,
-   "id": "mmh-0022"
+   "id": "mmh-0022",
+   "tipEmail": "wlucnews@wluctv6.com",
+   "tipNote": "Email verified via station's official social profile",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -344,7 +401,11 @@
    "notes": "[owner corrected Jul 2026]",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0023"
+   "id": "mmh-0023",
+   "tipEmail": "news@wxyz.com",
+   "tipUrl": "https://www.wxyz.com/about/contact-us",
+   "tipNote": "Tips via sister station WXYZ newsroom",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -358,7 +419,11 @@
    "status": "active",
    "lat": 43.419,
    "lng": -83.951,
-   "id": "mmh-0024"
+   "id": "mmh-0024",
+   "tipEmail": "wnem@wnem.com",
+   "tipUrl": "https://www.wnem.com/submit/",
+   "tipNote": "Form is for photo/video submissions",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -372,7 +437,10 @@
    "status": "active",
    "lat": 46.544,
    "lng": -87.396,
-   "id": "mmh-0025"
+   "id": "mmh-0025",
+   "tipEmail": "dtv13@nmu.edu",
+   "tipNote": "General station contact; no dedicated tip line",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -386,7 +454,10 @@
    "status": "active",
    "lat": 42.963,
    "lng": -85.668,
-   "id": "mmh-0026"
+   "id": "mmh-0026",
+   "tipUrl": "https://www.woodtv.com/reportit/",
+   "tipNote": "Nexstar 'Report It' form; no public email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -401,7 +472,10 @@
    "affiliation": "ABC",
    "lat": 42.321,
    "lng": -85.18,
-   "id": "mmh-0027"
+   "id": "mmh-0027",
+   "tipUrl": "https://www.woodtv.com/reportit/",
+   "tipNote": "Tips via WOOD TV8 'Report It' form",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -415,7 +489,10 @@
    "status": "active",
    "lat": 44.763,
    "lng": -85.62,
-   "id": "mmh-0028"
+   "id": "mmh-0028",
+   "tipEmail": "newsroom@upnorthlive.com",
+   "tipNote": "Shared UpNorthLive newsroom with WGTU/WGTQ",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -446,7 +523,11 @@
    "affiliation": "Fox",
    "lat": 43.013,
    "lng": -83.687,
-   "id": "mmh-0030"
+   "id": "mmh-0030",
+   "tipEmail": "news@mid-michigannow.com",
+   "tipUrl": "https://midmichigannow.com/chimein",
+   "tipNote": "Shared Mid-Michigan Now newsroom with WEYI/WBSF",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -460,7 +541,11 @@
    "status": "active",
    "lat": 42.732,
    "lng": -84.556,
-   "id": "mmh-0031"
+   "id": "mmh-0031",
+   "tipEmail": "newstips@fox47news.com",
+   "tipUrl": "https://www.fox47news.com/news/news-tips",
+   "tipNote": "Dedicated tips address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -489,7 +574,10 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0033"
+   "id": "mmh-0033",
+   "tipUrl": "https://www.cbsnews.com/detroit/news-tips/",
+   "tipNote": "CBS Detroit news-tips form; no public email",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -503,7 +591,11 @@
    "status": "active",
    "lat": 42.291,
    "lng": -85.587,
-   "id": "mmh-0034"
+   "id": "mmh-0034",
+   "tipEmail": "desk@wwmt.com",
+   "tipUrl": "https://wwmt.com/chimein",
+   "tipNote": "Email verified via station's official social profile",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -517,7 +609,11 @@
    "status": "active",
    "lat": 44.252,
    "lng": -85.401,
-   "id": "mmh-0035"
+   "id": "mmh-0035",
+   "tipEmail": "news@9and10news.com",
+   "tipUrl": "https://www.9and10news.com/news/news-tips/",
+   "tipNote": "Shared 9&10 News newsroom with WWUP/WFQX",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -531,7 +627,11 @@
    "status": "active",
    "lat": 46.49,
    "lng": -84.345,
-   "id": "mmh-0036"
+   "id": "mmh-0036",
+   "tipEmail": "news@9and10news.com",
+   "tipUrl": "https://www.9and10news.com/news/news-tips/",
+   "tipNote": "Shared 9&10 News newsroom with WWTV/WFQX",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -545,7 +645,11 @@
    "status": "active",
    "lat": 42.963,
    "lng": -85.668,
-   "id": "mmh-0037"
+   "id": "mmh-0037",
+   "tipEmail": "wxmi-news@fox17online.com",
+   "tipUrl": "https://www.fox17online.com/about-us/contact-us",
+   "tipNote": "Dedicated tips address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -559,7 +663,11 @@
    "status": "active",
    "lat": 42.331,
    "lng": -83.046,
-   "id": "mmh-0038"
+   "id": "mmh-0038",
+   "tipEmail": "tips@wxyz.com",
+   "tipUrl": "https://www.wxyz.com/about/contact-us",
+   "tipNote": "Dedicated tips address; general newsroom is news@wxyz.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "TV",
@@ -573,7 +681,10 @@
    "status": "active",
    "lat": 42.963,
    "lng": -85.668,
-   "id": "mmh-0039"
+   "id": "mmh-0039",
+   "tipEmail": "news@wzzm13.com",
+   "tipUrl": "https://www.wzzm13.com/contact-us",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Radio",
