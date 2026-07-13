@@ -1,6 +1,6 @@
 {
  "generated": "2026-07-12",
- "source": "Michigan Media Hub directory v2 (July 2026 cleanup + expansion)",
+ "source": "Michigan Media Hub directory v2 (July 2026 cleanup + expansion; weekly tip-contact research applied 2026-07-12)",
  "categories": [
   "TV",
   "Radio",
@@ -15,7 +15,7 @@
   "Sports & Outdoors",
   "Border & Cross-Border"
  ],
- "count": 443,
+ "count": 491,
  "outlets": [
   {
    "category": "TV",
@@ -2229,7 +2229,11 @@
    "notes": "URL unverified — link checker will confirm.",
    "lat": 44.656,
    "lng": -83.294,
-   "id": "mmh-0137"
+   "id": "mmh-0137",
+   "tipEmail": "editor@alconareview.com",
+   "tipUrl": "https://www.alconareview.com",
+   "tipNote": "Contact page on site; full form URL truncated in research report",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2237,12 +2241,16 @@
    "city": "Allegan",
    "market": "Grand Rapids",
    "website": "https://www.allegannews.com",
-   "owner": "Independent",
+   "owner": "Wilcox Newspapers",
    "description": "Community weekly serving Allegan County since 1860.",
    "status": "active",
    "lat": 42.529,
    "lng": -85.855,
-   "id": "mmh-0138"
+   "id": "mmh-0138",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles, linked from site",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2255,7 +2263,11 @@
    "status": "active",
    "lat": 44.98,
    "lng": -85.211,
-   "id": "mmh-0139"
+   "id": "mmh-0139",
+   "tipEmail": "editor@antrimreview.net",
+   "tipUrl": "https://www.antrimreview.net",
+   "tipNote": "Letters page on antrimreview.net. Masthead is 'The Antrim Review' — verify outlet name and website field",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2268,7 +2280,9 @@
    "status": "active",
    "lat": 43.882,
    "lng": -84.485,
-   "id": "mmh-0140"
+   "id": "mmh-0140",
+   "tipUrl": "https://www.beavertonclarion.com",
+   "tipNote": "Not verified in first research pass — check site contact page"
   },
   {
    "category": "Weekly",
@@ -2281,7 +2295,10 @@
    "status": "active",
    "lat": 45.217,
    "lng": -85.014,
-   "id": "mmh-0141"
+   "id": "mmh-0141",
+   "tipEmail": "maria@slowmadicmedia.com",
+   "tipUrl": "https://www.boynegazette.com/contact/",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2294,20 +2311,11 @@
    "status": "active",
    "lat": 42.7,
    "lng": -82.94,
-   "id": "mmh-0142"
-  },
-  {
-   "category": "Weekly",
-   "name": "Cedar Springs Post",
-   "city": "Cedar Springs",
-   "market": "Grand Rapids",
-   "website": "https://cedarspringspost.com",
-   "owner": "Independent",
-   "description": "Community weekly serving Cedar Springs and northern Kent County since 1988.",
-   "status": "active",
-   "lat": 43.223,
-   "lng": -85.551,
-   "id": "mmh-0143"
+   "id": "mmh-0142",
+   "tipEmail": "neighbors@candgnews.com",
+   "tipUrl": "https://www.candgnews.com/contact-us",
+   "tipNote": "Dedicated news-tips line covering all C&G community papers",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2320,7 +2328,8 @@
    "status": "active",
    "lat": 45.318,
    "lng": -85.258,
-   "id": "mmh-0144"
+   "id": "mmh-0144",
+   "tipNote": "No contact published"
   },
   {
    "category": "Weekly",
@@ -2328,12 +2337,16 @@
    "city": "Clare",
    "market": "Flint",
    "website": "https://www.clarereview.com",
-   "owner": "Independent",
+   "owner": "Wilcox Newspapers",
    "description": "Community weekly serving Clare County in central Michigan.",
    "status": "active",
    "lat": 43.819,
    "lng": -84.769,
-   "id": "mmh-0145"
+   "id": "mmh-0145",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2346,7 +2359,10 @@
    "status": "active",
    "lat": 42.735,
    "lng": -83.418,
-   "id": "mmh-0146"
+   "id": "mmh-0146",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://clarkstonnews.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2360,7 +2376,11 @@
    "added": "2026-07",
    "lat": 44.661,
    "lng": -84.715,
-   "id": "mmh-0147"
+   "id": "mmh-0147",
+   "tipEmail": "news@crawfordcountyavalanche.com",
+   "tipUrl": "https://www.crawfordcountyavalanche.com",
+   "tipNote": "Contact form on site",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2373,7 +2393,10 @@
    "status": "active",
    "lat": 42.322,
    "lng": -83.176,
-   "id": "mmh-0148"
+   "id": "mmh-0148",
+   "tipUrl": "https://www.downriversundaytimes.com",
+   "tipNote": "Email obfuscated; use contact form. Site now operates as downriversundaytimes.com — verify website field",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2386,7 +2409,9 @@
    "status": "active",
    "lat": 41.984,
    "lng": -86.109,
-   "id": "mmh-0149"
+   "id": "mmh-0149",
+   "tipUrl": "https://www.leaderpub.com",
+   "tipNote": "Not verified — check Leader Publications contact page"
   },
   {
    "category": "Weekly",
@@ -2399,7 +2424,10 @@
    "status": "active",
    "lat": 44.895,
    "lng": -85.416,
-   "id": "mmh-0150"
+   "id": "mmh-0150",
+   "tipUrl": "https://www.elkrapidsnews.com/contact.html",
+   "tipNote": "Email obfuscated on site; use on-site form",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2412,7 +2440,8 @@
    "status": "active",
    "lat": 45.027,
    "lng": -84.675,
-   "id": "mmh-0151"
+   "id": "mmh-0151",
+   "tipNote": "No dedicated tips address published"
   },
   {
    "category": "Weekly",
@@ -2425,7 +2454,11 @@
    "status": "active",
    "lat": 43.035,
    "lng": -83.518,
-   "id": "mmh-0152"
+   "id": "mmh-0152",
+   "tipEmail": "ggould@mihomepaper.com",
+   "tipUrl": "https://geneseecountyview.com/contact-us/",
+   "tipNote": "Named editor address — preferred over View group catch-all",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2439,7 +2472,10 @@
    "added": "2026-07",
    "lat": 44.898,
    "lng": -85.981,
-   "id": "mmh-0153"
+   "id": "mmh-0153",
+   "tipEmail": "editorial@glenarborsun.com",
+   "tipUrl": "https://glenarborsun.com/contact/",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2454,7 +2490,9 @@
    "notes": "URL unverified — link checker will confirm.",
    "lat": 42.393,
    "lng": -83.05,
-   "id": "mmh-0154"
+   "id": "mmh-0154",
+   "tipEmail": "news@thehamtramckreview.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2468,7 +2506,10 @@
    "added": "2026-07",
    "lat": 45.432,
    "lng": -84.992,
-   "id": "mmh-0155"
+   "id": "mmh-0155",
+   "tipEmail": "news@ncpublish.com",
+   "tipNote": "North Country Publishing shared newsroom address",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2481,7 +2522,10 @@
    "status": "active",
    "lat": 42.646,
    "lng": -85.291,
-   "id": "mmh-0156"
+   "id": "mmh-0156",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://hastingsbanner.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2494,7 +2538,10 @@
    "status": "active",
    "lat": 42.646,
    "lng": -85.291,
-   "id": "mmh-0157"
+   "id": "mmh-0157",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://hastingsreminder.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2507,7 +2554,10 @@
    "status": "active",
    "lat": 44.28,
    "lng": -83.49,
-   "id": "mmh-0158"
+   "id": "mmh-0158",
+   "tipEmail": "editor@iosconews.com",
+   "tipUrl": "https://www.iosconews.com/site/contact.html",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2520,7 +2570,9 @@
    "status": "active",
    "lat": 46.093,
    "lng": -88.642,
-   "id": "mmh-0159"
+   "id": "mmh-0159",
+   "tipEmail": "wgraham@mmlocal.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2533,7 +2585,9 @@
    "status": "active",
    "lat": 47.121,
    "lng": -88.569,
-   "id": "mmh-0160"
+   "id": "mmh-0160",
+   "tipUrl": "https://keweenawreport.com",
+   "tipNote": "Not verified in first research pass"
   },
   {
    "category": "Weekly",
@@ -2548,7 +2602,11 @@
    "notes": "URL unverified — link checker will confirm.",
    "lat": 46.757,
    "lng": -88.453,
-   "id": "mmh-0161"
+   "id": "mmh-0161",
+   "tipEmail": "sentinel1886@gmail.com",
+   "tipUrl": "https://www.lansesentinel.com",
+   "tipNote": "'Submit a story' form on site",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2561,7 +2619,10 @@
    "status": "active",
    "lat": 42.784,
    "lng": -83.24,
-   "id": "mmh-0162"
+   "id": "mmh-0162",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://lakeorionreview.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2576,7 +2637,10 @@
    "lat": 42.732,
    "lng": -84.556,
    "rss": "https://www.lansingcitypulse.com/rss/",
-   "id": "mmh-0163"
+   "id": "mmh-0163",
+   "tipEmail": "mike@lansingcitypulse.com",
+   "tipUrl": "https://lansingcitypulse.com/contact-us/",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2589,7 +2653,10 @@
    "status": "active",
    "lat": 43.051,
    "lng": -83.319,
-   "id": "mmh-0164"
+   "id": "mmh-0164",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://laview.net/contact-us/",
+   "tipNote": "View catch-all; named editor Jeff Hogan preferable per research"
   },
   {
    "category": "Weekly",
@@ -2602,7 +2669,10 @@
    "status": "active",
    "lat": 45.023,
    "lng": -85.76,
-   "id": "mmh-0165"
+   "id": "mmh-0165",
+   "tipEmail": "Editor@leelanaunews.com",
+   "tipUrl": "https://www.leelanaunews.com/contact",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2615,7 +2685,9 @@
    "status": "active",
    "lat": 42.934,
    "lng": -85.342,
-   "id": "mmh-0166"
+   "id": "mmh-0166",
+   "tipUrl": "https://www.lowellareaanews.com",
+   "tipNote": "Not verified in first research pass"
   },
   {
    "category": "Weekly",
@@ -2628,7 +2700,10 @@
    "status": "active",
    "lat": 42.934,
    "lng": -85.342,
-   "id": "mmh-0167"
+   "id": "mmh-0167",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://lowellledger.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2642,7 +2717,10 @@
    "added": "2026-07",
    "lat": 45.849,
    "lng": -84.617,
-   "id": "mmh-0168"
+   "id": "mmh-0168",
+   "tipUrl": "https://www.mackinacislandnews.com",
+   "tipNote": "Use on-site contact form",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2655,7 +2733,10 @@
    "status": "active",
    "lat": 45.414,
    "lng": -87.605,
-   "id": "mmh-0169"
+   "id": "mmh-0169",
+   "tipEmail": "journal@alphacomm.net",
+   "tipNote": "Second published address mcjournal@sbcglobal.net conflicts — verify before use",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2669,7 +2750,10 @@
    "lat": 42.331,
    "lng": -83.046,
    "rss": "https://www.metrotimes.com/detroit/Rss.xml",
-   "id": "mmh-0170"
+   "id": "mmh-0170",
+   "tipEmail": "tips@metrointhed.com",
+   "tipNote": "Tips domain is metrointhed.com, NOT metrotimes.com — common point of error",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2695,7 +2779,9 @@
    "status": "active",
    "lat": 45.005,
    "lng": -84.144,
-   "id": "mmh-0172"
+   "id": "mmh-0172",
+   "tipUrl": "https://www.montmorencycountytribune.com",
+   "tipNote": "Not verified in first research pass"
   },
   {
    "category": "Weekly",
@@ -2708,7 +2794,9 @@
    "status": "active",
    "lat": 46.411,
    "lng": -86.649,
-   "id": "mmh-0173"
+   "id": "mmh-0173",
+   "tipUrl": "https://www.munisingnews.com",
+   "tipNote": "Not verified in first research pass"
   },
   {
    "category": "Weekly",
@@ -2721,7 +2809,11 @@
    "status": "active",
    "lat": 46.355,
    "lng": -85.51,
-   "id": "mmh-0174"
+   "id": "mmh-0174",
+   "tipEmail": "nbynews@mynewberrynews.com",
+   "tipUrl": "https://mynewberrynews.com/contact-us/",
+   "tipNote": "Site appears to have moved to mynewberrynews.com — verify website field",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2734,7 +2826,9 @@
    "status": "active",
    "lat": 42.214,
    "lng": -83.194,
-   "id": "mmh-0175"
+   "id": "mmh-0175",
+   "tipEmail": "editor@thenewsherald.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2747,7 +2841,9 @@
    "status": "active",
    "lat": 41.83,
    "lng": -86.254,
-   "id": "mmh-0176"
+   "id": "mmh-0176",
+   "tipUrl": "https://www.leaderpub.com",
+   "tipNote": "Not verified — check Leader Publications contact page"
   },
   {
    "category": "Weekly",
@@ -2760,7 +2856,10 @@
    "status": "active",
    "lat": 44.763,
    "lng": -85.62,
-   "id": "mmh-0177"
+   "id": "mmh-0177",
+   "tipUrl": "https://www.northernexpress.com/contact-us/",
+   "tipNote": "Use on-site contact form",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2773,7 +2872,9 @@
    "status": "active",
    "lat": 42.431,
    "lng": -83.483,
-   "id": "mmh-0178"
+   "id": "mmh-0178",
+   "tipUrl": "https://www.hometownlife.com",
+   "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
   },
   {
    "category": "Weekly",
@@ -2786,7 +2887,9 @@
    "status": "active",
    "lat": 42.481,
    "lng": -83.475,
-   "id": "mmh-0179"
+   "id": "mmh-0179",
+   "tipUrl": "https://www.hometownlife.com",
+   "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
   },
   {
    "category": "Weekly",
@@ -2799,7 +2902,9 @@
    "status": "active",
    "lat": 42.368,
    "lng": -83.353,
-   "id": "mmh-0180"
+   "id": "mmh-0180",
+   "tipUrl": "https://www.hometownlife.com",
+   "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
   },
   {
    "category": "Weekly",
@@ -2812,7 +2917,10 @@
    "status": "active",
    "lat": 43.698,
    "lng": -86.364,
-   "id": "mmh-0181"
+   "id": "mmh-0181",
+   "tipEmail": "clerk@oceanaheraldjournal.com",
+   "tipNote": "Only published address is clerk@ — confirm news routing",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2820,14 +2928,17 @@
    "city": "West Branch",
    "market": "Flint",
    "website": "https://www.ogemawherald.com",
-   "owner": "Independent",
+   "owner": "CherryRoad Media",
    "description": "Community weekly for Ogemaw County.",
    "status": "active",
    "added": "2026-07",
    "notes": "URL unverified — link checker will confirm.",
    "lat": 44.276,
    "lng": -84.239,
-   "id": "mmh-0182"
+   "id": "mmh-0182",
+   "tipEmail": "ahensel@cherryroad.com",
+   "tipNote": "Editor Amy Hensel covers CherryRoad's Arenac, Ogemaw and Oscoda county papers",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2840,7 +2951,9 @@
    "status": "active",
    "lat": 46.873,
    "lng": -89.314,
-   "id": "mmh-0183"
+   "id": "mmh-0183",
+   "tipEmail": "herald@ontonagonherald.com",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2853,7 +2966,10 @@
    "status": "active",
    "lat": 42.825,
    "lng": -83.265,
-   "id": "mmh-0184"
+   "id": "mmh-0184",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://oxfordleader.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2868,20 +2984,11 @@
    "notes": "URL unverified — link checker will confirm.",
    "lat": 45.958,
    "lng": -86.246,
-   "id": "mmh-0185"
-  },
-  {
-   "category": "Weekly",
-   "name": "Press & Guide",
-   "city": "Dearborn",
-   "market": "Detroit",
-   "website": "https://www.pressandguide.com",
-   "owner": "Digital First Media / MediaNews",
-   "description": "Downriver and Dearborn area community weekly serving Wayne County communities.",
-   "status": "active",
-   "lat": 42.322,
-   "lng": -83.176,
-   "id": "mmh-0186"
+   "id": "mmh-0185",
+   "tipEmail": "newsroom@pioneertribune.com",
+   "tipUrl": "https://www.pioneertribune.com",
+   "tipNote": "'Submit News' link on site",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2894,7 +3001,10 @@
    "status": "active",
    "lat": 43.42,
    "lng": -82.83,
-   "id": "mmh-0187"
+   "id": "mmh-0187",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://sanilaccountynews.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2907,7 +3017,9 @@
    "status": "active",
    "lat": 42.461,
    "lng": -83.651,
-   "id": "mmh-0188"
+   "id": "mmh-0188",
+   "tipUrl": "https://www.hometownlife.com",
+   "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
   },
   {
    "category": "Weekly",
@@ -2920,7 +3032,10 @@
    "status": "active",
    "lat": 45.866,
    "lng": -84.727,
-   "id": "mmh-0189"
+   "id": "mmh-0189",
+   "tipEmail": "alexis.rankin@stignacenews.com",
+   "tipUrl": "https://www.stignacenews.com/contact-us/",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2933,7 +3048,11 @@
    "status": "active",
    "lat": 43.051,
    "lng": -83.319,
-   "id": "mmh-0190"
+   "id": "mmh-0190",
+   "tipEmail": "bgagnon@mihomepaper.com",
+   "tipUrl": "https://thecountypress.mihomepaper.com",
+   "tipNote": "Named editor Ben Gagnon — preferred over View group catch-all",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2946,7 +3065,10 @@
    "status": "active",
    "lat": 42.386,
    "lng": -82.912,
-   "id": "mmh-0191"
+   "id": "mmh-0191",
+   "tipUrl": "https://www.grossepointenews.com/contact-us/",
+   "tipNote": "Use on-site contact form",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2959,7 +3081,10 @@
    "status": "active",
    "lat": 42.318,
    "lng": -84.02,
-   "id": "mmh-0192"
+   "id": "mmh-0192",
+   "tipEmail": "mail@thesuntimesnews.com",
+   "tipUrl": "https://thesuntimesnews.com/contact-us/",
+   "tipVerified": "2026-07"
   },
   {
    "category": "Weekly",
@@ -2972,7 +3097,10 @@
    "status": "active",
    "lat": 43.185,
    "lng": -84.115,
-   "id": "mmh-0193"
+   "id": "mmh-0193",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://tricountycitizen.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Weekly",
@@ -2985,7 +3113,10 @@
    "status": "active",
    "lat": 42.798,
    "lng": -83.705,
-   "id": "mmh-0194"
+   "id": "mmh-0194",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://www.tricountytimes.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
   },
   {
    "category": "Magazine",
@@ -6460,6 +6591,832 @@
    "lat": 44.5133,
    "lng": -88.0133,
    "id": "mmh-0443"
+  },
+  {
+   "category": "Weekly",
+   "name": "Ad-visor & Chronicle",
+   "city": "Marshall",
+   "market": "Grand Rapids",
+   "website": "https://marshalladvisor.com/",
+   "owner": "View Newspaper Group",
+   "description": "Free weekly serving Marshall and Calhoun County; former J-Ad Graphics title acquired by View Newspaper Group in 2024.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.272,
+   "lng": -84.963,
+   "id": "mmh-0444"
+  },
+  {
+   "category": "Weekly",
+   "name": "Arenac County Independent",
+   "city": "Standish",
+   "market": "Flint",
+   "website": "https://www.arenacindependent.com",
+   "owner": "Independent",
+   "description": "Weekly serving Standish, Omer, and Arenac County; sister to the Pinconning Journal.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.983,
+   "lng": -83.959,
+   "id": "mmh-0445",
+   "tipEmail": "ahensel@cherryroad.com",
+   "tipNote": "Editor Amy Hensel covers CherryRoad's Arenac, Ogemaw and Oscoda county papers",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Bay Mills News",
+   "city": "Brimley",
+   "market": "Upper Peninsula",
+   "website": "https://www.baymillsnews.com",
+   "owner": "Bay Mills Indian Community",
+   "description": "News publication of the Bay Mills Indian Community, serving Brimley and the eastern UP; tribal news coverage.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 46.411,
+   "lng": -84.565,
+   "id": "mmh-0446",
+   "tipEmail": "newspaper@baymills.org",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Belleville-Area Independent",
+   "city": "Belleville",
+   "market": "Detroit",
+   "website": "https://bellevilleareaindependent.com",
+   "owner": "Independent",
+   "description": "Weekly serving Belleville, Van Buren Township, and Sumpter Township in western Wayne County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.205,
+   "lng": -83.485,
+   "id": "mmh-0447",
+   "tipUrl": "https://bellevilleareaindependent.com",
+   "tipNote": "Email obfuscated on site; use on-site contact form",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Benton Spirit",
+   "city": "Benton Harbor",
+   "market": "Grand Rapids",
+   "website": "https://bentonspiritnews.com",
+   "owner": "Independent",
+   "description": "Weekly community newspaper serving Benton Harbor and the Twin Cities area.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.117,
+   "lng": -86.454,
+   "id": "mmh-0448",
+   "tipUrl": "https://bentonspiritnews.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Benzie County Record Patriot",
+   "city": "Frankfort",
+   "market": "Traverse City",
+   "website": "https://www.recordpatriot.com",
+   "owner": "Hearst",
+   "description": "Benzie County weekly based in Frankfort; part of Hearst's Pioneer group.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 44.634,
+   "lng": -86.235,
+   "id": "mmh-0449",
+   "tipNote": "Hearst/Pioneer group — no dedicated tips address; route via corporate staff directory"
+  },
+  {
+   "category": "Weekly",
+   "name": "Berrien County Record",
+   "city": "Buchanan",
+   "market": "Grand Rapids",
+   "website": "https://bcrnews.net",
+   "owner": "Independent",
+   "description": "Weekly serving Buchanan; among Berrien County's oldest papers, publishing since 1867.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 41.827,
+   "lng": -86.361,
+   "id": "mmh-0450",
+   "tipUrl": "https://bcrnews.net",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Blissfield Advance",
+   "city": "Blissfield",
+   "market": "Toledo",
+   "website": "https://blissfieldadvance.com/",
+   "owner": "Independent",
+   "description": "Lenawee County weekly serving Blissfield and the River Raisin farm towns since 1875.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 41.832,
+   "lng": -83.862,
+   "id": "mmh-0451",
+   "tipUrl": "https://blissfieldadvance.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Brown City Banner",
+   "city": "Brown City",
+   "market": "Flint",
+   "website": "https://browncitybanner.mihomepaper.com",
+   "owner": "View Newspaper Group",
+   "description": "Sanilac/Lapeer county line weekly since 1884; combined with the Wednesday edition of The County Press in 2020 but retains its masthead.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.212,
+   "lng": -82.989,
+   "id": "mmh-0452",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://browncitybanner.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page; upgrade to named editor when available"
+  },
+  {
+   "category": "Weekly",
+   "name": "Flint Courier News",
+   "city": "Flint",
+   "market": "Flint",
+   "website": "https://theflintcouriernews.com/",
+   "owner": "Independent",
+   "description": "African American community weekly serving Flint and Genesee County. Verify current URL.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.013,
+   "lng": -83.687,
+   "id": "mmh-0454",
+   "tipUrl": "https://theflintcouriernews.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Fowlerville News & Views",
+   "city": "Fowlerville",
+   "market": "Lansing",
+   "website": "https://www.fowlervillenewsandviews.com",
+   "owner": "Independent",
+   "description": "Free weekly covering Fowlerville, Webberville, and western Livingston County for over 30 years.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.66,
+   "lng": -84.073,
+   "id": "mmh-0455",
+   "tipUrl": "https://www.fowlervillenewsandviews.com",
+   "tipNote": "No email published; use site contact form",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Frankenmuth News",
+   "city": "Frankenmuth",
+   "market": "Flint",
+   "website": "https://www.frankenmuthnews.com",
+   "owner": "Independent",
+   "description": "Independent weekly serving Michigan's Bavarian town since 1906.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.332,
+   "lng": -83.738,
+   "id": "mmh-0456",
+   "tipEmail": "vhayden@airadv.net",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Gladwin County Record",
+   "city": "Gladwin",
+   "market": "Flint",
+   "website": "https://www.gladwinmi.com",
+   "owner": "Independent",
+   "description": "Gladwin County weekly of record; companion masthead to the Beaverton Clarion already in the hub.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.981,
+   "lng": -84.486,
+   "id": "mmh-0457",
+   "tipEmail": "editor@thegladwincountyrecord.com",
+   "tipUrl": "http://www.gladwinmi.com/contact",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Gratiot County Herald",
+   "city": "Ithaca",
+   "market": "Flint",
+   "website": "https://gcherald.com",
+   "owner": "Independent",
+   "description": "Gratiot County weekly of record, family-owned and publishing in Ithaca since 1868.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.291,
+   "lng": -84.607,
+   "id": "mmh-0458",
+   "tipEmail": "editor@gcherald.com",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Homer Index",
+   "city": "Homer",
+   "market": "Grand Rapids",
+   "website": "http://www.homerindex.com/",
+   "owner": "Independent",
+   "description": "Calhoun County weekly publishing since 1872; also produces the Springport Signal.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.146,
+   "lng": -84.809,
+   "id": "mmh-0459",
+   "tipUrl": "http://www.homerindex.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Houghton Lake Resorter",
+   "city": "Houghton Lake",
+   "market": "Traverse City",
+   "website": "https://www.houghtonlakeresorter.com",
+   "owner": "Independent",
+   "description": "Roscommon County weekly serving the Houghton Lake and Higgins Lake resort communities since 1946.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 44.315,
+   "lng": -84.765,
+   "id": "mmh-0460",
+   "tipEmail": "news@houghtonlakeresorter.com",
+   "tipUrl": "https://www.houghtonlakeresorter.com",
+   "tipNote": "Contact form on site",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Huron County View",
+   "city": "Bad Axe",
+   "market": "Flint",
+   "website": "https://huroncountyview.mihomepaper.com",
+   "owner": "View Newspaper Group",
+   "description": "Free weekly covering Huron County communities; published by View Newspaper Group.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.802,
+   "lng": -82.999,
+   "id": "mmh-0461",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://huroncountyview.mihomepaper.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
+  },
+  {
+   "category": "Weekly",
+   "name": "Lake County Star",
+   "city": "Baldwin",
+   "market": "Grand Rapids",
+   "website": "https://www.lakecountystar.com",
+   "owner": "Hearst",
+   "description": "Lake County weekly serving Baldwin; part of Hearst's Pioneer group.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.901,
+   "lng": -85.852,
+   "id": "mmh-0462",
+   "tipNote": "Hearst/Pioneer group — no dedicated tips address"
+  },
+  {
+   "category": "Weekly",
+   "name": "Lakeview Area News",
+   "city": "Lakeview",
+   "market": "Grand Rapids",
+   "website": null,
+   "owner": "Independent",
+   "description": "Weekly serving Lakeview and northern Montcalm County. Verify current status.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.446,
+   "lng": -85.274,
+   "id": "mmh-0463",
+   "tipNote": "No web contact published; print/Facebook only"
+  },
+  {
+   "category": "Weekly",
+   "name": "Marcellus News",
+   "city": "Marcellus",
+   "market": "Grand Rapids",
+   "website": "https://marcellusnews.com/",
+   "owner": "Independent",
+   "description": "Small Cass County weekly serving Marcellus. Verify current status.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.026,
+   "lng": -85.815,
+   "id": "mmh-0464",
+   "tipUrl": "https://marcellusnews.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Meridian Weekly",
+   "city": "Ovid",
+   "market": "Lansing",
+   "website": "https://meridianweekly.com",
+   "owner": "Independent",
+   "description": "Weekly serving Ovid, Elsie, and communities across Clinton and Shiawassee counties.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.005,
+   "lng": -84.372,
+   "id": "mmh-0465",
+   "tipUrl": "https://meridianweekly.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Minden City Herald",
+   "city": "Minden City",
+   "market": "Flint",
+   "website": "https://mindencityherald.com",
+   "owner": "Independent",
+   "description": "Family-run Sanilac County weekly publishing since 1889; coverage stretches from Harbor Beach to Deckerville in the upper Thumb.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.673,
+   "lng": -82.778,
+   "id": "mmh-0466",
+   "tipUrl": "https://mindencityherald.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Missaukee Sentinel",
+   "city": "Lake City",
+   "market": "Traverse City",
+   "website": null,
+   "owner": "Independent",
+   "description": "Weekly serving Lake City, McBain, and Missaukee County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 44.335,
+   "lng": -85.215,
+   "id": "mmh-0467",
+   "tipNote": "Print-first; phone or Facebook contact only"
+  },
+  {
+   "category": "Weekly",
+   "name": "Onaway Outlook",
+   "city": "Onaway",
+   "market": "Traverse City",
+   "website": "https://piadvance.com/",
+   "owner": "Independent",
+   "description": "Weekly for Onaway and western Presque Isle County; published alongside the Advance.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 45.36,
+   "lng": -84.224,
+   "id": "mmh-0468",
+   "tipEmail": "editor@piadvance.com",
+   "tipUrl": "https://piadvance.com/contact/",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Oscoda County Herald",
+   "city": "Mio",
+   "market": "Traverse City",
+   "website": "https://www.oscodaherald.com",
+   "owner": "CherryRoad Media",
+   "description": "Weekly serving Mio, Fairview, and Oscoda County since 1980; now published by CherryRoad Media.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 44.66,
+   "lng": -84.13,
+   "id": "mmh-0469",
+   "tipEmail": "ahensel@cherryroad.com",
+   "tipNote": "Editor Amy Hensel covers CherryRoad's Arenac, Ogemaw and Oscoda county papers",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Oscoda Press",
+   "city": "Oscoda",
+   "market": "Traverse City",
+   "website": "https://www.iosconews.com/oscoda_press/",
+   "owner": "Independent",
+   "description": "Weekly serving Oscoda and AuSable on the Lake Huron shore; published alongside the Iosco County News-Herald.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 44.42,
+   "lng": -83.331,
+   "id": "mmh-0470",
+   "tipEmail": "editor@iosconews.com",
+   "tipUrl": "https://www.iosconews.com/site/contact.html",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Pinconning Journal",
+   "city": "Pinconning",
+   "market": "Flint",
+   "website": "https://www.pinconningjournal.com",
+   "owner": "Independent",
+   "description": "Weekly serving Pinconning and northern Bay County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.854,
+   "lng": -83.965,
+   "id": "mmh-0471",
+   "tipUrl": "https://www.pinconningjournal.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Presque Isle County Advance",
+   "city": "Rogers City",
+   "market": "Traverse City",
+   "website": "https://www.piadvance.com",
+   "owner": "Independent",
+   "description": "Presque Isle County weekly publishing in Rogers City since 1878.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 45.421,
+   "lng": -83.818,
+   "id": "mmh-0472",
+   "tipEmail": "editor@piadvance.com",
+   "tipUrl": "https://piadvance.com/contact/",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Rockford Squire",
+   "city": "Rockford",
+   "market": "Grand Rapids",
+   "website": "https://rockfordsquire.com",
+   "owner": "Independent",
+   "description": "Weekly serving Rockford and northern Kent County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.12,
+   "lng": -85.56,
+   "id": "mmh-0473",
+   "tipEmail": "squireproof@gmail.com",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "South Haven Beacon",
+   "city": "South Haven",
+   "market": "Grand Rapids",
+   "website": "https://wilcoxnewspapers.com",
+   "owner": "Wilcox Newspapers",
+   "description": "Weekly serving South Haven and the Lake Michigan shore of Van Buren County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.403,
+   "lng": -86.273,
+   "id": "mmh-0474",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Straitsland Resorter",
+   "city": "Indian River",
+   "market": "Traverse City",
+   "website": "https://www.resorter.com",
+   "owner": "Independent",
+   "description": "Weekly serving Indian River, Topinabee, and the Inland Waterway communities of Cheboygan County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 45.412,
+   "lng": -84.612,
+   "id": "mmh-0476",
+   "tipUrl": "https://www.resorter.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Tecumseh Herald",
+   "city": "Tecumseh",
+   "market": "Toledo",
+   "website": "https://www.tecumsehherald.com",
+   "owner": "Independent",
+   "description": "Independent Lenawee County weekly publishing since 1850.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.004,
+   "lng": -83.945,
+   "id": "mmh-0477",
+   "tipEmail": "news@tecumsehherald.com",
+   "tipUrl": "https://www.tecumsehherald.com/contact",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Citizen",
+   "city": "Ortonville",
+   "market": "Detroit",
+   "website": "https://thecitizenonline.com/",
+   "owner": "View Newspaper Group",
+   "description": "Weekly serving Brandon Township, Ortonville, and Goodrich; former Sherman Publications title acquired by View in 2022.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.852,
+   "lng": -83.443,
+   "id": "mmh-0478",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://thecitizenonline.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Commercial Record",
+   "city": "Saugatuck",
+   "market": "Grand Rapids",
+   "website": "https://wilcoxnewspapers.com",
+   "owner": "Wilcox Newspapers",
+   "description": "Weekly serving Saugatuck and Douglas since 1868.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.655,
+   "lng": -86.204,
+   "id": "mmh-0479",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The County Journal",
+   "city": "Charlotte",
+   "market": "Lansing",
+   "website": "https://county-journal.com",
+   "owner": "Independent",
+   "description": "Eaton County weekly based in Charlotte; also publishes The Flashes covering Eaton Rapids, Grand Ledge, and surrounding communities.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.564,
+   "lng": -84.836,
+   "id": "mmh-0480",
+   "tipUrl": "https://county-journal.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Courier-Leader & Paw Paw Flashes",
+   "city": "Paw Paw",
+   "market": "Grand Rapids",
+   "website": "https://wilcoxnewspapers.com",
+   "owner": "Wilcox Newspapers",
+   "description": "Van Buren County weekly serving Paw Paw, Lawton, Mattawan, Lawrence, and Gobles; roots to the 1845 Paw Paw Free Press.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.218,
+   "lng": -85.891,
+   "id": "mmh-0481",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Exponent",
+   "city": "Brooklyn",
+   "market": "Lansing",
+   "website": "https://www.theexponent.com",
+   "owner": "Independent",
+   "description": "Weekly serving Brooklyn, the Irish Hills, and southern Jackson County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.106,
+   "lng": -84.248,
+   "id": "mmh-0482",
+   "tipEmail": "news@theexponent.com",
+   "tipUrl": "http://theexponent.com/contact",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Independent",
+   "city": "Dundee",
+   "market": "Toledo",
+   "website": "https://dundeeonline.com",
+   "owner": "Independent",
+   "description": "Weekly serving Dundee and western Monroe County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 41.957,
+   "lng": -83.66,
+   "id": "mmh-0483",
+   "tipEmail": "sean@dundee.net",
+   "tipNote": "Publisher's address; confirm news-specific routing",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Journal Era",
+   "city": "Berrien Springs",
+   "market": "Grand Rapids",
+   "website": "https://www.thejournalera.com",
+   "owner": "Independent",
+   "description": "Weekly serving Berrien Springs and southeastern Berrien County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 41.946,
+   "lng": -86.339,
+   "id": "mmh-0484",
+   "tipUrl": "https://www.thejournalera.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Marion Press",
+   "city": "Marion",
+   "market": "Traverse City",
+   "website": "http://www.marion-press.com",
+   "owner": "Wilcox Newspapers",
+   "description": "Weekly serving Marion, McBain, and Osceola County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 44.101,
+   "lng": -85.144,
+   "id": "mmh-0485",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Record",
+   "city": "Washington",
+   "market": "Detroit",
+   "website": "https://www.myrecordnewspaper.com/",
+   "owner": "Independent",
+   "description": "Small weekly covering the villages of Armada and Romeo as well as the townships of Addison, Armada, Bruce, Oakland, Ray, Richmond and Washington",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.724,
+   "lng": -83.036,
+   "id": "mmh-0486",
+   "tipUrl": "https://www.myrecordnewspaper.com",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Sun & News",
+   "city": "Middleville",
+   "market": "Grand Rapids",
+   "website": "https://sunandnews.com/",
+   "owner": "View Newspaper Group",
+   "description": "Weekly serving Middleville and Caledonia; former J-Ad Graphics title acquired with the Hastings papers in 2024.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.713,
+   "lng": -85.462,
+   "id": "mmh-0487",
+   "tipEmail": "editor@mihomepaper.com",
+   "tipUrl": "https://sunandnews.com",
+   "tipNote": "View group catch-all; use paper's Contact Us page"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Union Enterprise",
+   "city": "Plainwell",
+   "market": "Grand Rapids",
+   "website": "https://wilcoxnewspapers.com",
+   "owner": "Wilcox Newspapers",
+   "description": "Weekly serving Plainwell and Otsego in Allegan County; sister to the Allegan County News.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.44,
+   "lng": -85.649,
+   "id": "mmh-0488",
+   "tipEmail": "wilcoxnewspapers@gmail.com",
+   "tipUrl": "https://wilcoxnewspapers.com",
+   "tipNote": "Shared Wilcox news-tip Google Form for all titles",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "The Yale Expositor",
+   "city": "Yale",
+   "market": "Detroit",
+   "website": "https://yaleexpositor.wixsite.com/the-yale-expositor",
+   "owner": "Independent",
+   "description": "St. Clair County weekly publishing since 1879, serving Yale, Brockway, and Emmett.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.13,
+   "lng": -82.798,
+   "id": "mmh-0490",
+   "tipUrl": "https://yaleexpositor.wixsite.com/the-yale-expositor",
+   "tipNote": "Not verified in first research pass"
+  },
+  {
+   "category": "Weekly",
+   "name": "Times-Indicator",
+   "city": "Fremont",
+   "market": "Grand Rapids",
+   "website": "https://timesindicator.com",
+   "owner": "Independent",
+   "description": "Newaygo County weekly of record, based in Fremont.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.468,
+   "lng": -85.942,
+   "id": "mmh-0491",
+   "tipEmail": "tinews@timesindicator.com",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Tri-City Record",
+   "city": "Watervliet",
+   "market": "Grand Rapids",
+   "website": "https://www.tricityrecord.com",
+   "owner": "Independent",
+   "description": "Weekly serving Watervliet, Coloma, and Hartford in northern Berrien County since 1882.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.186,
+   "lng": -86.261,
+   "id": "mmh-0492",
+   "tipUrl": "https://www.tricityrecord.com/contact",
+   "tipNote": "Use on-site contact form",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Tri-City Times",
+   "city": "Imlay City",
+   "market": "Flint",
+   "website": "https://tricitytimes-online.com",
+   "owner": "Independent",
+   "description": "Weekly serving Imlay City, Almont, Capac, and Dryden in Lapeer/St. Clair counties.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.025,
+   "lng": -83.078,
+   "id": "mmh-0493",
+   "tipUrl": "https://tricitytimes-online.com/contact/",
+   "tipNote": "No clean email published; use form or phone",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Tuscola County Advertiser",
+   "city": "Caro",
+   "market": "Flint",
+   "website": "https://www.tuscolatoday.com",
+   "owner": "Independent",
+   "description": "Tuscola County's newspaper of record, based in Caro; masthead dates to 1868.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.489,
+   "lng": -83.399,
+   "id": "mmh-0494",
+   "tipEmail": "sendnews@tcadvertiser.com",
+   "tipUrl": "https://www.tuscolatoday.com/site/contact.html",
+   "tipNote": "Also absorbed Cass City Chronicle coverage as a dedicated section (Jan 2024)",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "White Lake Beacon",
+   "city": "Whitehall",
+   "market": "Grand Rapids",
+   "website": "https://www.shorelinemedia.net/white_lake_beacon/",
+   "owner": "Shoreline Media",
+   "description": "Weekly serving Whitehall, Montague, and the White Lake area of northern Muskegon County.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 43.41,
+   "lng": -86.349,
+   "id": "mmh-0495",
+   "tipEmail": "editor@whitelakebeacon.com",
+   "tipUrl": "https://www.shorelinemedia.net/white_lake_beacon/",
+   "tipNote": "Letter-to-editor form on Shoreline site",
+   "tipVerified": "2026-07"
+  },
+  {
+   "category": "Weekly",
+   "name": "Zeeland Record",
+   "city": "Zeeland",
+   "market": "Grand Rapids",
+   "website": "https://issuu.com/zeelandrecord",
+   "owner": "Independent",
+   "description": "Ottawa County weekly serving Zeeland since 1893; print-first with roughly 2,000 circulation, e-editions sold via Issuu.",
+   "status": "active",
+   "added": "2026-07",
+   "lat": 42.812,
+   "lng": -86.019,
+   "id": "mmh-0496",
+   "tipNote": "Print-first; no published email; e-editions sold via Issuu"
   }
  ]
 }
