@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T08:26:55+00:00",
+ "generated": "2026-07-14T14:11:34+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "UAW slams pro-Stevens super PAC over ‘misleading’ campaign ads",
+   "link": "https://www.metrotimes.com/news/uaw-slams-pro-stevens-super-pac-over-misleading-campaign-ads/",
+   "published": "Tue, 14 Jul 2026 10:31:16 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Huizenga’s campaign paid his brother’s business $400,000 as he sold the congressman’s condos",
    "link": "https://www.metrotimes.com/news/huizengas-campaign-paid-his-brothers-business-400000-as-he-sold-the-congressmans-condos/",
    "published": "Mon, 13 Jul 2026 17:31:15 +0000"
@@ -31,12 +37,6 @@
    "title": "Photos: Luke Bryan brings country hits to Pine Knob",
    "link": "https://www.metrotimes.com/music-2/photos-luke-bryan-brings-country-hits-to-pine-knob/",
    "published": "Mon, 13 Jul 2026 14:17:07 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Dowagiac residents get their chance to confront data center operators after months of noise",
-   "link": "https://www.metrotimes.com/news/dowagiac-residents-get-their-chance-to-confront-data-center-operators-after-months-of-noise/",
-   "published": "Mon, 13 Jul 2026 13:40:59 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Sheffield taps former Bedrock exec to attract national retailers",
+   "link": "https://www.bridgedetroit.com/sheffield-taps-former-bedrock-exec-to-attract-national-retailers/",
+   "published": "Tue, 14 Jul 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Here’s what you need to know before you vote on DPSCD’s tax proposal",
    "link": "https://www.bridgedetroit.com/detroit-schools-millage-proposal-what-to-know/",
    "published": "Mon, 13 Jul 2026 10:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "Op-Ed: The air our children breathe shouldn’t be up for debate",
    "link": "https://www.bridgedetroit.com/op-ed-the-air-our-children-breathe-shouldnt-be-up-for-debate/",
    "published": "Sun, 12 Jul 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "How 4-year-olds are giving Michigan districts an incentive to build, expand",
-   "link": "https://www.bridgedetroit.com/how-4-year-olds-are-giving-michigan-districts-an-incentive-to-build-expand/",
-   "published": "Sat, 11 Jul 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,43 +112,49 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "What Detroiters should know about the proposed school operating millage on the Aug. 4 ballot",
+   "link": "https://michiganadvance.com/2026/07/14/what-detroiters-should-know-about-the-proposed-school-operating-millage-on-the-aug-4-ballot/",
+   "published": "Tue, 14 Jul 2026 10:00:29 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "States split on whether juvenile justice should prioritize punishment or rehabilitation",
+   "link": "https://michiganadvance.com/2026/07/14/repub/states-split-on-whether-juvenile-justice-should-prioritize-punishment-or-rehabilitation/",
+   "published": "Tue, 14 Jul 2026 09:37:19 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Trump hosts top IndyCar racers to promote D.C. streetrace",
    "link": "https://michiganadvance.com/2026/07/13/repub/trump-hosts-top-indycar-racers-to-promote-d-c-streetrace/",
    "published": "Mon, 13 Jul 2026 23:26:24 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Michigan leads nation as it reports 2,640 cases in cyclosporiasis outbreak",
-   "link": "https://michiganadvance.com/2026/07/13/michigan-leads-nation-as-it-reports-2640-cases-in-cyclosporiasis-outbreak/",
-   "published": "Mon, 13 Jul 2026 21:53:48 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Judge blasts Trump for using the presidency to ‘manipulate’ courts in IRS case",
-   "link": "https://michiganadvance.com/2026/07/13/repub/judge-blasts-trump-for-using-the-presidency-to-manipulate-courts-in-irs-case/",
-   "published": "Mon, 13 Jul 2026 20:48:16 +0000"
+   "outlet": "MLive",
+   "title": "Kalamazoo hospital removes raw lettuce, salad bar amid Michigan parasite outbreak",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/07/kalamazoo-hospital-removes-raw-lettuce-salad-bar-amid-michigan-parasite-outbreak.html",
+   "published": "Tue, 14 Jul 2026 14:03:58 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Asking Eric: I lost weight after hormone therapy, but everyone asks if I’m on GLP-1s",
-   "link": "https://www.mlive.com/advice/2026/07/asking-eric-i-lost-weight-after-hormone-therapy-but-everyone-asks-if-im-on-glp-1s.html",
-   "published": "Tue, 14 Jul 2026 08:00:00 +0000"
+   "title": "Ex-Trump official rips president’s ‘moldy and inedible’ election theory",
+   "link": "https://www.mlive.com/politics/2026/07/ex-trump-official-rips-presidents-moldy-and-inedible-election-theory.html",
+   "published": "Tue, 14 Jul 2026 14:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Dear Annie: One parent’s dream, another’s heartbreak",
-   "link": "https://www.mlive.com/advice/2026/07/dear-annie-one-parents-dream-anothers-heartbreak.html",
-   "published": "Tue, 14 Jul 2026 07:00:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Dear Abby: In-law’s sunny comments get on woman’s nerves",
-   "link": "https://www.mlive.com/advice/2026/07/dear-abby-in-laws-sunny-comments-get-on-womans-nerves.html",
-   "published": "Tue, 14 Jul 2026 06:00:00 +0000"
+   "title": "Done with daylight saving time? New plan would put U.S. on standard time year-round",
+   "link": "https://www.mlive.com/news/2026/07/done-with-daylight-saving-time-new-plan-would-put-us-on-standard-time-year-round.html",
+   "published": "Tue, 14 Jul 2026 14:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
-   "title": "Welding program empowers women in male-dominated industry",
+   "title": "Detroit once had outdoor pools across the city. Now, there’s just one — and it’s closed this summer",
+   "link": "https://outliermedia.org/detroit-public-outdoor-pool-brennan-recreation-center/",
+   "published": "Tue, 14 Jul 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Welding training program empowers women in male-dominated industry",
    "link": "https://outliermedia.org/welding-program-empowers-women-in-male-dominated-industry/",
    "published": "Mon, 13 Jul 2026 14:00:06 +0000"
   },
@@ -157,12 +163,6 @@
    "title": "Environmental advocates say they’re being shut out as Detroit drafts data center rules",
    "link": "https://outliermedia.org/data-center-detroit-regulations-scott-benson/",
    "published": "Thu, 09 Jul 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Meet Dana Stuckey, this month’s featured Detroit Documenter",
-   "link": "https://outliermedia.org/dana-stuckey-detroit-documenters-featured/",
-   "published": "Wed, 08 Jul 2026 10:00:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
