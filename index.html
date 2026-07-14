@@ -265,10 +265,11 @@ body.dark .hero{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19
 }
 .hero-search-btn:hover{background:var(--gold-lt)}
 .hero-stats{
-  display:flex;flex-wrap:wrap;gap:2rem;
+  display:flex;flex-wrap:wrap;gap:1.5rem 1.9rem;
   margin-top:3rem;padding-top:2rem;
   border-top:1px solid rgba(255,255,255,.12);
 }
+.hero-stats>div{text-align:center}
 .hero-stat-num{font-family:'DM Serif Display',serif;font-size:1.75rem;color:var(--gold)}
 .hero-stat-label{color:rgba(255,255,255,.80);font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;margin-top:2px}
 
@@ -1035,11 +1036,17 @@ body.dark mark{background:#78350f;color:#fde68a}
       </div>
 
       <div class="hero-stats">
-        <div><div class="hero-stat-num">39</div><div class="hero-stat-label">TV Stations</div></div>
-        <div><div class="hero-stat-num">52</div><div class="hero-stat-label">Radio Stations</div></div>
-        <div><div class="hero-stat-num">45</div><div class="hero-stat-label">Daily Papers</div></div>
+        <div><div class="hero-stat-num" data-cat="tv">39</div><div class="hero-stat-label">TV Stations</div></div>
+        <div><div class="hero-stat-num" data-cat="radio">52</div><div class="hero-stat-label">Radio Stations</div></div>
+        <div><div class="hero-stat-num" data-cat="daily">45</div><div class="hero-stat-label">Daily Papers</div></div>
+        <div><div class="hero-stat-num" data-cat="weekly">106</div><div class="hero-stat-label">Weekly Papers</div></div>
+        <div><div class="hero-stat-num" data-cat="digital">44</div><div class="hero-stat-label">Digital</div></div>
+        <div><div class="hero-stat-num" data-cat="public">53</div><div class="hero-stat-label">Public Media</div></div>
+        <div><div class="hero-stat-num" data-cat="ethnic">53</div><div class="hero-stat-label">Ethnic &amp; Religious</div></div>
+        <div><div class="hero-stat-num" data-cat="university">29</div><div class="hero-stat-label">University</div></div>
+        <div><div class="hero-stat-num" data-cat="business">22</div><div class="hero-stat-label">Business</div></div>
         <div><div class="hero-stat-num">8</div><div class="hero-stat-label">DMA Markets</div></div>
-        <div><div class="hero-stat-num">491</div><div class="hero-stat-label">Total Outlets</div></div>
+        <div><div class="hero-stat-num" data-cat="__total">491</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
     </div>
   </div>
@@ -2197,9 +2204,24 @@ function handleSubmitForm(e){
 }
 
 // Init
+// Keep hero category counts in sync with the live OUTLETS data so they never
+// drift out of date. Numbers are also hardcoded in the markup as a no-JS fallback.
+function syncHeroStats(){
+  if(typeof OUTLETS!=='object' || !OUTLETS) return;
+  let total=0;
+  Object.values(OUTLETS).forEach(arr=>{ if(Array.isArray(arr)) total+=arr.length; });
+  document.querySelectorAll('.hero-stat-num[data-cat]').forEach(el=>{
+    const k=el.getAttribute('data-cat');
+    if(k==='__total'){ if(total>0) el.textContent=total; return; }
+    const arr=OUTLETS[k];
+    if(Array.isArray(arr)) el.textContent=arr.length;
+  });
+}
+
 document.addEventListener('DOMContentLoaded',()=>{
   renderFeatured();
   renderDir();
+  syncHeroStats();
 });
 
 
