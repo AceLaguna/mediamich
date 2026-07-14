@@ -1,7 +1,13 @@
 {
- "generated": "2026-07-14T14:11:34+00:00",
+ "generated": "2026-07-14T19:41:57+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Cooling centers open in Lansing, East Lansing",
+   "link": "https://lansingcitypulse.com/cooling-centers-open-in-lansing-east-lansing/",
+   "published": "Tue, 14 Jul 2026 14:36:55 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Cyclosporiasis update:",
@@ -15,10 +21,16 @@
    "published": "Sun, 12 Jul 2026 21:10:12 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "U.S. Sen. Lindsey Graham dead at 71",
-   "link": "https://lansingcitypulse.com/u-s-sen-lindsey-graham-dead-at-71/",
-   "published": "Sun, 12 Jul 2026 15:23:06 +0000"
+   "outlet": "Metro Times",
+   "title": "How Detroit made AEW’s Excalibur a true Sicko",
+   "link": "https://www.metrotimes.com/arts/how-detroit-made-aews-excalibur-a-true-sicko/",
+   "published": "Tue, 14 Jul 2026 17:24:35 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "Book excerpt: What a lifetime of Lions losses can teach us about love, family",
+   "link": "https://www.metrotimes.com/topic/sports/book-excerpt-what-a-lifetime-of-lions-losses-can-teach-us-about-love-family/",
+   "published": "Tue, 14 Jul 2026 14:22:36 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -27,16 +39,10 @@
    "published": "Tue, 14 Jul 2026 10:31:16 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Huizenga’s campaign paid his brother’s business $400,000 as he sold the congressman’s condos",
-   "link": "https://www.metrotimes.com/news/huizengas-campaign-paid-his-brothers-business-400000-as-he-sold-the-congressmans-condos/",
-   "published": "Mon, 13 Jul 2026 17:31:15 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Photos: Luke Bryan brings country hits to Pine Knob",
-   "link": "https://www.metrotimes.com/music-2/photos-luke-bryan-brings-country-hits-to-pine-knob/",
-   "published": "Mon, 13 Jul 2026 14:17:07 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Pulitzer Prize-winning investigative reporter joins Bridge Michigan",
+   "link": "https://bridgemi.com/center-michigan/pulitzer-prize-winning-investigative-reporter-joins-bridge-michigan/",
+   "published": "Tue, 14 Jul 2026 18:31:24 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -49,12 +55,6 @@
    "title": "Outside spending floods Michigan’s US Senate race — most for Haley Stevens",
    "link": "https://bridgemi.com/michigan-government/outside-spending-floods-michigans-us-senate-race-most-for-haley-stevens/",
    "published": "Mon, 13 Jul 2026 20:00:18 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan Affordable Care Act marketplace enrollment slumps amid rising costs",
-   "link": "https://bridgemi.com/michigan-health-watch/michigan-affordable-care-act-marketplace-enrollment-slumps-amid-rising-costs/",
-   "published": "Mon, 13 Jul 2026 19:00:57 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Going to the beach? Check the water quality",
+   "link": "https://greatlakesecho.org/2026/07/14/going-to-the-beach-check-the-water-quality/",
+   "published": "Tue, 14 Jul 2026 15:51:31 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Invasive elm zigzag sawfly confirmed in Michigan",
    "link": "https://greatlakesecho.org/2026/07/13/invasive-elm-zigzag-sawfly-confirmed-in-michigan/",
    "published": "Mon, 13 Jul 2026 09:26:00 +0000"
@@ -105,46 +111,46 @@
    "published": "Sun, 12 Jul 2026 11:20:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Protect yourself: Why ticks are spreading in the Great Lakes region",
-   "link": "https://greatlakesecho.org/2026/07/11/protect-yourself-why-ticks-are-spreading-in-the-great-lakes-region/",
-   "published": "Sat, 11 Jul 2026 10:12:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Signatures submitted for Lansing ballot proposal on healthcare access, one of 6 in the state",
+   "link": "https://michiganadvance.com/2026/07/14/signatures-submitted-for-lansing-ballot-proposal-on-healthcare-access-one-of-6-in-the-state/",
+   "published": "Tue, 14 Jul 2026 19:19:40 +0000"
   },
   {
    "outlet": "Michigan Advance",
+   "title": "US Supreme Court needs more security funding amid threats, justices tell lawmakers",
+   "link": "https://michiganadvance.com/2026/07/14/repub/us-supreme-court-needs-more-security-funding-amid-threats-justices-tell-lawmakers/",
+   "published": "Tue, 14 Jul 2026 18:28:25 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "After 2 deadly shootings, ICE reportedly ordered to end vehicle enforcement stops",
+   "link": "https://michiganadvance.com/2026/07/14/repub/after-2-deadly-shootings-ice-reportedly-ordered-to-end-vehicle-enforcement-stops/",
+   "published": "Tue, 14 Jul 2026 18:28:07 +0000"
+  },
+  {
+   "outlet": "MLive",
+   "title": "Ottawa County wants to know if you’re happy with how your tax dollars are being spent",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/07/ottawa-county-wants-to-know-if-youre-happy-with-how-your-tax-dollars-are-being-spent.html",
+   "published": "Tue, 14 Jul 2026 19:19:17 +0000"
+  },
+  {
+   "outlet": "MLive",
+   "title": "Teens arrested after two women were shot in Kalamazoo",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/07/teens-arrested-after-two-women-were-shot-in-kalamazoo.html",
+   "published": "Tue, 14 Jul 2026 19:17:46 +0000"
+  },
+  {
+   "outlet": "MLive",
+   "title": "Check your home: Nationwide recall issued for 6 products sold at Walmart, Amazon, Lowe’s",
+   "link": "https://www.mlive.com/news/2026/07/check-your-home-nationwide-recall-issued-for-6-products-sold-at-walmart-amazon-lowes.html",
+   "published": "Tue, 14 Jul 2026 19:17:12 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
    "title": "What Detroiters should know about the proposed school operating millage on the Aug. 4 ballot",
-   "link": "https://michiganadvance.com/2026/07/14/what-detroiters-should-know-about-the-proposed-school-operating-millage-on-the-aug-4-ballot/",
-   "published": "Tue, 14 Jul 2026 10:00:29 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "States split on whether juvenile justice should prioritize punishment or rehabilitation",
-   "link": "https://michiganadvance.com/2026/07/14/repub/states-split-on-whether-juvenile-justice-should-prioritize-punishment-or-rehabilitation/",
-   "published": "Tue, 14 Jul 2026 09:37:19 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Trump hosts top IndyCar racers to promote D.C. streetrace",
-   "link": "https://michiganadvance.com/2026/07/13/repub/trump-hosts-top-indycar-racers-to-promote-d-c-streetrace/",
-   "published": "Mon, 13 Jul 2026 23:26:24 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Kalamazoo hospital removes raw lettuce, salad bar amid Michigan parasite outbreak",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/07/kalamazoo-hospital-removes-raw-lettuce-salad-bar-amid-michigan-parasite-outbreak.html",
-   "published": "Tue, 14 Jul 2026 14:03:58 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Ex-Trump official rips president’s ‘moldy and inedible’ election theory",
-   "link": "https://www.mlive.com/politics/2026/07/ex-trump-official-rips-presidents-moldy-and-inedible-election-theory.html",
-   "published": "Tue, 14 Jul 2026 14:00:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Done with daylight saving time? New plan would put U.S. on standard time year-round",
-   "link": "https://www.mlive.com/news/2026/07/done-with-daylight-saving-time-new-plan-would-put-us-on-standard-time-year-round.html",
-   "published": "Tue, 14 Jul 2026 14:00:00 +0000"
+   "link": "https://outliermedia.org/dpscd-tax-proposal-on-august-4-primary-ballot-is-crucial-for-schools/",
+   "published": "Tue, 14 Jul 2026 16:45:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -159,10 +165,16 @@
    "published": "Mon, 13 Jul 2026 14:00:06 +0000"
   },
   {
-   "outlet": "Outlier Media",
-   "title": "Environmental advocates say they’re being shut out as Detroit drafts data center rules",
-   "link": "https://outliermedia.org/data-center-detroit-regulations-scott-benson/",
-   "published": "Thu, 09 Jul 2026 10:00:00 +0000"
+   "outlet": "Planet Detroit",
+   "title": "Data center news: Warren weighs data center moratorium after storm exposes grid strain",
+   "link": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
+   "published": "Tue, 14 Jul 2026 17:36:38 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Michigan cyclosporiasis cases jump to 2,640, salad greens investigated",
+   "link": "https://planetdetroit.org/2026/07/vmichigan-cyclosporiasis-outbreak-salad-greens/",
+   "published": "Tue, 14 Jul 2026 14:11:59 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -171,34 +183,22 @@
    "published": "Tue, 14 Jul 2026 02:21:54 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "City land deal helped Moroun family’s concrete plant take over Detroit neighborhood, residents say",
-   "link": "https://planetdetroit.org/2026/07/city-land-deal-helped-moroun-familys-concrete-plant-take-over-detroit-neighborhood-residents-say/",
-   "published": "Mon, 13 Jul 2026 14:37:55 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "What’s actually in your tap water — and what to do about it",
-   "link": "https://planetdetroit.org/2026/07/whats-actually-in-your-tap-water-and-what-to-do-about-it/",
-   "published": "Fri, 10 Jul 2026 00:52:10 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "3 ways Trump’s war picked Michiganders’ pockets this summer",
+   "link": "https://gandernewsroom.com/news/economy/3-ways-trumps-war-picked-michiganders-pockets-this-summer/",
+   "published": "Tue, 14 Jul 2026 16:09:12 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Michigan weed brand leans into cartoons and trading cards to stand out",
-   "link": "https://gandernewsroom.com/news/cannabis/michigan-weed-cartoons/",
-   "published": "Mon, 13 Jul 2026 19:16:55 +0000"
+   "title": "Michigan lawmaker wants to make free school meals permanent",
+   "link": "https://gandernewsroom.com/news/education/michigan-lawmaker-free-meals/",
+   "published": "Tue, 14 Jul 2026 15:27:12 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "6 quick hits of cannabis news from across Michigan",
-   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-5/",
-   "published": "Mon, 13 Jul 2026 19:07:49 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Huizenga-supported Big Beautiful Bill helps him, harms Michiganders",
-   "link": "https://gandernewsroom.com/news/huizenga-supported-big-beautiful-bill-helps-him-harms-michiganders/",
-   "published": "Thu, 09 Jul 2026 18:31:24 +0000"
+   "title": "13 of the most scenic dispersed camping sites in Michigan",
+   "link": "https://gandernewsroom.com/local/things-to-do/dispersed-camping-in-michigan/",
+   "published": "Tue, 14 Jul 2026 14:33:00 +0000"
   }
  ]
 }
