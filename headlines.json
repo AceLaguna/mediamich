@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T08:34:44+00:00",
+ "generated": "2026-07-15T14:07:31+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Detroit benefit concert will raise money for Palestinian amputees",
+   "link": "https://www.metrotimes.com/news/detroit-benefit-concert-will-raise-money-for-palestinian-amputees/",
+   "published": "Wed, 15 Jul 2026 13:49:53 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "How Detroit made AEW’s Excalibur a true Sicko",
    "link": "https://www.metrotimes.com/arts/how-detroit-made-aews-excalibur-a-true-sicko/",
    "published": "Tue, 14 Jul 2026 17:24:35 +0000"
@@ -31,12 +37,6 @@
    "title": "Book excerpt: What a lifetime of Lions losses can teach us about love, family",
    "link": "https://www.metrotimes.com/topic/sports/book-excerpt-what-a-lifetime-of-lions-losses-can-teach-us-about-love-family/",
    "published": "Tue, 14 Jul 2026 14:22:36 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "UAW slams pro-Stevens super PAC over ‘misleading’ campaign ads",
-   "link": "https://www.metrotimes.com/news/uaw-slams-pro-stevens-super-pac-over-misleading-campaign-ads/",
-   "published": "Tue, 14 Jul 2026 10:31:16 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,21 +58,21 @@
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "Sheffield taps former Bedrock exec to attract national retailers",
-   "link": "https://www.bridgedetroit.com/sheffield-taps-former-bedrock-exec-to-attract-national-retailers/",
-   "published": "Tue, 14 Jul 2026 10:00:00 +0000"
+   "title": "Jocelyn Benson: ‘None of my family is profiting from data centers’",
+   "link": "https://www.bridgedetroit.com/jocelyn-benson-none-of-my-family-is-profiting-from-data-centers/",
+   "published": "Wed, 15 Jul 2026 13:38:15 +0000"
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "Here’s what you need to know before you vote on DPSCD’s tax proposal",
-   "link": "https://www.bridgedetroit.com/detroit-schools-millage-proposal-what-to-know/",
-   "published": "Mon, 13 Jul 2026 10:00:00 +0000"
+   "title": "DPSCD board approves new teacher contract that includes pay raises, AI policy",
+   "link": "https://www.bridgedetroit.com/dpscd-board-approves-new-teacher-contract-that-includes-pay-raises-ai-policy/",
+   "published": "Wed, 15 Jul 2026 11:45:25 +0000"
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "Op-Ed: The air our children breathe shouldn’t be up for debate",
-   "link": "https://www.bridgedetroit.com/op-ed-the-air-our-children-breathe-shouldnt-be-up-for-debate/",
-   "published": "Sun, 12 Jul 2026 10:00:00 +0000"
+   "title": "Detroit settles suit against realty group owing $460K in blight tickets",
+   "link": "https://www.bridgedetroit.com/detroit-settles-suit-against-realty-group-owing-460k-in-blight-tickets/",
+   "published": "Wed, 15 Jul 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,57 +112,57 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US House passes bipartisan bill to make daylight saving time permanent",
-   "link": "https://michiganadvance.com/2026/07/14/repub/us-house-passes-bipartisan-bill-to-make-daylight-saving-time-permanent/",
-   "published": "Wed, 15 Jul 2026 00:06:49 +0000"
+   "title": "Investing in renewables is about more than just protecting the climate",
+   "link": "https://michiganadvance.com/2026/07/15/investing-in-renewables-is-about-more-than-just-protecting-the-climate/",
+   "published": "Wed, 15 Jul 2026 12:30:18 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan Democrats revive push to tax wealthy residents through constitutional amendment",
-   "link": "https://michiganadvance.com/2026/07/14/michigan-democrats-revive-push-to-tax-wealthy-residents-through-constitutional-amendment/",
-   "published": "Tue, 14 Jul 2026 21:48:15 +0000"
+   "title": "Indigenous violence survivors see fewer services after federal cuts",
+   "link": "https://michiganadvance.com/2026/07/15/repub/indigenous-violence-survivors-see-fewer-services-after-federal-cuts/",
+   "published": "Wed, 15 Jul 2026 09:35:18 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "New York governor orders first statewide data center moratorium",
-   "link": "https://michiganadvance.com/2026/07/14/repub/new-york-governor-orders-first-statewide-data-center-moratorium/",
-   "published": "Tue, 14 Jul 2026 20:53:31 +0000"
+   "title": "National free speech group joins criticism over relocated books at Hartland library",
+   "link": "https://michiganadvance.com/2026/07/15/national-free-speech-group-joins-criticism-over-relocated-books-at-hartland-library/",
+   "published": "Wed, 15 Jul 2026 09:14:06 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Asking Eric: Neighbors say I make them ‘nervous’ because Autism makes me fidget",
-   "link": "https://www.mlive.com/advice/2026/07/asking-eric-neighbors-say-i-make-them-nervous-because-autism-makes-me-fidget.html",
-   "published": "Wed, 15 Jul 2026 08:00:00 +0000"
+   "title": "Lenox Township board tables review as data center rumors spark recall effort",
+   "link": "https://www.mlive.com/news/detroit/2026/07/lenox-township-board-tables-review-as-data-center-rumors-spark-recall-effort.html",
+   "published": "Wed, 15 Jul 2026 14:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Township near Ann Arbor approves much smaller tax break for $43B Oracle, OpenAI data center",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/07/township-near-ann-arbor-approves-much-smaller-tax-break-for-43b-oracle-openai-data-center.html",
-   "published": "Wed, 15 Jul 2026 04:14:45 +0000"
+   "title": "Dear Annie: I need a hug when husband comes home, not just someone who pays the bills",
+   "link": "https://www.mlive.com/advice/2026/07/dear-annie-i-need-a-hug-when-husband-comes-home-not-just-someone-who-pays-the-bills.html",
+   "published": "Wed, 15 Jul 2026 14:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Eugenia Last daily horoscopes: Cancer, be specific or someone will misunderstand you (07/15/26)",
-   "link": "https://www.mlive.com/advice/2026/07/horoscope-for-wednesday-july-15-2026.html",
-   "published": "Wed, 15 Jul 2026 04:01:00 +0000"
+   "title": "Police Say Young Boy’s Escape Exposed Disturbing Conditions Inside Guardians’ Home",
+   "link": "https://www.mlive.com/news/2026/07/what-officers-found-after-pennsylvania-child-ran-away-shocked-them.html",
+   "published": "Wed, 15 Jul 2026 13:55:40 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Shelby Township police turned dozens of migrants over to Border Patrol",
+   "link": "https://outliermedia.org/shelby-township-police-border-patrol-immigration-migrants/",
+   "published": "Wed, 15 Jul 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Stay inside, get online and learn something: Get involved in Detroit",
+   "link": "https://outliermedia.org/detroit-weekend-events-feeding-the-fight/",
+   "published": "Wed, 15 Jul 2026 09:45:00 +0000"
   },
   {
    "outlet": "Outlier Media",
    "title": "What Detroiters should know about the proposed school operating millage on the Aug. 4 ballot",
    "link": "https://outliermedia.org/dpscd-tax-proposal-on-august-4-primary-ballot-is-crucial-for-schools/",
    "published": "Tue, 14 Jul 2026 16:45:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Detroit once had outdoor pools across the city. Now, there’s just one — and it’s closed this summer",
-   "link": "https://outliermedia.org/detroit-public-outdoor-pool-brennan-recreation-center/",
-   "published": "Tue, 14 Jul 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Welding training program empowers women in male-dominated industry",
-   "link": "https://outliermedia.org/welding-program-empowers-women-in-male-dominated-industry/",
-   "published": "Mon, 13 Jul 2026 14:00:06 +0000"
   },
   {
    "outlet": "Planet Detroit",
