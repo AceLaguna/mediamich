@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-14",
-  "source": "Michigan Media Hub directory (July 2026); radio expansion 2026-07-14 added 132 stations across gap markets (Flint, Muskegon, Jackson, Thumb, Northern MI, Upper Peninsula).",
+  "source": "Michigan Media Hub directory (July 2026); radio expansion 2026-07-14 added 132 stations across gap markets (Flint, Muskegon, Jackson, Thumb, Northern MI, Upper Peninsula); radio website + news-tip contacts added 2026-07-14; WTRX 1330 (defunct) removed.",
   "categories": [
     "TV",
     "Radio",
@@ -15,7 +15,7 @@
     "Sports & Outdoors",
     "Border & Cross-Border"
   ],
-  "count": 623,
+  "count": 622,
   "outlets": [
     {
       "category": "TV",
@@ -7487,7 +7487,7 @@
       "name": "WWCK-FM 105.5 FM — CK105.5",
       "city": "Flint",
       "market": "Flint",
-      "website": "",
+      "website": "https://ck1055.com",
       "frequency": "105.5 FM",
       "format": "CHR",
       "owner": "Cumulus Media",
@@ -7496,7 +7496,8 @@
       "added": "2026-07-14",
       "lat": 43.012,
       "lng": -83.687,
-      "id": "mmh-0501"
+      "id": "mmh-0501",
+      "tipUrl": "https://ck1055.com/contact"
     },
     {
       "category": "Radio",
@@ -7512,30 +7513,15 @@
       "added": "2026-07-14",
       "lat": 43.012,
       "lng": -83.687,
-      "id": "mmh-0502"
-    },
-    {
-      "category": "Radio",
-      "name": "WTRX 1330 AM — Sports Xtra 1330",
-      "city": "Flint",
-      "market": "Flint",
-      "website": "",
-      "frequency": "1330 AM",
-      "format": "Sports",
-      "owner": "Cumulus Media",
-      "description": "Flint sports-talk station.",
-      "status": "active",
-      "added": "2026-07-14",
-      "lat": 43.012,
-      "lng": -83.687,
-      "id": "mmh-0503"
+      "id": "mmh-0502",
+      "tipUrl": "https://wdzz.com"
     },
     {
       "category": "Radio",
       "name": "WRSR 103.9 FM — The Fox",
       "city": "Owosso",
       "market": "Flint",
-      "website": "",
+      "website": "https://classicfox.com",
       "frequency": "103.9 FM",
       "format": "Classic Rock",
       "owner": "Krol Communications",
@@ -7544,14 +7530,15 @@
       "added": "2026-07-14",
       "lat": 42.998,
       "lng": -84.177,
-      "id": "mmh-0504"
+      "id": "mmh-0504",
+      "tipEmail": "news@classicfox.com"
     },
     {
       "category": "Radio",
       "name": "WQUS 103.1 FM — US 103.1",
       "city": "Lapeer",
       "market": "Flint",
-      "website": "",
+      "website": "https://us103.com",
       "frequency": "103.1 FM",
       "format": "Classic Rock",
       "owner": "Townsquare Media",
@@ -7560,14 +7547,15 @@
       "added": "2026-07-14",
       "lat": 43.051,
       "lng": -83.319,
-      "id": "mmh-0505"
+      "id": "mmh-0505",
+      "tipUrl": "https://us103.com"
     },
     {
       "category": "Radio",
       "name": "WSNL 600 AM — Victory 600",
       "city": "Flint",
       "market": "Flint",
-      "website": "",
+      "website": "https://www.wsnlradio.com",
       "frequency": "600 AM",
       "format": "Religious",
       "owner": "Christian Broadcasting System",
@@ -7577,14 +7565,15 @@
       "lat": 43.012,
       "lng": -83.687,
       "id": "mmh-0506",
-      "notes": "Religious teaching/talk — Michigan owner, not a national feed; verify local content."
+      "notes": "Religious teaching/talk — Michigan owner, not a national feed; verify local content. | Small independent religious operator; no dedicated tip email found.",
+      "tipUrl": "https://www.wsnlradio.com"
     },
     {
       "category": "Radio",
       "name": "WMUS 107.9 FM — 107 MUS",
       "city": "Muskegon",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://107mus.iheart.com",
       "frequency": "107.9 FM",
       "format": "Country",
       "owner": "iHeartMedia",
@@ -7600,7 +7589,7 @@
       "name": "WKBZ 1090 AM — News Talk 1090",
       "city": "Muskegon",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://newstalk1090.iheart.com",
       "frequency": "1090 AM",
       "format": "News/Talk",
       "owner": "iHeartMedia",
@@ -7616,7 +7605,7 @@
       "name": "WSNX-FM 104.5 FM — 104.5 SNX",
       "city": "Muskegon",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://1045snx.iheart.com",
       "frequency": "104.5 FM",
       "format": "CHR",
       "owner": "iHeartMedia",
@@ -7632,7 +7621,7 @@
       "name": "WMRR 101.7 FM — Rockin' 101.7",
       "city": "Muskegon Heights",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://rock1017muskegon.iheart.com",
       "frequency": "101.7 FM",
       "format": "Classic Rock",
       "owner": "iHeartMedia",
@@ -7648,7 +7637,7 @@
       "name": "WOOD-FM 106.9 FM",
       "city": "Muskegon",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://woodradio.iheart.com",
       "frequency": "106.9 FM",
       "format": "News/Talk",
       "owner": "iHeartMedia",
@@ -7658,14 +7647,14 @@
       "lat": 43.234,
       "lng": -86.248,
       "id": "mmh-0511",
-      "notes": "Simulcasts WOOD News/Talk (WOOD-AM 1300 already listed)."
+      "notes": "Simulcasts WOOD News/Talk (WOOD-AM 1300 already listed). | Simulcast of WOOD AM 1300 Grand Rapids on the Muskegon side; same iHeart tip form."
     },
     {
       "category": "Radio",
       "name": "WVIB 100.1 FM — V100",
       "city": "Holton",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://www.v100fm.com",
       "frequency": "100.1 FM",
       "format": "Urban AC",
       "owner": "Cumulus Media",
@@ -7681,7 +7670,7 @@
       "name": "WLCS 98.3 FM — Star 98.3",
       "city": "North Muskegon",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://star983muskegon.com",
       "frequency": "98.3 FM",
       "format": "Classic Hits",
       "owner": "Cumulus Media",
@@ -7697,7 +7686,7 @@
       "name": "WWSN 92.5 FM — Sunny 92.5",
       "city": "Newaygo",
       "market": "Muskegon",
-      "website": "",
+      "website": "https://www.sunnymuskegon.com",
       "frequency": "92.5 FM",
       "format": "Adult Contemporary",
       "owner": "Cumulus Media",
@@ -7722,7 +7711,8 @@
       "added": "2026-07-14",
       "lat": 42.245,
       "lng": -84.401,
-      "id": "mmh-0515"
+      "id": "mmh-0515",
+      "notes": "Website corrected to wkhm.com (news/talk home); k1053.com is sister AC station."
     },
     {
       "category": "Radio",
@@ -7745,7 +7735,7 @@
       "name": "WIBM 1450 AM — The Power Cow 95.9",
       "city": "Jackson",
       "market": "Jackson",
-      "website": "",
+      "website": "https://959thepowercow.com",
       "frequency": "1450 AM",
       "format": "Country",
       "owner": "McKibbin Media Group",
@@ -7754,14 +7744,15 @@
       "added": "2026-07-14",
       "lat": 42.245,
       "lng": -84.401,
-      "id": "mmh-0517"
+      "id": "mmh-0517",
+      "tipEmail": "steve@959thepowercow.com"
     },
     {
       "category": "Radio",
       "name": "WWDK 94.1 FM — Duke FM",
       "city": "Jackson",
       "market": "Jackson",
-      "website": "",
+      "website": "https://941theduke.com",
       "frequency": "94.1 FM",
       "format": "Country",
       "owner": "Midwest Communications",
@@ -7777,7 +7768,7 @@
       "name": "WMIM 98.3 FM — Nash Icon",
       "city": "Luna Pier",
       "market": "Monroe",
-      "website": "",
+      "website": "https://983nashicon.com",
       "frequency": "98.3 FM",
       "format": "Country",
       "owner": "Cumulus Media",
@@ -7786,14 +7777,15 @@
       "added": "2026-07-14",
       "lat": 41.809,
       "lng": -83.443,
-      "id": "mmh-0519"
+      "id": "mmh-0519",
+      "notes": "Licensed in Luna Pier; serves Monroe market."
     },
     {
       "category": "Radio",
       "name": "WRDT 560 AM",
       "city": "Monroe",
       "market": "Monroe",
-      "website": "",
+      "website": "https://wrdt560am.com",
       "frequency": "560 AM",
       "format": "Religious",
       "owner": "Crawford Broadcasting",
@@ -7810,7 +7802,7 @@
       "name": "WMPX 1490 AM",
       "city": "Midland",
       "market": "Midland",
-      "website": "",
+      "website": "https://sunny977fm.com",
       "frequency": "1490 AM",
       "format": "Classic Hits",
       "owner": "Black Diamond Broadcasting",
@@ -7819,14 +7811,15 @@
       "added": "2026-07-14",
       "lat": 43.616,
       "lng": -84.248,
-      "id": "mmh-0521"
+      "id": "mmh-0521",
+      "notes": "WMPX 1490 AM shares web identity with sister WMRX-FM 97.7; Black Diamond cluster."
     },
     {
       "category": "Radio",
       "name": "WMRX-FM 97.7 FM — Sunny 97.7",
       "city": "Beaverton",
       "market": "Midland",
-      "website": "",
+      "website": "https://sunny977fm.com",
       "frequency": "97.7 FM",
       "format": "Classic Hits",
       "owner": "Black Diamond Broadcasting",
@@ -7842,7 +7835,7 @@
       "name": "WUPS 98.5 FM",
       "city": "Harrison",
       "market": "Midland",
-      "website": "",
+      "website": "https://wups.com",
       "frequency": "98.5 FM",
       "format": "Classic Hits",
       "owner": "Black Diamond Broadcasting",
@@ -7851,14 +7844,15 @@
       "added": "2026-07-14",
       "lat": 44.017,
       "lng": -84.802,
-      "id": "mmh-0523"
+      "id": "mmh-0523",
+      "tipEmail": "info@wups.com"
     },
     {
       "category": "Radio",
       "name": "WCFX 95.3 FM — 95.3 CFX",
       "city": "Clare",
       "market": "Mount Pleasant",
-      "website": "",
+      "website": "https://wcfx.com",
       "frequency": "95.3 FM",
       "format": "CHR",
       "owner": "Grenax Broadcasting",
@@ -7867,14 +7861,15 @@
       "added": "2026-07-14",
       "lat": 43.821,
       "lng": -84.769,
-      "id": "mmh-0524"
+      "id": "mmh-0524",
+      "notes": "Note: Grenax Broadcasting licensee, not Black Diamond."
     },
     {
       "category": "Radio",
       "name": "WCZY-FM 104.3 FM — My 104.3",
       "city": "Mount Pleasant",
       "market": "Mount Pleasant",
-      "website": "",
+      "website": "https://my1043.net",
       "frequency": "104.3 FM",
       "format": "Adult Hits",
       "owner": "Latitude Media",
@@ -7883,14 +7878,15 @@
       "added": "2026-07-14",
       "lat": 43.598,
       "lng": -84.767,
-      "id": "mmh-0525"
+      "id": "mmh-0525",
+      "tipEmail": "wczy@wczy.net"
     },
     {
       "category": "Radio",
       "name": "WMMI 830 AM",
       "city": "Shepherd",
       "market": "Mount Pleasant",
-      "website": "",
+      "website": "https://my1043.net",
       "frequency": "830 AM",
       "format": "Classic Country",
       "owner": "Latitude Media",
@@ -7899,14 +7895,16 @@
       "added": "2026-07-14",
       "lat": 43.523,
       "lng": -84.694,
-      "id": "mmh-0526"
+      "id": "mmh-0526",
+      "notes": "WMMI 830 AM simulcasts/co-promotes with WCZY 104.3; shares Latitude Media cluster site.",
+      "tipEmail": "wczy@wczy.net"
     },
     {
       "category": "Radio",
       "name": "WATZ-FM 99.3 FM",
       "city": "Alpena",
       "market": "Alpena",
-      "website": "",
+      "website": "https://watz.com",
       "frequency": "99.3 FM",
       "format": "Country",
       "owner": "Midwestern Broadcasting",
@@ -7915,14 +7913,15 @@
       "added": "2026-07-14",
       "lat": 45.062,
       "lng": -83.433,
-      "id": "mmh-0527"
+      "id": "mmh-0527",
+      "tipUrl": "https://watz.com"
     },
     {
       "category": "Radio",
       "name": "WHSB 107.7 FM — 107.7 The Bay",
       "city": "Alpena",
       "market": "Alpena",
-      "website": "",
+      "website": "https://truenorthradionetwork.com",
       "frequency": "107.7 FM",
       "format": "CHR",
       "owner": "Edwards Communications",
@@ -7931,14 +7930,16 @@
       "added": "2026-07-14",
       "lat": 45.062,
       "lng": -83.433,
-      "id": "mmh-0528"
+      "id": "mmh-0528",
+      "notes": "Edwards Communications cluster site; verify individual page for WHSB.",
+      "tipUrl": "https://truenorthradionetwork.com"
     },
     {
       "category": "Radio",
       "name": "WZTK 105.7 FM — 105.7 The Bird",
       "city": "Alpena",
       "market": "Alpena",
-      "website": "",
+      "website": "https://wztk.com",
       "frequency": "105.7 FM",
       "format": "Oldies",
       "owner": "Midwestern Broadcasting",
@@ -7947,7 +7948,8 @@
       "added": "2026-07-14",
       "lat": 45.062,
       "lng": -83.433,
-      "id": "mmh-0529"
+      "id": "mmh-0529",
+      "tipUrl": "https://wztk.com"
     },
     {
       "category": "Radio",
@@ -7963,14 +7965,15 @@
       "added": "2026-07-14",
       "lat": 45.421,
       "lng": -83.818,
-      "id": "mmh-0530"
+      "id": "mmh-0530",
+      "tipUrl": "https://truenorthradionetwork.com"
     },
     {
       "category": "Radio",
       "name": "WRGZ 96.7 FM — 97.5 KLT",
       "city": "Rogers City",
       "market": "Alpena",
-      "website": "",
+      "website": "https://watz.com",
       "frequency": "96.7 FM",
       "format": "Rock",
       "owner": "WATZ Radio Inc.",
@@ -7979,14 +7982,16 @@
       "added": "2026-07-14",
       "lat": 45.421,
       "lng": -83.818,
-      "id": "mmh-0531"
+      "id": "mmh-0531",
+      "notes": "WRGZ licensed to WATZ Radio Inc.; likely uses WATZ cluster site.  Verify branding — listed as 97.5 KLT in some databases.",
+      "tipUrl": "https://watz.com"
     },
     {
       "category": "Radio",
       "name": "WKJZ 94.9 FM",
       "city": "Hillman",
       "market": "Alpena",
-      "website": "",
+      "website": "https://wkjc.com",
       "frequency": "94.9 FM",
       "format": "Classic Hits",
       "owner": "Carroll Enterprises",
@@ -7995,14 +8000,16 @@
       "added": "2026-07-14",
       "lat": 45.067,
       "lng": -83.902,
-      "id": "mmh-0532"
+      "id": "mmh-0532",
+      "notes": "WKJZ 94.9 Hillman is part of Carroll Enterprises cluster; wkjc.com is primary cluster site.",
+      "tipUrl": "https://wkjc.com"
     },
     {
       "category": "Radio",
       "name": "WIOS 1480 AM",
       "city": "Tawas City",
       "market": "Tawas",
-      "website": "",
+      "website": "https://wkjc.com",
       "frequency": "1480 AM",
       "format": "Talk",
       "owner": "Carroll Enterprises",
@@ -8011,14 +8018,15 @@
       "added": "2026-07-14",
       "lat": 44.267,
       "lng": -83.515,
-      "id": "mmh-0533"
+      "id": "mmh-0533",
+      "tipUrl": "https://wkjc.com"
     },
     {
       "category": "Radio",
       "name": "WKJC 104.7 FM",
       "city": "Tawas City",
       "market": "Tawas",
-      "website": "",
+      "website": "https://wkjc.com",
       "frequency": "104.7 FM",
       "format": "Country",
       "owner": "Carroll Enterprises",
@@ -8027,14 +8035,15 @@
       "added": "2026-07-14",
       "lat": 44.267,
       "lng": -83.515,
-      "id": "mmh-0534"
+      "id": "mmh-0534",
+      "tipUrl": "https://wkjc.com"
     },
     {
       "category": "Radio",
       "name": "WQLB 103.3 FM",
       "city": "Tawas City",
       "market": "Tawas",
-      "website": "",
+      "website": "https://wkjc.com",
       "frequency": "103.3 FM",
       "format": "Classic Hits",
       "owner": "Carroll Broadcasting",
@@ -8043,14 +8052,15 @@
       "added": "2026-07-14",
       "lat": 44.267,
       "lng": -83.515,
-      "id": "mmh-0535"
+      "id": "mmh-0535",
+      "tipUrl": "https://wkjc.com"
     },
     {
       "category": "Radio",
       "name": "WWTH 100.7 FM",
       "city": "Oscoda",
       "market": "Tawas",
-      "website": "",
+      "website": "https://truenorthradionetwork.com",
       "frequency": "100.7 FM",
       "format": "Classic Rock",
       "owner": "Edwards Communications",
@@ -8059,14 +8069,16 @@
       "added": "2026-07-14",
       "lat": 44.435,
       "lng": -83.329,
-      "id": "mmh-0536"
+      "id": "mmh-0536",
+      "notes": "Edwards Communications cluster; WWTH 100.7 Oscoda.",
+      "tipUrl": "https://truenorthradionetwork.com"
     },
     {
       "category": "Radio",
       "name": "WTZM 106.1 FM",
       "city": "Tawas City",
       "market": "Tawas",
-      "website": "",
+      "website": "https://wkjc.com",
       "frequency": "106.1 FM",
       "format": "Hot AC",
       "owner": "Carroll Enterprises",
@@ -8075,7 +8087,8 @@
       "added": "2026-07-14",
       "lat": 44.267,
       "lng": -83.515,
-      "id": "mmh-0537"
+      "id": "mmh-0537",
+      "tipUrl": "https://wkjc.com"
     },
     {
       "category": "Radio",
@@ -8091,14 +8104,15 @@
       "added": "2026-07-14",
       "lat": 45.318,
       "lng": -85.259,
-      "id": "mmh-0538"
+      "id": "mmh-0538",
+      "tipUrl": "https://106khq.com"
     },
     {
       "category": "Radio",
       "name": "WLXT 96.3 FM — Lite 96.3",
       "city": "Petoskey",
       "market": "Petoskey",
-      "website": "",
+      "website": "https://lite96.com",
       "frequency": "96.3 FM",
       "format": "Adult Contemporary",
       "owner": "MacDonald-Garber Broadcasting",
@@ -8107,14 +8121,15 @@
       "added": "2026-07-14",
       "lat": 45.373,
       "lng": -84.955,
-      "id": "mmh-0539"
+      "id": "mmh-0539",
+      "tipUrl": "https://lite96.com"
     },
     {
       "category": "Radio",
       "name": "WMKT 1270 AM — The Talk Station",
       "city": "Charlevoix",
       "market": "Petoskey",
-      "website": "",
+      "website": "https://wmktthetalkstation.com",
       "frequency": "1270 AM",
       "format": "News/Talk",
       "owner": "MacDonald-Garber Broadcasting",
@@ -8123,14 +8138,15 @@
       "added": "2026-07-14",
       "lat": 45.318,
       "lng": -85.259,
-      "id": "mmh-0540"
+      "id": "mmh-0540",
+      "tipEmail": "wmktbusiness@gmail.com"
     },
     {
       "category": "Radio",
       "name": "WMBN 1340 AM",
       "city": "Petoskey",
       "market": "Petoskey",
-      "website": "",
+      "website": "http://www.radiomgb.com",
       "frequency": "1340 AM",
       "format": "Sports",
       "owner": "MacDonald-Garber Broadcasting",
@@ -8139,14 +8155,16 @@
       "added": "2026-07-14",
       "lat": 45.373,
       "lng": -84.955,
-      "id": "mmh-0541"
+      "id": "mmh-0541",
+      "notes": "WMBN 1340 Petoskey; MacDonald-Garber cluster hub page.",
+      "tipUrl": "http://www.radiomgb.com"
     },
     {
       "category": "Radio",
       "name": "WMJZ-FM 101.5 FM — Eagle 101.5",
       "city": "Gaylord",
       "market": "Gaylord",
-      "website": "",
+      "website": "https://eagle1015gaylord.com",
       "frequency": "101.5 FM",
       "format": "Adult Hits",
       "owner": "45 North Media",
@@ -8155,14 +8173,16 @@
       "added": "2026-07-14",
       "lat": 45.028,
       "lng": -84.675,
-      "id": "mmh-0542"
+      "id": "mmh-0542",
+      "notes": "45 North Media Gaylord cluster station.",
+      "tipUrl": "https://eagle1015gaylord.com"
     },
     {
       "category": "Radio",
       "name": "WSRT 106.7 FM — ESPN Radio Northern Michigan",
       "city": "Gaylord",
       "market": "Gaylord",
-      "website": "",
+      "website": "http://www.radiomgb.com",
       "frequency": "106.7 FM",
       "format": "Sports",
       "owner": "MacDonald-Garber Broadcasting",
@@ -8171,14 +8191,16 @@
       "added": "2026-07-14",
       "lat": 45.028,
       "lng": -84.675,
-      "id": "mmh-0543"
+      "id": "mmh-0543",
+      "notes": "WSRT 106.7 ESPN Radio Northern Michigan; MacDonald-Garber cluster. Verify dedicated page.",
+      "tipUrl": "http://www.radiomgb.com"
     },
     {
       "category": "Radio",
       "name": "WATT 1240 AM — NewsTalk 1240",
       "city": "Cadillac",
       "market": "Cadillac",
-      "website": "",
+      "website": "http://www.radiomgb.com",
       "frequency": "1240 AM",
       "format": "News/Talk",
       "owner": "MacDonald-Garber Broadcasting",
@@ -8187,7 +8209,9 @@
       "added": "2026-07-14",
       "lat": 44.252,
       "lng": -85.401,
-      "id": "mmh-0544"
+      "id": "mmh-0544",
+      "notes": "WATT 1240 AM NewsTalk Cadillac; MacDonald-Garber cluster.",
+      "tipUrl": "http://www.radiomgb.com"
     },
     {
       "category": "Radio",
@@ -8203,14 +8227,15 @@
       "added": "2026-07-14",
       "lat": 44.252,
       "lng": -85.401,
-      "id": "mmh-0545"
+      "id": "mmh-0545",
+      "tipUrl": "https://www.mix96cadillac.com"
     },
     {
       "category": "Radio",
       "name": "WKAD 93.7 FM — The Ticket",
       "city": "Harrietta",
       "market": "Cadillac",
-      "website": "",
+      "website": "https://wkad937.com",
       "frequency": "93.7 FM",
       "format": "Sports",
       "owner": "Cadillac Broadcasting",
@@ -8219,14 +8244,16 @@
       "added": "2026-07-14",
       "lat": 44.309,
       "lng": -85.699,
-      "id": "mmh-0546"
+      "id": "mmh-0546",
+      "notes": "WKAD 93.7 The Ticket Harrietta; Cadillac Broadcasting licensee.",
+      "tipUrl": "https://wkad937.com"
     },
     {
       "category": "Radio",
       "name": "WKLT 97.5 FM — 97.5 KLT",
       "city": "Kalkaska",
       "market": "Traverse City",
-      "website": "",
+      "website": "https://wklt.com",
       "frequency": "97.5 FM",
       "format": "Mainstream Rock",
       "owner": "Midwestern Broadcasting",
@@ -8235,14 +8262,15 @@
       "added": "2026-07-14",
       "lat": 44.732,
       "lng": -85.176,
-      "id": "mmh-0547"
+      "id": "mmh-0547",
+      "tipUrl": "https://wklt.com"
     },
     {
       "category": "Radio",
       "name": "WKLA 1450 AM",
       "city": "Ludington",
       "market": "Ludington",
-      "website": "",
+      "website": "https://gowithsynergy.com",
       "frequency": "1450 AM",
       "format": "Oldies",
       "owner": "Synergy Broadcast Group",
@@ -8251,14 +8279,16 @@
       "added": "2026-07-14",
       "lat": 43.955,
       "lng": -86.452,
-      "id": "mmh-0548"
+      "id": "mmh-0548",
+      "notes": "WKLA 1450 AM Ludington; Synergy Broadcast Group cluster site.",
+      "tipUrl": "https://gowithsynergy.com"
     },
     {
       "category": "Radio",
       "name": "WKLA-FM 96.3 FM — 96.3 KLA",
       "city": "Ludington",
       "market": "Ludington",
-      "website": "",
+      "website": "https://gowithsynergy.com",
       "frequency": "96.3 FM",
       "format": "CHR",
       "owner": "Synergy Broadcast Group",
@@ -8267,14 +8297,15 @@
       "added": "2026-07-14",
       "lat": 43.955,
       "lng": -86.452,
-      "id": "mmh-0549"
+      "id": "mmh-0549",
+      "tipUrl": "https://gowithsynergy.com"
     },
     {
       "category": "Radio",
       "name": "WKZC 94.9 FM — Big Dog Country",
       "city": "Scottville",
       "market": "Ludington",
-      "website": "",
+      "website": "https://gowithsynergy.com",
       "frequency": "94.9 FM",
       "format": "Country",
       "owner": "Synergy Broadcast Group",
@@ -8283,14 +8314,15 @@
       "added": "2026-07-14",
       "lat": 43.955,
       "lng": -86.284,
-      "id": "mmh-0550"
+      "id": "mmh-0550",
+      "tipUrl": "https://gowithsynergy.com"
     },
     {
       "category": "Radio",
       "name": "WMOM 102.7 FM",
       "city": "Pentwater",
       "market": "Ludington",
-      "website": "",
+      "website": "https://wmom1027.com",
       "frequency": "102.7 FM",
       "format": "Hot AC",
       "owner": "Bay View Broadcasting",
@@ -8299,14 +8331,16 @@
       "added": "2026-07-14",
       "lat": 43.781,
       "lng": -86.437,
-      "id": "mmh-0551"
+      "id": "mmh-0551",
+      "notes": "Bay View Broadcasting; independent Pentwater-area station.",
+      "tipUrl": "https://wmom1027.com"
     },
     {
       "category": "Radio",
       "name": "WMLQ 97.7 FM — Coast FM",
       "city": "Manistee",
       "market": "Manistee",
-      "website": "",
+      "website": "https://gowithsynergy.com",
       "frequency": "97.7 FM",
       "format": "News/Talk",
       "owner": "Synergy Broadcast Group",
@@ -8315,14 +8349,15 @@
       "added": "2026-07-14",
       "lat": 44.244,
       "lng": -86.324,
-      "id": "mmh-0552"
+      "id": "mmh-0552",
+      "tipUrl": "https://gowithsynergy.com"
     },
     {
       "category": "Radio",
       "name": "WMTE-FM 101.5 FM — Eagle 101.5",
       "city": "Manistee",
       "market": "Manistee",
-      "website": "",
+      "website": "https://eagle1015manistee.com",
       "frequency": "101.5 FM",
       "format": "Adult Hits",
       "owner": "45 North Media",
@@ -8331,14 +8366,16 @@
       "added": "2026-07-14",
       "lat": 44.244,
       "lng": -86.324,
-      "id": "mmh-0553"
+      "id": "mmh-0553",
+      "notes": "45 North Media Manistee cluster station.",
+      "tipUrl": "https://eagle1015manistee.com"
     },
     {
       "category": "Radio",
       "name": "WWKR 94.1 FM — K-Rock",
       "city": "Hart",
       "market": "Ludington",
-      "website": "",
+      "website": "https://gowithsynergy.com",
       "frequency": "94.1 FM",
       "format": "Classic Rock",
       "owner": "Synergy Broadcast Group",
@@ -8347,14 +8384,15 @@
       "added": "2026-07-14",
       "lat": 43.7,
       "lng": -86.365,
-      "id": "mmh-0554"
+      "id": "mmh-0554",
+      "tipUrl": "https://gowithsynergy.com"
     },
     {
       "category": "Radio",
       "name": "WLDN 98.7 FM",
       "city": "Ludington",
       "market": "Ludington",
-      "website": "",
+      "website": "https://gowithsynergy.com",
       "frequency": "98.7 FM",
       "format": "News/Talk",
       "owner": "Synergy Broadcast Group",
@@ -8363,7 +8401,9 @@
       "added": "2026-07-14",
       "lat": 43.955,
       "lng": -86.452,
-      "id": "mmh-0555"
+      "id": "mmh-0555",
+      "notes": "WLDN 98.7 FM Ludington; verify if separate branded site exists.",
+      "tipUrl": "https://gowithsynergy.com"
     },
     {
       "category": "Radio",
@@ -8380,14 +8420,15 @@
       "lat": 42.117,
       "lng": -86.454,
       "id": "mmh-0556",
-      "tipNote": "News tip line: (269) 925-1112."
+      "tipNote": "News tip line: (269) 925-1112.",
+      "tipEmail": "news@wsjm.com"
     },
     {
       "category": "Radio",
       "name": "WIRX 107.1 FM — Rock 107",
       "city": "St. Joseph",
       "market": "Benton Harbor",
-      "website": "",
+      "website": "https://rock107.com",
       "frequency": "107.1 FM",
       "format": "Mainstream Rock",
       "owner": "Mid-West Family",
@@ -8396,14 +8437,15 @@
       "added": "2026-07-14",
       "lat": 42.109,
       "lng": -86.48,
-      "id": "mmh-0557"
+      "id": "mmh-0557",
+      "tipUrl": "https://rock107.com"
     },
     {
       "category": "Radio",
       "name": "WCSY-FM 103.7 FM — SuperHits 103.7 COSY",
       "city": "South Haven",
       "market": "Benton Harbor",
-      "website": "",
+      "website": "https://cosy1037.com",
       "frequency": "103.7 FM",
       "format": "Classic Hits",
       "owner": "Mid-West Family",
@@ -8412,14 +8454,15 @@
       "added": "2026-07-14",
       "lat": 42.403,
       "lng": -86.273,
-      "id": "mmh-0558"
+      "id": "mmh-0558",
+      "tipUrl": "https://cosy1037.com"
     },
     {
       "category": "Radio",
       "name": "WYTZ 99.9 FM",
       "city": "Bridgman",
       "market": "Benton Harbor",
-      "website": "",
+      "website": "https://z99fm.com",
       "frequency": "99.9 FM",
       "format": "Country",
       "owner": "Mid-West Family",
@@ -8429,14 +8472,15 @@
       "lat": 41.945,
       "lng": -86.556,
       "id": "mmh-0559",
-      "notes": "Format shuffled 2024-2025 — verify current format."
+      "notes": "Format shuffled 2024-2025 — verify current format.",
+      "tipUrl": "https://z99fm.com"
     },
     {
       "category": "Radio",
       "name": "WCXT 98.3 FM — The Coast",
       "city": "Hartford",
       "market": "Benton Harbor",
-      "website": "",
+      "website": "https://thecoast983.com",
       "frequency": "98.3 FM",
       "format": "Adult Contemporary",
       "owner": "Mid-West Family",
@@ -8446,14 +8490,15 @@
       "lat": 42.206,
       "lng": -86.166,
       "id": "mmh-0560",
-      "notes": "Format shuffled 2025 — verify current format."
+      "notes": "Format shuffled 2025 — verify current format.",
+      "tipUrl": "https://thecoast983.com"
     },
     {
       "category": "Radio",
       "name": "WQYQ 106.1 FM / 1400 AM — The New QYQ",
       "city": "St. Joseph",
       "market": "Benton Harbor",
-      "website": "",
+      "website": "https://1061thequake.com",
       "frequency": "106.1 FM",
       "format": "Sports",
       "owner": "Mid-West Family",
@@ -8462,14 +8507,16 @@
       "added": "2026-07-14",
       "lat": 42.109,
       "lng": -86.48,
-      "id": "mmh-0561"
+      "id": "mmh-0561",
+      "notes": "WQYQ 106.1/1400 St. Joseph; AM/FM combo Mid-West Family cluster.",
+      "tipUrl": "https://1061thequake.com"
     },
     {
       "category": "Radio",
       "name": "WCSR 1340 AM / 92.1 FM",
       "city": "Hillsdale",
       "market": "Hillsdale",
-      "website": "",
+      "website": "https://wcsr.com",
       "frequency": "1340 AM",
       "format": "Full-Service",
       "owner": "McKibbin Media Group",
@@ -8478,14 +8525,16 @@
       "added": "2026-07-14",
       "lat": 41.92,
       "lng": -84.63,
-      "id": "mmh-0562"
+      "id": "mmh-0562",
+      "notes": "McKibbin Media Hillsdale cluster; AM 1340 + FM 92.1 simulcast.",
+      "tipUrl": "https://wcsr.com"
     },
     {
       "category": "Radio",
       "name": "WPHM 105.5 FM / 1450 AM",
       "city": "Port Huron",
       "market": "Port Huron",
-      "website": "",
+      "website": "https://wphm.com",
       "frequency": "105.5 FM",
       "format": "News/Talk",
       "owner": "Radio First (Liggett Broadcast)",
@@ -8494,7 +8543,9 @@
       "added": "2026-07-14",
       "lat": 42.974,
       "lng": -82.425,
-      "id": "mmh-0563"
+      "id": "mmh-0563",
+      "notes": "WPHM 105.5 FM / 1450 AM Port Huron; Radio First (Liggett Broadcast) cluster.",
+      "tipUrl": "https://wphm.com"
     },
     {
       "category": "Radio",
@@ -8510,14 +8561,15 @@
       "added": "2026-07-14",
       "lat": 42.974,
       "lng": -82.425,
-      "id": "mmh-0564"
+      "id": "mmh-0564",
+      "tipUrl": "https://wgrt.com"
     },
     {
       "category": "Radio",
       "name": "WSAQ 107.1 FM — Q Country 107",
       "city": "Port Huron",
       "market": "Port Huron",
-      "website": "",
+      "website": "https://wsaq.com",
       "frequency": "107.1 FM",
       "format": "Country",
       "owner": "Radio First (Liggett Broadcast)",
@@ -8526,14 +8578,16 @@
       "added": "2026-07-14",
       "lat": 42.974,
       "lng": -82.425,
-      "id": "mmh-0565"
+      "id": "mmh-0565",
+      "notes": "Q Country 107 Port Huron; Radio First (Liggett) cluster.",
+      "tipUrl": "https://wsaq.com"
     },
     {
       "category": "Radio",
       "name": "WBTI 96.9 FM",
       "city": "Lexington",
       "market": "Port Huron",
-      "website": "",
+      "website": "https://wbti.com",
       "frequency": "96.9 FM",
       "format": "Hot AC",
       "owner": "Radio First (Liggett Broadcast)",
@@ -8542,14 +8596,16 @@
       "added": "2026-07-14",
       "lat": 43.269,
       "lng": -82.532,
-      "id": "mmh-0566"
+      "id": "mmh-0566",
+      "notes": "Lexington-licensed; serves Port Huron market; Radio First (Liggett) cluster.",
+      "tipUrl": "https://wbti.com"
     },
     {
       "category": "Radio",
       "name": "WLEW 1340 AM",
       "city": "Bad Axe",
       "market": "Thumb",
-      "website": "",
+      "website": "https://thumbradio.com",
       "frequency": "1340 AM",
       "format": "Full-Service Country",
       "owner": "Thumb Broadcasting",
@@ -8558,14 +8614,15 @@
       "added": "2026-07-14",
       "lat": 43.802,
       "lng": -83.0,
-      "id": "mmh-0567"
+      "id": "mmh-0567",
+      "tipUrl": "https://thumbradio.com"
     },
     {
       "category": "Radio",
       "name": "WHST 94.1 FM",
       "city": "Pigeon",
       "market": "Thumb",
-      "website": "",
+      "website": "https://thumbradio.com",
       "frequency": "94.1 FM",
       "format": "Country",
       "owner": "Thumb Broadcasting",
@@ -8574,14 +8631,15 @@
       "added": "2026-07-14",
       "lat": 43.833,
       "lng": -83.271,
-      "id": "mmh-0568"
+      "id": "mmh-0568",
+      "tipUrl": "https://thumbradio.com"
     },
     {
       "category": "Radio",
       "name": "WLEW-FM 102.1 FM",
       "city": "Bad Axe",
       "market": "Thumb",
-      "website": "",
+      "website": "https://thumbradio.com",
       "frequency": "102.1 FM",
       "format": "Classic Hits",
       "owner": "Thumb Broadcasting",
@@ -8590,14 +8648,15 @@
       "added": "2026-07-14",
       "lat": 43.802,
       "lng": -83.0,
-      "id": "mmh-0569"
+      "id": "mmh-0569",
+      "tipUrl": "https://thumbradio.com"
     },
     {
       "category": "Radio",
       "name": "WKYO 1360 AM",
       "city": "Caro",
       "market": "Thumb",
-      "website": "",
+      "website": "https://truenorthradionetwork.com",
       "frequency": "1360 AM",
       "format": "Full-Service Classic Country",
       "owner": "Edwards Communications",
@@ -8606,14 +8665,16 @@
       "added": "2026-07-14",
       "lat": 43.491,
       "lng": -83.399,
-      "id": "mmh-0570"
+      "id": "mmh-0570",
+      "notes": "WKYO 1360 Caro; Edwards Communications cluster.",
+      "tipUrl": "https://truenorthradionetwork.com"
     },
     {
       "category": "Radio",
       "name": "WIDL 92.1 FM — I92",
       "city": "Cass City",
       "market": "Thumb",
-      "website": "",
+      "website": "https://truenorthradionetwork.com",
       "frequency": "92.1 FM",
       "format": "Classic Rock",
       "owner": "Edwards Communications",
@@ -8622,14 +8683,16 @@
       "added": "2026-07-14",
       "lat": 43.601,
       "lng": -83.174,
-      "id": "mmh-0571"
+      "id": "mmh-0571",
+      "notes": "WIDL 92.1 I92 Cass City; Edwards Communications cluster.",
+      "tipUrl": "https://truenorthradionetwork.com"
     },
     {
       "category": "Radio",
       "name": "WMIC 660 AM",
       "city": "Sandusky",
       "market": "Thumb",
-      "website": "",
+      "website": "https://sanilacbroadcasting.com",
       "frequency": "660 AM",
       "format": "Full-Service News/Talk",
       "owner": "Sanilac Broadcasting",
@@ -8638,14 +8701,16 @@
       "added": "2026-07-14",
       "lat": 43.42,
       "lng": -82.83,
-      "id": "mmh-0572"
+      "id": "mmh-0572",
+      "notes": "WMIC 660 AM Sandusky; Sanilac Broadcasting cluster.",
+      "tipUrl": "https://sanilacbroadcasting.com"
     },
     {
       "category": "Radio",
       "name": "WTGV-FM 97.7 FM",
       "city": "Sandusky",
       "market": "Thumb",
-      "website": "",
+      "website": "https://sanilacbroadcasting.com",
       "frequency": "97.7 FM",
       "format": "Classic Hits",
       "owner": "Sanilac Broadcasting",
@@ -8654,14 +8719,15 @@
       "added": "2026-07-14",
       "lat": 43.42,
       "lng": -82.83,
-      "id": "mmh-0573"
+      "id": "mmh-0573",
+      "tipUrl": "https://sanilacbroadcasting.com"
     },
     {
       "category": "Radio",
       "name": "WBGV 92.5 FM",
       "city": "Marlette",
       "market": "Thumb",
-      "website": "",
+      "website": "https://sanilacbroadcasting.com",
       "frequency": "92.5 FM",
       "format": "Country",
       "owner": "Sanilac Broadcasting",
@@ -8670,7 +8736,8 @@
       "added": "2026-07-14",
       "lat": 43.328,
       "lng": -83.079,
-      "id": "mmh-0574"
+      "id": "mmh-0574",
+      "tipUrl": "https://sanilacbroadcasting.com"
     },
     {
       "category": "Radio",
@@ -8686,7 +8753,8 @@
       "added": "2026-07-14",
       "lat": 43.845,
       "lng": -82.655,
-      "id": "mmh-0575"
+      "id": "mmh-0575",
+      "notes": "WCZE 103.7 Harbor Beach; Czelada Broadcasting — very small operator; no confirmed web presence found."
     },
     {
       "category": "Radio",
@@ -8702,7 +8770,8 @@
       "added": "2026-07-14",
       "lat": 45.647,
       "lng": -84.474,
-      "id": "mmh-0576"
+      "id": "mmh-0576",
+      "tipUrl": "https://bigcountrygold.com"
     },
     {
       "category": "Radio",
@@ -8718,7 +8787,8 @@
       "added": "2026-07-14",
       "lat": 45.647,
       "lng": -84.474,
-      "id": "mmh-0577"
+      "id": "mmh-0577",
+      "tipUrl": "https://wchy.us"
     },
     {
       "category": "Radio",
@@ -8734,7 +8804,9 @@
       "added": "2026-07-14",
       "lat": 45.647,
       "lng": -84.474,
-      "id": "mmh-0578"
+      "id": "mmh-0578",
+      "notes": "WGFM 105.1 Rock 105 Cheboygan; shares brand site with WGFN 98.1 Glen Arbor.",
+      "tipUrl": "https://classicrockthebear.com"
     },
     {
       "category": "Radio",
@@ -8750,7 +8822,8 @@
       "added": "2026-07-14",
       "lat": 45.417,
       "lng": -84.611,
-      "id": "mmh-0579"
+      "id": "mmh-0579",
+      "tipUrl": "https://1029bigcountry.com"
     },
     {
       "category": "Radio",
@@ -8766,7 +8839,8 @@
       "added": "2026-07-14",
       "lat": 45.36,
       "lng": -84.222,
-      "id": "mmh-0580"
+      "id": "mmh-0580",
+      "tipUrl": "https://1063macfm.com"
     },
     {
       "category": "Radio",
@@ -8782,14 +8856,16 @@
       "added": "2026-07-14",
       "lat": 44.895,
       "lng": -85.984,
-      "id": "mmh-0581"
+      "id": "mmh-0581",
+      "notes": "WGFN 98.1 Glen Arbor shares brand/site with WGFM 105.1 Cheboygan; both under Black Diamond.",
+      "tipUrl": "https://classicrockthebear.com"
     },
     {
       "category": "Radio",
       "name": "WBCM 93.5 FM — 97.5 KLT",
       "city": "Boyne City",
       "market": "Petoskey",
-      "website": "",
+      "website": "https://wklt.com",
       "frequency": "93.5 FM",
       "format": "Mainstream Rock",
       "owner": "Midwestern Broadcasting",
@@ -8798,14 +8874,16 @@
       "added": "2026-07-14",
       "lat": 45.216,
       "lng": -85.014,
-      "id": "mmh-0582"
+      "id": "mmh-0582",
+      "notes": "WBCM 93.5 Boyne City; Midwestern Broadcasting — branded 97.5 KLT network cluster.",
+      "tipUrl": "https://wklt.com"
     },
     {
       "category": "Radio",
       "name": "WFXD 103.3 FM — 103 FXD",
       "city": "Marquette",
       "market": "Marquette",
-      "website": "",
+      "website": "https://mediabrew.com",
       "frequency": "103.3 FM",
       "format": "Country",
       "owner": "mediaBrew Communications",
@@ -8814,14 +8892,15 @@
       "added": "2026-07-14",
       "lat": 46.543,
       "lng": -87.395,
-      "id": "mmh-0583"
+      "id": "mmh-0583",
+      "tipUrl": "https://mediabrew.com"
     },
     {
       "category": "Radio",
       "name": "WKQS-FM 101.9 FM — Sunny 101.9",
       "city": "Negaunee",
       "market": "Marquette",
-      "website": "",
+      "website": "https://mediabrew.com",
       "frequency": "101.9 FM",
       "format": "Adult Contemporary",
       "owner": "mediaBrew Communications",
@@ -8830,14 +8909,15 @@
       "added": "2026-07-14",
       "lat": 46.499,
       "lng": -87.617,
-      "id": "mmh-0584"
+      "id": "mmh-0584",
+      "tipUrl": "https://mediabrew.com"
     },
     {
       "category": "Radio",
       "name": "WRUP 98.3 FM",
       "city": "Palmer",
       "market": "Marquette",
-      "website": "",
+      "website": "https://mediabrew.com",
       "frequency": "98.3 FM",
       "format": "Classic Rock",
       "owner": "mediaBrew Communications",
@@ -8846,14 +8926,15 @@
       "added": "2026-07-14",
       "lat": 46.43,
       "lng": -87.588,
-      "id": "mmh-0585"
+      "id": "mmh-0585",
+      "tipUrl": "https://mediabrew.com"
     },
     {
       "category": "Radio",
       "name": "WUPK 94.1 FM — The Breeze",
       "city": "Marquette",
       "market": "Marquette",
-      "website": "",
+      "website": "https://www.marquetteradiogroup.com/",
       "frequency": "94.1 FM",
       "format": "Adult Contemporary",
       "owner": "Marquette Radio LLC",
@@ -8862,14 +8943,15 @@
       "added": "2026-07-14",
       "lat": 46.543,
       "lng": -87.395,
-      "id": "mmh-0586"
+      "id": "mmh-0586",
+      "notes": "WUPK 94.1 The Breeze Marquette; Marquette Radio LLC — no confirmed web presence found."
     },
     {
       "category": "Radio",
       "name": "WNGE 99.5 FM — K-Rock",
       "city": "Negaunee",
       "market": "Marquette",
-      "website": "",
+      "website": "https://www.marquetteradiogroup.com/",
       "frequency": "99.5 FM",
       "format": "Active Rock",
       "owner": "Marquette Radio LLC",
@@ -8878,14 +8960,15 @@
       "added": "2026-07-14",
       "lat": 46.499,
       "lng": -87.617,
-      "id": "mmh-0587"
+      "id": "mmh-0587",
+      "notes": "WNGE 99.5 K-Rock Negaunee; Marquette Radio LLC — no confirmed web presence found."
     },
     {
       "category": "Radio",
       "name": "WUPT 100.3 FM — The Point",
       "city": "Gwinn",
       "market": "Marquette",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "100.3 FM",
       "format": "Classic Rock",
       "owner": "AMC Partners (Radio Results Network)",
@@ -8894,14 +8977,15 @@
       "added": "2026-07-14",
       "lat": 46.279,
       "lng": -87.446,
-      "id": "mmh-0588"
+      "id": "mmh-0588",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WUPZ 94.9 FM — The Bay",
       "city": "Marquette",
       "market": "Marquette",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "94.9 FM",
       "format": "CHR",
       "owner": "AMC Partners (Radio Results Network)",
@@ -8910,14 +8994,15 @@
       "added": "2026-07-14",
       "lat": 46.543,
       "lng": -87.395,
-      "id": "mmh-0589"
+      "id": "mmh-0589",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WMQT 107.7 FM — Q107",
       "city": "Ishpeming",
       "market": "Marquette",
-      "website": "",
+      "website": "https://kbic-nsn.gov",
       "frequency": "107.7 FM",
       "format": "Adult Contemporary",
       "owner": "Keweenaw Bay Indian Community",
@@ -8926,14 +9011,16 @@
       "added": "2026-07-14",
       "lat": 46.489,
       "lng": -87.668,
-      "id": "mmh-0590"
+      "id": "mmh-0590",
+      "notes": "WMQT 107.7 Q107 Ishpeming; licensed to Keweenaw Bay Indian Community (KBIC). Tribal radio — verify programming contact.",
+      "tipUrl": "https://kbic-nsn.gov"
     },
     {
       "category": "Radio",
       "name": "WDMJ 1320 AM",
       "city": "Marquette",
       "market": "Marquette",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "1320 AM",
       "format": "News/Talk",
       "owner": "AMC Partners (Radio Results Network)",
@@ -8942,14 +9029,15 @@
       "added": "2026-07-14",
       "lat": 46.543,
       "lng": -87.395,
-      "id": "mmh-0591"
+      "id": "mmh-0591",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WZAM 970 AM — ESPN 970",
       "city": "Ishpeming",
       "market": "Marquette",
-      "website": "",
+      "website": "https://kbic-nsn.gov",
       "frequency": "970 AM",
       "format": "Sports",
       "owner": "Keweenaw Bay Indian Community",
@@ -8958,14 +9046,16 @@
       "added": "2026-07-14",
       "lat": 46.489,
       "lng": -87.668,
-      "id": "mmh-0592"
+      "id": "mmh-0592",
+      "notes": "WZAM 970 AM ESPN 970 Ishpeming; KBIC tribal licensee. Sports format via ESPN affil.",
+      "tipUrl": "https://kbic-nsn.gov"
     },
     {
       "category": "Radio",
       "name": "WJPD 92.3 FM",
       "city": "Ishpeming",
       "market": "Marquette",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "92.3 FM",
       "format": "Country",
       "owner": "AMC Partners (Radio Results Network)",
@@ -8974,7 +9064,8 @@
       "added": "2026-07-14",
       "lat": 46.489,
       "lng": -87.668,
-      "id": "mmh-0593"
+      "id": "mmh-0593",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
@@ -8990,14 +9081,15 @@
       "added": "2026-07-14",
       "lat": 45.745,
       "lng": -87.064,
-      "id": "mmh-0594"
+      "id": "mmh-0594",
+      "tipUrl": "https://escanabaradiogroup.com"
     },
     {
       "category": "Radio",
       "name": "WCHT 600 AM / 93.5 FM — NewsTalk",
       "city": "Escanaba",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "600 AM",
       "format": "News/Talk",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9006,14 +9098,16 @@
       "added": "2026-07-14",
       "lat": 45.745,
       "lng": -87.064,
-      "id": "mmh-0595"
+      "id": "mmh-0595",
+      "notes": "WCHT 600 AM / 93.5 FM NewsTalk Escanaba; AMC Partners cluster.",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WGLQ 97.1 FM — 97.1 GLQ",
       "city": "Escanaba",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "97.1 FM",
       "format": "Hot AC",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9022,14 +9116,15 @@
       "added": "2026-07-14",
       "lat": 45.745,
       "lng": -87.064,
-      "id": "mmh-0596"
+      "id": "mmh-0596",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WDBC 680 AM",
       "city": "Escanaba",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://escanabaradiogroup.com",
       "frequency": "680 AM",
       "format": "Full-Service AC",
       "owner": "Aurora Media",
@@ -9038,14 +9133,16 @@
       "added": "2026-07-14",
       "lat": 45.745,
       "lng": -87.064,
-      "id": "mmh-0597"
+      "id": "mmh-0597",
+      "notes": "WDBC 680 AM Escanaba; Aurora Media cluster.",
+      "tipUrl": "https://escanabaradiogroup.com"
     },
     {
       "category": "Radio",
       "name": "WCMM 102.5 FM — The Moose",
       "city": "Gulliver",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "102.5 FM",
       "format": "Country",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9054,14 +9151,15 @@
       "added": "2026-07-14",
       "lat": 46.03,
       "lng": -86.02,
-      "id": "mmh-0598"
+      "id": "mmh-0598",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WGKL 105.5 FM — Kool 105.5",
       "city": "Gladstone",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "105.5 FM",
       "format": "Classic Hits",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9070,14 +9168,15 @@
       "added": "2026-07-14",
       "lat": 45.848,
       "lng": -87.021,
-      "id": "mmh-0599"
+      "id": "mmh-0599",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WUPF 107.3 FM — Eagle 107.3",
       "city": "Powers",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "107.3 FM",
       "format": "Classic Hits",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9086,14 +9185,15 @@
       "added": "2026-07-14",
       "lat": 45.687,
       "lng": -87.531,
-      "id": "mmh-0600"
+      "id": "mmh-0600",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WRPP 92.7 FM",
       "city": "Manistique",
       "market": "Escanaba",
-      "website": "",
+      "website": "https://escanabaradiogroup.com",
       "frequency": "92.7 FM",
       "format": "Classic Rock",
       "owner": "Aurora Media",
@@ -9102,14 +9202,16 @@
       "added": "2026-07-14",
       "lat": 45.957,
       "lng": -86.247,
-      "id": "mmh-0601"
+      "id": "mmh-0601",
+      "notes": "WRPP 92.7 Manistique; Aurora Media cluster.",
+      "tipUrl": "https://escanabaradiogroup.com"
     },
     {
       "category": "Radio",
       "name": "WJNR-FM 101.5 FM — Frog Country",
       "city": "Iron Mountain",
       "market": "Iron Mountain",
-      "website": "",
+      "website": "https://resultsmedia.com",
       "frequency": "101.5 FM",
       "format": "Country",
       "owner": "Results Broadcasting",
@@ -9118,14 +9220,16 @@
       "added": "2026-07-14",
       "lat": 45.82,
       "lng": -88.066,
-      "id": "mmh-0602"
+      "id": "mmh-0602",
+      "notes": "WJNR-FM 101.5 Frog Country Iron Mountain; Results Broadcasting cluster.",
+      "tipUrl": "https://resultsmedia.com"
     },
     {
       "category": "Radio",
       "name": "WHTO 106.7 FM — The Mountain",
       "city": "Iron Mountain",
       "market": "Iron Mountain",
-      "website": "",
+      "website": "https://resultsmedia.com",
       "frequency": "106.7 FM",
       "format": "Classic Hits",
       "owner": "Results Broadcasting",
@@ -9134,14 +9238,16 @@
       "added": "2026-07-14",
       "lat": 45.82,
       "lng": -88.066,
-      "id": "mmh-0603"
+      "id": "mmh-0603",
+      "notes": "WHTO 106.7 The Mountain Iron Mountain; Results Broadcasting cluster.",
+      "tipUrl": "https://resultsmedia.com"
     },
     {
       "category": "Radio",
       "name": "WOBE 100.7 FM — Radio Now",
       "city": "Crystal Falls",
       "market": "Iron Mountain",
-      "website": "",
+      "website": "https://resultsmedia.com",
       "frequency": "100.7 FM",
       "format": "CHR",
       "owner": "Results Broadcasting",
@@ -9150,14 +9256,16 @@
       "added": "2026-07-14",
       "lat": 46.099,
       "lng": -88.334,
-      "id": "mmh-0604"
+      "id": "mmh-0604",
+      "notes": "WOBE 100.7 Radio Now Crystal Falls; Results Broadcasting cluster.",
+      "tipUrl": "https://resultsmedia.com"
     },
     {
       "category": "Radio",
       "name": "WIMK 93.1 FM",
       "city": "Iron Mountain",
       "market": "Iron Mountain",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "93.1 FM",
       "format": "Active Rock",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9166,14 +9274,15 @@
       "added": "2026-07-14",
       "lat": 45.82,
       "lng": -88.066,
-      "id": "mmh-0605"
+      "id": "mmh-0605",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WMIQ 1450 AM",
       "city": "Iron Mountain",
       "market": "Iron Mountain",
-      "website": "",
+      "website": "https://sovereign.media",
       "frequency": "1450 AM",
       "format": "Oldies/Talk/Sports",
       "owner": "Sovereign Communications",
@@ -9183,14 +9292,14 @@
       "lat": 45.82,
       "lng": -88.066,
       "id": "mmh-0606",
-      "notes": "Owner Sovereign Communications faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign Communications faced a Feb 2026 FCC license-revocation proceeding — verify status. | WMIQ 1450 Iron Mountain; Sovereign Communications licensee."
     },
     {
       "category": "Radio",
       "name": "WZNL 94.3 FM",
       "city": "Norway",
       "market": "Iron Mountain",
-      "website": "",
+      "website": "https://radioresults.net",
       "frequency": "94.3 FM",
       "format": "Soft AC",
       "owner": "AMC Partners (Radio Results Network)",
@@ -9199,14 +9308,15 @@
       "added": "2026-07-14",
       "lat": 45.789,
       "lng": -87.904,
-      "id": "mmh-0607"
+      "id": "mmh-0607",
+      "tipUrl": "https://radioresults.net"
     },
     {
       "category": "Radio",
       "name": "WFER 1230 AM / 97.9 FM",
       "city": "Iron River",
       "market": "Iron River",
-      "website": "",
+      "website": "https://morganmurphy.com",
       "frequency": "1230 AM",
       "format": "Classic Country",
       "owner": "Morgan Murphy Media",
@@ -9215,14 +9325,16 @@
       "added": "2026-07-14",
       "lat": 46.093,
       "lng": -88.642,
-      "id": "mmh-0608"
+      "id": "mmh-0608",
+      "notes": "WFER 1230 AM / 97.9 FM Iron River; Morgan Murphy Media cluster.",
+      "tipUrl": "https://morganmurphy.com"
     },
     {
       "category": "Radio",
       "name": "WIKB-FM 99.1 FM",
       "city": "Iron River",
       "market": "Iron River",
-      "website": "",
+      "website": "https://www.wikb.com/",
       "frequency": "99.1 FM",
       "format": "Classic Hits",
       "owner": "Iron River Community Broadcasting",
@@ -9231,14 +9343,15 @@
       "added": "2026-07-14",
       "lat": 46.093,
       "lng": -88.642,
-      "id": "mmh-0609"
+      "id": "mmh-0609",
+      "notes": "WIKB-FM 99.1 Iron River; Iron River Community Broadcasting — very small/community operator; no confirmed web presence."
     },
     {
       "category": "Radio",
       "name": "WIMI 99.7 FM — The Storm",
       "city": "Ironwood",
       "market": "Ironwood",
-      "website": "",
+      "website": "https://jjbroadcasting.com",
       "frequency": "99.7 FM",
       "format": "Classic Rock",
       "owner": "J&J Broadcasting",
@@ -9247,14 +9360,16 @@
       "added": "2026-07-14",
       "lat": 46.454,
       "lng": -90.171,
-      "id": "mmh-0610"
+      "id": "mmh-0610",
+      "notes": "WIMI 99.7 The Storm Ironwood; J&J Broadcasting cluster.",
+      "tipUrl": "https://jjbroadcasting.com"
     },
     {
       "category": "Radio",
       "name": "WJMS 590 AM",
       "city": "Ironwood",
       "market": "Ironwood",
-      "website": "",
+      "website": "https://jjbroadcasting.com",
       "frequency": "590 AM",
       "format": "Country",
       "owner": "J&J Broadcasting",
@@ -9263,14 +9378,16 @@
       "added": "2026-07-14",
       "lat": 46.454,
       "lng": -90.171,
-      "id": "mmh-0611"
+      "id": "mmh-0611",
+      "notes": "WJMS 590 AM Ironwood; J&J Broadcasting cluster.",
+      "tipUrl": "https://jjbroadcasting.com"
     },
     {
       "category": "Radio",
       "name": "WUPM 106.9 FM",
       "city": "Ironwood",
       "market": "Ironwood",
-      "website": "",
+      "website": "https://www.wupm1069.com/",
       "frequency": "106.9 FM",
       "format": "Hot AC",
       "owner": "Baraga Broadcasting",
@@ -9279,14 +9396,15 @@
       "added": "2026-07-14",
       "lat": 46.454,
       "lng": -90.171,
-      "id": "mmh-0612"
+      "id": "mmh-0612",
+      "notes": "WUPM 106.9 Ironwood; Baraga Broadcasting — very small operator; no confirmed web presence."
     },
     {
       "category": "Radio",
       "name": "WUPY 101.1 FM",
       "city": "Ontonagon",
       "market": "Ironwood",
-      "website": "",
+      "website": "https://wupy101.com/",
       "frequency": "101.1 FM",
       "format": "Country",
       "owner": "SNRN Broadcasting",
@@ -9295,14 +9413,15 @@
       "added": "2026-07-14",
       "lat": 46.872,
       "lng": -89.317,
-      "id": "mmh-0613"
+      "id": "mmh-0613",
+      "notes": "WUPY 101.1 Ontonagon; SNRN Broadcasting — very small rural operator; no confirmed web presence."
     },
     {
       "category": "Radio",
       "name": "WCCY 1400 AM — 99.3 The Lift",
       "city": "Houghton",
       "market": "Houghton",
-      "website": "",
+      "website": "https://morganmurphy.com",
       "frequency": "1400 AM",
       "format": "CHR",
       "owner": "Morgan Murphy Media",
@@ -9311,14 +9430,16 @@
       "added": "2026-07-14",
       "lat": 47.121,
       "lng": -88.569,
-      "id": "mmh-0614"
+      "id": "mmh-0614",
+      "notes": "WCCY 1400 AM / 99.3 The Lift Houghton; Morgan Murphy Media cluster.",
+      "tipUrl": "https://morganmurphy.com"
     },
     {
       "category": "Radio",
       "name": "WHKB 102.3 FM — K-Bear 102",
       "city": "Houghton",
       "market": "Houghton",
-      "website": "",
+      "website": "https://morganmurphy.com",
       "frequency": "102.3 FM",
       "format": "Country",
       "owner": "Morgan Murphy Media",
@@ -9327,14 +9448,16 @@
       "added": "2026-07-14",
       "lat": 47.121,
       "lng": -88.569,
-      "id": "mmh-0615"
+      "id": "mmh-0615",
+      "notes": "WHKB 102.3 K-Bear Houghton; Morgan Murphy Media cluster.",
+      "tipUrl": "https://morganmurphy.com"
     },
     {
       "category": "Radio",
       "name": "WOLV 97.7 FM — The Wolf",
       "city": "Houghton",
       "market": "Houghton",
-      "website": "",
+      "website": "https://morganmurphy.com",
       "frequency": "97.7 FM",
       "format": "Classic Hits",
       "owner": "Morgan Murphy Media",
@@ -9343,14 +9466,16 @@
       "added": "2026-07-14",
       "lat": 47.121,
       "lng": -88.569,
-      "id": "mmh-0616"
+      "id": "mmh-0616",
+      "notes": "WOLV 97.7 The Wolf Houghton; Morgan Murphy Media cluster.",
+      "tipUrl": "https://morganmurphy.com"
     },
     {
       "category": "Radio",
       "name": "WHBS 96.3 FM — Houghton's Breeze",
       "city": "Houghton",
       "market": "Houghton",
-      "website": "",
+      "website": "https://morganmurphy.com",
       "frequency": "96.3 FM",
       "format": "Adult Contemporary",
       "owner": "Morgan Murphy Media",
@@ -9359,14 +9484,16 @@
       "added": "2026-07-14",
       "lat": 47.121,
       "lng": -88.569,
-      "id": "mmh-0617"
+      "id": "mmh-0617",
+      "notes": "WHBS 96.3 Houghton's Breeze; Morgan Murphy Media cluster.",
+      "tipUrl": "https://morganmurphy.com"
     },
     {
       "category": "Radio",
       "name": "WMPL 107.3 FM / 920 AM — Yooper 107.3",
       "city": "Hancock",
       "market": "Houghton",
-      "website": "",
+      "website": "https://yooper.fm/",
       "frequency": "107.3 FM",
       "format": "Oldies",
       "owner": "Michigan Civic Media Alliance",
@@ -9375,14 +9502,15 @@
       "added": "2026-07-14",
       "lat": 47.127,
       "lng": -88.581,
-      "id": "mmh-0618"
+      "id": "mmh-0618",
+      "notes": "WMPL 107.3/920 Yooper 107.3 Hancock; Michigan Civic Media Alliance — small/community operator; no confirmed web presence."
     },
     {
       "category": "Radio",
       "name": "WGLI 98.7 FM — The Rockin' Eagle",
       "city": "Hancock",
       "market": "Houghton",
-      "website": "",
+      "website": "https://kbic-nsn.gov",
       "frequency": "98.7 FM",
       "format": "Rock",
       "owner": "Keweenaw Bay Indian Community",
@@ -9391,14 +9519,16 @@
       "added": "2026-07-14",
       "lat": 47.127,
       "lng": -88.581,
-      "id": "mmh-0619"
+      "id": "mmh-0619",
+      "notes": "WGLI 98.7 The Rockin' Eagle Hancock; KBIC tribal licensee. Verify programming contact vs. tribal govt site.",
+      "tipUrl": "https://kbic-nsn.gov"
     },
     {
       "category": "Radio",
       "name": "WCUP 105.7 FM — Eagle Country",
       "city": "L'Anse",
       "market": "Houghton",
-      "website": "",
+      "website": "https://kbic-nsn.gov",
       "frequency": "105.7 FM",
       "format": "Country",
       "owner": "Keweenaw Bay Indian Community",
@@ -9407,14 +9537,16 @@
       "added": "2026-07-14",
       "lat": 46.76,
       "lng": -88.453,
-      "id": "mmh-0620"
+      "id": "mmh-0620",
+      "notes": "WCUP 105.7 Eagle Country L'Anse; KBIC tribal licensee.",
+      "tipUrl": "https://kbic-nsn.gov"
     },
     {
       "category": "Radio",
       "name": "WKMJ-FM 93.5 FM",
       "city": "Hancock",
       "market": "Houghton",
-      "website": "",
+      "website": "https://jjbroadcasting.com",
       "frequency": "93.5 FM",
       "format": "Hot AC",
       "owner": "J&J Broadcasting",
@@ -9423,7 +9555,9 @@
       "added": "2026-07-14",
       "lat": 47.127,
       "lng": -88.581,
-      "id": "mmh-0621"
+      "id": "mmh-0621",
+      "notes": "WKMJ-FM 93.5 Hancock; J&J Broadcasting cluster.",
+      "tipUrl": "https://jjbroadcasting.com"
     },
     {
       "category": "Radio",
@@ -9440,14 +9574,15 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0622",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status.",
+      "tipUrl": "https://1230wsoo.com"
     },
     {
       "category": "Radio",
       "name": "WKNW 1400 AM — News Talk 1400",
       "city": "Sault Ste. Marie",
       "market": "Sault Ste. Marie",
-      "website": "",
+      "website": "https://sovereign.media",
       "frequency": "1400 AM",
       "format": "News/Talk",
       "owner": "Sovereign Communications",
@@ -9457,14 +9592,14 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0623",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WKNW 1400 News Talk Sault Ste. Marie; Sovereign Communications cluster."
     },
     {
       "category": "Radio",
       "name": "WYSS 99.5 FM — Yes FM",
       "city": "Sault Ste. Marie",
       "market": "Sault Ste. Marie",
-      "website": "",
+      "website": "https://sovereign.media",
       "frequency": "99.5 FM",
       "format": "CHR",
       "owner": "Sovereign Communications",
@@ -9474,14 +9609,14 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0624",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WYSS 99.5 Yes FM Sault Ste. Marie; Sovereign Communications cluster."
     },
     {
       "category": "Radio",
       "name": "WSUE 101.3 FM — Rock 101",
       "city": "Sault Ste. Marie",
       "market": "Sault Ste. Marie",
-      "website": "",
+      "website": "https://sovereign.media",
       "frequency": "101.3 FM",
       "format": "Rock",
       "owner": "Sovereign Communications",
@@ -9491,14 +9626,14 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0625",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WSUE 101.3 Rock 101 Sault Ste. Marie; Sovereign Communications cluster."
     },
     {
       "category": "Radio",
       "name": "WMKD 105.5 FM — Big Country",
       "city": "Pickford",
       "market": "Sault Ste. Marie",
-      "website": "",
+      "website": "https://sovereign.media",
       "frequency": "105.5 FM",
       "format": "Country",
       "owner": "Sovereign Communications",
@@ -9508,14 +9643,14 @@
       "lat": 46.166,
       "lng": -84.365,
       "id": "mmh-0626",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WMKD 105.5 Big Country Pickford; Sovereign Communications cluster."
     },
     {
       "category": "Radio",
       "name": "WNBY 1450 AM / 93.9 FM",
       "city": "Newberry",
       "market": "Sault Ste. Marie",
-      "website": "",
+      "website": "https://sovereign.media",
       "frequency": "1450 AM",
       "format": "Classic Country",
       "owner": "Sovereign Communications",
@@ -9525,14 +9660,14 @@
       "lat": 46.355,
       "lng": -85.51,
       "id": "mmh-0627",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WNBY 1450 AM / 93.9 FM Newberry; Sovereign Communications cluster."
     },
     {
       "category": "Radio",
-      "name": "WUPN 95.1 FM / WMJT 96.7 FM — Radio Eagle",
+      "name": "WUPN 95.1 FM",
       "city": "Paradise",
       "market": "Sault Ste. Marie",
-      "website": "",
+      "website": "https://bridgefm.net/",
       "frequency": "95.1 FM",
       "format": "Classic Hits",
       "owner": "Darby Advertising",
@@ -9541,7 +9676,8 @@
       "added": "2026-07-14",
       "lat": 46.633,
       "lng": -85.024,
-      "id": "mmh-0628"
+      "id": "mmh-0628",
+      "notes": "WUPN 95.1 / WMJT 96.7 Radio Eagle Paradise; Darby Advertising licensee — no confirmed web presence found."
     }
   ]
 }
