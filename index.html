@@ -232,8 +232,24 @@ body.dark .hero{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19
 .hero h1{font-size:3.5rem;color:#fff;line-height:1.1;margin-bottom:1.25rem}
 .hero h1 em{color:var(--gold);font-style:normal}
 @media(max-width:768px){.hero h1{font-size:2.2rem}}
-.hero p{color:rgba(255,255,255,.85);font-size:1.1rem;line-height:1.65;max-width:520px;margin-bottom:2rem}
+.hero p{color:rgba(255,255,255,.85);font-size:1.1rem;line-height:1.65;max-width:620px;margin-bottom:2rem}
 /* Hero search — deliberately no backdrop-filter, no overflow:hidden, full z-index */
+.hero-search-row{display:flex;gap:10px;flex-wrap:wrap;align-items:flex-start;position:relative;z-index:10}
+.hero-search-row>.hero-search-wrap{flex:0 1 460px;min-width:300px}
+.hero-gnews{flex:0 1 480px;min-width:300px;display:flex;flex-direction:column;gap:8px}
+.hero-gnews>.hero-search-wrap{flex:0 0 auto;width:100%}
+.gnews-presets{display:flex;gap:6px;flex-wrap:wrap;position:relative;z-index:10}
+.gnews-chip{
+  padding:6px 13px;border-radius:99px;cursor:pointer;
+  background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.28);
+  color:rgba(255,255,255,.88);font-size:.72rem;font-weight:600;white-space:nowrap;
+  transition:background .2s,border-color .2s,color .2s;
+}
+.gnews-chip:hover{background:var(--gold);border-color:var(--gold);color:#fff}
+@media(max-width:768px){
+  .hero-search-row{flex-direction:column}
+  .hero-search-row>.hero-search-wrap,.hero-gnews{flex:0 0 auto;width:100%;min-width:0;max-width:520px}
+}
 .hero-search-wrap{display:flex;gap:8px;max-width:520px;position:relative;z-index:10}
 .hero-search-field{
   flex:1;position:relative;
@@ -265,14 +281,15 @@ body.dark .hero{background:linear-gradient(145deg,#060f1d 0%,#0c1f3a 50%,#0f2e19
 }
 .hero-search-btn:hover{background:var(--gold-lt)}
 .hero-stats{
-  display:flex;flex-wrap:wrap;gap:1.5rem 1.9rem;
+  display:flex;flex-wrap:nowrap;gap:.4rem;justify-content:space-between;
   margin-top:3rem;padding-top:2rem;
   border-top:1px solid rgba(255,255,255,.12);
 }
+@media(max-width:980px){.hero-stats{flex-wrap:wrap;gap:1.25rem 1.6rem;justify-content:flex-start}}
 .hero-stats>div{text-align:center}
 .hero-stat-num{font-family:'DM Serif Display',serif;font-size:1.75rem;color:var(--gold)}
-.hero-stat-label{color:rgba(255,255,255,.80);font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;margin-top:2px}
-.hero-stat-link{cursor:pointer;border-radius:10px;padding:6px 8px;transition:background .15s,transform .15s}
+.hero-stat-label{color:rgba(255,255,255,.80);font-size:.66rem;text-transform:uppercase;letter-spacing:.09em;margin-top:2px;white-space:nowrap}
+.hero-stat-link{cursor:pointer;border-radius:10px;padding:5px 6px;transition:background .15s,transform .15s}
 .hero-stat-link:hover{background:rgba(255,255,255,.09);transform:translateY(-2px)}
 .hero-stat-link:hover .hero-stat-num{color:var(--gold-lt)}
 .hero-stat-link:hover .hero-stat-label{color:#fff}
@@ -1028,16 +1045,33 @@ body.dark mark{background:#78350f;color:#fde68a}
         Michigan's Complete Media Resource — 2026
       </div>
       <h1>Every Michigan<br/><em>news source</em><br/>in one place</h1>
-      <p>TV stations, radio, newspapers, digital news and more — the complete directory of Michigan media</p>
+      <p>TV stations, radio, newspapers, digital news and more —<br/>the complete directory of Michigan media</p>
 
       <!-- Search — plain HTML, no framework interference -->
-      <div class="hero-search-wrap">
-        <div class="hero-search-field">
-          <svg class="hero-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35" stroke-linecap="round"/></svg>
-          <input id="hero-search" type="text" placeholder="Search outlets, cities, DMAs…"
-            onkeydown="if(event.key==='Enter')heroGo()"/>
+      <div class="hero-search-row">
+        <div class="hero-search-wrap">
+          <div class="hero-search-field">
+            <svg class="hero-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35" stroke-linecap="round"/></svg>
+            <input id="hero-search" type="text" placeholder="Search outlets, cities, DMAs…"
+              onkeydown="if(event.key==='Enter')heroGo()"/>
+          </div>
+          <button class="hero-search-btn" onclick="heroGo()">Search</button>
         </div>
-        <button class="hero-search-btn" onclick="heroGo()">Search</button>
+        <div class="hero-gnews">
+          <div class="hero-search-wrap">
+            <div class="hero-search-field">
+              <svg class="hero-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35" stroke-linecap="round"/></svg>
+              <input id="gnews-search" type="text" placeholder="Search Michigan news"
+                onkeydown="if(event.key==='Enter')gnewsGo()"/>
+            </div>
+            <button class="hero-search-btn" onclick="gnewsGo()">Google News&nbsp;↗</button>
+          </div>
+          <div class="gnews-presets">
+            <button type="button" class="gnews-chip" onclick="gnewsOpen('Michigan election')">Michigan election</button>
+            <button type="button" class="gnews-chip" onclick="gnewsOpen('Jocelyn Benson')">Jocelyn Benson</button>
+            <button type="button" class="gnews-chip" onclick="gnewsOpen('Michigan Department of State')">Michigan Department of State</button>
+          </div>
+        </div>
       </div>
 
       <div class="hero-stats">
@@ -1047,7 +1081,7 @@ body.dark mark{background:#78350f;color:#fde68a}
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('weekly')" onkeydown="heroStatKey(event,'weekly')"><div class="hero-stat-num" data-cat="weekly">106</div><div class="hero-stat-label">Weekly Papers</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('digital')" onkeydown="heroStatKey(event,'digital')"><div class="hero-stat-num" data-cat="digital">44</div><div class="hero-stat-label">Digital</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('public')" onkeydown="heroStatKey(event,'public')"><div class="hero-stat-num" data-cat="public">53</div><div class="hero-stat-label">Public Media</div></div>
-        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('ethnic')" onkeydown="heroStatKey(event,'ethnic')"><div class="hero-stat-num" data-cat="ethnic">53</div><div class="hero-stat-label">Ethnic &amp; Religious</div></div>
+        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('ethnic')" onkeydown="heroStatKey(event,'ethnic')"><div class="hero-stat-num" data-cat="ethnic">53</div><div class="hero-stat-label">Ethnic/Religious</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('university')" onkeydown="heroStatKey(event,'university')"><div class="hero-stat-num" data-cat="university">29</div><div class="hero-stat-label">University</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('business')" onkeydown="heroStatKey(event,'business')"><div class="hero-stat-num" data-cat="business">22</div><div class="hero-stat-label">Business</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('all')" onkeydown="heroStatKey(event,'all')"><div class="hero-stat-num" data-cat="__total">622</div><div class="hero-stat-label">Total Outlets</div></div>
@@ -2211,6 +2245,9 @@ function showPage(id){
 }
 function goDir(tab){showPage('directory');switchTab(tab);}
 function heroStatKey(e,tab){if(e.key==='Enter'||e.key===' '){e.preventDefault();goDir(tab);}}
+// ── GOOGLE NEWS SEARCH (opens results in a new tab) ─────────────────────────
+function gnewsOpen(q){window.open('https://news.google.com/search?q='+encodeURIComponent(q)+'&hl=en-US&gl=US&ceid=US:en','_blank','noopener');}
+function gnewsGo(){const el=document.getElementById('gnews-search');const q=(el&&el.value||'').trim();if(q)gnewsOpen(q);}
 function heroGo(){
   const v=document.getElementById('hero-search').value.trim();
   showPage('directory');
