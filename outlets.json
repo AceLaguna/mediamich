@@ -31,7 +31,8 @@
       "affiliation": "MyNetworkTV",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0001"
+      "id": "mmh-0001",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -46,7 +47,8 @@
       "affiliation": "TCT",
       "lat": 43.419,
       "lng": -83.951,
-      "id": "mmh-0002"
+      "id": "mmh-0002",
+      "county": "Saginaw"
     },
     {
       "category": "TV",
@@ -62,7 +64,8 @@
       "lng": -83.433,
       "id": "mmh-0003",
       "tipEmail": "news@wbkb11.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Alpena"
     },
     {
       "category": "TV",
@@ -80,7 +83,8 @@
       "tipEmail": "news@myupnow.com",
       "tipUrl": "https://www.myupnow.com/submit-a-tip/",
       "tipNote": "Shared 'My UP Now' newsroom with WJMN",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Houghton"
     },
     {
       "category": "TV",
@@ -100,7 +104,8 @@
       "tipEmail": "news@mid-michigannow.com",
       "tipUrl": "https://midmichigannow.com/chimein",
       "tipNote": "Shared Mid-Michigan Now newsroom with WEYI/WSMH",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Bay"
     },
     {
       "category": "TV",
@@ -114,7 +119,8 @@
       "status": "active",
       "lat": 45.062,
       "lng": -83.433,
-      "id": "mmh-0006"
+      "id": "mmh-0006",
+      "county": "Alpena"
     },
     {
       "category": "TV",
@@ -128,7 +134,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0007"
+      "id": "mmh-0007",
+      "county": "Isabella"
     },
     {
       "category": "TV",
@@ -144,7 +151,8 @@
       "lng": -83.046,
       "id": "mmh-0008",
       "tipEmail": "news@wdiv.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -162,7 +170,8 @@
       "tipEmail": "news@mid-michigannow.com",
       "tipUrl": "https://midmichigannow.com/chimein",
       "tipNote": "Shared Mid-Michigan Now newsroom with WSMH/WBSF",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Saginaw"
     },
     {
       "category": "TV",
@@ -180,7 +189,8 @@
       "tipEmail": "news@9and10news.com",
       "tipUrl": "https://www.9and10news.com/news/news-tips/",
       "tipNote": "Shared 9&10 News newsroom with WWTV/WWUP",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wexford"
     },
     {
       "category": "TV",
@@ -197,7 +207,8 @@
       "id": "mmh-0011",
       "tipEmail": "newsroom@upnorthlive.com",
       "tipNote": "Shared UpNorthLive newsroom with WPBN/WGTU",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Chippewa"
     },
     {
       "category": "TV",
@@ -214,7 +225,8 @@
       "id": "mmh-0012",
       "tipEmail": "newsroom@upnorthlive.com",
       "tipNote": "Shared UpNorthLive newsroom with WPBN/WGTQ",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Grand Traverse"
     },
     {
       "category": "TV",
@@ -232,7 +244,8 @@
       "tipEmail": "news@wgvunews.org",
       "tipUrl": "https://www.wgvu.org/about/contact/",
       "tipNote": "Email verified via station's official social profile",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kent"
     },
     {
       "category": "TV",
@@ -250,7 +263,8 @@
       "tipEmail": "newstips@wilx.com",
       "tipUrl": "https://www.wilx.com/page/news-tips/",
       "tipNote": "Dedicated tips address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "TV",
@@ -266,7 +280,8 @@
       "lng": -83.046,
       "id": "mmh-0015",
       "tipEmail": "fox2newsdesk@foxtv.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -284,7 +299,8 @@
       "tipEmail": "news@myupnow.com",
       "tipUrl": "https://www.myupnow.com/submit-a-tip/",
       "tipNote": "Shared 'My UP Now' newsroom with WBKP",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Delta"
     },
     {
       "category": "TV",
@@ -301,7 +317,8 @@
       "id": "mmh-0017",
       "tipEmail": "abc12news@abc12.com",
       "tipUrl": "https://www.abc12.com/site/forms/submit_a_story/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Genesee"
     },
     {
       "category": "TV",
@@ -317,7 +334,8 @@
       "lng": -84.484,
       "id": "mmh-0018",
       "tipEmail": "newsinfo@wkar.org",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "TV",
@@ -334,7 +352,8 @@
       "id": "mmh-0019",
       "tipUrl": "https://www.cbsnews.com/detroit/news-tips/",
       "tipNote": "Tips via shared CBS Detroit newsroom (WWJ)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -352,7 +371,8 @@
       "id": "mmh-0020",
       "tipUrl": "https://www.wlns.com/contact-us-report-it/",
       "tipNote": "Tips via sister station WLNS 'Report It' form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "TV",
@@ -369,7 +389,8 @@
       "id": "mmh-0021",
       "tipUrl": "https://www.wlns.com/contact-us-report-it/",
       "tipNote": "Nexstar 'Report It' form; no public email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "TV",
@@ -386,7 +407,8 @@
       "id": "mmh-0022",
       "tipEmail": "wlucnews@wluctv6.com",
       "tipNote": "Email verified via station's official social profile",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Marquette"
     },
     {
       "category": "TV",
@@ -405,7 +427,8 @@
       "tipEmail": "news@wxyz.com",
       "tipUrl": "https://www.wxyz.com/about/contact-us",
       "tipNote": "Tips via sister station WXYZ newsroom",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -423,7 +446,8 @@
       "tipEmail": "wnem@wnem.com",
       "tipUrl": "https://www.wnem.com/submit/",
       "tipNote": "Form is for photo/video submissions",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Saginaw"
     },
     {
       "category": "TV",
@@ -440,7 +464,8 @@
       "id": "mmh-0025",
       "tipEmail": "dtv13@nmu.edu",
       "tipNote": "General station contact; no dedicated tip line",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Marquette"
     },
     {
       "category": "TV",
@@ -457,7 +482,8 @@
       "id": "mmh-0026",
       "tipUrl": "https://www.woodtv.com/reportit/",
       "tipNote": "Nexstar 'Report It' form; no public email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kent"
     },
     {
       "category": "TV",
@@ -475,7 +501,8 @@
       "id": "mmh-0027",
       "tipUrl": "https://www.woodtv.com/reportit/",
       "tipNote": "Tips via WOOD TV8 'Report It' form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Calhoun"
     },
     {
       "category": "TV",
@@ -492,7 +519,8 @@
       "id": "mmh-0028",
       "tipEmail": "newsroom@upnorthlive.com",
       "tipNote": "Shared UpNorthLive newsroom with WGTU/WGTQ",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Grand Traverse"
     },
     {
       "category": "TV",
@@ -507,7 +535,8 @@
       "affiliation": "ION",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0029"
+      "id": "mmh-0029",
+      "county": "Washtenaw"
     },
     {
       "category": "TV",
@@ -527,7 +556,8 @@
       "tipEmail": "news@mid-michigannow.com",
       "tipUrl": "https://midmichigannow.com/chimein",
       "tipNote": "Shared Mid-Michigan Now newsroom with WEYI/WBSF",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Genesee"
     },
     {
       "category": "TV",
@@ -545,7 +575,8 @@
       "tipEmail": "newstips@fox47news.com",
       "tipUrl": "https://www.fox47news.com/news/news-tips",
       "tipNote": "Dedicated tips address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "TV",
@@ -560,7 +591,8 @@
       "notes": "[website corrected Jul 2026]",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0032"
+      "id": "mmh-0032",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -577,7 +609,8 @@
       "id": "mmh-0033",
       "tipUrl": "https://www.cbsnews.com/detroit/news-tips/",
       "tipNote": "CBS Detroit news-tips form; no public email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -595,7 +628,8 @@
       "tipEmail": "desk@wwmt.com",
       "tipUrl": "https://wwmt.com/chimein",
       "tipNote": "Email verified via station's official social profile",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kalamazoo"
     },
     {
       "category": "TV",
@@ -613,7 +647,8 @@
       "tipEmail": "news@9and10news.com",
       "tipUrl": "https://www.9and10news.com/news/news-tips/",
       "tipNote": "Shared 9&10 News newsroom with WWUP/WFQX",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wexford"
     },
     {
       "category": "TV",
@@ -631,7 +666,8 @@
       "tipEmail": "news@9and10news.com",
       "tipUrl": "https://www.9and10news.com/news/news-tips/",
       "tipNote": "Shared 9&10 News newsroom with WWTV/WFQX",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Chippewa"
     },
     {
       "category": "TV",
@@ -649,7 +685,8 @@
       "tipEmail": "wxmi-news@fox17online.com",
       "tipUrl": "https://www.fox17online.com/about-us/contact-us",
       "tipNote": "Dedicated tips address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kent"
     },
     {
       "category": "TV",
@@ -667,7 +704,8 @@
       "tipEmail": "tips@wxyz.com",
       "tipUrl": "https://www.wxyz.com/about/contact-us",
       "tipNote": "Dedicated tips address; general newsroom is news@wxyz.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "TV",
@@ -684,7 +722,8 @@
       "id": "mmh-0039",
       "tipEmail": "news@wzzm13.com",
       "tipUrl": "https://www.wzzm13.com/contact-us",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -700,7 +739,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0040"
+      "id": "mmh-0040",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -715,7 +755,8 @@
       "status": "active",
       "lat": 42.321,
       "lng": -85.18,
-      "id": "mmh-0041"
+      "id": "mmh-0041",
+      "county": "Calhoun"
     },
     {
       "category": "Radio",
@@ -731,7 +772,8 @@
       "format": "Country",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0042"
+      "id": "mmh-0042",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -746,7 +788,8 @@
       "status": "active",
       "lat": 43.362,
       "lng": -86.164,
-      "id": "mmh-0043"
+      "id": "mmh-0043",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -761,7 +804,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0044"
+      "id": "mmh-0044",
+      "county": "Washtenaw"
     },
     {
       "category": "Radio",
@@ -776,7 +820,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0045"
+      "id": "mmh-0045",
+      "county": "Grand Traverse"
     },
     {
       "category": "Radio",
@@ -791,7 +836,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0046"
+      "id": "mmh-0046",
+      "county": "Isabella"
     },
     {
       "category": "Radio",
@@ -807,7 +853,8 @@
       "format": "Classic Rock",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0047"
+      "id": "mmh-0047",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -822,7 +869,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0048"
+      "id": "mmh-0048",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -839,7 +887,8 @@
       "format": "Sports",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0049"
+      "id": "mmh-0049",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -854,7 +903,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0050"
+      "id": "mmh-0050",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -869,7 +919,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0051"
+      "id": "mmh-0051",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -885,7 +936,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0052"
+      "id": "mmh-0052",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -900,7 +952,8 @@
       "status": "active",
       "lat": 42.241,
       "lng": -83.613,
-      "id": "mmh-0053"
+      "id": "mmh-0053",
+      "county": "Washtenaw"
     },
     {
       "category": "Radio",
@@ -915,7 +968,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0054"
+      "id": "mmh-0054",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -930,7 +984,8 @@
       "status": "active",
       "lat": 47.121,
       "lng": -88.569,
-      "id": "mmh-0055"
+      "id": "mmh-0055",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -946,7 +1001,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0056"
+      "id": "mmh-0056",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -961,7 +1017,8 @@
       "status": "active",
       "lat": 44.498,
       "lng": -84.592,
-      "id": "mmh-0057"
+      "id": "mmh-0057",
+      "county": "Roscommon"
     },
     {
       "category": "Radio",
@@ -976,7 +1033,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0058"
+      "id": "mmh-0058",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -991,7 +1049,8 @@
       "status": "active",
       "lat": 43.419,
       "lng": -83.951,
-      "id": "mmh-0059"
+      "id": "mmh-0059",
+      "county": "Saginaw"
     },
     {
       "category": "Radio",
@@ -1006,7 +1065,8 @@
       "status": "active",
       "lat": 44.64,
       "lng": -85.768,
-      "id": "mmh-0060"
+      "id": "mmh-0060",
+      "county": "Grand Traverse"
     },
     {
       "category": "Radio",
@@ -1021,7 +1081,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0061"
+      "id": "mmh-0061",
+      "county": "Grand Traverse"
     },
     {
       "category": "Radio",
@@ -1036,7 +1097,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0062"
+      "id": "mmh-0062",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1052,7 +1114,8 @@
       "format": "News/Talk",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0063"
+      "id": "mmh-0063",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1067,7 +1130,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0064"
+      "id": "mmh-0064",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1082,7 +1146,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0065"
+      "id": "mmh-0065",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1097,7 +1162,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0066"
+      "id": "mmh-0066",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1112,7 +1178,8 @@
       "status": "active",
       "lat": 42.737,
       "lng": -84.484,
-      "id": "mmh-0067"
+      "id": "mmh-0067",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1127,7 +1194,8 @@
       "status": "active",
       "lat": 42.737,
       "lng": -84.484,
-      "id": "mmh-0068"
+      "id": "mmh-0068",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1142,7 +1210,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0069"
+      "id": "mmh-0069",
+      "county": "Kalamazoo"
     },
     {
       "category": "Radio",
@@ -1158,7 +1227,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0070"
+      "id": "mmh-0070",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1173,7 +1243,8 @@
       "status": "active",
       "lat": 43.419,
       "lng": -83.951,
-      "id": "mmh-0071"
+      "id": "mmh-0071",
+      "county": "Saginaw"
     },
     {
       "category": "Radio",
@@ -1189,7 +1260,8 @@
       "format": "News/Talk",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0072"
+      "id": "mmh-0072",
+      "county": "Kalamazoo"
     },
     {
       "category": "Radio",
@@ -1205,7 +1277,8 @@
       "format": "Classic Rock",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0073"
+      "id": "mmh-0073",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -1222,7 +1295,8 @@
       "format": "Rock",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0074"
+      "id": "mmh-0074",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1237,7 +1311,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0075"
+      "id": "mmh-0075",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1252,7 +1327,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0076"
+      "id": "mmh-0076",
+      "county": "Kalamazoo"
     },
     {
       "category": "Radio",
@@ -1268,7 +1344,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0077"
+      "id": "mmh-0077",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1283,7 +1360,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0078"
+      "id": "mmh-0078",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -1298,7 +1376,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0079"
+      "id": "mmh-0079",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1313,7 +1392,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0080"
+      "id": "mmh-0080",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -1328,7 +1408,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0081"
+      "id": "mmh-0081",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1343,7 +1424,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0082"
+      "id": "mmh-0082",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1358,7 +1440,8 @@
       "status": "active",
       "lat": 43.419,
       "lng": -83.951,
-      "id": "mmh-0083"
+      "id": "mmh-0083",
+      "county": "Saginaw"
     },
     {
       "category": "Radio",
@@ -1374,7 +1457,8 @@
       "format": "News/Talk + Country",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0084"
+      "id": "mmh-0084",
+      "county": "Grand Traverse"
     },
     {
       "category": "Radio",
@@ -1390,7 +1474,8 @@
       "format": "Sports",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0085"
+      "id": "mmh-0085",
+      "county": "Washtenaw"
     },
     {
       "category": "Radio",
@@ -1405,7 +1490,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0086"
+      "id": "mmh-0086",
+      "county": "Washtenaw"
     },
     {
       "category": "Radio",
@@ -1422,7 +1508,8 @@
       "format": "Sports",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0087"
+      "id": "mmh-0087",
+      "county": "Ingham"
     },
     {
       "category": "Radio",
@@ -1437,7 +1524,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0088"
+      "id": "mmh-0088",
+      "county": "Kent"
     },
     {
       "category": "Radio",
@@ -1452,7 +1540,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0089"
+      "id": "mmh-0089",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1467,7 +1556,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0090"
+      "id": "mmh-0090",
+      "county": "Wayne"
     },
     {
       "category": "Radio",
@@ -1482,7 +1572,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0091"
+      "id": "mmh-0091",
+      "county": "Wayne"
     },
     {
       "category": "Daily",
@@ -1500,7 +1591,8 @@
       "tipEmail": "newsroom@thealpenanews.com",
       "tipUrl": "https://www.thealpenanews.com/submit-news/",
       "tipNote": "Ogden Newspapers group",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Alpena"
     },
     {
       "category": "Daily",
@@ -1516,7 +1608,8 @@
       "id": "mmh-0093",
       "tipEmail": "news@argus-press.com",
       "tipNote": "Independent",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Shiawassee"
     },
     {
       "category": "Daily",
@@ -1533,7 +1626,8 @@
       "frontpage": "mi_bce-Battle_Creek_Enquirer",
       "tipUrl": "https://help.battlecreekenquirer.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Calhoun"
     },
     {
       "category": "Daily",
@@ -1549,7 +1643,8 @@
       "id": "mmh-0095",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Bay"
     },
     {
       "category": "Daily",
@@ -1563,7 +1658,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 43.698,
       "lng": -85.484,
-      "id": "mmh-0096"
+      "id": "mmh-0096",
+      "county": "Mecosta"
     },
     {
       "category": "Daily",
@@ -1577,7 +1673,8 @@
       "notes": "[name corrected Jul 2026]",
       "lat": 44.252,
       "lng": -85.401,
-      "id": "mmh-0097"
+      "id": "mmh-0097",
+      "county": "Wexford"
     },
     {
       "category": "Daily",
@@ -1595,7 +1692,8 @@
       "frontpage": "mi_cdt-Cheboygan_Daily_Tribune",
       "tipUrl": "https://help.cheboygannews.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Cheboygan"
     },
     {
       "category": "Daily",
@@ -1612,7 +1710,8 @@
       "id": "mmh-0099",
       "tipUrl": "https://www.yourdailyglobe.com/contact/",
       "tipNote": "Contact form includes an 'Editorial question or news item' topic",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Gogebic"
     },
     {
       "category": "Daily",
@@ -1630,7 +1729,8 @@
       "tipEmail": "clerk@mininggazette.com",
       "tipUrl": "https://www.mininggazette.com/submit-news/",
       "tipNote": "Editorial clerk's published address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Houghton"
     },
     {
       "category": "Daily",
@@ -1643,7 +1743,8 @@
       "status": "active",
       "lat": 43.178,
       "lng": -85.253,
-      "id": "mmh-0101"
+      "id": "mmh-0101",
+      "county": "Montcalm"
     },
     {
       "category": "Daily",
@@ -1660,7 +1761,8 @@
       "id": "mmh-0102",
       "tipEmail": "news@dailypress.net",
       "tipNote": "Ogden Newspapers group",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Delta"
     },
     {
       "category": "Daily",
@@ -1676,7 +1778,8 @@
       "id": "mmh-0103",
       "tipUrl": "https://help.thedailyreporter.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Branch"
     },
     {
       "category": "Daily",
@@ -1693,7 +1796,8 @@
       "frontpage": "mi_dfp-Detroit_Free_Press",
       "tipUrl": "https://help.freep.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Daily",
@@ -1710,7 +1814,8 @@
       "frontpage": "mi_en-The_Sault_News",
       "tipUrl": "https://help.sooeveningnews.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Chippewa"
     },
     {
       "category": "Daily",
@@ -1725,7 +1830,8 @@
       "lng": -86.228,
       "id": "mmh-0106",
       "tipEmail": "news@grandhaventribune.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ottawa"
     },
     {
       "category": "Daily",
@@ -1742,7 +1848,8 @@
       "frontpage": "mi_grp-The_Grand_Rapids_Press",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kent"
     },
     {
       "category": "Daily",
@@ -1759,7 +1866,8 @@
       "frontpage": "mi_hdn-The_Hillsdale_Daily_News",
       "tipUrl": "https://help.hillsdale.net/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Hillsdale"
     },
     {
       "category": "Daily",
@@ -1776,7 +1884,8 @@
       "frontpage": "mi_hs-Holland_Sentinel",
       "tipUrl": "https://help.hollandsentinel.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ottawa"
     },
     {
       "category": "Daily",
@@ -1790,7 +1899,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 43.802,
       "lng": -83.001,
-      "id": "mmh-0110"
+      "id": "mmh-0110",
+      "county": "Huron"
     },
     {
       "category": "Daily",
@@ -1807,7 +1917,8 @@
       "id": "mmh-0111",
       "tipEmail": "news@ironmountaindailynews.com",
       "tipNote": "Ogden Newspapers group",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Dickinson"
     },
     {
       "category": "Daily",
@@ -1824,7 +1935,8 @@
       "frontpage": "mi_jcp-Jackson_Citizen_Patriot",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Jackson"
     },
     {
       "category": "Daily",
@@ -1841,7 +1953,8 @@
       "frontpage": "mi_kg-Kalamazoo_Gazette",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kalamazoo"
     },
     {
       "category": "Daily",
@@ -1858,7 +1971,8 @@
       "frontpage": "mi_lsj-Lansing_State_Journal",
       "tipUrl": "https://help.lansingstatejournal.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "Daily",
@@ -1875,7 +1989,8 @@
       "frontpage": "mi_ldpa-Livingston_Daily_Press_%26_Argus",
       "tipUrl": "https://help.livingstondaily.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Livingston"
     },
     {
       "category": "Daily",
@@ -1888,7 +2003,8 @@
       "status": "active",
       "lat": 43.955,
       "lng": -86.453,
-      "id": "mmh-0116"
+      "id": "mmh-0116",
+      "county": "Mason"
     },
     {
       "category": "Daily",
@@ -1904,7 +2020,8 @@
       "id": "mmh-0117",
       "tipUrl": "https://www.macombdaily.com/contact-us/",
       "tipNote": "MediaNews Group contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Macomb"
     },
     {
       "category": "Daily",
@@ -1918,7 +2035,8 @@
       "notes": "[owner corrected Jul 2026]",
       "lat": 43.616,
       "lng": -84.247,
-      "id": "mmh-0118"
+      "id": "mmh-0118",
+      "county": "Midland"
     },
     {
       "category": "Daily",
@@ -1936,7 +2054,8 @@
       "tipEmail": "jmarietti@miningjournal.net",
       "tipUrl": "https://www.miningjournal.net/submit-news/",
       "tipNote": "News editor's published address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Marquette"
     },
     {
       "category": "Daily",
@@ -1954,7 +2073,8 @@
       "frontpage": "mi_men-Monroe_News",
       "tipEmail": "newstips@monroenews.com",
       "tipNote": "Dedicated news-tips address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Monroe"
     },
     {
       "category": "Daily",
@@ -1970,7 +2090,8 @@
       "id": "mmh-0121",
       "tipUrl": "https://www.themorningsun.com/contact-us/",
       "tipNote": "MediaNews Group contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Isabella"
     },
     {
       "category": "Daily",
@@ -1987,7 +2108,8 @@
       "frontpage": "mi_mc-The_Muskegon_Chronicle",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Muskegon"
     },
     {
       "category": "Daily",
@@ -2003,7 +2125,8 @@
       "id": "mmh-0123",
       "tipEmail": "mnainfo@pioneergroup.com",
       "tipNote": "General contact address; no dedicated tip line",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Manistee"
     },
     {
       "category": "Daily",
@@ -2019,7 +2142,8 @@
       "id": "mmh-0124",
       "tipUrl": "https://www.theoaklandpress.com/contact/",
       "tipNote": "MediaNews Group contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Oakland"
     },
     {
       "category": "Daily",
@@ -2037,7 +2161,8 @@
       "frontpage": "mi_pnr-Petoskey_News-Review",
       "tipUrl": "https://help.petoskeynews.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Emmet"
     },
     {
       "category": "Daily",
@@ -2053,7 +2178,8 @@
       "id": "mmh-0126",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Saginaw"
     },
     {
       "category": "Daily",
@@ -2069,7 +2195,8 @@
       "id": "mmh-0127",
       "tipUrl": "https://help.sentinel-standard.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ionia"
     },
     {
       "category": "Daily",
@@ -2086,7 +2213,8 @@
       "frontpage": "mi_sj-Sturgis_Journal",
       "tipUrl": "https://help.sturgisjournal.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "St. Joseph"
     },
     {
       "category": "Daily",
@@ -2103,7 +2231,8 @@
       "tipEmail": "aanews@mlive.com",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Only per-paper newsroom email MLive publishes",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Washtenaw"
     },
     {
       "category": "Daily",
@@ -2119,7 +2248,8 @@
       "id": "mmh-0130",
       "tipUrl": "https://help.lenconnect.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Lenawee"
     },
     {
       "category": "Daily",
@@ -2136,7 +2266,8 @@
       "frontpage": "mi_dn-The_Detroit_News",
       "tipUrl": "https://help.detroitnews.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Daily",
@@ -2152,7 +2283,8 @@
       "id": "mmh-0132",
       "tipUrl": "https://www.mlivemediagroup.com/aa-news-form",
       "tipNote": "Shared MLive statewide submission form (all eight MLive papers)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Genesee"
     },
     {
       "category": "Daily",
@@ -2169,7 +2301,8 @@
       "frontpage": "mi_hp-The_Herald-Palladium",
       "tipEmail": "localnews@TheHP.com",
       "tipNote": "Dedicated local-news tips address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Berrien"
     },
     {
       "category": "Daily",
@@ -2184,7 +2317,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 41.944,
       "lng": -85.633,
-      "id": "mmh-0134"
+      "id": "mmh-0134",
+      "county": "St. Joseph"
     },
     {
       "category": "Daily",
@@ -2201,7 +2335,8 @@
       "frontpage": "mi_th-Times_Herald",
       "tipUrl": "https://help.thetimesherald.com/contact-us/",
       "tipNote": "Gannett Help Center contact form; no public newsroom email",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "St. Clair"
     },
     {
       "category": "Daily",
@@ -2214,7 +2349,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0136"
+      "id": "mmh-0136",
+      "county": "Grand Traverse"
     },
     {
       "category": "Weekly",
@@ -2233,7 +2369,8 @@
       "tipEmail": "editor@alconareview.com",
       "tipUrl": "https://www.alconareview.com",
       "tipNote": "Contact page on site; full form URL truncated in research report",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Alcona"
     },
     {
       "category": "Weekly",
@@ -2250,7 +2387,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles, linked from site",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Allegan"
     },
     {
       "category": "Weekly",
@@ -2267,7 +2405,8 @@
       "tipEmail": "editor@antrimreview.net",
       "tipUrl": "https://www.antrimreview.net",
       "tipNote": "Letters page on antrimreview.net. Masthead is 'The Antrim Review' — verify outlet name and website field",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Antrim"
     },
     {
       "category": "Weekly",
@@ -2282,7 +2421,8 @@
       "lng": -84.485,
       "id": "mmh-0140",
       "tipUrl": "https://www.beavertonclarion.com",
-      "tipNote": "Not verified in first research pass — check site contact page"
+      "tipNote": "Not verified in first research pass — check site contact page",
+      "county": "Gladwin"
     },
     {
       "category": "Weekly",
@@ -2298,7 +2438,8 @@
       "id": "mmh-0141",
       "tipEmail": "maria@slowmadicmedia.com",
       "tipUrl": "https://www.boynegazette.com/contact/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Charlevoix"
     },
     {
       "category": "Weekly",
@@ -2315,7 +2456,8 @@
       "tipEmail": "neighbors@candgnews.com",
       "tipUrl": "https://www.candgnews.com/contact-us",
       "tipNote": "Dedicated news-tips line covering all C&G community papers",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Macomb"
     },
     {
       "category": "Weekly",
@@ -2329,7 +2471,8 @@
       "lat": 45.318,
       "lng": -85.258,
       "id": "mmh-0144",
-      "tipNote": "No contact published"
+      "tipNote": "No contact published",
+      "county": "Charlevoix"
     },
     {
       "category": "Weekly",
@@ -2346,7 +2489,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Clare"
     },
     {
       "category": "Weekly",
@@ -2362,7 +2506,8 @@
       "id": "mmh-0146",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://clarkstonnews.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -2380,7 +2525,8 @@
       "tipEmail": "news@crawfordcountyavalanche.com",
       "tipUrl": "https://www.crawfordcountyavalanche.com",
       "tipNote": "Contact form on site",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Crawford"
     },
     {
       "category": "Weekly",
@@ -2396,7 +2542,8 @@
       "id": "mmh-0148",
       "tipUrl": "https://www.downriversundaytimes.com",
       "tipNote": "Email obfuscated; use contact form. Site now operates as downriversundaytimes.com — verify website field",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -2411,7 +2558,8 @@
       "lng": -86.109,
       "id": "mmh-0149",
       "tipUrl": "https://www.leaderpub.com",
-      "tipNote": "Not verified — check Leader Publications contact page"
+      "tipNote": "Not verified — check Leader Publications contact page",
+      "county": "Cass"
     },
     {
       "category": "Weekly",
@@ -2427,7 +2575,8 @@
       "id": "mmh-0150",
       "tipUrl": "https://www.elkrapidsnews.com/contact.html",
       "tipNote": "Email obfuscated on site; use on-site form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Antrim"
     },
     {
       "category": "Weekly",
@@ -2441,7 +2590,8 @@
       "lat": 45.027,
       "lng": -84.675,
       "id": "mmh-0151",
-      "tipNote": "No dedicated tips address published"
+      "tipNote": "No dedicated tips address published",
+      "county": "Otsego"
     },
     {
       "category": "Weekly",
@@ -2458,7 +2608,8 @@
       "tipEmail": "ggould@mihomepaper.com",
       "tipUrl": "https://geneseecountyview.com/contact-us/",
       "tipNote": "Named editor address — preferred over View group catch-all",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Genesee"
     },
     {
       "category": "Weekly",
@@ -2475,7 +2626,8 @@
       "id": "mmh-0153",
       "tipEmail": "editorial@glenarborsun.com",
       "tipUrl": "https://glenarborsun.com/contact/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Leelanau"
     },
     {
       "category": "Weekly",
@@ -2492,7 +2644,8 @@
       "lng": -83.05,
       "id": "mmh-0154",
       "tipEmail": "news@thehamtramckreview.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -2509,7 +2662,8 @@
       "id": "mmh-0155",
       "tipEmail": "news@ncpublish.com",
       "tipNote": "North Country Publishing shared newsroom address",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Emmet"
     },
     {
       "category": "Weekly",
@@ -2525,7 +2679,8 @@
       "id": "mmh-0156",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://hastingsbanner.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Barry"
     },
     {
       "category": "Weekly",
@@ -2541,7 +2696,8 @@
       "id": "mmh-0157",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://hastingsreminder.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Barry"
     },
     {
       "category": "Weekly",
@@ -2557,7 +2713,8 @@
       "id": "mmh-0158",
       "tipEmail": "editor@iosconews.com",
       "tipUrl": "https://www.iosconews.com/site/contact.html",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Iosco"
     },
     {
       "category": "Weekly",
@@ -2572,7 +2729,8 @@
       "lng": -88.642,
       "id": "mmh-0159",
       "tipEmail": "wgraham@mmlocal.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Iron"
     },
     {
       "category": "Weekly",
@@ -2587,7 +2745,8 @@
       "lng": -88.569,
       "id": "mmh-0160",
       "tipUrl": "https://keweenawreport.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Houghton"
     },
     {
       "category": "Weekly",
@@ -2606,7 +2765,8 @@
       "tipEmail": "sentinel1886@gmail.com",
       "tipUrl": "https://www.lansesentinel.com",
       "tipNote": "'Submit a story' form on site",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Baraga"
     },
     {
       "category": "Weekly",
@@ -2622,7 +2782,8 @@
       "id": "mmh-0162",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://lakeorionreview.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -2640,7 +2801,8 @@
       "id": "mmh-0163",
       "tipEmail": "mike@lansingcitypulse.com",
       "tipUrl": "https://lansingcitypulse.com/contact-us/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ingham"
     },
     {
       "category": "Weekly",
@@ -2656,7 +2818,8 @@
       "id": "mmh-0164",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://laview.net/contact-us/",
-      "tipNote": "View catch-all; named editor Jeff Hogan preferable per research"
+      "tipNote": "View catch-all; named editor Jeff Hogan preferable per research",
+      "county": "Lapeer"
     },
     {
       "category": "Weekly",
@@ -2672,7 +2835,8 @@
       "id": "mmh-0165",
       "tipEmail": "Editor@leelanaunews.com",
       "tipUrl": "https://www.leelanaunews.com/contact",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Leelanau"
     },
     {
       "category": "Weekly",
@@ -2687,7 +2851,8 @@
       "lng": -85.342,
       "id": "mmh-0166",
       "tipUrl": "https://www.lowellareaanews.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Kent"
     },
     {
       "category": "Weekly",
@@ -2703,7 +2868,8 @@
       "id": "mmh-0167",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://lowellledger.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Kent"
     },
     {
       "category": "Weekly",
@@ -2720,7 +2886,8 @@
       "id": "mmh-0168",
       "tipUrl": "https://www.mackinacislandnews.com",
       "tipNote": "Use on-site contact form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Mackinac"
     },
     {
       "category": "Weekly",
@@ -2736,7 +2903,8 @@
       "id": "mmh-0169",
       "tipEmail": "journal@alphacomm.net",
       "tipNote": "Second published address mcjournal@sbcglobal.net conflicts — verify before use",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Menominee"
     },
     {
       "category": "Weekly",
@@ -2753,7 +2921,8 @@
       "id": "mmh-0170",
       "tipEmail": "tips@metrointhed.com",
       "tipNote": "Tips domain is metrointhed.com, NOT metrotimes.com — common point of error",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -2766,7 +2935,8 @@
       "status": "active",
       "lat": 42.593,
       "lng": -83.599,
-      "id": "mmh-0171"
+      "id": "mmh-0171",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -2781,7 +2951,8 @@
       "lng": -84.144,
       "id": "mmh-0172",
       "tipUrl": "https://www.montmorencycountytribune.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Montmorency"
     },
     {
       "category": "Weekly",
@@ -2796,7 +2967,8 @@
       "lng": -86.649,
       "id": "mmh-0173",
       "tipUrl": "https://www.munisingnews.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Alger"
     },
     {
       "category": "Weekly",
@@ -2813,7 +2985,8 @@
       "tipEmail": "nbynews@mynewberrynews.com",
       "tipUrl": "https://mynewberrynews.com/contact-us/",
       "tipNote": "Site appears to have moved to mynewberrynews.com — verify website field",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Luce"
     },
     {
       "category": "Weekly",
@@ -2828,7 +3001,8 @@
       "lng": -83.194,
       "id": "mmh-0175",
       "tipEmail": "editor@thenewsherald.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -2843,7 +3017,8 @@
       "lng": -86.254,
       "id": "mmh-0176",
       "tipUrl": "https://www.leaderpub.com",
-      "tipNote": "Not verified — check Leader Publications contact page"
+      "tipNote": "Not verified — check Leader Publications contact page",
+      "county": "Berrien"
     },
     {
       "category": "Weekly",
@@ -2859,7 +3034,8 @@
       "id": "mmh-0177",
       "tipUrl": "https://www.northernexpress.com/contact-us/",
       "tipNote": "Use on-site contact form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Grand Traverse"
     },
     {
       "category": "Weekly",
@@ -2874,7 +3050,8 @@
       "lng": -83.483,
       "id": "mmh-0178",
       "tipUrl": "https://www.hometownlife.com",
-      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
+      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -2889,7 +3066,8 @@
       "lng": -83.475,
       "id": "mmh-0179",
       "tipUrl": "https://www.hometownlife.com",
-      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
+      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -2904,7 +3082,8 @@
       "lng": -83.353,
       "id": "mmh-0180",
       "tipUrl": "https://www.hometownlife.com",
-      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
+      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -2920,7 +3099,8 @@
       "id": "mmh-0181",
       "tipEmail": "clerk@oceanaheraldjournal.com",
       "tipNote": "Only published address is clerk@ — confirm news routing",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Oceana"
     },
     {
       "category": "Weekly",
@@ -2938,7 +3118,8 @@
       "id": "mmh-0182",
       "tipEmail": "ahensel@cherryroad.com",
       "tipNote": "Editor Amy Hensel covers CherryRoad's Arenac, Ogemaw and Oscoda county papers",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ogemaw"
     },
     {
       "category": "Weekly",
@@ -2953,7 +3134,8 @@
       "lng": -89.314,
       "id": "mmh-0183",
       "tipEmail": "herald@ontonagonherald.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Ontonagon"
     },
     {
       "category": "Weekly",
@@ -2969,7 +3151,8 @@
       "id": "mmh-0184",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://oxfordleader.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -2988,7 +3171,8 @@
       "tipEmail": "newsroom@pioneertribune.com",
       "tipUrl": "https://www.pioneertribune.com",
       "tipNote": "'Submit News' link on site",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Schoolcraft"
     },
     {
       "category": "Weekly",
@@ -3004,7 +3188,8 @@
       "id": "mmh-0187",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://sanilaccountynews.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Sanilac"
     },
     {
       "category": "Weekly",
@@ -3019,7 +3204,8 @@
       "lng": -83.651,
       "id": "mmh-0188",
       "tipUrl": "https://www.hometownlife.com",
-      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com"
+      "tipNote": "Gannett — no dedicated tips address; letters form on hometownlife.com",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -3035,7 +3221,8 @@
       "id": "mmh-0189",
       "tipEmail": "alexis.rankin@stignacenews.com",
       "tipUrl": "https://www.stignacenews.com/contact-us/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Mackinac"
     },
     {
       "category": "Weekly",
@@ -3052,7 +3239,8 @@
       "tipEmail": "bgagnon@mihomepaper.com",
       "tipUrl": "https://thecountypress.mihomepaper.com",
       "tipNote": "Named editor Ben Gagnon — preferred over View group catch-all",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Lapeer"
     },
     {
       "category": "Weekly",
@@ -3068,7 +3256,8 @@
       "id": "mmh-0191",
       "tipUrl": "https://www.grossepointenews.com/contact-us/",
       "tipNote": "Use on-site contact form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -3084,7 +3273,8 @@
       "id": "mmh-0192",
       "tipEmail": "mail@thesuntimesnews.com",
       "tipUrl": "https://thesuntimesnews.com/contact-us/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Washtenaw"
     },
     {
       "category": "Weekly",
@@ -3100,7 +3290,8 @@
       "id": "mmh-0193",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://tricountycitizen.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Saginaw"
     },
     {
       "category": "Weekly",
@@ -3116,7 +3307,8 @@
       "id": "mmh-0194",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://www.tricountytimes.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Genesee"
     },
     {
       "category": "Magazine",
@@ -3130,7 +3322,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0195"
+      "id": "mmh-0195",
+      "county": "Ingham"
     },
     {
       "category": "Magazine",
@@ -3144,7 +3337,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0196"
+      "id": "mmh-0196",
+      "county": "Wayne"
     },
     {
       "category": "Magazine",
@@ -3158,7 +3352,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0197"
+      "id": "mmh-0197",
+      "county": "Ingham"
     },
     {
       "category": "Magazine",
@@ -3172,7 +3367,8 @@
       "status": "active",
       "lat": 42.606,
       "lng": -83.15,
-      "id": "mmh-0198"
+      "id": "mmh-0198",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3186,7 +3382,8 @@
       "status": "active",
       "lat": 42.606,
       "lng": -83.15,
-      "id": "mmh-0199"
+      "id": "mmh-0199",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3200,7 +3397,8 @@
       "status": "active",
       "lat": 42.606,
       "lng": -83.15,
-      "id": "mmh-0200"
+      "id": "mmh-0200",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3215,7 +3413,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0201"
+      "id": "mmh-0201",
+      "county": "Marquette"
     },
     {
       "category": "Magazine",
@@ -3229,7 +3428,8 @@
       "added": "2026-07",
       "lat": 42.46,
       "lng": -83.135,
-      "id": "mmh-0202"
+      "id": "mmh-0202",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3243,7 +3443,8 @@
       "status": "active",
       "lat": 42.606,
       "lng": -83.15,
-      "id": "mmh-0203"
+      "id": "mmh-0203",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3257,7 +3458,8 @@
       "status": "active",
       "lat": 42.722,
       "lng": -84.427,
-      "id": "mmh-0204"
+      "id": "mmh-0204",
+      "county": "Ingham"
     },
     {
       "category": "Magazine",
@@ -3271,7 +3473,8 @@
       "status": "active",
       "lat": 42.473,
       "lng": -83.222,
-      "id": "mmh-0205"
+      "id": "mmh-0205",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3286,7 +3489,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0206"
+      "id": "mmh-0206",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Magazine",
@@ -3300,7 +3504,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0207"
+      "id": "mmh-0207",
+      "county": "Ingham"
     },
     {
       "category": "Magazine",
@@ -3314,7 +3519,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0208"
+      "id": "mmh-0208",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Magazine",
@@ -3328,7 +3534,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0209"
+      "id": "mmh-0209",
+      "county": "Ingham"
     },
     {
       "category": "Magazine",
@@ -3342,7 +3549,8 @@
       "status": "active",
       "lat": 43.335,
       "lng": -83.967,
-      "id": "mmh-0210"
+      "id": "mmh-0210",
+      "county": "Shiawassee"
     },
     {
       "category": "Magazine",
@@ -3356,7 +3564,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0211"
+      "id": "mmh-0211",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Magazine",
@@ -3370,7 +3579,8 @@
       "status": "active",
       "lat": 43.594,
       "lng": -83.889,
-      "id": "mmh-0212"
+      "id": "mmh-0212",
+      "county": "Bay"
     },
     {
       "category": "Magazine",
@@ -3384,7 +3594,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0213"
+      "id": "mmh-0213",
+      "county": "Kent"
     },
     {
       "category": "Magazine",
@@ -3398,7 +3609,8 @@
       "status": "active",
       "lat": 42.499,
       "lng": -83.367,
-      "id": "mmh-0214"
+      "id": "mmh-0214",
+      "county": "Oakland"
     },
     {
       "category": "Magazine",
@@ -3412,7 +3624,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0215"
+      "id": "mmh-0215",
+      "county": "Kent"
     },
     {
       "category": "Magazine",
@@ -3426,7 +3639,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0216"
+      "id": "mmh-0216",
+      "county": "Grand Traverse"
     },
     {
       "category": "Magazine",
@@ -3440,7 +3654,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0217"
+      "id": "mmh-0217",
+      "county": "Kent"
     },
     {
       "category": "Magazine",
@@ -3454,7 +3669,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0218"
+      "id": "mmh-0218",
+      "county": "Kent"
     },
     {
       "category": "Magazine",
@@ -3468,7 +3684,8 @@
       "status": "active",
       "lat": 44.498,
       "lng": -84.592,
-      "id": "mmh-0219"
+      "id": "mmh-0219",
+      "county": "Roscommon"
     },
     {
       "category": "Digital",
@@ -3481,7 +3698,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0220"
+      "id": "mmh-0220",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3495,7 +3713,8 @@
       "lat": 42.732,
       "lng": -84.556,
       "rss": "https://www.bridgemi.com/rss.xml",
-      "id": "mmh-0221"
+      "id": "mmh-0221",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3509,7 +3728,8 @@
       "lat": 42.331,
       "lng": -83.046,
       "rss": "https://www.bridgedetroit.com/feed/",
-      "id": "mmh-0222"
+      "id": "mmh-0222",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3523,7 +3743,8 @@
       "notes": "[website corrected Jul 2026]",
       "lat": 43.616,
       "lng": -84.247,
-      "id": "mmh-0223"
+      "id": "mmh-0223",
+      "county": "Midland"
     },
     {
       "category": "Digital",
@@ -3536,7 +3757,8 @@
       "status": "active",
       "lat": 43.616,
       "lng": -84.247,
-      "id": "mmh-0224"
+      "id": "mmh-0224",
+      "county": "Midland"
     },
     {
       "category": "Digital",
@@ -3549,7 +3771,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0225"
+      "id": "mmh-0225",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3562,7 +3785,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0226"
+      "id": "mmh-0226",
+      "county": "Grand Traverse"
     },
     {
       "category": "Digital",
@@ -3577,7 +3801,8 @@
       "lat": 42.331,
       "lng": -83.046,
       "rss": "https://www.dailydetroit.com/feed/",
-      "id": "mmh-0227"
+      "id": "mmh-0227",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3591,7 +3816,8 @@
       "notes": "Announced closure in 2023 but resumed; actively publishing as of July 2026.",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0228"
+      "id": "mmh-0228",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3604,7 +3830,8 @@
       "status": "merged",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0229"
+      "id": "mmh-0229",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3618,7 +3845,8 @@
       "added": "2026-07",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0230"
+      "id": "mmh-0230",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3632,7 +3860,8 @@
       "added": "2026-07",
       "lat": 43.013,
       "lng": -83.687,
-      "id": "mmh-0231"
+      "id": "mmh-0231",
+      "county": "Genesee"
     },
     {
       "category": "Digital",
@@ -3645,7 +3874,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0232"
+      "id": "mmh-0232",
+      "county": "Isabella"
     },
     {
       "category": "Digital",
@@ -3659,7 +3889,8 @@
       "lat": 43.013,
       "lng": -83.687,
       "rss": "https://flintbeat.com/feed/",
-      "id": "mmh-0233"
+      "id": "mmh-0233",
+      "county": "Genesee"
     },
     {
       "category": "Digital",
@@ -3672,7 +3903,8 @@
       "status": "active",
       "lat": 43.013,
       "lng": -83.687,
-      "id": "mmh-0234"
+      "id": "mmh-0234",
+      "county": "Genesee"
     },
     {
       "category": "Digital",
@@ -3686,7 +3918,8 @@
       "added": "2026-07",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0235"
+      "id": "mmh-0235",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3700,7 +3933,8 @@
       "lat": 42.737,
       "lng": -84.484,
       "rss": "https://greatlakesecho.org/feed/",
-      "id": "mmh-0236"
+      "id": "mmh-0236",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3713,7 +3947,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0237"
+      "id": "mmh-0237",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3726,7 +3961,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0238"
+      "id": "mmh-0238",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3740,7 +3976,8 @@
       "lat": 42.732,
       "lng": -84.556,
       "rss": "https://michiganadvance.com/feed/",
-      "id": "mmh-0239"
+      "id": "mmh-0239",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3755,7 +3992,8 @@
       "lat": 44.2,
       "lng": -84.8,
       "rss": "https://michiganenjoyer.com/feed/",
-      "id": "mmh-0240"
+      "id": "mmh-0240",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -3768,7 +4006,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0241"
+      "id": "mmh-0241",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -3781,7 +4020,8 @@
       "status": "active",
       "lat": 43.802,
       "lng": -83.001,
-      "id": "mmh-0242"
+      "id": "mmh-0242",
+      "county": "Huron"
     },
     {
       "category": "Digital",
@@ -3795,7 +4035,8 @@
       "added": "2026-07",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0243"
+      "id": "mmh-0243",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3809,7 +4050,8 @@
       "lat": 42.963,
       "lng": -85.668,
       "rss": "https://www.mlive.com/arc/outboundfeeds/rss/?outputType=xml",
-      "id": "mmh-0244"
+      "id": "mmh-0244",
+      "county": "Kent"
     },
     {
       "category": "Digital",
@@ -3822,7 +4064,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0245"
+      "id": "mmh-0245",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3835,7 +4078,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0246"
+      "id": "mmh-0246",
+      "county": "Marquette"
     },
     {
       "category": "Digital",
@@ -3848,7 +4092,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0247"
+      "id": "mmh-0247",
+      "county": "Grand Traverse"
     },
     {
       "category": "Digital",
@@ -3861,7 +4106,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0248"
+      "id": "mmh-0248",
+      "county": "Kalamazoo"
     },
     {
       "category": "Digital",
@@ -3875,7 +4121,8 @@
       "lat": 42.331,
       "lng": -83.046,
       "rss": "https://outliermedia.org/feed/",
-      "id": "mmh-0249"
+      "id": "mmh-0249",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3889,7 +4136,8 @@
       "lat": 42.331,
       "lng": -83.046,
       "rss": "https://planetdetroit.org/feed/",
-      "id": "mmh-0250"
+      "id": "mmh-0250",
+      "county": "Wayne"
     },
     {
       "category": "Digital",
@@ -3903,7 +4151,8 @@
       "notes": "[name corrected Jul 2026]",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0251"
+      "id": "mmh-0251",
+      "county": "Ingham"
     },
     {
       "category": "Digital",
@@ -3916,7 +4165,8 @@
       "status": "active",
       "lat": 43.594,
       "lng": -83.889,
-      "id": "mmh-0252"
+      "id": "mmh-0252",
+      "county": "Bay"
     },
     {
       "category": "Digital",
@@ -3929,7 +4179,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0253"
+      "id": "mmh-0253",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -3942,7 +4193,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0254"
+      "id": "mmh-0254",
+      "county": "Kalamazoo"
     },
     {
       "category": "Digital",
@@ -3957,7 +4209,8 @@
       "lat": 44.2,
       "lng": -84.8,
       "rss": "https://gandernewsroom.com/feed/",
-      "id": "mmh-0255"
+      "id": "mmh-0255",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -3971,7 +4224,8 @@
       "added": "2026-07",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0256"
+      "id": "mmh-0256",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -3984,7 +4238,8 @@
       "status": "active",
       "lat": 42.971,
       "lng": -82.425,
-      "id": "mmh-0257"
+      "id": "mmh-0257",
+      "county": "St. Clair"
     },
     {
       "category": "Digital",
@@ -3998,7 +4253,8 @@
       "added": "2026-07",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0258"
+      "id": "mmh-0258",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -4012,7 +4268,8 @@
       "lat": 42.963,
       "lng": -85.668,
       "rss": "https://therapidian.org/rss.xml",
-      "id": "mmh-0259"
+      "id": "mmh-0259",
+      "county": "Kent"
     },
     {
       "category": "Digital",
@@ -4025,7 +4282,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0260"
+      "id": "mmh-0260",
+      "county": "Grand Traverse"
     },
     {
       "category": "Digital",
@@ -4038,7 +4296,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0261"
+      "id": "mmh-0261",
+      "county": "Marquette"
     },
     {
       "category": "Digital",
@@ -4051,7 +4310,8 @@
       "status": "active",
       "lat": 46.5,
       "lng": -87.4,
-      "id": "mmh-0262"
+      "id": "mmh-0262",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Digital",
@@ -4064,7 +4324,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0263"
+      "id": "mmh-0263",
+      "county": "Ingham"
     },
     {
       "category": "Public Media",
@@ -4077,7 +4338,8 @@
       "status": "active",
       "lat": 42.321,
       "lng": -85.18,
-      "id": "mmh-0264"
+      "id": "mmh-0264",
+      "county": "Calhoun"
     },
     {
       "category": "Public Media",
@@ -4090,7 +4352,8 @@
       "status": "active",
       "lat": 43.594,
       "lng": -83.889,
-      "id": "mmh-0265"
+      "id": "mmh-0265",
+      "county": "Bay"
     },
     {
       "category": "Public Media",
@@ -4103,7 +4366,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0266"
+      "id": "mmh-0266",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4116,7 +4380,8 @@
       "status": "active",
       "lat": 42.584,
       "lng": -83.246,
-      "id": "mmh-0267"
+      "id": "mmh-0267",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4129,7 +4394,8 @@
       "status": "active",
       "lat": 43.362,
       "lng": -86.164,
-      "id": "mmh-0268"
+      "id": "mmh-0268",
+      "county": "Muskegon"
     },
     {
       "category": "Public Media",
@@ -4142,7 +4408,8 @@
       "status": "active",
       "lat": 44.252,
       "lng": -85.401,
-      "id": "mmh-0269"
+      "id": "mmh-0269",
+      "county": "Wexford"
     },
     {
       "category": "Public Media",
@@ -4155,7 +4422,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0270"
+      "id": "mmh-0270",
+      "county": "Washtenaw"
     },
     {
       "category": "Public Media",
@@ -4168,7 +4436,8 @@
       "status": "active",
       "lat": 42.587,
       "lng": -82.92,
-      "id": "mmh-0271"
+      "id": "mmh-0271",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4181,7 +4450,8 @@
       "status": "active",
       "lat": 42.681,
       "lng": -83.134,
-      "id": "mmh-0272"
+      "id": "mmh-0272",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4194,7 +4464,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0273"
+      "id": "mmh-0273",
+      "county": "Washtenaw"
     },
     {
       "category": "Public Media",
@@ -4207,7 +4478,8 @@
       "status": "active",
       "lat": 42.322,
       "lng": -83.176,
-      "id": "mmh-0274"
+      "id": "mmh-0274",
+      "county": "Wayne"
     },
     {
       "category": "Public Media",
@@ -4220,7 +4492,8 @@
       "status": "active",
       "lat": 43.558,
       "lng": -83.986,
-      "id": "mmh-0275"
+      "id": "mmh-0275",
+      "county": "Saginaw"
     },
     {
       "category": "Public Media",
@@ -4234,7 +4507,8 @@
       "notes": "[name corrected Jul 2026] [website corrected Jul 2026]",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0276"
+      "id": "mmh-0276",
+      "county": "Wayne"
     },
     {
       "category": "Public Media",
@@ -4247,7 +4521,8 @@
       "status": "active",
       "lat": 42.737,
       "lng": -84.484,
-      "id": "mmh-0277"
+      "id": "mmh-0277",
+      "county": "Ingham"
     },
     {
       "category": "Public Media",
@@ -4260,7 +4535,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0278"
+      "id": "mmh-0278",
+      "county": "Kent"
     },
     {
       "category": "Public Media",
@@ -4273,7 +4549,8 @@
       "status": "active",
       "lat": 42.788,
       "lng": -86.109,
-      "id": "mmh-0279"
+      "id": "mmh-0279",
+      "county": "Ottawa"
     },
     {
       "category": "Public Media",
@@ -4286,7 +4563,8 @@
       "status": "active",
       "lat": 42.747,
       "lng": -84.401,
-      "id": "mmh-0280"
+      "id": "mmh-0280",
+      "county": "Ingham"
     },
     {
       "category": "Public Media",
@@ -4299,7 +4577,8 @@
       "status": "active",
       "lat": 42.481,
       "lng": -83.167,
-      "id": "mmh-0281"
+      "id": "mmh-0281",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4312,7 +4591,8 @@
       "status": "active",
       "lat": 42.735,
       "lng": -83.418,
-      "id": "mmh-0282"
+      "id": "mmh-0282",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4325,7 +4605,8 @@
       "status": "active",
       "lat": 44.64,
       "lng": -85.768,
-      "id": "mmh-0283"
+      "id": "mmh-0283",
+      "county": "Grand Traverse"
     },
     {
       "category": "Public Media",
@@ -4338,7 +4619,8 @@
       "status": "active",
       "lat": 42.784,
       "lng": -83.24,
-      "id": "mmh-0284"
+      "id": "mmh-0284",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4351,7 +4633,8 @@
       "status": "active",
       "lat": 42.368,
       "lng": -83.353,
-      "id": "mmh-0285"
+      "id": "mmh-0285",
+      "county": "Wayne"
     },
     {
       "category": "Public Media",
@@ -4364,7 +4647,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0286"
+      "id": "mmh-0286",
+      "county": "Isabella"
     },
     {
       "category": "Public Media",
@@ -4377,7 +4661,8 @@
       "status": "active",
       "lat": 42.7,
       "lng": -82.94,
-      "id": "mmh-0287"
+      "id": "mmh-0287",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4390,7 +4675,8 @@
       "status": "active",
       "lat": 42.35,
       "lng": -83.1,
-      "id": "mmh-0288"
+      "id": "mmh-0288",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4403,7 +4689,8 @@
       "status": "active",
       "lat": 44.244,
       "lng": -86.324,
-      "id": "mmh-0289"
+      "id": "mmh-0289",
+      "county": "Manistee"
     },
     {
       "category": "Public Media",
@@ -4416,7 +4703,8 @@
       "status": "active",
       "lat": 43.616,
       "lng": -84.247,
-      "id": "mmh-0290"
+      "id": "mmh-0290",
+      "county": "Midland"
     },
     {
       "category": "Public Media",
@@ -4430,7 +4718,8 @@
       "lat": 42.281,
       "lng": -83.743,
       "rss": "https://www.michiganpublic.org/index.rss",
-      "id": "mmh-0291"
+      "id": "mmh-0291",
+      "county": "Washtenaw"
     },
     {
       "category": "Public Media",
@@ -4445,7 +4734,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0292"
+      "id": "mmh-0292",
+      "county": "Ingham"
     },
     {
       "category": "Public Media",
@@ -4458,7 +4748,8 @@
       "status": "active",
       "lat": 41.916,
       "lng": -83.398,
-      "id": "mmh-0293"
+      "id": "mmh-0293",
+      "county": "Monroe"
     },
     {
       "category": "Public Media",
@@ -4471,7 +4762,8 @@
       "status": "active",
       "lat": 42.825,
       "lng": -83.265,
-      "id": "mmh-0294"
+      "id": "mmh-0294",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4484,7 +4776,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0295"
+      "id": "mmh-0295",
+      "county": "Kalamazoo"
     },
     {
       "category": "Public Media",
@@ -4497,7 +4790,8 @@
       "status": "active",
       "lat": 43.419,
       "lng": -83.951,
-      "id": "mmh-0296"
+      "id": "mmh-0296",
+      "county": "Saginaw"
     },
     {
       "category": "Public Media",
@@ -4510,7 +4804,8 @@
       "status": "active",
       "lat": 42.35,
       "lng": -83.1,
-      "id": "mmh-0297"
+      "id": "mmh-0297",
+      "county": "St. Clair"
     },
     {
       "category": "Public Media",
@@ -4523,7 +4818,8 @@
       "status": "active",
       "lat": 42.497,
       "lng": -82.889,
-      "id": "mmh-0298"
+      "id": "mmh-0298",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4536,7 +4832,8 @@
       "status": "active",
       "lat": 42.671,
       "lng": -83.033,
-      "id": "mmh-0299"
+      "id": "mmh-0299",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4549,7 +4846,8 @@
       "status": "active",
       "lat": 42.473,
       "lng": -83.222,
-      "id": "mmh-0300"
+      "id": "mmh-0300",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4562,7 +4860,8 @@
       "status": "active",
       "lat": 42.464,
       "lng": -83.376,
-      "id": "mmh-0301"
+      "id": "mmh-0301",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4575,7 +4874,8 @@
       "status": "active",
       "lat": 42.58,
       "lng": -83.03,
-      "id": "mmh-0302"
+      "id": "mmh-0302",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4588,7 +4888,8 @@
       "status": "active",
       "lat": 44.763,
       "lng": -85.62,
-      "id": "mmh-0303"
+      "id": "mmh-0303",
+      "county": "Grand Traverse"
     },
     {
       "category": "Public Media",
@@ -4601,7 +4902,8 @@
       "status": "active",
       "lat": 42.478,
       "lng": -83.028,
-      "id": "mmh-0304"
+      "id": "mmh-0304",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4614,7 +4916,8 @@
       "status": "active",
       "lat": 42.693,
       "lng": -83.412,
-      "id": "mmh-0305"
+      "id": "mmh-0305",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4627,7 +4930,8 @@
       "status": "active",
       "lat": 42.786,
       "lng": -82.994,
-      "id": "mmh-0306"
+      "id": "mmh-0306",
+      "county": "Macomb"
     },
     {
       "category": "Public Media",
@@ -4640,7 +4944,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0307"
+      "id": "mmh-0307",
+      "county": "Isabella"
     },
     {
       "category": "Public Media",
@@ -4653,7 +4958,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0308"
+      "id": "mmh-0308",
+      "county": "Wayne"
     },
     {
       "category": "Public Media",
@@ -4666,7 +4972,8 @@
       "status": "active",
       "lat": 42.241,
       "lng": -83.613,
-      "id": "mmh-0309"
+      "id": "mmh-0309",
+      "county": "Washtenaw"
     },
     {
       "category": "Public Media",
@@ -4679,7 +4986,8 @@
       "status": "active",
       "lat": 42.569,
       "lng": -83.384,
-      "id": "mmh-0310"
+      "id": "mmh-0310",
+      "county": "Oakland"
     },
     {
       "category": "Public Media",
@@ -4692,7 +5000,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0311"
+      "id": "mmh-0311",
+      "county": "Kent"
     },
     {
       "category": "Public Media",
@@ -4705,7 +5014,8 @@
       "status": "active",
       "lat": 42.737,
       "lng": -84.484,
-      "id": "mmh-0312"
+      "id": "mmh-0312",
+      "county": "Ingham"
     },
     {
       "category": "Public Media",
@@ -4718,7 +5028,8 @@
       "status": "active",
       "lat": 42.913,
       "lng": -85.706,
-      "id": "mmh-0313"
+      "id": "mmh-0313",
+      "county": "Kent"
     },
     {
       "category": "Public Media",
@@ -4731,7 +5042,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0314"
+      "id": "mmh-0314",
+      "county": "Kalamazoo"
     },
     {
       "category": "Public Media",
@@ -4744,7 +5056,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0315"
+      "id": "mmh-0315",
+      "county": "Marquette"
     },
     {
       "category": "Public Media",
@@ -4757,7 +5070,8 @@
       "status": "active",
       "lat": 42.214,
       "lng": -83.15,
-      "id": "mmh-0316"
+      "id": "mmh-0316",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -4772,7 +5086,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0317"
+      "id": "mmh-0317",
+      "county": "Marquette"
     },
     {
       "category": "Ethnic & Religious",
@@ -4787,7 +5102,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0318"
+      "id": "mmh-0318",
+      "county": "Marquette"
     },
     {
       "category": "Ethnic & Religious",
@@ -4802,7 +5118,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0319"
+      "id": "mmh-0319",
+      "county": "Washtenaw"
     },
     {
       "category": "Ethnic & Religious",
@@ -4817,7 +5134,8 @@
       "status": "active",
       "lat": 42.35,
       "lng": -83.1,
-      "id": "mmh-0320"
+      "id": "mmh-0320",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -4832,7 +5150,8 @@
       "status": "active",
       "lat": 45.027,
       "lng": -84.675,
-      "id": "mmh-0321"
+      "id": "mmh-0321",
+      "county": "Otsego"
     },
     {
       "category": "Ethnic & Religious",
@@ -4847,7 +5166,8 @@
       "status": "active",
       "lat": 42.569,
       "lng": -83.384,
-      "id": "mmh-0322"
+      "id": "mmh-0322",
+      "county": "Oakland"
     },
     {
       "category": "Ethnic & Religious",
@@ -4862,7 +5182,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0323"
+      "id": "mmh-0323",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -4877,7 +5198,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0324"
+      "id": "mmh-0324",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -4892,7 +5214,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0325"
+      "id": "mmh-0325",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -4907,7 +5230,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0326"
+      "id": "mmh-0326",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -4922,7 +5246,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0327"
+      "id": "mmh-0327",
+      "county": "Kent"
     },
     {
       "category": "Ethnic & Religious",
@@ -4940,7 +5265,8 @@
       "language": "English",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0328"
+      "id": "mmh-0328",
+      "county": "Ingham"
     },
     {
       "category": "Ethnic & Religious",
@@ -4955,7 +5281,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0329"
+      "id": "mmh-0329",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -4970,7 +5297,8 @@
       "status": "active",
       "lat": 43.616,
       "lng": -84.247,
-      "id": "mmh-0330"
+      "id": "mmh-0330",
+      "county": "Midland"
     },
     {
       "category": "Ethnic & Religious",
@@ -4988,7 +5316,8 @@
       "language": "English",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0331"
+      "id": "mmh-0331",
+      "county": "Kent"
     },
     {
       "category": "Ethnic & Religious",
@@ -5003,7 +5332,8 @@
       "status": "active",
       "lat": 45.01,
       "lng": -85.611,
-      "id": "mmh-0332"
+      "id": "mmh-0332",
+      "county": "Leelanau"
     },
     {
       "category": "Ethnic & Religious",
@@ -5018,7 +5348,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0333"
+      "id": "mmh-0333",
+      "county": "Kent"
     },
     {
       "category": "Ethnic & Religious",
@@ -5036,7 +5367,8 @@
       "language": "English",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0334"
+      "id": "mmh-0334",
+      "county": "Ingham"
     },
     {
       "category": "Ethnic & Religious",
@@ -5051,7 +5383,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0335"
+      "id": "mmh-0335",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -5066,7 +5399,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0336"
+      "id": "mmh-0336",
+      "county": "Kent"
     },
     {
       "category": "Ethnic & Religious",
@@ -5081,7 +5415,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0337"
+      "id": "mmh-0337",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5096,7 +5431,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0338"
+      "id": "mmh-0338",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -5111,7 +5447,8 @@
       "status": "active",
       "lat": 41.946,
       "lng": -86.339,
-      "id": "mmh-0339"
+      "id": "mmh-0339",
+      "county": "Berrien"
     },
     {
       "category": "Ethnic & Religious",
@@ -5126,7 +5463,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0340"
+      "id": "mmh-0340",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5141,7 +5479,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0341"
+      "id": "mmh-0341",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5156,7 +5495,8 @@
       "status": "active",
       "lat": 42.35,
       "lng": -83.1,
-      "id": "mmh-0342"
+      "id": "mmh-0342",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -5171,7 +5511,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0343"
+      "id": "mmh-0343",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5186,7 +5527,8 @@
       "status": "active",
       "lat": 44.76,
       "lng": -85.62,
-      "id": "mmh-0344"
+      "id": "mmh-0344",
+      "county": "Emmet"
     },
     {
       "category": "Ethnic & Religious",
@@ -5201,7 +5543,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0345"
+      "id": "mmh-0345",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5218,7 +5561,8 @@
       "language": "English",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0346"
+      "id": "mmh-0346",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -5233,7 +5577,8 @@
       "status": "active",
       "lat": 45.027,
       "lng": -84.675,
-      "id": "mmh-0347"
+      "id": "mmh-0347",
+      "county": "Otsego"
     },
     {
       "category": "Ethnic & Religious",
@@ -5248,7 +5593,8 @@
       "status": "active",
       "lat": 42.58,
       "lng": -83.03,
-      "id": "mmh-0348"
+      "id": "mmh-0348",
+      "county": "Macomb"
     },
     {
       "category": "Ethnic & Religious",
@@ -5263,7 +5609,8 @@
       "status": "active",
       "lat": 42.81,
       "lng": -84.789,
-      "id": "mmh-0349"
+      "id": "mmh-0349",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Ethnic & Religious",
@@ -5281,7 +5628,8 @@
       "language": "English",
       "lat": 42.273,
       "lng": -83.134,
-      "id": "mmh-0350"
+      "id": "mmh-0350",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5296,7 +5644,8 @@
       "status": "active",
       "lat": 42.322,
       "lng": -83.176,
-      "id": "mmh-0351"
+      "id": "mmh-0351",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5311,7 +5660,8 @@
       "status": "active",
       "lat": 42.473,
       "lng": -83.222,
-      "id": "mmh-0352"
+      "id": "mmh-0352",
+      "county": "Oakland"
     },
     {
       "category": "Ethnic & Religious",
@@ -5328,7 +5678,8 @@
       "language": "English",
       "lat": 43.419,
       "lng": -83.951,
-      "id": "mmh-0353"
+      "id": "mmh-0353",
+      "county": "Saginaw"
     },
     {
       "category": "Ethnic & Religious",
@@ -5343,7 +5694,8 @@
       "status": "active",
       "lat": 42.464,
       "lng": -83.376,
-      "id": "mmh-0354"
+      "id": "mmh-0354",
+      "county": "Oakland"
     },
     {
       "category": "Ethnic & Religious",
@@ -5361,7 +5713,8 @@
       "language": "English",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0355"
+      "id": "mmh-0355",
+      "county": "Marquette"
     },
     {
       "category": "Ethnic & Religious",
@@ -5376,7 +5729,8 @@
       "status": "active",
       "lat": 42.322,
       "lng": -83.176,
-      "id": "mmh-0356"
+      "id": "mmh-0356",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5391,7 +5745,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0357"
+      "id": "mmh-0357",
+      "county": "Isabella"
     },
     {
       "category": "Ethnic & Religious",
@@ -5409,7 +5764,8 @@
       "language": "Polish / English",
       "lat": 42.393,
       "lng": -83.05,
-      "id": "mmh-0358"
+      "id": "mmh-0358",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5424,7 +5780,8 @@
       "status": "active",
       "lat": 42.489,
       "lng": -83.145,
-      "id": "mmh-0359"
+      "id": "mmh-0359",
+      "county": "Oakland"
     },
     {
       "category": "Ethnic & Religious",
@@ -5439,7 +5796,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0360"
+      "id": "mmh-0360",
+      "county": "Kent"
     },
     {
       "category": "Ethnic & Religious",
@@ -5454,7 +5812,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0361"
+      "id": "mmh-0361",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5469,7 +5828,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0362"
+      "id": "mmh-0362",
+      "county": "Kent"
     },
     {
       "category": "Ethnic & Religious",
@@ -5484,7 +5844,8 @@
       "status": "active",
       "lat": 46.49,
       "lng": -84.345,
-      "id": "mmh-0363"
+      "id": "mmh-0363",
+      "county": "Chippewa"
     },
     {
       "category": "Ethnic & Religious",
@@ -5499,7 +5860,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0364"
+      "id": "mmh-0364",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5514,7 +5876,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0365"
+      "id": "mmh-0365",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5529,7 +5892,8 @@
       "status": "active",
       "lat": 42.241,
       "lng": -83.27,
-      "id": "mmh-0366"
+      "id": "mmh-0366",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5544,7 +5908,8 @@
       "status": "active",
       "lat": 42.337,
       "lng": -83.273,
-      "id": "mmh-0367"
+      "id": "mmh-0367",
+      "county": "Wayne"
     },
     {
       "category": "Ethnic & Religious",
@@ -5559,7 +5924,8 @@
       "status": "active",
       "lat": 46.779,
       "lng": -88.489,
-      "id": "mmh-0368"
+      "id": "mmh-0368",
+      "county": "Baraga"
     },
     {
       "category": "Ethnic & Religious",
@@ -5574,7 +5940,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0369"
+      "id": "mmh-0369",
+      "county": "Wayne"
     },
     {
       "category": "University",
@@ -5588,7 +5955,8 @@
       "added": "2026-07",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0370"
+      "id": "mmh-0370",
+      "county": "Kent"
     },
     {
       "category": "University",
@@ -5601,7 +5969,8 @@
       "status": "active",
       "lat": 43.598,
       "lng": -84.768,
-      "id": "mmh-0371"
+      "id": "mmh-0371",
+      "county": "Isabella"
     },
     {
       "category": "University",
@@ -5614,7 +5983,8 @@
       "status": "active",
       "lat": 43.558,
       "lng": -83.986,
-      "id": "mmh-0372"
+      "id": "mmh-0372",
+      "county": "Saginaw"
     },
     {
       "category": "University",
@@ -5627,7 +5997,8 @@
       "status": "active",
       "lat": 42.241,
       "lng": -83.613,
-      "id": "mmh-0373"
+      "id": "mmh-0373",
+      "county": "Washtenaw"
     },
     {
       "category": "University",
@@ -5640,7 +6011,8 @@
       "status": "active",
       "lat": 43.698,
       "lng": -85.484,
-      "id": "mmh-0374"
+      "id": "mmh-0374",
+      "county": "Mecosta"
     },
     {
       "category": "University",
@@ -5653,7 +6025,8 @@
       "status": "active",
       "lat": 42.972,
       "lng": -85.954,
-      "id": "mmh-0375"
+      "id": "mmh-0375",
+      "county": "Ottawa"
     },
     {
       "category": "University",
@@ -5666,7 +6039,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0376"
+      "id": "mmh-0376",
+      "county": "Kent"
     },
     {
       "category": "University",
@@ -5681,7 +6055,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 42.322,
       "lng": -83.176,
-      "id": "mmh-0377"
+      "id": "mmh-0377",
+      "county": "Wayne"
     },
     {
       "category": "University",
@@ -5694,7 +6069,8 @@
       "status": "active",
       "lat": 42.322,
       "lng": -83.176,
-      "id": "mmh-0378"
+      "id": "mmh-0378",
+      "county": "Wayne"
     },
     {
       "category": "University",
@@ -5707,7 +6083,8 @@
       "status": "active",
       "lat": 46.544,
       "lng": -87.396,
-      "id": "mmh-0379"
+      "id": "mmh-0379",
+      "county": "Marquette"
     },
     {
       "category": "University",
@@ -5720,7 +6097,8 @@
       "status": "active",
       "lat": 42.681,
       "lng": -83.134,
-      "id": "mmh-0380"
+      "id": "mmh-0380",
+      "county": "Oakland"
     },
     {
       "category": "University",
@@ -5733,7 +6111,8 @@
       "status": "active",
       "lat": 42.737,
       "lng": -84.484,
-      "id": "mmh-0381"
+      "id": "mmh-0381",
+      "county": "Ingham"
     },
     {
       "category": "University",
@@ -5746,7 +6125,8 @@
       "status": "active",
       "lat": 41.916,
       "lng": -83.398,
-      "id": "mmh-0382"
+      "id": "mmh-0382",
+      "county": "Monroe"
     },
     {
       "category": "University",
@@ -5761,7 +6141,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 43.379,
       "lng": -84.66,
-      "id": "mmh-0383"
+      "id": "mmh-0383",
+      "county": "Gratiot"
     },
     {
       "category": "University",
@@ -5776,7 +6157,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 42.788,
       "lng": -86.109,
-      "id": "mmh-0384"
+      "id": "mmh-0384",
+      "county": "Ottawa"
     },
     {
       "category": "University",
@@ -5789,7 +6171,8 @@
       "status": "active",
       "lat": 41.92,
       "lng": -84.63,
-      "id": "mmh-0385"
+      "id": "mmh-0385",
+      "county": "Hillsdale"
     },
     {
       "category": "University",
@@ -5802,7 +6185,8 @@
       "status": "active",
       "lat": 42.368,
       "lng": -83.353,
-      "id": "mmh-0386"
+      "id": "mmh-0386",
+      "county": "Wayne"
     },
     {
       "category": "University",
@@ -5815,7 +6199,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0387"
+      "id": "mmh-0387",
+      "county": "Eaton"
     },
     {
       "category": "University",
@@ -5830,7 +6215,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0388"
+      "id": "mmh-0388",
+      "county": "Kalamazoo"
     },
     {
       "category": "University",
@@ -5843,7 +6229,8 @@
       "status": "active",
       "lat": 47.121,
       "lng": -88.569,
-      "id": "mmh-0389"
+      "id": "mmh-0389",
+      "county": "Houghton"
     },
     {
       "category": "University",
@@ -5856,7 +6243,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0390"
+      "id": "mmh-0390",
+      "county": "Ingham"
     },
     {
       "category": "University",
@@ -5869,7 +6257,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0391"
+      "id": "mmh-0391",
+      "county": "Washtenaw"
     },
     {
       "category": "University",
@@ -5883,7 +6272,8 @@
       "added": "2026-07",
       "lat": 42.243,
       "lng": -84.753,
-      "id": "mmh-0392"
+      "id": "mmh-0392",
+      "county": "Calhoun"
     },
     {
       "category": "University",
@@ -5898,7 +6288,8 @@
       "notes": "URL unverified — link checker will confirm.",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0393"
+      "id": "mmh-0393",
+      "county": "Kent"
     },
     {
       "category": "University",
@@ -5911,7 +6302,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0394"
+      "id": "mmh-0394",
+      "county": "Wayne"
     },
     {
       "category": "University",
@@ -5924,7 +6316,8 @@
       "status": "active",
       "lat": 43.558,
       "lng": -83.986,
-      "id": "mmh-0395"
+      "id": "mmh-0395",
+      "county": "Saginaw"
     },
     {
       "category": "University",
@@ -5937,7 +6330,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0396"
+      "id": "mmh-0396",
+      "county": "Wayne"
     },
     {
       "category": "University",
@@ -5950,7 +6344,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0397"
+      "id": "mmh-0397",
+      "county": "Washtenaw"
     },
     {
       "category": "University",
@@ -5963,7 +6358,8 @@
       "status": "active",
       "lat": 42.291,
       "lng": -85.587,
-      "id": "mmh-0398"
+      "id": "mmh-0398",
+      "county": "Kalamazoo"
     },
     {
       "category": "Business",
@@ -5976,7 +6372,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0399"
+      "id": "mmh-0399",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -5989,7 +6386,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0400"
+      "id": "mmh-0400",
+      "county": "Wayne"
     },
     {
       "category": "Business",
@@ -6002,7 +6400,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0401"
+      "id": "mmh-0401",
+      "county": "Wayne"
     },
     {
       "category": "Business",
@@ -6015,7 +6414,8 @@
       "status": "active",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0402"
+      "id": "mmh-0402",
+      "county": "Washtenaw"
     },
     {
       "category": "Business",
@@ -6028,7 +6428,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0403"
+      "id": "mmh-0403",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Business",
@@ -6041,7 +6442,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0404"
+      "id": "mmh-0404",
+      "county": "Wayne"
     },
     {
       "category": "Business",
@@ -6054,7 +6456,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0405"
+      "id": "mmh-0405",
+      "county": "Kent"
     },
     {
       "category": "Business",
@@ -6067,7 +6470,8 @@
       "status": "active",
       "lat": 42.606,
       "lng": -83.15,
-      "id": "mmh-0406"
+      "id": "mmh-0406",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -6080,7 +6484,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0407"
+      "id": "mmh-0407",
+      "county": "Wayne"
     },
     {
       "category": "Business",
@@ -6093,7 +6498,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0408"
+      "id": "mmh-0408",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -6106,7 +6512,8 @@
       "status": "active",
       "lat": 42.35,
       "lng": -83.1,
-      "id": "mmh-0409"
+      "id": "mmh-0409",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Business",
@@ -6119,7 +6526,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0410"
+      "id": "mmh-0410",
+      "county": "Ingham"
     },
     {
       "category": "Business",
@@ -6132,7 +6540,8 @@
       "status": "active",
       "lat": 44.2,
       "lng": -84.8,
-      "id": "mmh-0411"
+      "id": "mmh-0411",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Business",
@@ -6145,7 +6554,8 @@
       "status": "active",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0412"
+      "id": "mmh-0412",
+      "county": "Wayne"
     },
     {
       "category": "Business",
@@ -6158,7 +6568,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0413"
+      "id": "mmh-0413",
+      "county": "Kent"
     },
     {
       "category": "Business",
@@ -6171,7 +6582,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0414"
+      "id": "mmh-0414",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -6184,7 +6596,8 @@
       "status": "active",
       "lat": 42.963,
       "lng": -85.668,
-      "id": "mmh-0415"
+      "id": "mmh-0415",
+      "county": "Kent"
     },
     {
       "category": "Business",
@@ -6197,7 +6610,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0416"
+      "id": "mmh-0416",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -6210,7 +6624,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0417"
+      "id": "mmh-0417",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -6223,7 +6638,8 @@
       "status": "active",
       "lat": 42.547,
       "lng": -83.211,
-      "id": "mmh-0418"
+      "id": "mmh-0418",
+      "county": "Oakland"
     },
     {
       "category": "Business",
@@ -6236,7 +6652,8 @@
       "status": "active",
       "lat": 42.732,
       "lng": -84.556,
-      "id": "mmh-0419"
+      "id": "mmh-0419",
+      "county": "Ingham"
     },
     {
       "category": "Business",
@@ -6249,7 +6666,8 @@
       "status": "active",
       "lat": 42.473,
       "lng": -83.222,
-      "id": "mmh-0420"
+      "id": "mmh-0420",
+      "county": "Oakland"
     },
     {
       "category": "Sports & Outdoors",
@@ -6263,7 +6681,8 @@
       "added": "2026-07",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0421"
+      "id": "mmh-0421",
+      "county": "Washtenaw"
     },
     {
       "category": "Sports & Outdoors",
@@ -6277,7 +6696,8 @@
       "added": "2026-07",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0422"
+      "id": "mmh-0422",
+      "county": "Washtenaw"
     },
     {
       "category": "Sports & Outdoors",
@@ -6291,7 +6711,8 @@
       "added": "2026-07",
       "lat": 42.281,
       "lng": -83.743,
-      "id": "mmh-0423"
+      "id": "mmh-0423",
+      "county": "Washtenaw"
     },
     {
       "category": "Sports & Outdoors",
@@ -6305,7 +6726,8 @@
       "added": "2026-07",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0424"
+      "id": "mmh-0424",
+      "county": "Wayne"
     },
     {
       "category": "Sports & Outdoors",
@@ -6319,7 +6741,8 @@
       "added": "2026-07",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0425"
+      "id": "mmh-0425",
+      "county": "Wayne"
     },
     {
       "category": "Sports & Outdoors",
@@ -6333,7 +6756,8 @@
       "added": "2026-07",
       "lat": 42.737,
       "lng": -84.484,
-      "id": "mmh-0426"
+      "id": "mmh-0426",
+      "county": "Ingham"
     },
     {
       "category": "Sports & Outdoors",
@@ -6347,7 +6771,8 @@
       "added": "2026-07",
       "lat": 42.331,
       "lng": -83.046,
-      "id": "mmh-0427"
+      "id": "mmh-0427",
+      "county": "Wayne"
     },
     {
       "category": "Border & Cross-Border",
@@ -6363,7 +6788,8 @@
       "lat": 42.3149,
       "lng": -83.0364,
       "id": "mmh-0428",
-      "notes": "URL unverified — link checker will confirm."
+      "notes": "URL unverified — link checker will confirm.",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6378,7 +6804,8 @@
       "added": "2026-07",
       "lat": 42.3149,
       "lng": -83.0364,
-      "id": "mmh-0429"
+      "id": "mmh-0429",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6393,7 +6820,8 @@
       "added": "2026-07",
       "lat": 42.3149,
       "lng": -83.0364,
-      "id": "mmh-0430"
+      "id": "mmh-0430",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6408,7 +6836,8 @@
       "added": "2026-07",
       "lat": 41.6528,
       "lng": -83.5379,
-      "id": "mmh-0431"
+      "id": "mmh-0431",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6423,7 +6852,8 @@
       "added": "2026-07",
       "lat": 41.6528,
       "lng": -83.5379,
-      "id": "mmh-0432"
+      "id": "mmh-0432",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6438,7 +6868,8 @@
       "added": "2026-07",
       "lat": 41.6528,
       "lng": -83.5379,
-      "id": "mmh-0433"
+      "id": "mmh-0433",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6454,7 +6885,8 @@
       "lat": 41.6528,
       "lng": -83.5379,
       "id": "mmh-0434",
-      "notes": "URL unverified — link checker will confirm."
+      "notes": "URL unverified — link checker will confirm.",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6469,7 +6901,8 @@
       "added": "2026-07",
       "lat": 41.6528,
       "lng": -83.5379,
-      "id": "mmh-0435"
+      "id": "mmh-0435",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6484,7 +6917,8 @@
       "added": "2026-07",
       "lat": 41.6764,
       "lng": -86.252,
-      "id": "mmh-0436"
+      "id": "mmh-0436",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6499,7 +6933,8 @@
       "added": "2026-07",
       "lat": 41.6764,
       "lng": -86.252,
-      "id": "mmh-0437"
+      "id": "mmh-0437",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6514,7 +6949,8 @@
       "added": "2026-07",
       "lat": 41.6764,
       "lng": -86.252,
-      "id": "mmh-0438"
+      "id": "mmh-0438",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6529,7 +6965,8 @@
       "added": "2026-07",
       "lat": 41.6764,
       "lng": -86.252,
-      "id": "mmh-0439"
+      "id": "mmh-0439",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6545,7 +6982,8 @@
       "lat": 45.0998,
       "lng": -87.6304,
       "id": "mmh-0440",
-      "notes": "URL unverified — link checker will confirm."
+      "notes": "URL unverified — link checker will confirm.",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6560,7 +6998,8 @@
       "added": "2026-07",
       "lat": 44.5133,
       "lng": -88.0133,
-      "id": "mmh-0441"
+      "id": "mmh-0441",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6575,7 +7014,8 @@
       "added": "2026-07",
       "lat": 44.5133,
       "lng": -88.0133,
-      "id": "mmh-0442"
+      "id": "mmh-0442",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Border & Cross-Border",
@@ -6590,7 +7030,8 @@
       "added": "2026-07",
       "lat": 44.5133,
       "lng": -88.0133,
-      "id": "mmh-0443"
+      "id": "mmh-0443",
+      "county": "Statewide / Multi-County"
     },
     {
       "category": "Weekly",
@@ -6604,7 +7045,8 @@
       "added": "2026-07",
       "lat": 42.272,
       "lng": -84.963,
-      "id": "mmh-0444"
+      "id": "mmh-0444",
+      "county": "Calhoun"
     },
     {
       "category": "Weekly",
@@ -6621,7 +7063,8 @@
       "id": "mmh-0445",
       "tipEmail": "ahensel@cherryroad.com",
       "tipNote": "Editor Amy Hensel covers CherryRoad's Arenac, Ogemaw and Oscoda county papers",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Arenac"
     },
     {
       "category": "Weekly",
@@ -6637,7 +7080,8 @@
       "lng": -84.565,
       "id": "mmh-0446",
       "tipEmail": "newspaper@baymills.org",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Chippewa"
     },
     {
       "category": "Weekly",
@@ -6654,7 +7098,8 @@
       "id": "mmh-0447",
       "tipUrl": "https://bellevilleareaindependent.com",
       "tipNote": "Email obfuscated on site; use on-site contact form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Wayne"
     },
     {
       "category": "Weekly",
@@ -6670,7 +7115,8 @@
       "lng": -86.454,
       "id": "mmh-0448",
       "tipUrl": "https://bentonspiritnews.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Berrien"
     },
     {
       "category": "Weekly",
@@ -6685,7 +7131,8 @@
       "lat": 44.634,
       "lng": -86.235,
       "id": "mmh-0449",
-      "tipNote": "Hearst/Pioneer group — no dedicated tips address; route via corporate staff directory"
+      "tipNote": "Hearst/Pioneer group — no dedicated tips address; route via corporate staff directory",
+      "county": "Benzie"
     },
     {
       "category": "Weekly",
@@ -6701,7 +7148,8 @@
       "lng": -86.361,
       "id": "mmh-0450",
       "tipUrl": "https://bcrnews.net",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Berrien"
     },
     {
       "category": "Weekly",
@@ -6717,7 +7165,8 @@
       "lng": -83.862,
       "id": "mmh-0451",
       "tipUrl": "https://blissfieldadvance.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Lenawee"
     },
     {
       "category": "Weekly",
@@ -6734,7 +7183,8 @@
       "id": "mmh-0452",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://browncitybanner.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page; upgrade to named editor when available"
+      "tipNote": "View group catch-all; use paper's Contact Us page; upgrade to named editor when available",
+      "county": "Sanilac"
     },
     {
       "category": "Weekly",
@@ -6750,7 +7200,8 @@
       "lng": -83.687,
       "id": "mmh-0454",
       "tipUrl": "https://theflintcouriernews.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Genesee"
     },
     {
       "category": "Weekly",
@@ -6767,7 +7218,8 @@
       "id": "mmh-0455",
       "tipUrl": "https://www.fowlervillenewsandviews.com",
       "tipNote": "No email published; use site contact form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Livingston"
     },
     {
       "category": "Weekly",
@@ -6783,7 +7235,8 @@
       "lng": -83.738,
       "id": "mmh-0456",
       "tipEmail": "vhayden@airadv.net",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Saginaw"
     },
     {
       "category": "Weekly",
@@ -6800,7 +7253,8 @@
       "id": "mmh-0457",
       "tipEmail": "editor@thegladwincountyrecord.com",
       "tipUrl": "http://www.gladwinmi.com/contact",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Gladwin"
     },
     {
       "category": "Weekly",
@@ -6816,7 +7270,8 @@
       "lng": -84.607,
       "id": "mmh-0458",
       "tipEmail": "editor@gcherald.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Gratiot"
     },
     {
       "category": "Weekly",
@@ -6832,7 +7287,8 @@
       "lng": -84.809,
       "id": "mmh-0459",
       "tipUrl": "http://www.homerindex.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Calhoun"
     },
     {
       "category": "Weekly",
@@ -6850,7 +7306,8 @@
       "tipEmail": "news@houghtonlakeresorter.com",
       "tipUrl": "https://www.houghtonlakeresorter.com",
       "tipNote": "Contact form on site",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Roscommon"
     },
     {
       "category": "Weekly",
@@ -6867,7 +7324,8 @@
       "id": "mmh-0461",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://huroncountyview.mihomepaper.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Huron"
     },
     {
       "category": "Weekly",
@@ -6882,7 +7340,8 @@
       "lat": 43.901,
       "lng": -85.852,
       "id": "mmh-0462",
-      "tipNote": "Hearst/Pioneer group — no dedicated tips address"
+      "tipNote": "Hearst/Pioneer group — no dedicated tips address",
+      "county": "Lake"
     },
     {
       "category": "Weekly",
@@ -6897,7 +7356,8 @@
       "lat": 43.446,
       "lng": -85.274,
       "id": "mmh-0463",
-      "tipNote": "No web contact published; print/Facebook only"
+      "tipNote": "No web contact published; print/Facebook only",
+      "county": "Montcalm"
     },
     {
       "category": "Weekly",
@@ -6913,7 +7373,8 @@
       "lng": -85.815,
       "id": "mmh-0464",
       "tipUrl": "https://marcellusnews.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Cass"
     },
     {
       "category": "Weekly",
@@ -6929,7 +7390,8 @@
       "lng": -84.372,
       "id": "mmh-0465",
       "tipUrl": "https://meridianweekly.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Clinton"
     },
     {
       "category": "Weekly",
@@ -6945,7 +7407,8 @@
       "lng": -82.778,
       "id": "mmh-0466",
       "tipUrl": "https://mindencityherald.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Sanilac"
     },
     {
       "category": "Weekly",
@@ -6960,7 +7423,8 @@
       "lat": 44.335,
       "lng": -85.215,
       "id": "mmh-0467",
-      "tipNote": "Print-first; phone or Facebook contact only"
+      "tipNote": "Print-first; phone or Facebook contact only",
+      "county": "Missaukee"
     },
     {
       "category": "Weekly",
@@ -6977,7 +7441,8 @@
       "id": "mmh-0468",
       "tipEmail": "editor@piadvance.com",
       "tipUrl": "https://piadvance.com/contact/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Presque Isle"
     },
     {
       "category": "Weekly",
@@ -6994,7 +7459,8 @@
       "id": "mmh-0469",
       "tipEmail": "ahensel@cherryroad.com",
       "tipNote": "Editor Amy Hensel covers CherryRoad's Arenac, Ogemaw and Oscoda county papers",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Oscoda"
     },
     {
       "category": "Weekly",
@@ -7011,7 +7477,8 @@
       "id": "mmh-0470",
       "tipEmail": "editor@iosconews.com",
       "tipUrl": "https://www.iosconews.com/site/contact.html",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Iosco"
     },
     {
       "category": "Weekly",
@@ -7027,7 +7494,8 @@
       "lng": -83.965,
       "id": "mmh-0471",
       "tipUrl": "https://www.pinconningjournal.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Bay"
     },
     {
       "category": "Weekly",
@@ -7044,7 +7512,8 @@
       "id": "mmh-0472",
       "tipEmail": "editor@piadvance.com",
       "tipUrl": "https://piadvance.com/contact/",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Presque Isle"
     },
     {
       "category": "Weekly",
@@ -7060,7 +7529,8 @@
       "lng": -85.56,
       "id": "mmh-0473",
       "tipEmail": "squireproof@gmail.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Kent"
     },
     {
       "category": "Weekly",
@@ -7078,7 +7548,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Van Buren"
     },
     {
       "category": "Weekly",
@@ -7094,7 +7565,8 @@
       "lng": -84.612,
       "id": "mmh-0476",
       "tipUrl": "https://www.resorter.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Cheboygan"
     },
     {
       "category": "Weekly",
@@ -7111,7 +7583,8 @@
       "id": "mmh-0477",
       "tipEmail": "news@tecumsehherald.com",
       "tipUrl": "https://www.tecumsehherald.com/contact",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Lenawee"
     },
     {
       "category": "Weekly",
@@ -7128,7 +7601,8 @@
       "id": "mmh-0478",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://thecitizenonline.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Oakland"
     },
     {
       "category": "Weekly",
@@ -7146,7 +7620,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Allegan"
     },
     {
       "category": "Weekly",
@@ -7162,7 +7637,8 @@
       "lng": -84.836,
       "id": "mmh-0480",
       "tipUrl": "https://county-journal.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Eaton"
     },
     {
       "category": "Weekly",
@@ -7180,7 +7656,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Van Buren"
     },
     {
       "category": "Weekly",
@@ -7197,7 +7674,8 @@
       "id": "mmh-0482",
       "tipEmail": "news@theexponent.com",
       "tipUrl": "http://theexponent.com/contact",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Jackson"
     },
     {
       "category": "Weekly",
@@ -7214,7 +7692,8 @@
       "id": "mmh-0483",
       "tipEmail": "sean@dundee.net",
       "tipNote": "Publisher's address; confirm news-specific routing",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Monroe"
     },
     {
       "category": "Weekly",
@@ -7230,7 +7709,8 @@
       "lng": -86.339,
       "id": "mmh-0484",
       "tipUrl": "https://www.thejournalera.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Berrien"
     },
     {
       "category": "Weekly",
@@ -7248,7 +7728,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Osceola"
     },
     {
       "category": "Weekly",
@@ -7264,7 +7745,8 @@
       "lng": -83.036,
       "id": "mmh-0486",
       "tipUrl": "https://www.myrecordnewspaper.com",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "Macomb"
     },
     {
       "category": "Weekly",
@@ -7281,7 +7763,8 @@
       "id": "mmh-0487",
       "tipEmail": "editor@mihomepaper.com",
       "tipUrl": "https://sunandnews.com",
-      "tipNote": "View group catch-all; use paper's Contact Us page"
+      "tipNote": "View group catch-all; use paper's Contact Us page",
+      "county": "Barry"
     },
     {
       "category": "Weekly",
@@ -7299,7 +7782,8 @@
       "tipEmail": "wilcoxnewspapers@gmail.com",
       "tipUrl": "https://wilcoxnewspapers.com",
       "tipNote": "Shared Wilcox news-tip Google Form for all titles",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Allegan"
     },
     {
       "category": "Weekly",
@@ -7315,7 +7799,8 @@
       "lng": -82.798,
       "id": "mmh-0490",
       "tipUrl": "https://yaleexpositor.wixsite.com/the-yale-expositor",
-      "tipNote": "Not verified in first research pass"
+      "tipNote": "Not verified in first research pass",
+      "county": "St. Clair"
     },
     {
       "category": "Weekly",
@@ -7331,7 +7816,8 @@
       "lng": -85.942,
       "id": "mmh-0491",
       "tipEmail": "tinews@timesindicator.com",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Newaygo"
     },
     {
       "category": "Weekly",
@@ -7348,7 +7834,8 @@
       "id": "mmh-0492",
       "tipUrl": "https://www.tricityrecord.com/contact",
       "tipNote": "Use on-site contact form",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Berrien"
     },
     {
       "category": "Weekly",
@@ -7365,7 +7852,8 @@
       "id": "mmh-0493",
       "tipUrl": "https://tricitytimes-online.com/contact/",
       "tipNote": "No clean email published; use form or phone",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Lapeer"
     },
     {
       "category": "Weekly",
@@ -7383,7 +7871,8 @@
       "tipEmail": "sendnews@tcadvertiser.com",
       "tipUrl": "https://www.tuscolatoday.com/site/contact.html",
       "tipNote": "Also absorbed Cass City Chronicle coverage as a dedicated section (Jan 2024)",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Tuscola"
     },
     {
       "category": "Weekly",
@@ -7401,7 +7890,8 @@
       "tipEmail": "editor@whitelakebeacon.com",
       "tipUrl": "https://www.shorelinemedia.net/white_lake_beacon/",
       "tipNote": "Letter-to-editor form on Shoreline site",
-      "tipVerified": "2026-07"
+      "tipVerified": "2026-07",
+      "county": "Muskegon"
     },
     {
       "category": "Weekly",
@@ -7416,7 +7906,8 @@
       "lat": 42.812,
       "lng": -86.019,
       "id": "mmh-0496",
-      "tipNote": "Print-first; no published email; e-editions sold via Issuu"
+      "tipNote": "Print-first; no published email; e-editions sold via Issuu",
+      "county": "Ottawa"
     },
     {
       "category": "Radio",
@@ -7432,7 +7923,8 @@
       "added": "2026-07-14",
       "lat": 43.012,
       "lng": -83.687,
-      "id": "mmh-0497"
+      "id": "mmh-0497",
+      "county": "Genesee"
     },
     {
       "category": "Radio",
@@ -7448,7 +7940,8 @@
       "added": "2026-07-14",
       "lat": 43.443,
       "lng": -83.586,
-      "id": "mmh-0498"
+      "id": "mmh-0498",
+      "county": "Tuscola"
     },
     {
       "category": "Radio",
@@ -7464,7 +7957,8 @@
       "added": "2026-07-14",
       "lat": 43.331,
       "lng": -83.738,
-      "id": "mmh-0499"
+      "id": "mmh-0499",
+      "county": "Saginaw"
     },
     {
       "category": "Radio",
@@ -7480,7 +7974,8 @@
       "added": "2026-07-14",
       "lat": 43.012,
       "lng": -83.687,
-      "id": "mmh-0500"
+      "id": "mmh-0500",
+      "county": "Genesee"
     },
     {
       "category": "Radio",
@@ -7497,7 +7992,8 @@
       "lat": 43.012,
       "lng": -83.687,
       "id": "mmh-0501",
-      "tipUrl": "https://ck1055.com/contact"
+      "tipUrl": "https://ck1055.com/contact",
+      "county": "Genesee"
     },
     {
       "category": "Radio",
@@ -7514,7 +8010,8 @@
       "lat": 43.012,
       "lng": -83.687,
       "id": "mmh-0502",
-      "tipUrl": "https://wdzz.com"
+      "tipUrl": "https://wdzz.com",
+      "county": "Genesee"
     },
     {
       "category": "Radio",
@@ -7531,7 +8028,8 @@
       "lat": 42.998,
       "lng": -84.177,
       "id": "mmh-0504",
-      "tipEmail": "news@classicfox.com"
+      "tipEmail": "news@classicfox.com",
+      "county": "Shiawassee"
     },
     {
       "category": "Radio",
@@ -7548,7 +8046,8 @@
       "lat": 43.051,
       "lng": -83.319,
       "id": "mmh-0505",
-      "tipUrl": "https://us103.com"
+      "tipUrl": "https://us103.com",
+      "county": "Lapeer"
     },
     {
       "category": "Radio",
@@ -7566,7 +8065,8 @@
       "lng": -83.687,
       "id": "mmh-0506",
       "notes": "Religious teaching/talk — Michigan owner, not a national feed; verify local content. | Small independent religious operator; no dedicated tip email found.",
-      "tipUrl": "https://www.wsnlradio.com"
+      "tipUrl": "https://www.wsnlradio.com",
+      "county": "Genesee"
     },
     {
       "category": "Radio",
@@ -7582,7 +8082,8 @@
       "added": "2026-07-14",
       "lat": 43.234,
       "lng": -86.248,
-      "id": "mmh-0507"
+      "id": "mmh-0507",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7598,7 +8099,8 @@
       "added": "2026-07-14",
       "lat": 43.234,
       "lng": -86.248,
-      "id": "mmh-0508"
+      "id": "mmh-0508",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7614,7 +8116,8 @@
       "added": "2026-07-14",
       "lat": 43.234,
       "lng": -86.248,
-      "id": "mmh-0509"
+      "id": "mmh-0509",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7630,7 +8133,8 @@
       "added": "2026-07-14",
       "lat": 43.201,
       "lng": -86.24,
-      "id": "mmh-0510"
+      "id": "mmh-0510",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7647,7 +8151,8 @@
       "lat": 43.234,
       "lng": -86.248,
       "id": "mmh-0511",
-      "notes": "Simulcasts WOOD News/Talk (WOOD-AM 1300 already listed). | Simulcast of WOOD AM 1300 Grand Rapids on the Muskegon side; same iHeart tip form."
+      "notes": "Simulcasts WOOD News/Talk (WOOD-AM 1300 already listed). | Simulcast of WOOD AM 1300 Grand Rapids on the Muskegon side; same iHeart tip form.",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7663,7 +8168,8 @@
       "added": "2026-07-14",
       "lat": 43.41,
       "lng": -86.077,
-      "id": "mmh-0512"
+      "id": "mmh-0512",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7679,7 +8185,8 @@
       "added": "2026-07-14",
       "lat": 43.257,
       "lng": -86.267,
-      "id": "mmh-0513"
+      "id": "mmh-0513",
+      "county": "Muskegon"
     },
     {
       "category": "Radio",
@@ -7695,7 +8202,8 @@
       "added": "2026-07-14",
       "lat": 43.419,
       "lng": -85.8,
-      "id": "mmh-0514"
+      "id": "mmh-0514",
+      "county": "Newaygo"
     },
     {
       "category": "Radio",
@@ -7712,7 +8220,8 @@
       "lat": 42.245,
       "lng": -84.401,
       "id": "mmh-0515",
-      "notes": "Website corrected to wkhm.com (news/talk home); k1053.com is sister AC station."
+      "notes": "Website corrected to wkhm.com (news/talk home); k1053.com is sister AC station.",
+      "county": "Jackson"
     },
     {
       "category": "Radio",
@@ -7728,7 +8237,8 @@
       "added": "2026-07-14",
       "lat": 42.105,
       "lng": -84.248,
-      "id": "mmh-0516"
+      "id": "mmh-0516",
+      "county": "Jackson"
     },
     {
       "category": "Radio",
@@ -7745,7 +8255,8 @@
       "lat": 42.245,
       "lng": -84.401,
       "id": "mmh-0517",
-      "tipEmail": "steve@959thepowercow.com"
+      "tipEmail": "steve@959thepowercow.com",
+      "county": "Jackson"
     },
     {
       "category": "Radio",
@@ -7761,7 +8272,8 @@
       "added": "2026-07-14",
       "lat": 42.245,
       "lng": -84.401,
-      "id": "mmh-0518"
+      "id": "mmh-0518",
+      "county": "Jackson"
     },
     {
       "category": "Radio",
@@ -7778,7 +8290,8 @@
       "lat": 41.809,
       "lng": -83.443,
       "id": "mmh-0519",
-      "notes": "Licensed in Luna Pier; serves Monroe market."
+      "notes": "Licensed in Luna Pier; serves Monroe market.",
+      "county": "Monroe"
     },
     {
       "category": "Radio",
@@ -7795,7 +8308,8 @@
       "lat": 41.916,
       "lng": -83.398,
       "id": "mmh-0520",
-      "notes": "Religious simulcast (Crawford/WMUZ); no local newscast — verify keep/drop."
+      "notes": "Religious simulcast (Crawford/WMUZ); no local newscast — verify keep/drop.",
+      "county": "Monroe"
     },
     {
       "category": "Radio",
@@ -7812,7 +8326,8 @@
       "lat": 43.616,
       "lng": -84.248,
       "id": "mmh-0521",
-      "notes": "WMPX 1490 AM shares web identity with sister WMRX-FM 97.7; Black Diamond cluster."
+      "notes": "WMPX 1490 AM shares web identity with sister WMRX-FM 97.7; Black Diamond cluster.",
+      "county": "Midland"
     },
     {
       "category": "Radio",
@@ -7828,7 +8343,8 @@
       "added": "2026-07-14",
       "lat": 43.882,
       "lng": -84.487,
-      "id": "mmh-0522"
+      "id": "mmh-0522",
+      "county": "Gladwin"
     },
     {
       "category": "Radio",
@@ -7845,7 +8361,8 @@
       "lat": 44.017,
       "lng": -84.802,
       "id": "mmh-0523",
-      "tipEmail": "info@wups.com"
+      "tipEmail": "info@wups.com",
+      "county": "Clare"
     },
     {
       "category": "Radio",
@@ -7862,7 +8379,8 @@
       "lat": 43.821,
       "lng": -84.769,
       "id": "mmh-0524",
-      "notes": "Note: Grenax Broadcasting licensee, not Black Diamond."
+      "notes": "Note: Grenax Broadcasting licensee, not Black Diamond.",
+      "county": "Clare"
     },
     {
       "category": "Radio",
@@ -7879,7 +8397,8 @@
       "lat": 43.598,
       "lng": -84.767,
       "id": "mmh-0525",
-      "tipEmail": "wczy@wczy.net"
+      "tipEmail": "wczy@wczy.net",
+      "county": "Isabella"
     },
     {
       "category": "Radio",
@@ -7897,7 +8416,8 @@
       "lng": -84.694,
       "id": "mmh-0526",
       "notes": "WMMI 830 AM simulcasts/co-promotes with WCZY 104.3; shares Latitude Media cluster site.",
-      "tipEmail": "wczy@wczy.net"
+      "tipEmail": "wczy@wczy.net",
+      "county": "Isabella"
     },
     {
       "category": "Radio",
@@ -7914,7 +8434,8 @@
       "lat": 45.062,
       "lng": -83.433,
       "id": "mmh-0527",
-      "tipUrl": "https://watz.com"
+      "tipUrl": "https://watz.com",
+      "county": "Alpena"
     },
     {
       "category": "Radio",
@@ -7932,7 +8453,8 @@
       "lng": -83.433,
       "id": "mmh-0528",
       "notes": "Edwards Communications cluster site; verify individual page for WHSB.",
-      "tipUrl": "https://truenorthradionetwork.com"
+      "tipUrl": "https://truenorthradionetwork.com",
+      "county": "Alpena"
     },
     {
       "category": "Radio",
@@ -7949,7 +8471,8 @@
       "lat": 45.062,
       "lng": -83.433,
       "id": "mmh-0529",
-      "tipUrl": "https://wztk.com"
+      "tipUrl": "https://wztk.com",
+      "county": "Alpena"
     },
     {
       "category": "Radio",
@@ -7966,7 +8489,8 @@
       "lat": 45.421,
       "lng": -83.818,
       "id": "mmh-0530",
-      "tipUrl": "https://truenorthradionetwork.com"
+      "tipUrl": "https://truenorthradionetwork.com",
+      "county": "Presque Isle"
     },
     {
       "category": "Radio",
@@ -7984,7 +8508,8 @@
       "lng": -83.818,
       "id": "mmh-0531",
       "notes": "WRGZ licensed to WATZ Radio Inc.; likely uses WATZ cluster site.  Verify branding — listed as 97.5 KLT in some databases.",
-      "tipUrl": "https://watz.com"
+      "tipUrl": "https://watz.com",
+      "county": "Presque Isle"
     },
     {
       "category": "Radio",
@@ -8002,7 +8527,8 @@
       "lng": -83.902,
       "id": "mmh-0532",
       "notes": "WKJZ 94.9 Hillman is part of Carroll Enterprises cluster; wkjc.com is primary cluster site.",
-      "tipUrl": "https://wkjc.com"
+      "tipUrl": "https://wkjc.com",
+      "county": "Montmorency"
     },
     {
       "category": "Radio",
@@ -8019,7 +8545,8 @@
       "lat": 44.267,
       "lng": -83.515,
       "id": "mmh-0533",
-      "tipUrl": "https://wkjc.com"
+      "tipUrl": "https://wkjc.com",
+      "county": "Iosco"
     },
     {
       "category": "Radio",
@@ -8036,7 +8563,8 @@
       "lat": 44.267,
       "lng": -83.515,
       "id": "mmh-0534",
-      "tipUrl": "https://wkjc.com"
+      "tipUrl": "https://wkjc.com",
+      "county": "Iosco"
     },
     {
       "category": "Radio",
@@ -8053,7 +8581,8 @@
       "lat": 44.267,
       "lng": -83.515,
       "id": "mmh-0535",
-      "tipUrl": "https://wkjc.com"
+      "tipUrl": "https://wkjc.com",
+      "county": "Iosco"
     },
     {
       "category": "Radio",
@@ -8071,7 +8600,8 @@
       "lng": -83.329,
       "id": "mmh-0536",
       "notes": "Edwards Communications cluster; WWTH 100.7 Oscoda.",
-      "tipUrl": "https://truenorthradionetwork.com"
+      "tipUrl": "https://truenorthradionetwork.com",
+      "county": "Iosco"
     },
     {
       "category": "Radio",
@@ -8088,7 +8618,8 @@
       "lat": 44.267,
       "lng": -83.515,
       "id": "mmh-0537",
-      "tipUrl": "https://wkjc.com"
+      "tipUrl": "https://wkjc.com",
+      "county": "Iosco"
     },
     {
       "category": "Radio",
@@ -8105,7 +8636,8 @@
       "lat": 45.318,
       "lng": -85.259,
       "id": "mmh-0538",
-      "tipUrl": "https://106khq.com"
+      "tipUrl": "https://106khq.com",
+      "county": "Charlevoix"
     },
     {
       "category": "Radio",
@@ -8122,7 +8654,8 @@
       "lat": 45.373,
       "lng": -84.955,
       "id": "mmh-0539",
-      "tipUrl": "https://lite96.com"
+      "tipUrl": "https://lite96.com",
+      "county": "Emmet"
     },
     {
       "category": "Radio",
@@ -8139,7 +8672,8 @@
       "lat": 45.318,
       "lng": -85.259,
       "id": "mmh-0540",
-      "tipEmail": "wmktbusiness@gmail.com"
+      "tipEmail": "wmktbusiness@gmail.com",
+      "county": "Charlevoix"
     },
     {
       "category": "Radio",
@@ -8157,7 +8691,8 @@
       "lng": -84.955,
       "id": "mmh-0541",
       "notes": "WMBN 1340 Petoskey; MacDonald-Garber cluster hub page.",
-      "tipUrl": "http://www.radiomgb.com"
+      "tipUrl": "http://www.radiomgb.com",
+      "county": "Emmet"
     },
     {
       "category": "Radio",
@@ -8175,7 +8710,8 @@
       "lng": -84.675,
       "id": "mmh-0542",
       "notes": "45 North Media Gaylord cluster station.",
-      "tipUrl": "https://eagle1015gaylord.com"
+      "tipUrl": "https://eagle1015gaylord.com",
+      "county": "Otsego"
     },
     {
       "category": "Radio",
@@ -8193,7 +8729,8 @@
       "lng": -84.675,
       "id": "mmh-0543",
       "notes": "WSRT 106.7 ESPN Radio Northern Michigan; MacDonald-Garber cluster. Verify dedicated page.",
-      "tipUrl": "http://www.radiomgb.com"
+      "tipUrl": "http://www.radiomgb.com",
+      "county": "Otsego"
     },
     {
       "category": "Radio",
@@ -8211,7 +8748,8 @@
       "lng": -85.401,
       "id": "mmh-0544",
       "notes": "WATT 1240 AM NewsTalk Cadillac; MacDonald-Garber cluster.",
-      "tipUrl": "http://www.radiomgb.com"
+      "tipUrl": "http://www.radiomgb.com",
+      "county": "Wexford"
     },
     {
       "category": "Radio",
@@ -8228,7 +8766,8 @@
       "lat": 44.252,
       "lng": -85.401,
       "id": "mmh-0545",
-      "tipUrl": "https://www.mix96cadillac.com"
+      "tipUrl": "https://www.mix96cadillac.com",
+      "county": "Wexford"
     },
     {
       "category": "Radio",
@@ -8246,7 +8785,8 @@
       "lng": -85.699,
       "id": "mmh-0546",
       "notes": "WKAD 93.7 The Ticket Harrietta; Cadillac Broadcasting licensee.",
-      "tipUrl": "https://wkad937.com"
+      "tipUrl": "https://wkad937.com",
+      "county": "Wexford"
     },
     {
       "category": "Radio",
@@ -8263,7 +8803,8 @@
       "lat": 44.732,
       "lng": -85.176,
       "id": "mmh-0547",
-      "tipUrl": "https://wklt.com"
+      "tipUrl": "https://wklt.com",
+      "county": "Kalkaska"
     },
     {
       "category": "Radio",
@@ -8281,7 +8822,8 @@
       "lng": -86.452,
       "id": "mmh-0548",
       "notes": "WKLA 1450 AM Ludington; Synergy Broadcast Group cluster site.",
-      "tipUrl": "https://gowithsynergy.com"
+      "tipUrl": "https://gowithsynergy.com",
+      "county": "Mason"
     },
     {
       "category": "Radio",
@@ -8298,7 +8840,8 @@
       "lat": 43.955,
       "lng": -86.452,
       "id": "mmh-0549",
-      "tipUrl": "https://gowithsynergy.com"
+      "tipUrl": "https://gowithsynergy.com",
+      "county": "Mason"
     },
     {
       "category": "Radio",
@@ -8315,7 +8858,8 @@
       "lat": 43.955,
       "lng": -86.284,
       "id": "mmh-0550",
-      "tipUrl": "https://gowithsynergy.com"
+      "tipUrl": "https://gowithsynergy.com",
+      "county": "Mason"
     },
     {
       "category": "Radio",
@@ -8333,7 +8877,8 @@
       "lng": -86.437,
       "id": "mmh-0551",
       "notes": "Bay View Broadcasting; independent Pentwater-area station.",
-      "tipUrl": "https://wmom1027.com"
+      "tipUrl": "https://wmom1027.com",
+      "county": "Oceana"
     },
     {
       "category": "Radio",
@@ -8350,7 +8895,8 @@
       "lat": 44.244,
       "lng": -86.324,
       "id": "mmh-0552",
-      "tipUrl": "https://gowithsynergy.com"
+      "tipUrl": "https://gowithsynergy.com",
+      "county": "Manistee"
     },
     {
       "category": "Radio",
@@ -8368,7 +8914,8 @@
       "lng": -86.324,
       "id": "mmh-0553",
       "notes": "45 North Media Manistee cluster station.",
-      "tipUrl": "https://eagle1015manistee.com"
+      "tipUrl": "https://eagle1015manistee.com",
+      "county": "Manistee"
     },
     {
       "category": "Radio",
@@ -8385,7 +8932,8 @@
       "lat": 43.7,
       "lng": -86.365,
       "id": "mmh-0554",
-      "tipUrl": "https://gowithsynergy.com"
+      "tipUrl": "https://gowithsynergy.com",
+      "county": "Oceana"
     },
     {
       "category": "Radio",
@@ -8403,7 +8951,8 @@
       "lng": -86.452,
       "id": "mmh-0555",
       "notes": "WLDN 98.7 FM Ludington; verify if separate branded site exists.",
-      "tipUrl": "https://gowithsynergy.com"
+      "tipUrl": "https://gowithsynergy.com",
+      "county": "Mason"
     },
     {
       "category": "Radio",
@@ -8421,7 +8970,8 @@
       "lng": -86.454,
       "id": "mmh-0556",
       "tipNote": "News tip line: (269) 925-1112.",
-      "tipEmail": "news@wsjm.com"
+      "tipEmail": "news@wsjm.com",
+      "county": "Berrien"
     },
     {
       "category": "Radio",
@@ -8438,7 +8988,8 @@
       "lat": 42.109,
       "lng": -86.48,
       "id": "mmh-0557",
-      "tipUrl": "https://rock107.com"
+      "tipUrl": "https://rock107.com",
+      "county": "Berrien"
     },
     {
       "category": "Radio",
@@ -8455,7 +9006,8 @@
       "lat": 42.403,
       "lng": -86.273,
       "id": "mmh-0558",
-      "tipUrl": "https://cosy1037.com"
+      "tipUrl": "https://cosy1037.com",
+      "county": "Van Buren"
     },
     {
       "category": "Radio",
@@ -8473,7 +9025,8 @@
       "lng": -86.556,
       "id": "mmh-0559",
       "notes": "Format shuffled 2024-2025 — verify current format.",
-      "tipUrl": "https://z99fm.com"
+      "tipUrl": "https://z99fm.com",
+      "county": "Berrien"
     },
     {
       "category": "Radio",
@@ -8491,7 +9044,8 @@
       "lng": -86.166,
       "id": "mmh-0560",
       "notes": "Format shuffled 2025 — verify current format.",
-      "tipUrl": "https://thecoast983.com"
+      "tipUrl": "https://thecoast983.com",
+      "county": "Van Buren"
     },
     {
       "category": "Radio",
@@ -8509,7 +9063,8 @@
       "lng": -86.48,
       "id": "mmh-0561",
       "notes": "WQYQ 106.1/1400 St. Joseph; AM/FM combo Mid-West Family cluster.",
-      "tipUrl": "https://1061thequake.com"
+      "tipUrl": "https://1061thequake.com",
+      "county": "Berrien"
     },
     {
       "category": "Radio",
@@ -8527,7 +9082,8 @@
       "lng": -84.63,
       "id": "mmh-0562",
       "notes": "McKibbin Media Hillsdale cluster; AM 1340 + FM 92.1 simulcast.",
-      "tipUrl": "https://wcsr.com"
+      "tipUrl": "https://wcsr.com",
+      "county": "Hillsdale"
     },
     {
       "category": "Radio",
@@ -8545,7 +9101,8 @@
       "lng": -82.425,
       "id": "mmh-0563",
       "notes": "WPHM 105.5 FM / 1450 AM Port Huron; Radio First (Liggett Broadcast) cluster.",
-      "tipUrl": "https://wphm.com"
+      "tipUrl": "https://wphm.com",
+      "county": "St. Clair"
     },
     {
       "category": "Radio",
@@ -8562,7 +9119,8 @@
       "lat": 42.974,
       "lng": -82.425,
       "id": "mmh-0564",
-      "tipUrl": "https://wgrt.com"
+      "tipUrl": "https://wgrt.com",
+      "county": "St. Clair"
     },
     {
       "category": "Radio",
@@ -8580,7 +9138,8 @@
       "lng": -82.425,
       "id": "mmh-0565",
       "notes": "Q Country 107 Port Huron; Radio First (Liggett) cluster.",
-      "tipUrl": "https://wsaq.com"
+      "tipUrl": "https://wsaq.com",
+      "county": "St. Clair"
     },
     {
       "category": "Radio",
@@ -8598,7 +9157,8 @@
       "lng": -82.532,
       "id": "mmh-0566",
       "notes": "Lexington-licensed; serves Port Huron market; Radio First (Liggett) cluster.",
-      "tipUrl": "https://wbti.com"
+      "tipUrl": "https://wbti.com",
+      "county": "Sanilac"
     },
     {
       "category": "Radio",
@@ -8615,7 +9175,8 @@
       "lat": 43.802,
       "lng": -83.0,
       "id": "mmh-0567",
-      "tipUrl": "https://thumbradio.com"
+      "tipUrl": "https://thumbradio.com",
+      "county": "Huron"
     },
     {
       "category": "Radio",
@@ -8632,7 +9193,8 @@
       "lat": 43.833,
       "lng": -83.271,
       "id": "mmh-0568",
-      "tipUrl": "https://thumbradio.com"
+      "tipUrl": "https://thumbradio.com",
+      "county": "Huron"
     },
     {
       "category": "Radio",
@@ -8649,7 +9211,8 @@
       "lat": 43.802,
       "lng": -83.0,
       "id": "mmh-0569",
-      "tipUrl": "https://thumbradio.com"
+      "tipUrl": "https://thumbradio.com",
+      "county": "Huron"
     },
     {
       "category": "Radio",
@@ -8667,7 +9230,8 @@
       "lng": -83.399,
       "id": "mmh-0570",
       "notes": "WKYO 1360 Caro; Edwards Communications cluster.",
-      "tipUrl": "https://truenorthradionetwork.com"
+      "tipUrl": "https://truenorthradionetwork.com",
+      "county": "Tuscola"
     },
     {
       "category": "Radio",
@@ -8685,7 +9249,8 @@
       "lng": -83.174,
       "id": "mmh-0571",
       "notes": "WIDL 92.1 I92 Cass City; Edwards Communications cluster.",
-      "tipUrl": "https://truenorthradionetwork.com"
+      "tipUrl": "https://truenorthradionetwork.com",
+      "county": "Tuscola"
     },
     {
       "category": "Radio",
@@ -8703,7 +9268,8 @@
       "lng": -82.83,
       "id": "mmh-0572",
       "notes": "WMIC 660 AM Sandusky; Sanilac Broadcasting cluster.",
-      "tipUrl": "https://sanilacbroadcasting.com"
+      "tipUrl": "https://sanilacbroadcasting.com",
+      "county": "Sanilac"
     },
     {
       "category": "Radio",
@@ -8720,7 +9286,8 @@
       "lat": 43.42,
       "lng": -82.83,
       "id": "mmh-0573",
-      "tipUrl": "https://sanilacbroadcasting.com"
+      "tipUrl": "https://sanilacbroadcasting.com",
+      "county": "Sanilac"
     },
     {
       "category": "Radio",
@@ -8737,7 +9304,8 @@
       "lat": 43.328,
       "lng": -83.079,
       "id": "mmh-0574",
-      "tipUrl": "https://sanilacbroadcasting.com"
+      "tipUrl": "https://sanilacbroadcasting.com",
+      "county": "Sanilac"
     },
     {
       "category": "Radio",
@@ -8754,7 +9322,8 @@
       "lat": 43.845,
       "lng": -82.655,
       "id": "mmh-0575",
-      "notes": "WCZE 103.7 Harbor Beach; Czelada Broadcasting — very small operator; no confirmed web presence found."
+      "notes": "WCZE 103.7 Harbor Beach; Czelada Broadcasting — very small operator; no confirmed web presence found.",
+      "county": "Huron"
     },
     {
       "category": "Radio",
@@ -8771,7 +9340,8 @@
       "lat": 45.647,
       "lng": -84.474,
       "id": "mmh-0576",
-      "tipUrl": "https://bigcountrygold.com"
+      "tipUrl": "https://bigcountrygold.com",
+      "county": "Cheboygan"
     },
     {
       "category": "Radio",
@@ -8788,7 +9358,8 @@
       "lat": 45.647,
       "lng": -84.474,
       "id": "mmh-0577",
-      "tipUrl": "https://wchy.us"
+      "tipUrl": "https://wchy.us",
+      "county": "Cheboygan"
     },
     {
       "category": "Radio",
@@ -8806,7 +9377,8 @@
       "lng": -84.474,
       "id": "mmh-0578",
       "notes": "WGFM 105.1 Rock 105 Cheboygan; shares brand site with WGFN 98.1 Glen Arbor.",
-      "tipUrl": "https://classicrockthebear.com"
+      "tipUrl": "https://classicrockthebear.com",
+      "county": "Cheboygan"
     },
     {
       "category": "Radio",
@@ -8823,7 +9395,8 @@
       "lat": 45.417,
       "lng": -84.611,
       "id": "mmh-0579",
-      "tipUrl": "https://1029bigcountry.com"
+      "tipUrl": "https://1029bigcountry.com",
+      "county": "Cheboygan"
     },
     {
       "category": "Radio",
@@ -8840,7 +9413,8 @@
       "lat": 45.36,
       "lng": -84.222,
       "id": "mmh-0580",
-      "tipUrl": "https://1063macfm.com"
+      "tipUrl": "https://1063macfm.com",
+      "county": "Presque Isle"
     },
     {
       "category": "Radio",
@@ -8858,7 +9432,8 @@
       "lng": -85.984,
       "id": "mmh-0581",
       "notes": "WGFN 98.1 Glen Arbor shares brand/site with WGFM 105.1 Cheboygan; both under Black Diamond.",
-      "tipUrl": "https://classicrockthebear.com"
+      "tipUrl": "https://classicrockthebear.com",
+      "county": "Leelanau"
     },
     {
       "category": "Radio",
@@ -8876,7 +9451,8 @@
       "lng": -85.014,
       "id": "mmh-0582",
       "notes": "WBCM 93.5 Boyne City; Midwestern Broadcasting — branded 97.5 KLT network cluster.",
-      "tipUrl": "https://wklt.com"
+      "tipUrl": "https://wklt.com",
+      "county": "Charlevoix"
     },
     {
       "category": "Radio",
@@ -8893,7 +9469,8 @@
       "lat": 46.543,
       "lng": -87.395,
       "id": "mmh-0583",
-      "tipUrl": "https://mediabrew.com"
+      "tipUrl": "https://mediabrew.com",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -8910,7 +9487,8 @@
       "lat": 46.499,
       "lng": -87.617,
       "id": "mmh-0584",
-      "tipUrl": "https://mediabrew.com"
+      "tipUrl": "https://mediabrew.com",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -8927,7 +9505,8 @@
       "lat": 46.43,
       "lng": -87.588,
       "id": "mmh-0585",
-      "tipUrl": "https://mediabrew.com"
+      "tipUrl": "https://mediabrew.com",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -8944,7 +9523,8 @@
       "lat": 46.543,
       "lng": -87.395,
       "id": "mmh-0586",
-      "notes": "WUPK 94.1 The Breeze Marquette; Marquette Radio LLC — no confirmed web presence found."
+      "notes": "WUPK 94.1 The Breeze Marquette; Marquette Radio LLC — no confirmed web presence found.",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -8961,7 +9541,8 @@
       "lat": 46.499,
       "lng": -87.617,
       "id": "mmh-0587",
-      "notes": "WNGE 99.5 K-Rock Negaunee; Marquette Radio LLC — no confirmed web presence found."
+      "notes": "WNGE 99.5 K-Rock Negaunee; Marquette Radio LLC — no confirmed web presence found.",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -8978,7 +9559,8 @@
       "lat": 46.279,
       "lng": -87.446,
       "id": "mmh-0588",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -8995,7 +9577,8 @@
       "lat": 46.543,
       "lng": -87.395,
       "id": "mmh-0589",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -9013,7 +9596,8 @@
       "lng": -87.668,
       "id": "mmh-0590",
       "notes": "WMQT 107.7 Q107 Ishpeming; licensed to Keweenaw Bay Indian Community (KBIC). Tribal radio — verify programming contact.",
-      "tipUrl": "https://kbic-nsn.gov"
+      "tipUrl": "https://kbic-nsn.gov",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -9030,7 +9614,8 @@
       "lat": 46.543,
       "lng": -87.395,
       "id": "mmh-0591",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -9048,7 +9633,8 @@
       "lng": -87.668,
       "id": "mmh-0592",
       "notes": "WZAM 970 AM ESPN 970 Ishpeming; KBIC tribal licensee. Sports format via ESPN affil.",
-      "tipUrl": "https://kbic-nsn.gov"
+      "tipUrl": "https://kbic-nsn.gov",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -9065,7 +9651,8 @@
       "lat": 46.489,
       "lng": -87.668,
       "id": "mmh-0593",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Marquette"
     },
     {
       "category": "Radio",
@@ -9082,7 +9669,8 @@
       "lat": 45.745,
       "lng": -87.064,
       "id": "mmh-0594",
-      "tipUrl": "https://escanabaradiogroup.com"
+      "tipUrl": "https://escanabaradiogroup.com",
+      "county": "Delta"
     },
     {
       "category": "Radio",
@@ -9100,7 +9688,8 @@
       "lng": -87.064,
       "id": "mmh-0595",
       "notes": "WCHT 600 AM / 93.5 FM NewsTalk Escanaba; AMC Partners cluster.",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Delta"
     },
     {
       "category": "Radio",
@@ -9117,7 +9706,8 @@
       "lat": 45.745,
       "lng": -87.064,
       "id": "mmh-0596",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Delta"
     },
     {
       "category": "Radio",
@@ -9135,7 +9725,8 @@
       "lng": -87.064,
       "id": "mmh-0597",
       "notes": "WDBC 680 AM Escanaba; Aurora Media cluster.",
-      "tipUrl": "https://escanabaradiogroup.com"
+      "tipUrl": "https://escanabaradiogroup.com",
+      "county": "Delta"
     },
     {
       "category": "Radio",
@@ -9152,7 +9743,8 @@
       "lat": 46.03,
       "lng": -86.02,
       "id": "mmh-0598",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Schoolcraft"
     },
     {
       "category": "Radio",
@@ -9169,7 +9761,8 @@
       "lat": 45.848,
       "lng": -87.021,
       "id": "mmh-0599",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Delta"
     },
     {
       "category": "Radio",
@@ -9186,7 +9779,8 @@
       "lat": 45.687,
       "lng": -87.531,
       "id": "mmh-0600",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Menominee"
     },
     {
       "category": "Radio",
@@ -9204,7 +9798,8 @@
       "lng": -86.247,
       "id": "mmh-0601",
       "notes": "WRPP 92.7 Manistique; Aurora Media cluster.",
-      "tipUrl": "https://escanabaradiogroup.com"
+      "tipUrl": "https://escanabaradiogroup.com",
+      "county": "Schoolcraft"
     },
     {
       "category": "Radio",
@@ -9222,7 +9817,8 @@
       "lng": -88.066,
       "id": "mmh-0602",
       "notes": "WJNR-FM 101.5 Frog Country Iron Mountain; Results Broadcasting cluster.",
-      "tipUrl": "https://resultsmedia.com"
+      "tipUrl": "https://resultsmedia.com",
+      "county": "Dickinson"
     },
     {
       "category": "Radio",
@@ -9240,7 +9836,8 @@
       "lng": -88.066,
       "id": "mmh-0603",
       "notes": "WHTO 106.7 The Mountain Iron Mountain; Results Broadcasting cluster.",
-      "tipUrl": "https://resultsmedia.com"
+      "tipUrl": "https://resultsmedia.com",
+      "county": "Dickinson"
     },
     {
       "category": "Radio",
@@ -9258,7 +9855,8 @@
       "lng": -88.334,
       "id": "mmh-0604",
       "notes": "WOBE 100.7 Radio Now Crystal Falls; Results Broadcasting cluster.",
-      "tipUrl": "https://resultsmedia.com"
+      "tipUrl": "https://resultsmedia.com",
+      "county": "Iron"
     },
     {
       "category": "Radio",
@@ -9275,7 +9873,8 @@
       "lat": 45.82,
       "lng": -88.066,
       "id": "mmh-0605",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Dickinson"
     },
     {
       "category": "Radio",
@@ -9292,7 +9891,8 @@
       "lat": 45.82,
       "lng": -88.066,
       "id": "mmh-0606",
-      "notes": "Owner Sovereign Communications faced a Feb 2026 FCC license-revocation proceeding — verify status. | WMIQ 1450 Iron Mountain; Sovereign Communications licensee."
+      "notes": "Owner Sovereign Communications faced a Feb 2026 FCC license-revocation proceeding — verify status. | WMIQ 1450 Iron Mountain; Sovereign Communications licensee.",
+      "county": "Dickinson"
     },
     {
       "category": "Radio",
@@ -9309,7 +9909,8 @@
       "lat": 45.789,
       "lng": -87.904,
       "id": "mmh-0607",
-      "tipUrl": "https://radioresults.net"
+      "tipUrl": "https://radioresults.net",
+      "county": "Dickinson"
     },
     {
       "category": "Radio",
@@ -9327,7 +9928,8 @@
       "lng": -88.642,
       "id": "mmh-0608",
       "notes": "WFER 1230 AM / 97.9 FM Iron River; Morgan Murphy Media cluster.",
-      "tipUrl": "https://morganmurphy.com"
+      "tipUrl": "https://morganmurphy.com",
+      "county": "Iron"
     },
     {
       "category": "Radio",
@@ -9344,7 +9946,8 @@
       "lat": 46.093,
       "lng": -88.642,
       "id": "mmh-0609",
-      "notes": "WIKB-FM 99.1 Iron River; Iron River Community Broadcasting — very small/community operator; no confirmed web presence."
+      "notes": "WIKB-FM 99.1 Iron River; Iron River Community Broadcasting — very small/community operator; no confirmed web presence.",
+      "county": "Iron"
     },
     {
       "category": "Radio",
@@ -9362,7 +9965,8 @@
       "lng": -90.171,
       "id": "mmh-0610",
       "notes": "WIMI 99.7 The Storm Ironwood; J&J Broadcasting cluster.",
-      "tipUrl": "https://jjbroadcasting.com"
+      "tipUrl": "https://jjbroadcasting.com",
+      "county": "Gogebic"
     },
     {
       "category": "Radio",
@@ -9380,7 +9984,8 @@
       "lng": -90.171,
       "id": "mmh-0611",
       "notes": "WJMS 590 AM Ironwood; J&J Broadcasting cluster.",
-      "tipUrl": "https://jjbroadcasting.com"
+      "tipUrl": "https://jjbroadcasting.com",
+      "county": "Gogebic"
     },
     {
       "category": "Radio",
@@ -9397,7 +10002,8 @@
       "lat": 46.454,
       "lng": -90.171,
       "id": "mmh-0612",
-      "notes": "WUPM 106.9 Ironwood; Baraga Broadcasting — very small operator; no confirmed web presence."
+      "notes": "WUPM 106.9 Ironwood; Baraga Broadcasting — very small operator; no confirmed web presence.",
+      "county": "Gogebic"
     },
     {
       "category": "Radio",
@@ -9414,7 +10020,8 @@
       "lat": 46.872,
       "lng": -89.317,
       "id": "mmh-0613",
-      "notes": "WUPY 101.1 Ontonagon; SNRN Broadcasting — very small rural operator; no confirmed web presence."
+      "notes": "WUPY 101.1 Ontonagon; SNRN Broadcasting — very small rural operator; no confirmed web presence.",
+      "county": "Ontonagon"
     },
     {
       "category": "Radio",
@@ -9432,7 +10039,8 @@
       "lng": -88.569,
       "id": "mmh-0614",
       "notes": "WCCY 1400 AM / 99.3 The Lift Houghton; Morgan Murphy Media cluster.",
-      "tipUrl": "https://morganmurphy.com"
+      "tipUrl": "https://morganmurphy.com",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9450,7 +10058,8 @@
       "lng": -88.569,
       "id": "mmh-0615",
       "notes": "WHKB 102.3 K-Bear Houghton; Morgan Murphy Media cluster.",
-      "tipUrl": "https://morganmurphy.com"
+      "tipUrl": "https://morganmurphy.com",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9468,7 +10077,8 @@
       "lng": -88.569,
       "id": "mmh-0616",
       "notes": "WOLV 97.7 The Wolf Houghton; Morgan Murphy Media cluster.",
-      "tipUrl": "https://morganmurphy.com"
+      "tipUrl": "https://morganmurphy.com",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9486,7 +10096,8 @@
       "lng": -88.569,
       "id": "mmh-0617",
       "notes": "WHBS 96.3 Houghton's Breeze; Morgan Murphy Media cluster.",
-      "tipUrl": "https://morganmurphy.com"
+      "tipUrl": "https://morganmurphy.com",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9503,7 +10114,8 @@
       "lat": 47.127,
       "lng": -88.581,
       "id": "mmh-0618",
-      "notes": "WMPL 107.3/920 Yooper 107.3 Hancock; Michigan Civic Media Alliance — small/community operator; no confirmed web presence."
+      "notes": "WMPL 107.3/920 Yooper 107.3 Hancock; Michigan Civic Media Alliance — small/community operator; no confirmed web presence.",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9521,7 +10133,8 @@
       "lng": -88.581,
       "id": "mmh-0619",
       "notes": "WGLI 98.7 The Rockin' Eagle Hancock; KBIC tribal licensee. Verify programming contact vs. tribal govt site.",
-      "tipUrl": "https://kbic-nsn.gov"
+      "tipUrl": "https://kbic-nsn.gov",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9539,7 +10152,8 @@
       "lng": -88.453,
       "id": "mmh-0620",
       "notes": "WCUP 105.7 Eagle Country L'Anse; KBIC tribal licensee.",
-      "tipUrl": "https://kbic-nsn.gov"
+      "tipUrl": "https://kbic-nsn.gov",
+      "county": "Baraga"
     },
     {
       "category": "Radio",
@@ -9557,7 +10171,8 @@
       "lng": -88.581,
       "id": "mmh-0621",
       "notes": "WKMJ-FM 93.5 Hancock; J&J Broadcasting cluster.",
-      "tipUrl": "https://jjbroadcasting.com"
+      "tipUrl": "https://jjbroadcasting.com",
+      "county": "Houghton"
     },
     {
       "category": "Radio",
@@ -9575,7 +10190,8 @@
       "lng": -84.345,
       "id": "mmh-0622",
       "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status.",
-      "tipUrl": "https://1230wsoo.com"
+      "tipUrl": "https://1230wsoo.com",
+      "county": "Chippewa"
     },
     {
       "category": "Radio",
@@ -9592,7 +10208,8 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0623",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WKNW 1400 News Talk Sault Ste. Marie; Sovereign Communications cluster."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WKNW 1400 News Talk Sault Ste. Marie; Sovereign Communications cluster.",
+      "county": "Chippewa"
     },
     {
       "category": "Radio",
@@ -9609,7 +10226,8 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0624",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WYSS 99.5 Yes FM Sault Ste. Marie; Sovereign Communications cluster."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WYSS 99.5 Yes FM Sault Ste. Marie; Sovereign Communications cluster.",
+      "county": "Chippewa"
     },
     {
       "category": "Radio",
@@ -9626,7 +10244,8 @@
       "lat": 46.495,
       "lng": -84.345,
       "id": "mmh-0625",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WSUE 101.3 Rock 101 Sault Ste. Marie; Sovereign Communications cluster."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WSUE 101.3 Rock 101 Sault Ste. Marie; Sovereign Communications cluster.",
+      "county": "Chippewa"
     },
     {
       "category": "Radio",
@@ -9643,7 +10262,8 @@
       "lat": 46.166,
       "lng": -84.365,
       "id": "mmh-0626",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WMKD 105.5 Big Country Pickford; Sovereign Communications cluster."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WMKD 105.5 Big Country Pickford; Sovereign Communications cluster.",
+      "county": "Chippewa"
     },
     {
       "category": "Radio",
@@ -9660,7 +10280,8 @@
       "lat": 46.355,
       "lng": -85.51,
       "id": "mmh-0627",
-      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WNBY 1450 AM / 93.9 FM Newberry; Sovereign Communications cluster."
+      "notes": "Owner Sovereign faced a Feb 2026 FCC license-revocation proceeding — verify status. | WNBY 1450 AM / 93.9 FM Newberry; Sovereign Communications cluster.",
+      "county": "Luce"
     },
     {
       "category": "Radio",
@@ -9677,7 +10298,8 @@
       "lat": 46.633,
       "lng": -85.024,
       "id": "mmh-0628",
-      "notes": "WUPN 95.1 / WMJT 96.7 Radio Eagle Paradise; Darby Advertising licensee — no confirmed web presence found."
+      "notes": "WUPN 95.1 / WMJT 96.7 Radio Eagle Paradise; Darby Advertising licensee — no confirmed web presence found.",
+      "county": "Chippewa"
     }
   ]
 }
