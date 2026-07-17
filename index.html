@@ -713,6 +713,13 @@ body.dark mark{background:#78350f;color:#fde68a}
 /* ═══════════════════════════════════════════════════════
    NEWS TICKER PANEL
 ═══════════════════════════════════════════════════════ */
+.ticker-heading{
+  text-align:center;
+  font-size:1.9rem;
+  color:var(--navy);
+  margin:1.6rem 0 .8rem 0;
+}
+body.dark .ticker-heading{ color:#fff; }
 #news-ticker{
   background:var(--navy);
   border-bottom:3px solid var(--gold);
@@ -1075,16 +1082,16 @@ body.dark mark{background:#78350f;color:#fde68a}
       </div>
 
       <div class="hero-stats">
-        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('tv')" onkeydown="heroStatKey(event,'tv')"><div class="hero-stat-num" data-cat="tv">39</div><div class="hero-stat-label">TV Stations</div></div>
-        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('radio')" onkeydown="heroStatKey(event,'radio')"><div class="hero-stat-num" data-cat="radio">183</div><div class="hero-stat-label">Radio Stations</div></div>
+        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('tv')" onkeydown="heroStatKey(event,'tv')"><div class="hero-stat-num" data-cat="tv">38</div><div class="hero-stat-label">TV Stations</div></div>
+        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('radio')" onkeydown="heroStatKey(event,'radio')"><div class="hero-stat-num" data-cat="radio">169</div><div class="hero-stat-label">Radio Stations</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('daily')" onkeydown="heroStatKey(event,'daily')"><div class="hero-stat-num" data-cat="daily">45</div><div class="hero-stat-label">Daily Papers</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('weekly')" onkeydown="heroStatKey(event,'weekly')"><div class="hero-stat-num" data-cat="weekly">106</div><div class="hero-stat-label">Weekly Papers</div></div>
-        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('digital')" onkeydown="heroStatKey(event,'digital')"><div class="hero-stat-num" data-cat="digital">44</div><div class="hero-stat-label">Digital</div></div>
+        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('digital')" onkeydown="heroStatKey(event,'digital')"><div class="hero-stat-num" data-cat="digital">45</div><div class="hero-stat-label">Digital</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('public')" onkeydown="heroStatKey(event,'public')"><div class="hero-stat-num" data-cat="public">53</div><div class="hero-stat-label">Public Media</div></div>
-        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('ethnic')" onkeydown="heroStatKey(event,'ethnic')"><div class="hero-stat-num" data-cat="ethnic">53</div><div class="hero-stat-label">Ethnic/Religious</div></div>
+        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('ethnic')" onkeydown="heroStatKey(event,'ethnic')"><div class="hero-stat-num" data-cat="ethnic">54</div><div class="hero-stat-label">Ethnic/Religious</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('university')" onkeydown="heroStatKey(event,'university')"><div class="hero-stat-num" data-cat="university">29</div><div class="hero-stat-label">University</div></div>
         <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('business')" onkeydown="heroStatKey(event,'business')"><div class="hero-stat-num" data-cat="business">22</div><div class="hero-stat-label">Business</div></div>
-        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('all')" onkeydown="heroStatKey(event,'all')"><div class="hero-stat-num" data-cat="__total">622</div><div class="hero-stat-label">Total Outlets</div></div>
+        <div class="hero-stat-link" role="link" tabindex="0" onclick="goDir('all')" onkeydown="heroStatKey(event,'all')"><div class="hero-stat-num" data-cat="__total">623</div><div class="hero-stat-label">Total Outlets</div></div>
       </div>
     </div>
   </div>
@@ -1092,6 +1099,7 @@ body.dark mark{background:#78350f;color:#fde68a}
 
 
   <!-- ══ NEWS TICKER ══════════════════════════════════════════════════════ -->
+  <h2 id="ticker-heading" class="ticker-heading">Michigan Headlines</h2>
   <div id="news-ticker" role="region" aria-label="Latest Michigan news headlines">
     <div id="ticker-label">Headlines</div>
     <div id="ticker-content">
@@ -1544,7 +1552,6 @@ body.dark mark{background:#78350f;color:#fde68a}
 const OUTLETS={
 tv:[
   {name:"WADL — TV 38",city:"Detroit",market:"Detroit",url:"https://www.wadldetroit.com",badge:"MyNetworkTV",type:"TV",desc:"Detroit independent/MyNetworkTV station; sold to Mission Broadcasting in 2024.",bc:"b-blue",county:"Wayne"},
-  {name:"WAQP — TCT 49",city:"Saginaw",market:"Flint",url:"https://www.tct.tv",badge:"TCT",type:"TV",desc:"Flagship of the TCT religious network, headquartered in Michigan.",bc:"b-blue",county:"Saginaw"},
   {name:"WBKB-TV 11 – Alpena",city:"Alpena",market:"Alpena",url:"https://www.wbkb11.com",badge:"CBS/NBC/ABC/Fox",type:"TV",desc:"Multi-network multicast; sole commercial full-power station in Alpena DMA.",bc:"b-blue",te:"news@wbkb11.com",county:"Alpena"},
   {name:"WBKP – CW 5 / ABC 10 UP",city:"Calumet",market:"Marquette",url:"https://www.abc10up.com",badge:"CW/ABC",type:"TV",desc:"UP-focused CW and ABC programming.",bc:"b-blue",te:"news@myupnow.com",tu:"https://www.myupnow.com/submit-a-tip/",county:"Houghton"},
   {name:"WBSF — CW 46",city:"Bay City",market:"Flint",url:"https://www.wbsf.tv",badge:"The CW",type:"TV",desc:"CW affiliate for the Flint–Saginaw market.",bc:"b-blue",te:"news@mid-michigannow.com",tu:"https://midmichigannow.com/chimein",county:"Bay"},
@@ -1585,8 +1592,6 @@ tv:[
 ],
 
 radio:[
-  {name:"WBBL 107.3 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.1073thebig.com",badge:"Sports",type:"Radio",desc:"'107.3 The Big'; West Michigan sports talk.",bc:"b-green",county:"Kent"},
-  {name:"WBCK 95.3 FM",city:"Battle Creek",market:"Grand Rapids",url:"https://www.wbck.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate.",bc:"b-green",county:"Calhoun"},
   {name:"WBCT — B93",city:"Grand Rapids",market:"Grand Rapids",url:"https://b93.com",badge:"Country",type:"Radio",desc:"One of West Michigan's highest-rated stations; flagship of the B93 Birthday Bash.",bc:"b-green",county:"Kent"},
   {name:"WBLV 90.3 FM",city:"Twin Lake",market:"Grand Rapids",url:"https://www.bluelake.org",badge:"Classical/Arts",type:"Radio",desc:"Fine arts and classical; unique arts-focused public radio.",bc:"b-green",county:"Muskegon"},
   {name:"WCBN 88.3 FM",city:"Ann Arbor",market:"Ann Arbor",url:"https://www.wcbn.org",badge:"Freeform",type:"Radio",desc:"Freeform/alternative; student-run at University of Michigan.",bc:"b-green",county:"Washtenaw"},
@@ -1594,15 +1599,12 @@ radio:[
   {name:"WCMU 89.5 FM",city:"Mount Pleasant",market:"Statewide",url:"https://www.wcmu.org",badge:"NPR/Public",type:"Radio",desc:"CMU public radio; large northern MI and UP coverage area.",bc:"b-green",county:"Isabella"},
   {name:"WCSX 94.7 FM",city:"Detroit",market:"Detroit",url:"https://wcsx.com",badge:"Classic Rock",type:"Radio",desc:"Major Detroit classic rock station; consistent ratings leader.",bc:"b-green",county:"Wayne"},
   {name:"WDET 101.9 FM",city:"Detroit",market:"Detroit",url:"https://wdet.org",badge:"NPR/Public",type:"Radio",desc:"Detroit Public Radio; NPR news, music, culture.",bc:"b-green",county:"Wayne"},
-  {name:"WDFN 1130 AM — The Fan",city:"Detroit",market:"Detroit",url:"https://thefandetroit.iheart.com",badge:"Sports",type:"Radio",desc:"Detroit sports talk; complements WXYT on the sports dial.",bc:"b-green",county:"Wayne"},
   {name:"WDMK 105.9 FM",city:"Detroit",market:"Detroit",url:"https://www.detroitpraiseradio.com",badge:"Urban Gospel",type:"Radio",desc:"'Detroit Praise Network'; urban gospel/R&B.",bc:"b-green",county:"Wayne"},
   {name:"WDTW 1310 AM",city:"Detroit",market:"Detroit",url:"https://www.1310lazer.com",badge:"Regional Mexican",type:"Radio",desc:"'La Z 1310'; regional Mexican format for Latino Detroit.",bc:"b-green",county:"Wayne"},
   {name:"WDVD 96.3 FM",city:"Detroit",market:"Detroit",url:"https://www.wdvd.com",badge:"Adult Contemporary",type:"Radio",desc:"One of Detroit's top-rated FM stations.",bc:"b-green",county:"Wayne"},
   {name:"WEMU 89.1 FM",city:"Ypsilanti",market:"Ann Arbor",url:"https://www.wemu.org",badge:"Jazz/NPR",type:"Radio",desc:"Jazz and NPR; one of America's leading public jazz stations.",bc:"b-green",county:"Washtenaw"},
-  {name:"WFGR 98.7 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.987thegrand.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate since Dec 2025.",bc:"b-green",county:"Kent"},
   {name:"WGGL 91.1 FM",city:"Houghton",market:"Upper Peninsula",url:"https://www.mtu.edu/wggl",badge:"NPR/Public",type:"Radio",desc:"Michigan Tech public radio; Minnesota Public Radio affiliate.",bc:"b-green",county:"Houghton"},
   {name:"WGRD 97.9 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgrd.com",badge:"Active Rock",type:"Radio",desc:"Grand Rapids' leading rock station.",bc:"b-green",county:"Kent"},
-  {name:"WGRY 101.1 FM",city:"Roscommon",market:"Traverse City",url:"https://www.wgry.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate for northern Michigan.",bc:"b-green",county:"Roscommon"},
   {name:"WGVU 88.5 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.wgvu.org",badge:"NPR/Public",type:"Radio",desc:"NPR affiliate; Grand Valley State University public radio.",bc:"b-green",county:"Kent"},
   {name:"WHNN 96.1 FM",city:"Saginaw",market:"Flint",url:"https://www.961whnn.com",badge:"Classic Hits",type:"Radio",desc:"Classic hits format for Flint-Saginaw market.",bc:"b-green",county:"Saginaw"},
   {name:"WIAA 88.7 FM – IPR Classical",city:"Interlochen",market:"Traverse City",url:"https://www.interlochenpublicradio.org",badge:"Classical",type:"Radio",desc:"Interlochen Public Radio classical; 20+ county reach.",bc:"b-green",county:"Grand Traverse"},
@@ -1614,7 +1616,6 @@ radio:[
   {name:"WJXQ Q106",city:"Lansing",market:"Lansing",url:"https://www.q106.com",badge:"Rock",type:"Radio",desc:"'Q106' Lansing-area rock station.",bc:"b-green",county:"Ingham"},
   {name:"WKAR-AM 870",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"NPR News/Talk",type:"Radio",desc:"Daytime NPR news simulcast; MSU Broadcasting.",bc:"b-green",county:"Ingham"},
   {name:"WKAR-FM 90.5",city:"East Lansing",market:"Lansing",url:"https://www.wkar.org",badge:"NPR/Public",type:"Radio",desc:"NPR affiliate; MSU public radio with news and classical.",bc:"b-green",county:"Ingham"},
-  {name:"WKMI 1360 AM",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.wkmi.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate.",bc:"b-green",county:"Kalamazoo"},
   {name:"WKQI 95.5 FM",city:"Detroit",market:"Detroit",url:"https://www.channel955.com",badge:"CHR/Pop",type:"Radio",desc:"'Channel 95.5'; CHR/pop format for Metro Detroit.",bc:"b-green",county:"Wayne"},
   {name:"WKQZ Z93",city:"Saginaw",market:"Flint",url:"https://www.z93.com",badge:"Classic Rock",type:"Radio",desc:"'Z93' classic rock for Saginaw-Flint area.",bc:"b-green",county:"Saginaw"},
   {name:"WKZO 590 AM",city:"Kalamazoo",market:"Grand Rapids",url:"https://wkzo.com",badge:"News/Talk",type:"Radio",desc:"Heritage news/talk voice of Southwest Michigan since 1931.",bc:"b-green",county:"Kalamazoo"},
@@ -1630,12 +1631,9 @@ radio:[
   {name:"WRIF 101.1 FM",city:"Detroit",market:"Detroit",url:"https://www.wrif.com",badge:"Classic Rock",type:"Radio",desc:"'WRIF Rock Detroit'; classic Detroit rock voice.",bc:"b-green",county:"Wayne"},
   {name:"WSGW 790 AM",city:"Saginaw",market:"Flint",url:"https://www.wsgw.com",badge:"News/Talk",type:"Radio",desc:"'NewsRadio 790' for the Saginaw valley.",bc:"b-green",county:"Saginaw"},
   {name:"WTCM AM/FM",city:"Traverse City",market:"Traverse City",url:"https://www.wtcmradio.com",badge:"News/Talk + Country",type:"Radio",desc:"Heritage flagship of Northern Michigan: news/talk on 580 AM, country on 103.5 FM.",bc:"b-green",county:"Grand Traverse"},
-  {name:"WTKA 1050 AM",city:"Ann Arbor",market:"Ann Arbor",url:"https://wtka.com",badge:"Sports",type:"Radio",desc:"Ann Arbor sports talk closely tied to Michigan Wolverines coverage.",bc:"b-green",county:"Washtenaw"},
   {name:"WUOM 91.7 FM – Michigan Public",city:"Ann Arbor",market:"Statewide",url:"https://www.michiganpublic.org",badge:"NPR/News",type:"Radio",desc:"Flagship NPR station for Michigan; WUOM/WVGR statewide network.",bc:"b-green",county:"Washtenaw"},
-  {name:"WVFN — The Game 730",city:"Lansing",market:"Lansing",url:"https://thegame730am.com",badge:"Sports",type:"Radio",desc:"Mid-Michigan sports talk with heavy MSU athletics coverage.",bc:"b-green",county:"Ingham"},
   {name:"WVGR 104.1 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.michiganpublic.org",badge:"NPR/Public",type:"Radio",desc:"NPR/Michigan Public affiliate for West Michigan.",bc:"b-green",county:"Kent"},
   {name:"WWJ-AM 950",city:"Detroit",market:"Detroit",url:"https://www.wwj950.com",badge:"All-News",type:"Radio",desc:"24-hr all-news; Detroit institution since 1920.",bc:"b-green",county:"Wayne"},
-  {name:"WXYT-FM 97.1 – The Ticket",city:"Detroit",market:"Detroit",url:"https://www.971theticket.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network flagship.",bc:"b-green",county:"Wayne"},
   {name:"WYCD 99.5 FM",city:"Detroit",market:"Detroit",url:"https://www.wycd.com",badge:"Country",type:"Radio",desc:"'New Country 99.5'; annual St. Jude radiothon.",bc:"b-green",county:"Wayne"},
   {name:"WFBE 95.1 FM — B95",city:"Flint",market:"Flint",url:"https://wfbe.com",badge:"Country",type:"Radio",desc:"Flint's heritage country station, 'Your Hit Country.'",bc:"b-green",county:"Genesee"},
   {name:"WWBN 101.5 FM — Banana 101.5",city:"Tuscola",market:"Flint",url:"https://banana1015.com",badge:"Active Rock",type:"Radio",desc:"Flint-market active rock; local morning show; reaches into the Thumb.",bc:"b-green",county:"Tuscola"},
@@ -1680,12 +1678,9 @@ radio:[
   {name:"WKHQ-FM 105.9 FM — Hits 106 KHQ",city:"Charlevoix",market:"Petoskey",url:"https://106khq.com",badge:"CHR",type:"Radio",desc:"Northern Michigan's #1 hit-music station (tower collapsed in the March 2025 ice storm — verify signal).",bc:"b-green",tu:"https://106khq.com",county:"Charlevoix"},
   {name:"WLXT 96.3 FM — Lite 96.3",city:"Petoskey",market:"Petoskey",url:"https://lite96.com",badge:"Adult Contemporary",type:"Radio",desc:"Northern Michigan AC leader; now simulcast on Cadillac's WLXV 96.7.",bc:"b-green",tu:"https://lite96.com",county:"Emmet"},
   {name:"WMKT 1270 AM — The Talk Station",city:"Charlevoix",market:"Petoskey",url:"https://wmktthetalkstation.com",badge:"News/Talk",type:"Radio",desc:"Northern Michigan news/talk.",bc:"b-green",te:"wmktbusiness@gmail.com",county:"Charlevoix"},
-  {name:"WMBN 1340 AM",city:"Petoskey",market:"Petoskey",url:"http://www.radiomgb.com",badge:"Sports",type:"Radio",desc:"Petoskey-area sports (Fox Sports Radio).",bc:"b-green",tu:"http://www.radiomgb.com",county:"Emmet"},
   {name:"WMJZ-FM 101.5 FM — Eagle 101.5",city:"Gaylord",market:"Gaylord",url:"https://eagle1015gaylord.com",badge:"Adult Hits",type:"Radio",desc:"'Uniquely Northern Michigan'; ABC News Radio and Gaylord High School sports (tower fell March 2025 — verify).",bc:"b-green",tu:"https://eagle1015gaylord.com",county:"Otsego"},
-  {name:"WSRT 106.7 FM — ESPN Radio Northern Michigan",city:"Gaylord",market:"Gaylord",url:"http://www.radiomgb.com",badge:"Sports",type:"Radio",desc:"Gaylord-area ESPN Radio sports outlet.",bc:"b-green",tu:"http://www.radiomgb.com",county:"Otsego"},
   {name:"WATT 1240 AM — NewsTalk 1240",city:"Cadillac",market:"Cadillac",url:"http://www.radiomgb.com",badge:"News/Talk",type:"Radio",desc:"Cadillac's first station (1945); local news, talk and sports.",bc:"b-green",tu:"http://www.radiomgb.com",county:"Wexford"},
   {name:"WLXV 96.7 FM — Mix 96",city:"Cadillac",market:"Cadillac",url:"https://www.mix96cadillac.com",badge:"Hot AC",type:"Radio",desc:"Cadillac's music station (now simulcasting WLXT).",bc:"b-green",tu:"https://www.mix96cadillac.com",county:"Wexford"},
-  {name:"WKAD 93.7 FM — The Ticket",city:"Harrietta",market:"Cadillac",url:"https://wkad937.com",badge:"Sports",type:"Radio",desc:"Fox Sports Radio with local Cadillac Viking sports.",bc:"b-green",tu:"https://wkad937.com",county:"Wexford"},
   {name:"WKLT 97.5 FM — 97.5 KLT",city:"Kalkaska",market:"Traverse City",url:"https://wklt.com",badge:"Mainstream Rock",type:"Radio",desc:"'The Rock Station'; anchor of the KLT simulcast network.",bc:"b-green",tu:"https://wklt.com",county:"Kalkaska"},
   {name:"WKLA 1450 AM",city:"Ludington",market:"Ludington",url:"https://gowithsynergy.com",badge:"Oldies",type:"Radio",desc:"Ludington good-time oldies with local sports.",bc:"b-green",tu:"https://gowithsynergy.com",county:"Mason"},
   {name:"WKLA-FM 96.3 FM — 96.3 KLA",city:"Ludington",market:"Ludington",url:"https://gowithsynergy.com",badge:"CHR",type:"Radio",desc:"Ludington-market contemporary hits.",bc:"b-green",tu:"https://gowithsynergy.com",county:"Mason"},
@@ -1700,7 +1695,6 @@ radio:[
   {name:"WCSY-FM 103.7 FM — SuperHits 103.7 COSY",city:"South Haven",market:"Benton Harbor",url:"https://cosy1037.com",badge:"Classic Hits",type:"Radio",desc:"Classic hits from a South Haven studio.",bc:"b-green",tu:"https://cosy1037.com",county:"Van Buren"},
   {name:"WYTZ 99.9 FM",city:"Bridgman",market:"Benton Harbor",url:"https://z99fm.com",badge:"Country",type:"Radio",desc:"Southwest Michigan music station.",bc:"b-green",tu:"https://z99fm.com",county:"Berrien"},
   {name:"WCXT 98.3 FM — The Coast",city:"Hartford",market:"Benton Harbor",url:"https://thecoast983.com",badge:"Adult Contemporary",type:"Radio",desc:"Southwest Michigan music station.",bc:"b-green",tu:"https://thecoast983.com",county:"Van Buren"},
-  {name:"WQYQ 106.1 FM / 1400 AM — The New QYQ",city:"St. Joseph",market:"Benton Harbor",url:"https://1061thequake.com",badge:"Sports",type:"Radio",desc:"WSJM Sports outlet for southwest Michigan.",bc:"b-green",tu:"https://1061thequake.com",county:"Berrien"},
   {name:"WCSR 1340 AM / 92.1 FM",city:"Hillsdale",market:"Hillsdale",url:"https://wcsr.com",badge:"Full-Service",type:"Radio",desc:"Hillsdale full-service local station (country / AC).",bc:"b-green",tu:"https://wcsr.com",county:"Hillsdale"},
   {name:"WPHM 105.5 FM / 1450 AM",city:"Port Huron",market:"Port Huron",url:"https://wphm.com",badge:"News/Talk",type:"Radio",desc:"Port Huron news/talk; Blue Water News Network. Calls moved to 1450/105.5 in April 2026.",bc:"b-green",tu:"https://wphm.com",county:"St. Clair"},
   {name:"WGRT 102.3 FM",city:"Port Huron",market:"Port Huron",url:"https://wgrt.com",badge:"Adult Contemporary",type:"Radio",desc:"St. Clair County's sole locally owned and operated commercial station.",bc:"b-green",tu:"https://wgrt.com",county:"St. Clair"},
@@ -1731,7 +1725,6 @@ radio:[
   {name:"WUPZ 94.9 FM — The Bay",city:"Marquette",market:"Marquette",url:"https://radioresults.net",badge:"CHR",type:"Radio",desc:"Contemporary hits for the Marquette area.",bc:"b-green",tu:"https://radioresults.net",county:"Marquette"},
   {name:"WMQT 107.7 FM — Q107",city:"Ishpeming",market:"Marquette",url:"https://kbic-nsn.gov",badge:"Adult Contemporary",type:"Radio",desc:"Marquette-area adult contemporary.",bc:"b-green",tu:"https://kbic-nsn.gov",county:"Marquette"},
   {name:"WDMJ 1320 AM",city:"Marquette",market:"Marquette",url:"https://radioresults.net",badge:"News/Talk",type:"Radio",desc:"Marquette news/talk; the UP's oldest Marquette station.",bc:"b-green",tu:"https://radioresults.net",county:"Marquette"},
-  {name:"WZAM 970 AM — ESPN 970",city:"Ishpeming",market:"Marquette",url:"https://kbic-nsn.gov",badge:"Sports",type:"Radio",desc:"ESPN Radio sports for the Marquette area.",bc:"b-green",tu:"https://kbic-nsn.gov",county:"Marquette"},
   {name:"WJPD 92.3 FM",city:"Ishpeming",market:"Marquette",url:"https://radioresults.net",badge:"Country",type:"Radio",desc:"Marquette-market country.",bc:"b-green",tu:"https://radioresults.net",county:"Marquette"},
   {name:"WYKX 104.7 FM — Kix Country",city:"Escanaba",market:"Escanaba",url:"https://escanabaradiogroup.com",badge:"Country",type:"Radio",desc:"The UP's Delta County country station.",bc:"b-green",tu:"https://escanabaradiogroup.com",county:"Delta"},
   {name:"WCHT 600 AM / 93.5 FM — NewsTalk",city:"Escanaba",market:"Escanaba",url:"https://radioresults.net",badge:"News/Talk",type:"Radio",desc:"Local Escanaba-area news/talk.",bc:"b-green",tu:"https://radioresults.net",county:"Delta"},
@@ -1819,16 +1812,16 @@ daily:[
 ],
 
 weekly:[
-  {name:"Ad-visor & Chronicle",city:"Marshall",market:"Grand Rapids",url:"https://marshalladvisor.com/",badge:"Weekly",type:"Weekly",desc:"Free weekly serving Marshall and Calhoun County; former J-Ad Graphics title acquired by View Newspaper Group in 2024.",bc:"b-slate",county:"Calhoun"},
+  {name:"Ad-visor & Chronicle",city:"Marshall",market:"Grand Rapids",url:"https://marshalladvisor.com/",badge:"Weekly",type:"Weekly",desc:"Free weekly serving Marshall and Calhoun County; former J-Ad Graphics title acquired by View Newspaper Group in 2024.",bc:"b-slate",te:"sberry@mihomepaper.com",county:"Calhoun"},
   {name:"Alcona County Review",city:"Harrisville",market:"Alpena",url:"https://www.alconareview.com",badge:"Weekly",type:"Weekly",desc:"Northeast Michigan 'Sunrise Side' weekly.",bc:"b-slate",te:"editor@alconareview.com",tu:"https://www.alconareview.com",county:"Alcona"},
   {name:"Allegan County News",city:"Allegan",market:"Grand Rapids",url:"https://www.allegannews.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Allegan County since 1860.",bc:"b-slate",te:"wilcoxnewspapers@gmail.com",tu:"https://wilcoxnewspapers.com",county:"Allegan"},
   {name:"Antrim County News",city:"Bellaire",market:"Traverse City",url:"https://www.antrimcountynews.com",badge:"Weekly",type:"Weekly",desc:"Northern Michigan community weekly serving Antrim County.",bc:"b-slate",te:"editor@antrimreview.net",tu:"https://www.antrimreview.net",county:"Antrim"},
   {name:"Arenac County Independent",city:"Standish",market:"Flint",url:"https://www.arenacindependent.com",badge:"Weekly",type:"Weekly",desc:"Weekly serving Standish, Omer, and Arenac County; sister to the Pinconning Journal.",bc:"b-slate",te:"ahensel@cherryroad.com",county:"Arenac"},
   {name:"Bay Mills News",city:"Brimley",market:"Upper Peninsula",url:"https://www.baymillsnews.com",badge:"Weekly",type:"Weekly",desc:"News publication of the Bay Mills Indian Community, serving Brimley and the eastern UP; tribal news coverage.",bc:"b-slate",te:"newspaper@baymills.org",county:"Chippewa"},
-  {name:"Beaverton Clarion",city:"Beaverton",market:"Flint",url:"https://www.beavertonclarion.com",badge:"Weekly",type:"Weekly",desc:"Gladwin County community weekly serving the Beaverton area.",bc:"b-slate",tu:"https://www.beavertonclarion.com",county:"Gladwin"},
+  {name:"Beaverton Clarion",city:"Beaverton",market:"Flint",url:"https://www.gladwinmi.com/",badge:"Weekly",type:"Weekly",desc:"Gladwin County community weekly serving the Beaverton area.",bc:"b-slate",tu:"https://www.gladwinmi.com/",county:"Gladwin"},
   {name:"Belleville-Area Independent",city:"Belleville",market:"Detroit",url:"https://bellevilleareaindependent.com",badge:"Weekly",type:"Weekly",desc:"Weekly serving Belleville, Van Buren Township, and Sumpter Township in western Wayne County.",bc:"b-slate",tu:"https://bellevilleareaindependent.com",county:"Wayne"},
   {name:"Benton Spirit",city:"Benton Harbor",market:"Grand Rapids",url:"https://bentonspiritnews.com",badge:"Weekly",type:"Weekly",desc:"Weekly community newspaper serving Benton Harbor and the Twin Cities area.",bc:"b-slate",tu:"https://bentonspiritnews.com",county:"Berrien"},
-  {name:"Benzie County Record Patriot",city:"Frankfort",market:"Traverse City",url:"https://www.recordpatriot.com",badge:"Weekly",type:"Weekly",desc:"Benzie County weekly based in Frankfort; part of Hearst's Pioneer group.",bc:"b-slate",county:"Benzie"},
+  {name:"Benzie County Record Patriot",city:"Frankfort",market:"Traverse City",url:"https://www.recordpatriot.com",badge:"Weekly",type:"Weekly",desc:"Benzie County weekly based in Frankfort; part of Hearst's Pioneer group.",bc:"b-slate",te:"recpat@pioneergroup.com",county:"Benzie"},
   {name:"Berrien County Record",city:"Buchanan",market:"Grand Rapids",url:"https://bcrnews.net",badge:"Weekly",type:"Weekly",desc:"Weekly serving Buchanan; among Berrien County's oldest papers, publishing since 1867.",bc:"b-slate",tu:"https://bcrnews.net",county:"Berrien"},
   {name:"Blissfield Advance",city:"Blissfield",market:"Toledo",url:"https://blissfieldadvance.com/",badge:"Weekly",type:"Weekly",desc:"Lenawee County weekly serving Blissfield and the River Raisin farm towns since 1875.",bc:"b-slate",tu:"https://blissfieldadvance.com",county:"Lenawee"},
   {name:"Boyne City Gazette",city:"Boyne City",market:"Traverse City",url:"https://www.boynegazette.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Boyne City and Charlevoix County.",bc:"b-slate",te:"maria@slowmadicmedia.com",tu:"https://www.boynegazette.com/contact/",county:"Charlevoix"},
@@ -1844,7 +1837,7 @@ weekly:[
   {name:"Flint Courier News",city:"Flint",market:"Flint",url:"https://theflintcouriernews.com/",badge:"Weekly",type:"Weekly",desc:"African American community weekly serving Flint and Genesee County. Verify current URL.",bc:"b-slate",tu:"https://theflintcouriernews.com",county:"Genesee"},
   {name:"Fowlerville News & Views",city:"Fowlerville",market:"Lansing",url:"https://www.fowlervillenewsandviews.com",badge:"Weekly",type:"Weekly",desc:"Free weekly covering Fowlerville, Webberville, and western Livingston County for over 30 years.",bc:"b-slate",tu:"https://www.fowlervillenewsandviews.com",county:"Livingston"},
   {name:"Frankenmuth News",city:"Frankenmuth",market:"Flint",url:"https://www.frankenmuthnews.com",badge:"Weekly",type:"Weekly",desc:"Independent weekly serving Michigan's Bavarian town since 1906.",bc:"b-slate",te:"vhayden@airadv.net",county:"Saginaw"},
-  {name:"Gaylord Herald Times",city:"Gaylord",market:"Traverse City",url:"https://www.gaylordheraldtimes.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Gaylord and Otsego County.",bc:"b-slate",county:"Otsego"},
+  {name:"Gaylord Herald Times",city:"Gaylord",market:"Traverse City",url:"https://www.gaylordheraldtimes.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Gaylord and Otsego County.",bc:"b-slate",te:"jfellows@petoskeynews.com",county:"Otsego"},
   {name:"Genesee County View",city:"Davison",market:"Flint",url:"https://geneseecountyview.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Free community weekly serving Genesee County suburbs including Davison, Grand Blanc, and Flushing.",bc:"b-slate",te:"ggould@mihomepaper.com",tu:"https://geneseecountyview.com/contact-us/",county:"Genesee"},
   {name:"Gladwin County Record",city:"Gladwin",market:"Flint",url:"https://www.gladwinmi.com",badge:"Weekly",type:"Weekly",desc:"Gladwin County weekly of record; companion masthead to the Beaverton Clarion already in the hub.",bc:"b-slate",te:"editor@thegladwincountyrecord.com",tu:"http://www.gladwinmi.com/contact",county:"Gladwin"},
   {name:"Glen Arbor Sun",city:"Glen Arbor",market:"Traverse City",url:"https://glenarborsun.com",badge:"Weekly",type:"Weekly",desc:"Free Leelanau County community paper covering the Sleeping Bear Dunes region.",bc:"b-slate",te:"editorial@glenarborsun.com",tu:"https://glenarborsun.com/contact/",county:"Leelanau"},
@@ -1860,7 +1853,7 @@ weekly:[
   {name:"Iron County Reporter",city:"Iron River",market:"Upper Peninsula",url:"https://www.ironcountyreporter.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Iron County in the western Upper Peninsula.",bc:"b-slate",te:"wgraham@mmlocal.com",county:"Iron"},
   {name:"Keweenaw Report",city:"Houghton",market:"Upper Peninsula",url:"https://keweenawreport.com",badge:"Weekly",type:"Weekly",desc:"Digital-first community news outlet serving the Keweenaw Peninsula and Copper Country.",bc:"b-slate",tu:"https://keweenawreport.com",county:"Houghton"},
   {name:"L'Anse Sentinel",city:"L'Anse",market:"Upper Peninsula",url:"https://www.lansesentinel.com",badge:"Weekly",type:"Weekly",desc:"Baraga County weekly in the western UP.",bc:"b-slate",te:"sentinel1886@gmail.com",tu:"https://www.lansesentinel.com",county:"Baraga"},
-  {name:"Lake County Star",city:"Baldwin",market:"Grand Rapids",url:"https://www.lakecountystar.com",badge:"Weekly",type:"Weekly",desc:"Lake County weekly serving Baldwin; part of Hearst's Pioneer group.",bc:"b-slate",county:"Lake"},
+  {name:"Lake County Star",city:"Baldwin",market:"Grand Rapids",url:"https://www.lakecountystar.com",badge:"Weekly",type:"Weekly",desc:"Lake County weekly serving Baldwin; part of Hearst's Pioneer group.",bc:"b-slate",tu:"https://www.lakecountystar.com/contact/",county:"Lake"},
   {name:"Lake Orion Review",city:"Lake Orion",market:"Detroit",url:"https://lakeorionreview.mihomepaper.com",badge:"Weekly",type:"Weekly",desc:"Northern Oakland County community weekly; 140-year history. Acquired by View Newspaper Group in 2022.",bc:"b-slate",te:"editor@mihomepaper.com",tu:"https://lakeorionreview.mihomepaper.com",county:"Oakland"},
   {name:"Lakeview Area News",city:"Lakeview",market:"Grand Rapids",url:"",badge:"Weekly",type:"Weekly",desc:"Weekly serving Lakeview and northern Montcalm County. Verify current status.",bc:"b-slate",county:"Montcalm"},
   {name:"Lansing City Pulse",city:"Lansing",market:"Lansing",url:"https://www.lansingcitypulse.com",badge:"Weekly",type:"Weekly",desc:"The capital's alternative newsweekly since 2001 — arts, politics, and dining.",bc:"b-slate",te:"mike@lansingcitypulse.com",tu:"https://lansingcitypulse.com/contact-us/",county:"Ingham"},
@@ -1873,9 +1866,9 @@ weekly:[
   {name:"Menominee County Journal",city:"Stephenson",market:"Upper Peninsula",url:"https://www.mcjonline.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Menominee County in Michigan's western UP.",bc:"b-slate",te:"journal@alphacomm.net",county:"Menominee"},
   {name:"Meridian Weekly",city:"Ovid",market:"Lansing",url:"https://meridianweekly.com",badge:"Weekly",type:"Weekly",desc:"Weekly serving Ovid, Elsie, and communities across Clinton and Shiawassee counties.",bc:"b-slate",tu:"https://meridianweekly.com",county:"Clinton"},
   {name:"Metro Times",city:"Detroit",market:"Detroit",url:"https://www.metrotimes.com",badge:"Weekly",type:"Weekly",desc:"Michigan's largest alternative weekly. Arts, culture, nightlife, investigative.",bc:"b-slate",te:"tips@metrointhed.com",county:"Wayne"},
-  {name:"Milford Times",city:"Milford",market:"Detroit",url:"https://www.hometownlife.com/milford-times",badge:"Weekly",type:"Weekly",desc:"Oakland County community weekly serving Milford and surrounding communities.",bc:"b-slate",county:"Oakland"},
+  {name:"Milford Times",city:"Milford",market:"Detroit",url:"https://www.hometownlife.com/milford-times",badge:"Weekly",type:"Weekly",desc:"Oakland County community weekly serving Milford and surrounding communities.",bc:"b-slate",te:"sbromley@hometownlife.com",county:"Oakland"},
   {name:"Minden City Herald",city:"Minden City",market:"Flint",url:"https://mindencityherald.com",badge:"Weekly",type:"Weekly",desc:"Family-run Sanilac County weekly publishing since 1889; coverage stretches from Harbor Beach to Deckerville in the upper Thumb.",bc:"b-slate",tu:"https://mindencityherald.com",county:"Sanilac"},
-  {name:"Missaukee Sentinel",city:"Lake City",market:"Traverse City",url:"",badge:"Weekly",type:"Weekly",desc:"Weekly serving Lake City, McBain, and Missaukee County.",bc:"b-slate",county:"Missaukee"},
+  {name:"Missaukee Sentinel",city:"Lake City",market:"Traverse City",url:"https://missaukeesentinel.com/",badge:"Weekly",type:"Weekly",desc:"Weekly serving Lake City, McBain, and Missaukee County.",bc:"b-slate",tu:"https://missaukeesentinel.com/submit-news/",county:"Missaukee"},
   {name:"Montmorency County Tribune",city:"Atlanta",market:"Traverse City",url:"https://www.montmorencycountytribune.com",badge:"Weekly",type:"Weekly",desc:"Community weekly serving Montmorency County in northern Lower Michigan.",bc:"b-slate",tu:"https://www.montmorencycountytribune.com",county:"Montmorency"},
   {name:"Munising News",city:"Munising",market:"Upper Peninsula",url:"https://www.munisingnews.com",badge:"Weekly",type:"Weekly",desc:"Upper Peninsula community paper; Pictured Rocks area.",bc:"b-slate",tu:"https://www.munisingnews.com",county:"Alger"},
   {name:"Newberry News",city:"Newberry",market:"Upper Peninsula",url:"https://www.thenewberrynews.com",badge:"Weekly",type:"Weekly",desc:"Community newspaper serving Luce County and the eastern Upper Peninsula.",bc:"b-slate",te:"nbynews@mynewberrynews.com",tu:"https://mynewberrynews.com/contact-us/",county:"Luce"},
@@ -1924,7 +1917,7 @@ weekly:[
   {name:"Tri-County Times",city:"Fenton",market:"Flint",url:"https://www.tricountytimes.com",badge:"Weekly",type:"Weekly",desc:"Award-winning Genesee/Livingston county community weekly based in Fenton.",bc:"b-slate",te:"editor@mihomepaper.com",tu:"https://www.tricountytimes.com",county:"Genesee"},
   {name:"Tuscola County Advertiser",city:"Caro",market:"Flint",url:"https://www.tuscolatoday.com",badge:"Weekly",type:"Weekly",desc:"Tuscola County's newspaper of record, based in Caro; masthead dates to 1868.",bc:"b-slate",te:"sendnews@tcadvertiser.com",tu:"https://www.tuscolatoday.com/site/contact.html",county:"Tuscola"},
   {name:"White Lake Beacon",city:"Whitehall",market:"Grand Rapids",url:"https://www.shorelinemedia.net/white_lake_beacon/",badge:"Weekly",type:"Weekly",desc:"Weekly serving Whitehall, Montague, and the White Lake area of northern Muskegon County.",bc:"b-slate",te:"editor@whitelakebeacon.com",tu:"https://www.shorelinemedia.net/white_lake_beacon/",county:"Muskegon"},
-  {name:"Zeeland Record",city:"Zeeland",market:"Grand Rapids",url:"https://issuu.com/zeelandrecord",badge:"Weekly",type:"Weekly",desc:"Ottawa County weekly serving Zeeland since 1893; print-first with roughly 2,000 circulation, e-editions sold via Issuu.",bc:"b-slate",county:"Ottawa"}
+  {name:"Zeeland Record",city:"Zeeland",market:"Grand Rapids",url:"https://issuu.com/zeelandrecord",badge:"Weekly",type:"Weekly",desc:"Ottawa County weekly serving Zeeland since 1893; print-first with roughly 2,000 circulation, e-editions sold via Issuu.",bc:"b-slate",te:"zeeland@legalnews.com",county:"Ottawa"}
 ],
 
 magazines:[
@@ -1939,12 +1932,10 @@ magazines:[
   {name:"Michigan Blue",city:"Troy",market:"Statewide",url:"https://www.mibluemag.com",badge:"Magazine",type:"Magazine",desc:"Waterfront lifestyle magazine celebrating Michigan's Great Lakes and inland lake culture. Home, travel, food, and outdoor adventure on the water.",bc:"b-purple",county:"Oakland"},
   {name:"Michigan Country Lines",city:"Okemos",market:"Statewide",url:"https://www.countrylines.com",badge:"Magazine",type:"Magazine",desc:"Award-winning magazine for members of Michigan's electric cooperatives. Home, family, gardening, energy efficiency, and rural lifestyle. Circulation ~300,000.",bc:"b-purple",county:"Ingham"},
   {name:"Michigan Gardener",city:"Southfield",market:"Statewide",url:"https://www.michigangardener.com",badge:"Magazine",type:"Magazine",desc:"Regional gardening magazine founded 1996. Garden events, plant guides, and seasonal tips for Michigan's unique climate and growing conditions.",bc:"b-purple",county:"Oakland"},
-  {name:"Michigan Golf Journal",city:"Statewide",market:"Statewide",url:"https://michigangolfjournal.com",badge:"Magazine",type:"Magazine",desc:"Digital magazine covering Michigan's 600+ golf courses.",bc:"b-purple",county:"Statewide / Multi-County"},
   {name:"Michigan History Magazine",city:"Lansing",market:"Statewide",url:"https://www.hsmichigan.org/read/michigan-history",badge:"Magazine",type:"Magazine",desc:"Bimonthly state history magazine since 1917. Richly illustrated articles on Michigan's social, cultural, political, and architectural history. 100,000 readers.",bc:"b-purple",county:"Ingham"},
   {name:"Michigan Home and Lifestyle",city:"Statewide",market:"Statewide",url:"https://michiganhomeandlifestyle.com",badge:"Magazine",type:"Magazine",desc:"Design, lifestyle, outdoors, and home improvement for Michigan homeowners. Started 2002 as a construction trade resource guide.",bc:"b-purple",county:"Statewide / Multi-County"},
   {name:"Michigan Out-of-Doors",city:"Lansing",market:"Statewide",url:"https://www.michiganoutofdoors.com",badge:"Magazine",type:"Magazine",desc:"Michigan's conservation and outdoors magazine since 1947. Hunting, fishing, conservation, and environmental news from MUCC, a nonprofit founded in 1937.",bc:"b-purple",county:"Ingham"},
   {name:"Michigan Snowmobiler & ORV Magazine",city:"New Lothrop",market:"Statewide",url:"https://michsnowmag.com",badge:"Magazine",type:"Magazine",desc:"Monthly magazine dedicated to snowmobiling and off-road vehicles in Michigan since 1967. Published 10 times per season, May through February.",bc:"b-purple",county:"Shiawassee"},
-  {name:"Outdoor News Michigan",city:"Eden Prairie MN / Michigan Edition",market:"Statewide",url:"https://www.outdoornews.com/michigan",badge:"Magazine",type:"Magazine",desc:"Michigan edition of the Outdoor News network. Hunting, fishing, and outdoor recreation reporting specific to Michigan. Founded 1968.",bc:"b-purple",county:"Statewide / Multi-County"},
   {name:"Review Magazine",city:"Bay City",market:"Flint / Bay Area",url:"https://www.review-mag.com",badge:"Magazine",type:"Magazine",desc:"Independent arts and entertainment magazine for the Great Lakes Bay Region since 1979. Free press and in-depth local journalism.",bc:"b-purple",county:"Bay"},
   {name:"Revue Magazine",city:"Grand Rapids",market:"Grand Rapids",url:"https://revuewm.com",badge:"Magazine",type:"Magazine",desc:"West Michigan's comprehensive free entertainment guide. Music, arts, cannabis, dining, and events for Grand Rapids, Kalamazoo, and Muskegon.",bc:"b-purple",county:"Kent"},
   {name:"SEEN Magazine",city:"Farmington Hills",market:"Metro Detroit",url:"https://www.seenthemagazine.com",badge:"Magazine",type:"Magazine",desc:"Metro Detroit lifestyle magazine since 2015. People, food, art, music, style, home, and wellness for Southeast Michigan.",bc:"b-purple",county:"Oakland"},
@@ -1952,7 +1943,6 @@ magazines:[
   {name:"Traverse — Northern Michigan's Magazine",city:"Traverse City",market:"Traverse City",url:"https://www.mynorth.com",badge:"Magazine",type:"Magazine",desc:"Flagship northern Michigan lifestyle magazine since 1981. Travel, restaurants, wine tours, outdoor adventure, and Great Lakes culture. Circulation ~12,000.",bc:"b-purple",county:"Grand Traverse"},
   {name:"West Michigan Woman",city:"Grand Rapids",market:"Grand Rapids",url:"https://westmichiganwoman.com",badge:"Magazine",type:"Magazine",desc:"Lifestyle and professional resource for women in Greater Grand Rapids since 1998. Health, business, community events, and women's issues.",bc:"b-purple",county:"Kent"},
   {name:"Women's Lifestyle Magazine",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.womenslifestyle.com",badge:"Magazine",type:"Magazine",desc:"Inspiring stories of women living in Grand Rapids. Community events, health, business, and lifestyle. 500+ distribution locations.",bc:"b-purple",county:"Kent"},
-  {name:"Woods-N-Water News",city:"Roscommon",market:"Statewide",url:"https://woods-n-waternews.com",badge:"Magazine",type:"Magazine",desc:"Michigan's largest outdoor publication with 100,000+ monthly readers. Hunting, fishing, and outdoor recreation. 150+ pages per issue.",bc:"b-purple",county:"Roscommon"},
 ],
 
 digital:[
@@ -1968,6 +1958,7 @@ digital:[
   {name:"Detour Detroit",city:"Detroit",market:"Metro Detroit",url:"https://www.detourdetroiter.com",badge:"Digital",type:"Digital",desc:"Independent digital publication covering Detroit culture, art, architecture, and urban affairs from a design-forward perspective. NOTE: Merged into Outlier Media in 2022; site no longer publishing independently.",bc:"b-teal",county:"Wayne"},
   {name:"Detroit is Different",city:"Detroit",market:"Detroit",url:"https://www.detroitisdifferent.com",badge:"Digital",type:"Digital",desc:"Digital magazine and podcast network centered on Black Detroit culture.",bc:"b-teal",county:"Wayne"},
   {name:"East Village Magazine",city:"Flint",market:"Flint",url:"https://www.eastvillagemagazine.org",badge:"Digital",type:"Digital",desc:"Volunteer-powered Flint neighborhood journalism published continuously since 1976.",bc:"b-teal",county:"Genesee"},
+  {name:"EUP News",city:"Sault Ste. Marie",market:"Upper Peninsula",url:"https://www.eupnews.com/",badge:"Digital",type:"Digital",desc:"Digital news site covering Sault Ste. Marie and Michigan's eastern Upper Peninsula; local news, sports, obituaries, and government coverage.",bc:"b-teal",county:"Chippewa"},
   {name:"Epicenter Mt. Pleasant",city:"Mt. Pleasant",market:"Flint",url:"https://www.secondwavemedia.com/epicenter",badge:"Digital",type:"Digital",desc:"Digital community news for Mt. Pleasant and Isabella County; covers CMU, entrepreneurship, and community development in central Michigan.",bc:"b-teal",county:"Isabella"},
   {name:"Flint Beat",city:"Flint",market:"Flint",url:"https://flintbeat.com",badge:"Digital",type:"Digital",desc:"Nonprofit community newsroom for Flint; rigorous evidence-based reporting on how residents are solving Flint's biggest problems. Water crisis accountability journalism.",bc:"b-teal",county:"Genesee"},
   {name:"Flintside",city:"Flint",market:"Flint",url:"https://flintside.com",badge:"Digital",type:"Digital",desc:"Digital solutions-journalism magazine for Flint and Genesee County. Covers community transformation, health equity, and economic development.",bc:"b-teal",county:"Genesee"},
@@ -2112,6 +2103,7 @@ ethnic:[
   {name:"WNZK 690/680 AM – 'Station of the Nations'",city:"Dearborn Heights",market:"Metro Detroit",url:"http://www.birach.com/wnzk.html",badge:"Multicultural / Arab / East European",type:"Community",desc:"The only AM station in North America using two frequencies (690 day / 680 night). Brokered ethnic format; Birach Broadcasting. Serves Arabic, Eastern European, and other diaspora communities across Metro Detroit.",bc:"b-amber",county:"Wayne"},
   {name:"WOAS 88.7 FM – 'The Rockin' Eagle'",city:"Baraga / Keweenaw Bay",market:"Upper Peninsula",url:"https://www.kbic-nsn.gov",badge:"Keweenaw Bay Indian Community",type:"Community",desc:"Tribal radio station owned and operated by the Keweenaw Bay Indian Community. Covers Baraga, Houghton, Keweenaw, Ontonagon counties and parts of western UP.",bc:"b-amber",county:"Baraga"},
   {name:"WRDT 560 AM",city:"Detroit",market:"Metro Detroit",url:"https://wrdt560.com",badge:"Christian / Talk",type:"Community",desc:"Christian talk format; Crawford Broadcasting. Part of the Crawford Metro Detroit cluster alongside WMUZ and WCHB.",bc:"b-amber",county:"Wayne"},
+  {name:"WAQP — TCT 49",city:"Saginaw",market:"Flint",url:"https://www.tct.tv",badge:"TCT",type:"TV",desc:"Flagship of the TCT religious network, headquartered in Michigan.",bc:"b-blue",county:"Saginaw"},
 ],
 
 university:[
@@ -2179,6 +2171,23 @@ sports:[
   {name:"The Athletic — Detroit",city:"Detroit",market:"Detroit",url:"https://www.nytimes.com/athletic/",badge:"Sports",type:"Sports",desc:"Subscription beat coverage of the Lions, Tigers, Red Wings, Pistons, UM, and MSU.",bc:"b-green",county:"Wayne"},
   {name:"The Only Colors",city:"East Lansing",market:"Lansing",url:"https://www.theonlycolors.com",badge:"Sports",type:"Sports",desc:"SB Nation's Michigan State Spartans site.",bc:"b-green",county:"Ingham"},
   {name:"Woodward Sports Network",city:"Detroit",market:"Detroit",url:"https://woodwardsports.com",badge:"Sports",type:"Sports",desc:"Independent Detroit sports network — shows, podcasts, and video across all Detroit teams.",bc:"b-green",county:"Wayne"},
+  {name:"Michigan Golf Journal",city:"Statewide",market:"Statewide",url:"https://michigangolfjournal.com",badge:"Magazine",type:"Magazine",desc:"Digital magazine covering Michigan's 600+ golf courses.",bc:"b-purple",county:"Statewide / Multi-County"},
+  {name:"Outdoor News Michigan",city:"Eden Prairie MN / Michigan Edition",market:"Statewide",url:"https://www.outdoornews.com/michigan",badge:"Magazine",type:"Magazine",desc:"Michigan edition of the Outdoor News network. Hunting, fishing, and outdoor recreation reporting specific to Michigan. Founded 1968.",bc:"b-purple",county:"Statewide / Multi-County"},
+  {name:"Woods-N-Water News",city:"Roscommon",market:"Statewide",url:"https://woods-n-waternews.com",badge:"Magazine",type:"Magazine",desc:"Michigan's largest outdoor publication with 100,000+ monthly readers. Hunting, fishing, and outdoor recreation. 150+ pages per issue.",bc:"b-purple",county:"Roscommon"},
+  {name:"WBBL 107.3 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.1073thebig.com",badge:"Sports",type:"Radio",desc:"'107.3 The Big'; West Michigan sports talk.",bc:"b-green",county:"Kent"},
+  {name:"WBCK 95.3 FM",city:"Battle Creek",market:"Grand Rapids",url:"https://www.wbck.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate.",bc:"b-green",county:"Calhoun"},
+  {name:"WDFN 1130 AM — The Fan",city:"Detroit",market:"Detroit",url:"https://thefandetroit.iheart.com",badge:"Sports",type:"Radio",desc:"Detroit sports talk; complements WXYT on the sports dial.",bc:"b-green",county:"Wayne"},
+  {name:"WFGR 98.7 FM",city:"Grand Rapids",market:"Grand Rapids",url:"https://www.987thegrand.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate since Dec 2025.",bc:"b-green",county:"Kent"},
+  {name:"WGRY 101.1 FM",city:"Roscommon",market:"Traverse City",url:"https://www.wgry.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate for northern Michigan.",bc:"b-green",county:"Roscommon"},
+  {name:"WKMI 1360 AM",city:"Kalamazoo",market:"Grand Rapids",url:"https://www.wkmi.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network affiliate.",bc:"b-green",county:"Kalamazoo"},
+  {name:"WTKA 1050 AM",city:"Ann Arbor",market:"Ann Arbor",url:"https://wtka.com",badge:"Sports",type:"Radio",desc:"Ann Arbor sports talk closely tied to Michigan Wolverines coverage.",bc:"b-green",county:"Washtenaw"},
+  {name:"WVFN — The Game 730",city:"Lansing",market:"Lansing",url:"https://thegame730am.com",badge:"Sports",type:"Radio",desc:"Mid-Michigan sports talk with heavy MSU athletics coverage.",bc:"b-green",county:"Ingham"},
+  {name:"WXYT-FM 97.1 – The Ticket",city:"Detroit",market:"Detroit",url:"https://www.971theticket.com",badge:"Sports",type:"Radio",desc:"Detroit Sports Radio Network flagship.",bc:"b-green",county:"Wayne"},
+  {name:"WMBN 1340 AM",city:"Petoskey",market:"Petoskey",url:"http://www.radiomgb.com",badge:"Sports",type:"Radio",desc:"Petoskey-area sports (Fox Sports Radio).",bc:"b-green",tu:"http://www.radiomgb.com",county:"Emmet"},
+  {name:"WSRT 106.7 FM — ESPN Radio Northern Michigan",city:"Gaylord",market:"Gaylord",url:"http://www.radiomgb.com",badge:"Sports",type:"Radio",desc:"Gaylord-area ESPN Radio sports outlet.",bc:"b-green",tu:"http://www.radiomgb.com",county:"Otsego"},
+  {name:"WKAD 93.7 FM — The Ticket",city:"Harrietta",market:"Cadillac",url:"https://wkad937.com",badge:"Sports",type:"Radio",desc:"Fox Sports Radio with local Cadillac Viking sports.",bc:"b-green",tu:"https://wkad937.com",county:"Wexford"},
+  {name:"WQYQ 106.1 FM / 1400 AM — The New QYQ",city:"St. Joseph",market:"Benton Harbor",url:"https://1061thequake.com",badge:"Sports",type:"Radio",desc:"WSJM Sports outlet for southwest Michigan.",bc:"b-green",tu:"https://1061thequake.com",county:"Berrien"},
+  {name:"WZAM 970 AM — ESPN 970",city:"Ishpeming",market:"Marquette",url:"https://kbic-nsn.gov",badge:"Sports",type:"Radio",desc:"ESPN Radio sports for the Marquette area.",bc:"b-green",tu:"https://kbic-nsn.gov",county:"Marquette"},
 ],
 
 border:[
