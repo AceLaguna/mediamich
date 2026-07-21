@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21T08:42:55+00:00",
+ "generated": "2026-07-21T14:19:46+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Detroit’s ‘teen takeover’ panic revives an old racist media playbook",
+   "link": "https://www.metrotimes.com/news/detroits-teen-takeover-panic-revives-an-old-racist-media-playbook/",
+   "published": "Tue, 21 Jul 2026 13:47:00 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Bigot Jake Lang crashes Abdul El-Sayed event and watches his stunt backfire",
    "link": "https://www.metrotimes.com/news/bigot-jake-lang-crashes-abdul-el-sayed-event-and-watches-his-stunt-backfire/",
    "published": "Mon, 20 Jul 2026 18:36:17 +0000"
@@ -31,12 +37,6 @@
    "title": "Aurora Italiana opening inside historic downtown Detroit theater",
    "link": "https://www.metrotimes.com/food-drink/aurora-italiana-opening-inside-historic-downtown-detroit-theater/",
    "published": "Mon, 20 Jul 2026 14:43:54 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Another progressive member of Congress backs Donavan McKinney over Shri Thanedar",
-   "link": "https://www.metrotimes.com/news/another-progressive-member-of-congress-backs-donavan-mckinney-over-shri-thanedar/",
-   "published": "Mon, 20 Jul 2026 12:08:59 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Wife of former Michigan House speaker sentenced for embezzling from campaign fund he controlled",
-   "link": "https://michiganadvance.com/2026/07/20/wife-of-former-michigan-house-speaker-sentenced-for-embezzling-from-campaign-fund-he-controlled/",
-   "published": "Mon, 20 Jul 2026 21:51:04 +0000"
+   "title": "Trump proposal will turn federal grants into a system of political favors, Democrats warn",
+   "link": "https://michiganadvance.com/2026/07/21/repub/trump-proposal-will-turn-federal-grants-into-a-system-of-political-favors-democrats-warn/",
+   "published": "Tue, 21 Jul 2026 13:35:40 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Education Department veterans blast Trump plan to transfer programs",
-   "link": "https://michiganadvance.com/2026/07/20/repub/us-education-department-veterans-blast-trump-plan-to-transfer-programs/",
-   "published": "Mon, 20 Jul 2026 21:45:02 +0000"
+   "title": "Private investment in youth sports draws state, federal scrutiny",
+   "link": "https://michiganadvance.com/2026/07/21/repub/private-investment-in-youth-sports-draws-state-federal-scrutiny/",
+   "published": "Tue, 21 Jul 2026 10:33:29 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Canadian hockey sticks, wine and cement subject to new Trump tariffs",
-   "link": "https://michiganadvance.com/2026/07/20/repub/canadian-hockey-sticks-wine-and-cement-subject-to-new-trump-tariffs/",
-   "published": "Mon, 20 Jul 2026 21:43:49 +0000"
+   "title": "A former AIPAC-linked group is now supporting Abdul El-Sayed to elect a doctor to the U.S. Senate",
+   "link": "https://michiganadvance.com/2026/07/21/a-former-aipac-linked-group-is-now-supporting-abdul-el-sayed-to-elect-a-doctor-to-the-u-s-senate/",
+   "published": "Tue, 21 Jul 2026 10:00:38 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Asking Eric: Honest mistake - or obvious shoplifting? Senior feels she’s innocent",
-   "link": "https://www.mlive.com/advice/2026/07/asking-eric-honest-mistake-or-obvious-shoplifting-senior-feels-shes-innocent.html",
-   "published": "Tue, 21 Jul 2026 08:00:00 +0000"
+   "title": "Fox News anchor reveals 1 reason why Trump needs to end Iran war",
+   "link": "https://www.mlive.com/politics/2026/07/fox-news-anchor-reveals-1-reason-why-trump-needs-to-end-iran-war.html",
+   "published": "Tue, 21 Jul 2026 14:14:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Tigers escape in ninth, erupt in 10th to beat Cubs in wild thriller",
-   "link": "https://www.mlive.com/tigers/2026/07/tigers-escape-in-ninth-erupt-in-10th-to-beat-cubs-in-wild-thriller.html",
-   "published": "Tue, 21 Jul 2026 04:48:33 +0000"
+   "title": "A DNA test uncovered a life-changing family secret decades later",
+   "link": "https://www.mlive.com/news/2026/07/colorado-dna-test-uncovered-a-secret-no-family-saw-coming.html",
+   "published": "Tue, 21 Jul 2026 14:14:30 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Eugenia Last daily horoscopes: Sagittarius, form backup plan with a little cash and high energy (07/21/26)",
-   "link": "https://www.mlive.com/advice/2026/07/horoscope-for-tuesday-july-21-2026.html",
-   "published": "Tue, 21 Jul 2026 04:01:00 +0000"
+   "title": "Family claims man critically injured at Northern Michigan’s Blissfest was attacked",
+   "link": "https://www.mlive.com/news/2026/07/family-claims-man-critically-injured-at-northern-michigans-blissfest-was-attacked.html",
+   "published": "Tue, 21 Jul 2026 14:07:38 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "One park, two groups and a whole lot of confusion",
+   "link": "https://outliermedia.org/friends-of-rouge-park-detroit-activities-events/",
+   "published": "Tue, 21 Jul 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -159,10 +165,10 @@
    "published": "Wed, 15 Jul 2026 10:00:00 +0000"
   },
   {
-   "outlet": "Outlier Media",
-   "title": "Stay inside, get online and learn something: Get involved in Detroit",
-   "link": "https://outliermedia.org/detroit-weekend-events-feeding-the-fight/",
-   "published": "Wed, 15 Jul 2026 09:45:00 +0000"
+   "outlet": "Planet Detroit",
+   "title": "Data center news: Saline Township reverses course, drops cap on data center tax break",
+   "link": "https://planetdetroit.org/2026/07/data-center-news-saline-township/",
+   "published": "Tue, 21 Jul 2026 13:40:12 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -177,28 +183,22 @@
    "published": "Sat, 18 Jul 2026 17:30:54 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Detroit air quality to improve Saturday, but relief may be short-lived",
-   "link": "https://planetdetroit.org/2026/07/detroit-air-quality-forecast-ontario-fires/",
-   "published": "Fri, 17 Jul 2026 18:14:13 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "10 things I learned from shopping at 100 Michigan dispensaries",
+   "link": "https://gandernewsroom.com/news/cannabis/10-things-i-learned-from-shopping-at-100-michigan-dispensaries/",
+   "published": "Tue, 21 Jul 2026 11:33:18 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "6 quick hits of cannabis news from across Michigan",
+   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-0721/",
+   "published": "Tue, 21 Jul 2026 11:29:06 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
    "title": "Michigan air quality alert extended; ‘slow improvement’ expected Monday",
    "link": "https://gandernewsroom.com/news/environment/michigan-air-quality-alert-extended-slow-improvement-expected-monday/",
    "published": "Mon, 20 Jul 2026 17:27:00 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "13 last-minute day trips from Lansing to take before school starts",
-   "link": "https://gandernewsroom.com/local/things-to-do/day-trips-from-lansing/",
-   "published": "Mon, 20 Jul 2026 16:27:46 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Is it safe to go outside this weekend? Michigan air quality forecast shows relief",
-   "link": "https://gandernewsroom.com/news/environment/is-it-safe-to-go-outside-this-weekend-michigan-air-quality-forecast-shows-relief/",
-   "published": "Fri, 17 Jul 2026 19:56:15 +0000"
   }
  ]
 }
