@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-22T14:20:23+00:00",
+ "generated": "2026-07-22T19:41:38+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,21 +22,33 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Mike Rogers begs Michiganders for money to ‘protect’ Elon Musk",
+   "link": "https://www.metrotimes.com/news/mike-rogers-begs-michiganders-for-money-to-protect-elon-musk/",
+   "published": "Wed, 22 Jul 2026 18:08:56 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "Rick Ross and Gene Simmons to headline new fall music festival in Utica",
+   "link": "https://www.metrotimes.com/music-2/rick-ross-and-gene-simmons-to-headline-new-fall-music-festival-in-utica/",
+   "published": "Wed, 22 Jul 2026 16:42:53 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "The best disposable rosin vapes for summer in Michigan",
    "link": "https://www.metrotimes.com/weed-2/the-best-disposable-rosin-vapes-for-summer-in-michigan/",
    "published": "Wed, 22 Jul 2026 14:01:28 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Photos: Melanie Martinez descends on Detroit with ‘Hades: The Sacrifice’ tour",
-   "link": "https://www.metrotimes.com/feature-follows/melanie-martinez-descends-on-detroit-with-hades-the-sacrifice-tour/",
-   "published": "Tue, 21 Jul 2026 17:35:38 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Fact-check: ‘Millionaire’ claims in Abdul El-Sayed, Haley Stevens Senate race",
+   "link": "https://bridgemi.com/michigan-government/fact-check-millionaire-claims-in-abdul-el-sayed-haley-stevens-senate-race/",
+   "published": "Wed, 22 Jul 2026 17:11:19 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Westland Starbucks becomes Michigan’s 20th unionized location",
-   "link": "https://www.metrotimes.com/news/westland-starbucks-becomes-michigans-20th-unionized-location/",
-   "published": "Tue, 21 Jul 2026 15:57:57 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Opinion | AI makes it easier to deny reality.  Michigan politics are already suffering",
+   "link": "https://bridgemi.com/guest-commentary/opinion-ai-makes-it-easier-to-deny-reality-michigan-politics-are-already-suffering/",
+   "published": "Wed, 22 Jul 2026 16:55:05 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -45,33 +57,21 @@
    "published": "Tue, 21 Jul 2026 21:57:07 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Is John James backed by data center developers?",
-   "link": "https://bridgemi.com/michigan-government/fact-check-is-john-james-backed-by-data-center-developers/",
-   "published": "Tue, 21 Jul 2026 21:11:08 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Candidate forum, parties on tap for LGBT Detroit’s Hotter Than July",
+   "link": "https://www.bridgedetroit.com/candidate-forum-parties-on-tap-for-lgbt-detroits-hotter-than-july/",
+   "published": "Wed, 22 Jul 2026 17:17:37 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Whitmer makes ‘science of reading’ training mandatory for Michigan teachers",
-   "link": "https://bridgemi.com/talent-education/whitmer-makes-science-of-reading-training-mandatory-for-michigan-teachers/",
-   "published": "Tue, 21 Jul 2026 19:05:33 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Here are the 35 people running for the Detroit school board",
+   "link": "https://www.bridgedetroit.com/here-are-the-35-people-running-for-the-detroit-school-board/",
+   "published": "Wed, 22 Jul 2026 14:53:51 +0000"
   },
   {
    "outlet": "BridgeDetroit",
    "title": "Detroit council opposes unchecked water use by AI data centers",
    "link": "https://www.bridgedetroit.com/detroit-council-opposes-unchecked-water-use-by-ai-data-centers/",
-   "published": "Wed, 22 Jul 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit paying average of $36K to remove, replace ‘dirty’ dirt",
-   "link": "https://www.bridgedetroit.com/detroit-paying-average-of-36k-to-remove-replace-dirty-dirt/",
-   "published": "Wed, 22 Jul 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Primary election: Early in-person voting starts Saturday",
-   "link": "https://www.bridgedetroit.com/primary-election-early-in-person-voting-starts-saturday/",
    "published": "Wed, 22 Jul 2026 10:00:00 +0000"
   },
   {
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Study finds one of Michigan’s healthiest forests in Grand Rapids",
+   "link": "https://greatlakesecho.org/2026/07/20/study-finds-one-of-michigans-healthiest-forests-in-grand-rapids/",
+   "published": "Mon, 20 Jul 2026 12:53:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "It’s time for ‘corn sweat’ as mid-summer hits",
    "link": "https://greatlakesecho.org/2026/07/18/its-time-for-corn-sweat-as-mid-summer-hits/",
    "published": "Sat, 18 Jul 2026 11:11:00 +0000"
@@ -105,46 +111,40 @@
    "published": "Fri, 17 Jul 2026 12:05:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Black bass in Great Lakes can live more than 10 years, study finds",
-   "link": "https://greatlakesecho.org/2026/07/16/black-bass-in-great-lakes-can-live-more-than-10-years-study-finds/",
-   "published": "Thu, 16 Jul 2026 11:00:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Johnson’s ‘Trump Tailgate’ spurs backlash from Trump team; he calls James endorsement ‘bad advice’",
+   "link": "https://michiganadvance.com/2026/07/22/johnsons-trump-tailgate-spurs-backlash-from-trump-team-he-calls-james-endorsement-bad-advice/",
+   "published": "Wed, 22 Jul 2026 17:43:37 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Republicans in US House approve stopgap spending bill ahead of Oct. 1 deadline",
-   "link": "https://michiganadvance.com/2026/07/22/repub/republicans-in-us-house-approve-stopgap-spending-bill-ahead-of-oct-1-deadline/",
-   "published": "Wed, 22 Jul 2026 09:58:21 +0000"
+   "title": "Trump administration claims court victory in mandatory detention",
+   "link": "https://michiganadvance.com/2026/07/22/repub/trump-administration-claims-court-victory-in-mandatory-detention/",
+   "published": "Wed, 22 Jul 2026 17:25:26 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Feds have a new teen pregnancy prevention plan: Fertility and ‘reproductive goals’",
-   "link": "https://michiganadvance.com/2026/07/22/repub/feds-have-a-new-teen-pregnancy-prevention-plan-fertility-and-reproductive-goals/",
-   "published": "Wed, 22 Jul 2026 09:58:06 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Michigan Supreme Court justices tour founding, civil rights exhibits at The Henry Ford",
-   "link": "https://michiganadvance.com/2026/07/22/michigan-supreme-court-justices-tour-founding-civil-rights-exhibits-at-the-henry-ford/",
-   "published": "Wed, 22 Jul 2026 09:57:02 +0000"
+   "title": "Onetime acting FEMA chief fired by Trump now on track to be confirmed to head agency",
+   "link": "https://michiganadvance.com/2026/07/22/repub/onetime-acting-fema-chief-fired-by-trump-now-on-track-to-be-confirmed-to-head-agency/",
+   "published": "Wed, 22 Jul 2026 17:08:58 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ann Arbor preparing for 75,000 concertgoers each night for Morgan Wallen shows",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/07/ann-arbor-preparing-for-75000-concertgoers-each-night-for-morgan-wallen-shows.html",
-   "published": "Wed, 22 Jul 2026 14:04:55 +0000"
+   "title": "Rethinking land uses, Ann Arbor rezones industrial site to pave way for apartments",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/07/rethinking-land-uses-ann-arbor-rezones-industrial-site-to-pave-way-for-apartments.html",
+   "published": "Wed, 22 Jul 2026 19:37:46 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "2026 Lions training camp preview: All eyes on star TE Sam LaPorta’s full return",
-   "link": "https://www.mlive.com/lions/2026/07/2026-lions-training-camp-preview-all-eyes-on-star-te-sam-laportas-full-return.html",
-   "published": "Wed, 22 Jul 2026 14:00:07 +0000"
+   "title": "Trump’s own MAGA base turns on Iran war as support craters 13 points",
+   "link": "https://www.mlive.com/politics/2026/07/trumps-own-maga-base-turns-on-iran-war-as-support-craters-13-points.html",
+   "published": "Wed, 22 Jul 2026 19:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan Senate candidate denies DeVos ties after attack mailers from dark money group",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/07/michigan-senate-candidate-denies-devos-ties-after-attack-mailers-from-dark-money-group.html",
-   "published": "Wed, 22 Jul 2026 14:00:00 +0000"
+   "title": "Autopsy says Grammy-nominated singer suffered more than 70 stab wounds",
+   "link": "https://www.mlive.com/news/2026/07/autopsy-says-grammy-nominated-singer-suffered-more-than-70-stab-wounds.html",
+   "published": "Wed, 22 Jul 2026 19:28:16 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,27 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Detroit Zoo stays open through wildfire smoke: How it keeps animals, people safe",
+   "link": "https://planetdetroit.org/2026/07/detroit-zoo-air-quality/",
+   "published": "Wed, 22 Jul 2026 17:43:08 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Detroit denies land use approval for east side oil recycling facility after 2025 fire",
+   "link": "https://planetdetroit.org/2026/07/detroit-denies-aevitas-oil-recycling-expansion/",
+   "published": "Wed, 22 Jul 2026 14:51:33 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Data center news: Saline Township reverses course, drops cap on data center tax break",
    "link": "https://planetdetroit.org/2026/07/data-center-news-saline-township/",
    "published": "Tue, 21 Jul 2026 13:40:12 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Detroit air quality improves as wildfire smoke eases: What the forecast says",
-   "link": "https://planetdetroit.org/2026/07/detroit-air-quality-improves-wildfire-smoke/",
-   "published": "Mon, 20 Jul 2026 20:32:42 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Augusta Township data center battle reaches the ballot next month: ‘Stay off social media,’ resident tells officials",
-   "link": "https://planetdetroit.org/2026/07/augusta-data-center-battle-ballot/",
-   "published": "Sat, 18 Jul 2026 17:30:54 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Trump stalls shutdown of West Olive coal plant, driving up energy bills across Michigan",
+   "link": "https://gandernewsroom.com/news/environment/trump-stalls-shutdown-of-west-olive-coal-plant-driving-up-energy-bills/",
+   "published": "Wed, 22 Jul 2026 16:42:06 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -193,12 +199,6 @@
    "title": "10 things I learned from shopping at 100 Michigan dispensaries",
    "link": "https://gandernewsroom.com/news/cannabis/10-things-i-learned-from-shopping-at-100-michigan-dispensaries/",
    "published": "Tue, 21 Jul 2026 11:33:18 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "6 quick hits of cannabis news from across Michigan",
-   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-0721/",
-   "published": "Tue, 21 Jul 2026 11:29:06 +0000"
   }
  ]
 }
