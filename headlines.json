@@ -1,24 +1,24 @@
 {
- "generated": "2026-07-23T14:31:12+00:00",
- "count": 30,
+ "generated": "2026-07-23T19:44:15+00:00",
+ "count": 33,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
-   "title": "Real Estate Auction by order of the County Treasurer of Ingham County, Wednesday, August 26, 2026",
-   "link": "https://lansingcitypulse.com/real-estate-auction-by-order-of-the-county-treasurer-of-ingham-county-wednesday-august-26-2026/",
-   "published": "Thu, 23 Jul 2026 13:22:30 +0000"
+   "title": "Barrett votes against Iran War in repeat of June vote",
+   "link": "https://lansingcitypulse.com/barrett-votes-against-iran-war-in-repeat-of-july-vote/",
+   "published": "Thu, 23 Jul 2026 18:46:39 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "Meridian Charter Township, Notice of August 4, 2026 Primary Election",
-   "link": "https://lansingcitypulse.com/meridian-charter-township-notice-of-august-4-2026-primary-election/",
-   "published": "Thu, 23 Jul 2026 13:17:52 +0000"
+   "title": "State of Michigan Probate Court, Ingham County, Notice to Creditors, Decedent’s Estate, Case No. 26-242-DE, Estate of Judy A. Hamilton",
+   "link": "https://lansingcitypulse.com/state-of-michigan-probate-court-ingham-county-notice-to-creditors-decedents-estate-case-no-26-242-de-estate-of-judy-a-hamilton/",
+   "published": "Thu, 23 Jul 2026 18:17:03 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "Public Notice of Capital Area Transportation Authority’s Proposed Fiscal 2027 Program of Projects & Public Hearing on its Proposed Fiscal 2027 Budget",
-   "link": "https://lansingcitypulse.com/public-notice-of-capital-area-transportation-authoritys-proposed-fiscal-2027-program-of-projects-public-hearing-on-its-proposed-fiscal-2027-budget/",
-   "published": "Thu, 23 Jul 2026 13:14:25 +0000"
+   "title": "State of Michigan Probate Court, Ingham County, Notice to Creditors, Decedent’s Estate, Case No. 26-761-DE, Estate of Martin Kelly Dunivon",
+   "link": "https://lansingcitypulse.com/state-of-michigan-probate-court-ingham-county-notice-to-creditors-decedents-estate-case-no-26-761-de-estate-of-martin-kelly-dunivon/",
+   "published": "Thu, 23 Jul 2026 18:12:36 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Whitmer pushes pension plan to relieve prison staff shortage, despite her veto",
+   "link": "https://bridgemi.com/michigan-government/whitmer-pushes-pension-plan-to-relieve-prison-staff-shortage-despite-her-veto/",
+   "published": "Thu, 23 Jul 2026 16:15:42 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Michigan subsidy board beefs up ethics rules. Critics ask what took so long",
    "link": "https://bridgemi.com/business-watch/michigan-subsidy-board-beefs-up-ethics-rules-critics-ask-what-took-so-long/",
    "published": "Wed, 22 Jul 2026 20:35:28 +0000"
@@ -49,12 +55,6 @@
    "title": "Report: Michigan’s budget much bigger than ‘on paper,’ likely tops $86B",
    "link": "https://bridgemi.com/michigan-government/report-michigans-budget-much-bigger-than-on-paper-likely-tops-86b/",
    "published": "Wed, 22 Jul 2026 20:33:00 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Fact-check: Millionaire claims in Abdul El-Sayed, Haley Stevens Senate race",
-   "link": "https://bridgemi.com/michigan-government/fact-check-millionaire-claims-in-abdul-el-sayed-haley-stevens-senate-race/",
-   "published": "Wed, 22 Jul 2026 17:11:19 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Daily Detroit",
+   "title": "9 Things To Know: Michigan's Need To Adapt, Early Voting, and Block Parties",
+   "link": "https://www.dailydetroit.com/9-things-to-know-michigans-need-to-adapt-early-voting-and-block-parties/",
+   "published": "Thu, 23 Jul 2026 14:34:21 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
    "title": "Put Down Your Phone and Pick Up Detroit",
    "link": "https://www.dailydetroit.com/put-down-your-phone-and-pick-up-detroit/",
    "published": "Wed, 22 Jul 2026 21:21:12 GMT"
@@ -87,46 +93,58 @@
    "published": "Tue, 21 Jul 2026 22:38:12 GMT"
   },
   {
-   "outlet": "Daily Detroit",
-   "title": "Evening Edition: Tariffs on Canada, New Spots, Hope in Highland Park",
-   "link": "https://www.dailydetroit.com/evening-edition-canada/",
-   "published": "Tue, 21 Jul 2026 00:53:20 GMT"
+   "outlet": "Great Lakes Echo",
+   "title": "Study finds one of Michigan’s healthiest forests in Grand Rapids",
+   "link": "https://greatlakesecho.org/2026/07/20/study-finds-one-of-michigans-healthiest-forests-in-grand-rapids/",
+   "published": "Mon, 20 Jul 2026 12:53:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "It’s time for ‘corn sweat’ as mid-summer hits",
+   "link": "https://greatlakesecho.org/2026/07/18/its-time-for-corn-sweat-as-mid-summer-hits/",
+   "published": "Sat, 18 Jul 2026 11:11:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "One-time funding won’t fix financial strain for Michigan’s Fisheries Division",
+   "link": "https://greatlakesecho.org/2026/07/17/one-time-funding-wont-fix-financial-strain-for-michigans-fisheries-division/",
+   "published": "Fri, 17 Jul 2026 12:05:00 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "As national death rate dips, some states did better than others",
-   "link": "https://michiganadvance.com/2026/07/23/repub/as-national-death-rate-dips-some-states-did-better-than-others/",
-   "published": "Thu, 23 Jul 2026 10:40:26 +0000"
+   "title": "US Senate Judiciary delays vote on Blanche nomination for AG as Grassley slams Dems",
+   "link": "https://michiganadvance.com/2026/07/23/repub/us-senate-judiciary-delays-vote-on-blanche-nomination-for-ag-as-grassley-slams-dems/",
+   "published": "Thu, 23 Jul 2026 18:35:53 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Cyclosporiasis outbreak surges to over 4,173 confirmed cases",
-   "link": "https://michiganadvance.com/2026/07/23/repub/cyclosporiasis-outbreak-surges-to-over-4173-confirmed-cases/",
-   "published": "Thu, 23 Jul 2026 10:00:59 +0000"
+   "title": "Judge rejects Oxford Center CEO’s request to quash murder charge in therapy chamber fire",
+   "link": "https://michiganadvance.com/briefs/judge-rejects-oxford-center-ceos-request-to-quash-murder-charge-in-therapy-chamber-fire/",
+   "published": "Thu, 23 Jul 2026 16:12:45 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Leading Dem on US House education panel, advocates blast student loan changes",
-   "link": "https://michiganadvance.com/2026/07/22/repub/leading-dem-on-us-house-education-panel-advocates-blast-student-loan-changes/",
-   "published": "Wed, 22 Jul 2026 23:28:23 +0000"
+   "title": "Safety concerns in Michigan prisons grow after pension bills are vetoed",
+   "link": "https://michiganadvance.com/2026/07/23/safety-concerns-in-michigan-prisons-grow-after-pension-bills-are-vetoed/",
+   "published": "Thu, 23 Jul 2026 14:45:31 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Disaster recovery center opens in Saginaw County for April storm victims",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/disaster-recovery-center-opens-in-saginaw-county-for-april-storm-victims.html",
-   "published": "Thu, 23 Jul 2026 14:21:33 +0000"
+   "title": "Great white shark spotted near kids; El Nino to increase sightings",
+   "link": "https://www.mlive.com/news/2026/07/great-white-shark-spotted-next-to-children-el-nino-to-increase-sightings.html",
+   "published": "Thu, 23 Jul 2026 19:36:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Why Tijuana became a symbol of hope for Iran’s World Cup team",
-   "link": "https://www.mlive.com/palabra/2026/07/why-tijuana-became-a-symbol-of-hope-for-irans-world-cup-team.html",
-   "published": "Thu, 23 Jul 2026 14:16:47 +0000"
+   "title": "Michigan’s safest large police department undergoes strategic review",
+   "link": "https://www.mlive.com/news/detroit/2026/07/michigans-safest-large-police-department-undergoes-strategic-review.html",
+   "published": "Thu, 23 Jul 2026 19:35:26 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Brighton Nutrition celebrates grand opening",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/07/brighton-nutrition-celebrates-grand-opening.html",
-   "published": "Thu, 23 Jul 2026 14:14:00 +0000"
+   "title": "Texas funeral home operator forges dead man’s will to steal $2.2M estate",
+   "link": "https://www.mlive.com/news/2026/07/funeral-home-operator-forges-dead-mans-will-to-steal-22m-estate.html",
+   "published": "Thu, 23 Jul 2026 19:30:50 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +184,21 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "9 things to do in Detroit that are off the beaten path",
+   "link": "https://gandernewsroom.com/local/things-to-do/things-to-do-in-detroit/",
+   "published": "Thu, 23 Jul 2026 17:54:59 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "3 ways you can fight back against Trump’s election lies in Michigan",
+   "link": "https://gandernewsroom.com/local/things-to-do/3-ways-you-can-fight-back-against-trumps-election-lies-in-michigan/",
+   "published": "Thu, 23 Jul 2026 15:40:44 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Trump stalls shutdown of West Olive coal plant, driving up energy bills across Michigan",
    "link": "https://gandernewsroom.com/news/environment/trump-stalls-shutdown-of-west-olive-coal-plant-driving-up-energy-bills/",
    "published": "Wed, 22 Jul 2026 16:42:06 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "For small urban farmers, business is booming amid cyclospora outbreak",
-   "link": "https://gandernewsroom.com/local/food-drink/for-small-urban-farmers-business-is-booming-amid-cyclospora-outbreak/",
-   "published": "Tue, 21 Jul 2026 17:53:24 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "10 things I learned from shopping at 100 Michigan dispensaries",
-   "link": "https://gandernewsroom.com/news/cannabis/10-things-i-learned-from-shopping-at-100-michigan-dispensaries/",
-   "published": "Tue, 21 Jul 2026 11:33:18 +0000"
   }
  ]
 }
