@@ -1,10 +1,10 @@
 {
- "generated": "2026-07-22T19:41:38+00:00",
+ "generated": "2026-07-23T03:41:52+00:00",
  "count": 33,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
-   "title": "Traditional Spanish cookies are the goooal",
+   "title": "Traditional Spanish cookies are a great way to celebrate, like for a World Cup win",
    "link": "https://lansingcitypulse.com/traditional-spanish-cookies-are-the-goooal/",
    "published": "Wed, 22 Jul 2026 13:44:20 +0000"
   },
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Worthy of My Eyes",
+   "link": "https://www.metrotimes.com/uncategorized/worthy-of-my-eyes/",
+   "published": "Thu, 23 Jul 2026 03:35:08 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Mike Rogers begs Michiganders for money to ‘protect’ Elon Musk",
    "link": "https://www.metrotimes.com/news/mike-rogers-begs-michiganders-for-money-to-protect-elon-musk/",
    "published": "Wed, 22 Jul 2026 18:08:56 +0000"
@@ -33,28 +39,22 @@
    "published": "Wed, 22 Jul 2026 16:42:53 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "The best disposable rosin vapes for summer in Michigan",
-   "link": "https://www.metrotimes.com/weed-2/the-best-disposable-rosin-vapes-for-summer-in-michigan/",
-   "published": "Wed, 22 Jul 2026 14:01:28 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Michigan subsidy board beefs up ethics rules. Critics ask what took so long",
+   "link": "https://bridgemi.com/business-watch/michigan-subsidy-board-beefs-up-ethics-rules-critics-ask-what-took-so-long/",
+   "published": "Wed, 22 Jul 2026 20:35:28 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Report: Michigan’s budget much bigger than ‘on paper,’ likely tops $86B",
+   "link": "https://bridgemi.com/michigan-government/report-michigans-budget-much-bigger-than-on-paper-likely-tops-86b/",
+   "published": "Wed, 22 Jul 2026 20:33:00 +0000"
   },
   {
    "outlet": "Bridge Michigan",
    "title": "Fact-check: ‘Millionaire’ claims in Abdul El-Sayed, Haley Stevens Senate race",
    "link": "https://bridgemi.com/michigan-government/fact-check-millionaire-claims-in-abdul-el-sayed-haley-stevens-senate-race/",
    "published": "Wed, 22 Jul 2026 17:11:19 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Opinion | AI makes it easier to deny reality.  Michigan politics are already suffering",
-   "link": "https://bridgemi.com/guest-commentary/opinion-ai-makes-it-easier-to-deny-reality-michigan-politics-are-already-suffering/",
-   "published": "Wed, 22 Jul 2026 16:55:05 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan bars big investors from buying more homes. Will it work?",
-   "link": "https://bridgemi.com/michigan-government/michigan-bars-big-investors-from-buying-more-homes-will-it-work/",
-   "published": "Tue, 21 Jul 2026 21:57:07 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Daily Detroit",
+   "title": "Put Down Your Phone and Pick Up Detroit",
+   "link": "https://www.dailydetroit.com/put-down-your-phone-and-pick-up-detroit/",
+   "published": "Wed, 22 Jul 2026 21:21:12 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
    "title": "When the Basics Break in Media, People Pay the Price",
    "link": "https://www.dailydetroit.com/when-the-basics-break-in-media-people-pay-the-price/",
    "published": "Tue, 21 Jul 2026 22:38:12 GMT"
@@ -85,12 +91,6 @@
    "title": "Evening Edition: Tariffs on Canada, New Spots, Hope in Highland Park",
    "link": "https://www.dailydetroit.com/evening-edition-canada/",
    "published": "Tue, 21 Jul 2026 00:53:20 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "From Avalon Street to City Hall: Mama Shu’s Bright Vision for Highland Park",
-   "link": "https://www.dailydetroit.com/from-avalon-street-to-city-hall-mama-shus-bright-vision-for-highland-park/",
-   "published": "Mon, 20 Jul 2026 15:58:11 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Johnson’s ‘Trump Tailgate’ spurs backlash from Trump team; he calls James endorsement ‘bad advice’",
-   "link": "https://michiganadvance.com/2026/07/22/johnsons-trump-tailgate-spurs-backlash-from-trump-team-he-calls-james-endorsement-bad-advice/",
-   "published": "Wed, 22 Jul 2026 17:43:37 +0000"
+   "title": "Leading Dem on US House education panel, advocates blast student loan changes",
+   "link": "https://michiganadvance.com/2026/07/22/repub/leading-dem-on-us-house-education-panel-advocates-blast-student-loan-changes/",
+   "published": "Wed, 22 Jul 2026 23:28:23 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump administration claims court victory in mandatory detention",
-   "link": "https://michiganadvance.com/2026/07/22/repub/trump-administration-claims-court-victory-in-mandatory-detention/",
-   "published": "Wed, 22 Jul 2026 17:25:26 +0000"
+   "title": "US House approves joint measure to curb Congress’ stock trading, require voter ID",
+   "link": "https://michiganadvance.com/2026/07/22/repub/us-house-approves-joint-measure-to-curb-congress-stock-trading-require-voter-id/",
+   "published": "Wed, 22 Jul 2026 21:25:19 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Onetime acting FEMA chief fired by Trump now on track to be confirmed to head agency",
-   "link": "https://michiganadvance.com/2026/07/22/repub/onetime-acting-fema-chief-fired-by-trump-now-on-track-to-be-confirmed-to-head-agency/",
-   "published": "Wed, 22 Jul 2026 17:08:58 +0000"
+   "title": "Trump reportedly to visit Michigan as Gordie Howe Bridge opening proceeds without joint ceremony",
+   "link": "https://michiganadvance.com/2026/07/22/trump-reportedly-to-visit-michigan-as-gordie-howe-bridge-opening-proceeds-without-joint-ceremony/",
+   "published": "Wed, 22 Jul 2026 21:22:34 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Rethinking land uses, Ann Arbor rezones industrial site to pave way for apartments",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/07/rethinking-land-uses-ann-arbor-rezones-industrial-site-to-pave-way-for-apartments.html",
-   "published": "Wed, 22 Jul 2026 19:37:46 +0000"
+   "title": "Nike’s 8 new sneakers for WNBA All-Star weekend include signature styles, Kobe 3, Sue Bird tribute",
+   "link": "https://www.mlive.com/shopping/2026/07/nikes-8-new-sneakers-for-wnba-all-star-weekend-include-signature-styles-kobe-3-sue-bird-tribute.html",
+   "published": "Thu, 23 Jul 2026 03:34:17 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Trump’s own MAGA base turns on Iran war as support craters 13 points",
-   "link": "https://www.mlive.com/politics/2026/07/trumps-own-maga-base-turns-on-iran-war-as-support-craters-13-points.html",
-   "published": "Wed, 22 Jul 2026 19:30:00 +0000"
+   "title": "Rookie Hao-Yu Lee powers Tigers to win in road-trip finale",
+   "link": "https://www.mlive.com/tigers/2026/07/rookie-hao-yu-lee-powers-tigers-to-win-in-road-trip-finale.html",
+   "published": "Thu, 23 Jul 2026 02:42:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Autopsy says Grammy-nominated singer suffered more than 70 stab wounds",
-   "link": "https://www.mlive.com/news/2026/07/autopsy-says-grammy-nominated-singer-suffered-more-than-70-stab-wounds.html",
-   "published": "Wed, 22 Jul 2026 19:28:16 +0000"
+   "title": "‘I’m still a person.’ Jackson’s homeless residents respond to proposed encampment rules",
+   "link": "https://www.mlive.com/news/jackson/2026/07/im-still-a-person-jacksons-homeless-residents-respond-to-proposed-encampment-rules.html",
+   "published": "Thu, 23 Jul 2026 01:10:26 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Rain brings some relief for Canadian fire crews, Detroit air quality",
+   "link": "https://planetdetroit.org/2026/07/wildfire-smoke-forecast-detroit/",
+   "published": "Wed, 22 Jul 2026 22:28:16 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Detroit Zoo stays open through wildfire smoke: How it keeps animals, people safe",
    "link": "https://planetdetroit.org/2026/07/detroit-zoo-air-quality/",
    "published": "Wed, 22 Jul 2026 17:43:08 +0000"
@@ -175,12 +181,6 @@
    "title": "Detroit denies land use approval for east side oil recycling facility after 2025 fire",
    "link": "https://planetdetroit.org/2026/07/detroit-denies-aevitas-oil-recycling-expansion/",
    "published": "Wed, 22 Jul 2026 14:51:33 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Data center news: Saline Township reverses course, drops cap on data center tax break",
-   "link": "https://planetdetroit.org/2026/07/data-center-news-saline-township/",
-   "published": "Tue, 21 Jul 2026 13:40:12 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
