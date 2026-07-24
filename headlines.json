@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T19:44:15+00:00",
+ "generated": "2026-07-24T03:40:34+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,39 +22,45 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Acclaimed Detroit chef opens global rotisserie concept in Midtown",
+   "link": "https://www.metrotimes.com/food-drink/acclaimed-detroit-chef-opens-global-rotisserie-concept-in-midtown/",
+   "published": "Thu, 23 Jul 2026 20:51:40 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "Brome Modern Eatery to open another restaurant in Sterling Heights",
+   "link": "https://www.metrotimes.com/food-drink/food-news/brome-modern-eatery-to-open-another-restaurant-in-sterling-heights/",
+   "published": "Thu, 23 Jul 2026 19:42:07 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "2026 Detroit Metro Times Fiction Issue",
    "link": "https://www.metrotimes.com/arts/2026-detroit-metro-times-fiction-issue/",
    "published": "Thu, 23 Jul 2026 14:09:45 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Free Will Astrology (July 22-Aug. 4)",
-   "link": "https://www.metrotimes.com/arts/horoscopes/horoscopes-2/free-will-astrology-july-22-aug-4/",
-   "published": "Thu, 23 Jul 2026 13:58:38 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Antoine",
-   "link": "https://www.metrotimes.com/detroit-guides/the-fiction-issue/antoine/",
-   "published": "Thu, 23 Jul 2026 06:55:04 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Corporation aims to boost MSU sports revenue. Should it operate in secret?",
+   "link": "https://bridgemi.com/talent-education/corporation-aims-to-boost-msu-sports-revenue-should-it-operate-in-secret/",
+   "published": "Thu, 23 Jul 2026 21:16:51 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Whitmer pushes pension plan to relieve prison staff shortage, despite her veto",
-   "link": "https://bridgemi.com/michigan-government/whitmer-pushes-pension-plan-to-relieve-prison-staff-shortage-despite-her-veto/",
-   "published": "Thu, 23 Jul 2026 16:15:42 +0000"
+   "title": "Send Bridge Michigan journalists where the story leads",
+   "link": "https://bridgemi.com/center-michigan/send-bridge-michigan-journalists-where-the-story-leads/",
+   "published": "Thu, 23 Jul 2026 20:09:52 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Michigan subsidy board beefs up ethics rules. Critics ask what took so long",
-   "link": "https://bridgemi.com/business-watch/michigan-subsidy-board-beefs-up-ethics-rules-critics-ask-what-took-so-long/",
-   "published": "Wed, 22 Jul 2026 20:35:28 +0000"
+   "title": "Fact-check: How much money did Haley Stevens get from DTE?",
+   "link": "https://bridgemi.com/michigan-government/fact-check-how-much-money-did-haley-stevens-get-from-dte/",
+   "published": "Thu, 23 Jul 2026 19:48:19 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Report: Michigan’s budget much bigger than ‘on paper,’ likely tops $86B",
-   "link": "https://bridgemi.com/michigan-government/report-michigans-budget-much-bigger-than-on-paper-likely-tops-86b/",
-   "published": "Wed, 22 Jul 2026 20:33:00 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Annual ARISE Detroit! Neighborhoods Day celebrates 20 years",
+   "link": "https://www.bridgedetroit.com/annual-arise-detroit-neighborhoods-day-celebrates-20-years/",
+   "published": "Thu, 23 Jul 2026 15:58:43 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "Here are the 35 people running for the Detroit school board",
    "link": "https://www.bridgedetroit.com/here-are-the-35-people-running-for-the-detroit-school-board/",
    "published": "Wed, 22 Jul 2026 14:53:51 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit council opposes unchecked water use by AI data centers",
-   "link": "https://www.bridgedetroit.com/detroit-council-opposes-unchecked-water-use-by-ai-data-centers/",
-   "published": "Wed, 22 Jul 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Senate Judiciary delays vote on Blanche nomination for AG as Grassley slams Dems",
-   "link": "https://michiganadvance.com/2026/07/23/repub/us-senate-judiciary-delays-vote-on-blanche-nomination-for-ag-as-grassley-slams-dems/",
-   "published": "Thu, 23 Jul 2026 18:35:53 +0000"
+   "title": "GOP govs join Trump pledge designed to shield ratepayers from data center costs",
+   "link": "https://michiganadvance.com/2026/07/23/repub/gop-govs-join-trump-pledge-designed-to-shield-ratepayers-from-data-center-costs/",
+   "published": "Thu, 23 Jul 2026 23:04:18 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Judge rejects Oxford Center CEO’s request to quash murder charge in therapy chamber fire",
-   "link": "https://michiganadvance.com/briefs/judge-rejects-oxford-center-ceos-request-to-quash-murder-charge-in-therapy-chamber-fire/",
-   "published": "Thu, 23 Jul 2026 16:12:45 +0000"
+   "title": "As vote on Blanche for attorney general nears, ex-DOJ staffers warn against confirmation",
+   "link": "https://michiganadvance.com/2026/07/23/repub/as-vote-on-blanche-for-attorney-general-nears-ex-doj-staffers-warn-against-confirmation/",
+   "published": "Thu, 23 Jul 2026 23:04:04 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Safety concerns in Michigan prisons grow after pension bills are vetoed",
-   "link": "https://michiganadvance.com/2026/07/23/safety-concerns-in-michigan-prisons-grow-after-pension-bills-are-vetoed/",
-   "published": "Thu, 23 Jul 2026 14:45:31 +0000"
+   "title": "Stevens campaign parts ways with consultant after Palantir work comes to light",
+   "link": "https://michiganadvance.com/2026/07/23/stevens-campaign-parts-ways-with-consultant-after-palantir-work-comes-to-light/",
+   "published": "Thu, 23 Jul 2026 20:44:11 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Great white shark spotted near kids; El Nino to increase sightings",
-   "link": "https://www.mlive.com/news/2026/07/great-white-shark-spotted-next-to-children-el-nino-to-increase-sightings.html",
-   "published": "Thu, 23 Jul 2026 19:36:00 +0000"
+   "title": "Trump to speak at General Motors facility during Michigan visit",
+   "link": "https://www.mlive.com/politics/2026/07/trump-to-speak-at-general-motors-facility-during-michigan-visit.html",
+   "published": "Fri, 24 Jul 2026 03:11:06 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan’s safest large police department undergoes strategic review",
-   "link": "https://www.mlive.com/news/detroit/2026/07/michigans-safest-large-police-department-undergoes-strategic-review.html",
-   "published": "Thu, 23 Jul 2026 19:35:26 +0000"
+   "title": "James Outman’s clutch homer sparks Tigers’ comeback win over Royals",
+   "link": "https://www.mlive.com/tigers/2026/07/james-outmans-clutch-homer-sparks-tigers-comeback-win-over-royals.html",
+   "published": "Fri, 24 Jul 2026 01:31:24 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Texas funeral home operator forges dead man’s will to steal $2.2M estate",
-   "link": "https://www.mlive.com/news/2026/07/funeral-home-operator-forges-dead-mans-will-to-steal-22m-estate.html",
-   "published": "Thu, 23 Jul 2026 19:30:50 +0000"
+   "title": "Next stop, Delaware: Wayne State commits power District 4 back to World Series",
+   "link": "https://www.mlive.com/highschoolsports/2026/07/next-stop-delaware-wayne-state-commits-power-district-4-back-to-world-series.html",
+   "published": "Fri, 24 Jul 2026 00:42:25 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Blowback from latest DTE outage surfaces on midterm campaign trail",
+   "link": "https://planetdetroit.org/2026/07/blowback-from-latest-dte-outage-surfaces-on-midterm-campaign-trail/",
+   "published": "Thu, 23 Jul 2026 22:20:28 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Rain brings some relief for Canadian fire crews, Detroit air quality",
    "link": "https://planetdetroit.org/2026/07/wildfire-smoke-forecast-detroit/",
    "published": "Wed, 22 Jul 2026 22:28:16 +0000"
@@ -175,12 +181,6 @@
    "title": "Detroit Zoo stays open through wildfire smoke: How it keeps animals, people safe",
    "link": "https://planetdetroit.org/2026/07/detroit-zoo-air-quality/",
    "published": "Wed, 22 Jul 2026 17:43:08 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Detroit denies land use approval for east side oil recycling facility after 2025 fire",
-   "link": "https://planetdetroit.org/2026/07/detroit-denies-aevitas-oil-recycling-expansion/",
-   "published": "Wed, 22 Jul 2026 14:51:33 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
