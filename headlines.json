@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-25T19:34:59+00:00",
- "count": 30,
+ "generated": "2026-07-26T03:52:50+00:00",
+ "count": 33,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
@@ -93,6 +93,30 @@
    "published": "Wed, 22 Jul 2026 21:21:12 GMT"
   },
   {
+   "outlet": "Great Lakes Echo",
+   "title": "Study finds one of Michigan’s healthiest forests in Grand Rapids",
+   "link": "https://greatlakesecho.org/2026/07/20/study-finds-one-of-michigans-healthiest-forests-in-grand-rapids/",
+   "published": "Mon, 20 Jul 2026 12:53:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "It’s time for ‘corn sweat’ as mid-summer hits",
+   "link": "https://greatlakesecho.org/2026/07/18/its-time-for-corn-sweat-as-mid-summer-hits/",
+   "published": "Sat, 18 Jul 2026 11:11:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "One-time funding won’t fix financial strain for Michigan’s Fisheries Division",
+   "link": "https://greatlakesecho.org/2026/07/17/one-time-funding-wont-fix-financial-strain-for-michigans-fisheries-division/",
+   "published": "Fri, 17 Jul 2026 12:05:00 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "El-Sayed, Warren court McMorrow supporters at Ferndale rally",
+   "link": "https://michiganadvance.com/2026/07/25/el-sayed-warren-court-mcmorrow-supporters-at-ferndale-rally/",
+   "published": "Sat, 25 Jul 2026 23:40:08 +0000"
+  },
+  {
    "outlet": "Michigan Advance",
    "title": "Detroit wants to elevate youth voices in leadership – that means giving them real power",
    "link": "https://michiganadvance.com/2026/07/25/detroit-wants-to-elevate-youth-voices-in-leadership-that-means-giving-them-real-power/",
@@ -105,28 +129,22 @@
    "published": "Sat, 25 Jul 2026 13:05:32 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Traverse City teacher sets sail on Great Lakes research boat",
-   "link": "https://michiganadvance.com/2026/07/25/traverse-city-teacher-sets-sail-on-great-lakes-research-boat/",
-   "published": "Sat, 25 Jul 2026 11:37:24 +0000"
+   "outlet": "MLive",
+   "title": "Ex-Michigan basketball players signs new NBA deal",
+   "link": "https://www.mlive.com/wolverines/basketball/2026/07/ex-michigan-basketball-players-signs-new-nba-deal.html",
+   "published": "Sun, 26 Jul 2026 00:29:40 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Jackson County man charged for possession of sexually abusive material of children",
-   "link": "https://www.mlive.com/news/jackson/2026/07/jackson-county-man-charged-for-possession-of-sexually-abusive-material-of-children.html",
-   "published": "Sat, 25 Jul 2026 18:58:55 +0000"
+   "title": "Teen killed, another injured in crash between 4-wheeler, vehicle",
+   "link": "https://www.mlive.com/news/2026/07/teen-killed-another-injured-in-crash-between-4-wheeler-vehicle.html",
+   "published": "Sat, 25 Jul 2026 23:13:43 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Man drowns trying to rescue his dogs in Portage Lake",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/07/man-drowns-trying-to-rescue-his-dogs-in-portage-lake.html",
-   "published": "Sat, 25 Jul 2026 18:05:57 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Woman arrested for murder of man found dead in home near Kalamazoo",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/07/woman-arrested-for-murder-of-man-found-dead-in-home-near-kalamazoo.html",
-   "published": "Sat, 25 Jul 2026 17:58:25 +0000"
+   "title": "No boating, swimming after harmful algal bloom identified on Jackson County lake, officials say",
+   "link": "https://www.mlive.com/news/jackson/2026/07/no-boating-swimming-after-harmful-algal-bloom-identified-on-jackson-county-lake-officials-say.html",
+   "published": "Sat, 25 Jul 2026 22:49:02 +0000"
   },
   {
    "outlet": "Outlier Media",
