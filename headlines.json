@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T08:32:38+00:00",
+ "generated": "2026-08-01T13:51:56+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Marathon Petroleum wins air quality permit approval for Detroit refinery expansion",
+   "link": "https://www.bridgedetroit.com/marathon-petroleum-wins-air-quality-permit-approval-for-detroit-refinery-expansion/",
+   "published": "Sat, 01 Aug 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "After community concern, Detroit school board reconsiders plans to demolish four buildings",
    "link": "https://www.bridgedetroit.com/after-community-concern-detroit-school-board-reconsiders-plans-to-demolish-four-buildings/",
    "published": "Fri, 31 Jul 2026 11:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "New art gallery creates sense of belonging for Detroit’s Caribbean community",
    "link": "https://www.bridgedetroit.com/new-art-gallery-creates-sense-of-belonging-for-detroits-caribbean-community/",
    "published": "Fri, 31 Jul 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Iris Taylor, leader in Detroit health care, DPSCD board member, dies at 74",
-   "link": "https://www.bridgedetroit.com/iris-taylor-obituary/",
-   "published": "Fri, 31 Jul 2026 00:41:25 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "‘Blood on your hands’: Family members call for reform and investigation of Huron Valley prison",
+   "link": "https://michiganadvance.com/2026/08/01/blood-on-your-hands-family-members-call-for-reform-and-investigation-of-huron-valley-prison/",
+   "published": "Sat, 01 Aug 2026 11:34:41 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "When families question a death investigation, getting a second autopsy can be complicated",
+   "link": "https://michiganadvance.com/2026/08/01/repub/when-families-question-a-death-investigation-getting-a-second-autopsy-can-be-complicated/",
+   "published": "Sat, 01 Aug 2026 11:30:54 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Prosecutors drop vandalism charges for Reflecting Pool damage, blame ‘contractor error’",
    "link": "https://michiganadvance.com/2026/07/31/repub/prosecutors-drop-vandalism-charges-for-reflecting-pool-damage-blame-contractor-error/",
    "published": "Fri, 31 Jul 2026 23:18:53 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Michigan Supreme Court tosses state regulator’s approval of Line 5 tunnel project",
-   "link": "https://michiganadvance.com/2026/07/31/michigan-supreme-court-tosses-state-regulators-approval-of-line-5-tunnel-project/",
-   "published": "Fri, 31 Jul 2026 23:07:46 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Michigan Supreme Court sides with Nessel, overrules cases curtailing consumer protection law",
-   "link": "https://michiganadvance.com/briefs/michigan-supreme-court-sides-with-nessel-overrules-cases-curtailing-consumer-protection-law/",
-   "published": "Fri, 31 Jul 2026 22:44:02 +0000"
+   "outlet": "MLive",
+   "title": "Grandville police set to resume search for man missing in Grand River",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/08/grandville-police-set-to-resume-search-for-man-missing-in-grand-river.html",
+   "published": "Sat, 01 Aug 2026 13:23:58 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Asking Eric: Mother-in-law’s denial is sabotaging my husband’s recovery",
-   "link": "https://www.mlive.com/advice/2026/08/asking-eric-mother-in-laws-denial-is-sabotaging-my-husbands-recovery.html",
-   "published": "Sat, 01 Aug 2026 08:00:00 +0000"
+   "title": "Michigan Weather: Showers, thunderstorms continue through Sunday with downpours possible",
+   "link": "https://www.mlive.com/weather/2026/08/michigan-weather-showers-thunderstorms-continue-through-sunday-with-downpours-possible.html",
+   "published": "Sat, 01 Aug 2026 13:10:50 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Max Clark reaches base 4 times in MLB debut as Tigers rout A’s",
-   "link": "https://www.mlive.com/tigers/2026/08/max-clark-reaches-base-4-times-in-mlb-debut-as-tigers-rout-as.html",
-   "published": "Sat, 01 Aug 2026 04:41:17 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Pine Knob hosts one of the most epic smoke ‘em if ya got ‘em concerts of the summer",
-   "link": "https://www.mlive.com/detroit/2026/08/pine-knob-hosts-one-of-the-most-epic-smoke-em-if-ya-got-em-concerts-of-the-summer.html",
-   "published": "Sat, 01 Aug 2026 04:33:12 +0000"
+   "title": "Smoke-filled summer days cost Michigan billions. Tourism leaders want $3M to respond",
+   "link": "https://www.mlive.com/news/2026/08/smoke-filled-summer-days-cost-michigan-billions-tourism-leaders-want-3m-to-respond.html",
+   "published": "Sat, 01 Aug 2026 13:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Split Michigan Supreme Court overturns rules against insulin maker, setting new precedent",
+   "link": "https://www.michiganpublic.org/health/2026-08-01/split-michigan-supreme-court-overturns-rules-against-insulin-maker-setting-new-precedent",
+   "published": "Sat, 01 Aug 2026 13:50:29 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan high court expands resentencing for youthful offenders, sets psychologist testimony rules",
    "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-08-01/michigan-high-court-expands-resentencing-for-youthful-offenders-sets-psychologist-testimony-rules",
    "published": "Sat, 01 Aug 2026 06:43:18 GMT"
@@ -211,12 +217,6 @@
    "title": "Michigan Supreme Court says Line 5 tunnel review fell short, sends case back to regulators",
    "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-07-31/michigan-supreme-court-throws-out-state-approval-of-enbridges-proposed-line-5-tunnel",
    "published": "Fri, 31 Jul 2026 22:17:55 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "MI agrees not to enforce conversion therapy ban to comply with Supreme Court ruling",
-   "link": "https://www.michiganpublic.org/politics-government/2026-07-31/mi-agrees-not-to-enforce-conversion-therapy-ban-to-comply-with-supreme-court-ruling",
-   "published": "Fri, 31 Jul 2026 21:08:37 GMT"
   }
  ]
 }
