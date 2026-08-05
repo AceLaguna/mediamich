@@ -1,24 +1,24 @@
 {
- "generated": "2026-08-05T03:29:30+00:00",
+ "generated": "2026-08-05T08:50:22+00:00",
  "count": 36,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
-   "title": "Roast veggies make a healthy, filling summertime option",
-   "link": "https://lansingcitypulse.com/roast-veggies-make-a-healthy-filling-summertime-option/",
-   "published": "Wed, 05 Aug 2026 03:28:49 +0000"
+   "title": "Election results: Benson v. James; Lawrence v. Barrett",
+   "link": "https://lansingcitypulse.com/election-results-benson-v-james-lawrence-v-barrett/",
+   "published": "Wed, 05 Aug 2026 04:41:16 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "Renegade Fringe Festival brings a familiar twist",
-   "link": "https://lansingcitypulse.com/renegade-fringe-festival-brings-a-familiar-twist/",
-   "published": "Wed, 05 Aug 2026 03:19:23 +0000"
+   "title": "It’s mint to be: St. Johns Mint Festival is back",
+   "link": "https://lansingcitypulse.com/its-mint-to-be-st-johns-mint-festival-is-back/",
+   "published": "Wed, 05 Aug 2026 03:57:54 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "Kiyah Marcellus is a perfect fit for ‘Anne of Green Gables’",
-   "link": "https://lansingcitypulse.com/kiyah-marcellus-is-a-perfect-fit-for-anne-of-green-gables/",
-   "published": "Wed, 05 Aug 2026 03:12:28 +0000"
+   "title": "Theoretical Tech opens building in downtown",
+   "link": "https://lansingcitypulse.com/theoretical-tech-opens-building-in-downtown/",
+   "published": "Wed, 05 Aug 2026 03:54:38 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -40,9 +40,15 @@
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Abdul El-Sayed leads Haley Stevens in Michigan Democratic Senate primary",
+   "title": "Abdul El-Sayed, Haley Stevens too close to call in Michigan Democratic Senate primary",
    "link": "https://bridgemi.com/michigan-government/michigan-democratic-senate-primary-results-abdul-el-sayed-haley-stevens/",
-   "published": "Wed, 05 Aug 2026 03:12:00 +0000"
+   "published": "Wed, 05 Aug 2026 04:38:00 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Will Lawrence wins, Shri Thanedar fights challenger in Michigan US House races",
+   "link": "https://bridgemi.com/michigan-government/michigan-congressional-primary-results-races-to-watch-as-votes-are-tallied/",
+   "published": "Wed, 05 Aug 2026 03:41:29 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -51,28 +57,22 @@
    "published": "Wed, 05 Aug 2026 02:34:34 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Jocelyn Benson wins Michigan Democratic governor primary",
-   "link": "https://bridgemi.com/michigan-government/michigan-democratic-governor-primary-results-jocelyn-benson-chris-swanson/",
-   "published": "Wed, 05 Aug 2026 00:58:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "John James wins Republican primary for Michigan governor over Perry Johnson",
-   "link": "https://www.bridgedetroit.com/john-james-leads-perry-johnson-early-in-michigan-republican-governor-primary/",
-   "published": "Wed, 05 Aug 2026 03:11:16 +0000"
-  },
-  {
    "outlet": "BridgeDetroit",
    "title": "LIVE UPDATES: Election turnout expected to be around 20-23%; 100,000 Detroiters voted",
    "link": "https://www.bridgedetroit.com/live-updates-east-side-voters-signal-early-support-for-transit-dpscd-ballot-proposals/",
-   "published": "Wed, 05 Aug 2026 03:05:02 +0000"
+   "published": "Wed, 05 Aug 2026 04:20:52 +0000"
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "Michigan congressional primary results: Progressives making push in early returns",
+   "title": "Michigan live election results 2026",
+   "link": "https://www.bridgedetroit.com/michigan-live-election-results-2026/",
+   "published": "Wed, 05 Aug 2026 04:19:52 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Will Lawrence wins, Shri Thanedar fights challenger in Michigan US House races",
    "link": "https://www.bridgedetroit.com/michigan-congressional-primary-results-races-to-watch-as-votes-are-tallied/",
-   "published": "Wed, 05 Aug 2026 02:18:37 +0000"
+   "published": "Wed, 05 Aug 2026 03:49:34 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Michigan’s Democratic U.S. Senate primary too close to call",
+   "link": "https://michiganadvance.com/2026/08/05/michigans-democratic-u-s-senate-primary-too-close-to-call/",
+   "published": "Wed, 05 Aug 2026 05:33:55 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Will Lawrence emerges as victor in MI-7 Democratic Primary",
+   "link": "https://michiganadvance.com/2026/08/04/will-lawrence-emerges-as-victor-in-mi-7-democratic-primary/",
+   "published": "Wed, 05 Aug 2026 03:30:16 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "John James nets GOP nomination, will go head-to-head with Jocelyn Benson in November",
    "link": "https://michiganadvance.com/2026/08/04/john-james-nets-gop-nomination-will-go-head-to-head-with-jocelyn-benson-in-november/",
    "published": "Wed, 05 Aug 2026 02:42:00 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Moss secures Democratic nomination in Michigan’s 11th Congressional District",
-   "link": "https://michiganadvance.com/2026/08/04/moss-secures-democratic-nomination-in-michigans-11th-congressional-district/",
-   "published": "Wed, 05 Aug 2026 02:07:46 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Bouchard claims nomination in 10th Congressional District GOP primary, Dem race too close to call",
-   "link": "https://michiganadvance.com/2026/08/04/bouchard-claims-nomination-in-10th-congressional-district-gop-primary-dem-race-too-close-to-call/",
-   "published": "Wed, 05 Aug 2026 01:56:34 +0000"
+   "outlet": "MLive",
+   "title": "Contests set for Flint council races following Aug. 4 primary",
+   "link": "https://www.mlive.com/news/flint/2026/08/contests-set-for-flint-council-races-following-aug-4-primary.html",
+   "published": "Wed, 05 Aug 2026 08:20:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Greg VanWoerkom wins Republican primary for 88th House District",
-   "link": "https://www.mlive.com/news/muskegon/2026/08/greg-vanwoerkom-wins-republican-primary-for-88th-house-district.html",
-   "published": "Wed, 05 Aug 2026 03:19:35 +0000"
+   "title": "Primary sets stage for November state Senate, House showdowns for mid-Michigan seats",
+   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/primary-sets-stage-for-november-state-senate-house-showdowns-for-mid-michigan-seats.html",
+   "published": "Wed, 05 Aug 2026 08:12:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Technical issue disrupts Oakland County’s election results display",
-   "link": "https://www.mlive.com/news/detroit/2026/08/technical-issue-disrupts-oakland-countys-election-results-display.html",
-   "published": "Wed, 05 Aug 2026 03:06:51 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Carol Glanville wins Democratic primary for 30th District state Senate seat",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/08/carol-glanville-wins-democratic-primary-for-30th-district-state-senate-seat.html",
-   "published": "Wed, 05 Aug 2026 03:05:35 +0000"
+   "title": "Asking Eric: It’s been 15 years, but my (now married) ex still carries a torch for me",
+   "link": "https://www.mlive.com/advice/2026/08/asking-eric-its-been-15-years-but-my-now-married-ex-still-carries-a-torch-for-me.html",
+   "published": "Wed, 05 Aug 2026 08:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,7 +202,13 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "John James wins Republican primary for governor's race",
+   "title": "William Lawrence wins the 7th District Democratic primary",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-04/william-lawrence-wins-the-7th-district-democratic-primary",
+   "published": "Wed, 05 Aug 2026 03:30:39 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "John James wins Republican nomination for Michigan governor, will face Democrat Jocelyn Benson",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-04/john-james-wins-republican-primary-for-governors-race",
    "published": "Wed, 05 Aug 2026 02:32:52 GMT"
   },
@@ -211,12 +217,6 @@
    "title": "Jocelyn Benson wins Democratic primary for governor's race",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-04/jocelyn-benson-wins-democratic-primary",
    "published": "Wed, 05 Aug 2026 01:17:41 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Election results: August primary",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-04/election-results-august-primary",
-   "published": "Wed, 05 Aug 2026 00:17:58 GMT"
   }
  ]
 }
