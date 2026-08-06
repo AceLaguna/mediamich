@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06T08:51:26+00:00",
+ "generated": "2026-08-06T14:33:00+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Michigan’s top flower and rosin go head to head in this year’s Zalympix",
+   "link": "https://www.metrotimes.com/weed-2/michigans-top-flower-and-rosin-go-head-to-head-in-this-years-zalympix/",
+   "published": "Thu, 06 Aug 2026 11:29:19 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Photos: Avenged Sevenfold and Good Charlotte bring the hits to Pine Knob",
    "link": "https://www.metrotimes.com/music-2/avenged-sevenfold-and-good-charlotte-bring-the-hits-to-pine-knob/",
    "published": "Wed, 05 Aug 2026 20:10:33 +0000"
@@ -31,12 +37,6 @@
    "title": "Michigan progressives showed establishment Democrats the door",
    "link": "https://www.metrotimes.com/news/michigan-progressives-showed-establishment-democrats-the-door/",
    "published": "Wed, 05 Aug 2026 14:44:59 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Michigan’s cannabis industry was already struggling. Then came a 24% tax",
-   "link": "https://www.metrotimes.com/weed-2/michigans-cannabis-industry-was-already-struggling-then-came-a-24-tax/",
-   "published": "Tue, 04 Aug 2026 17:32:45 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,21 +58,21 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Progressives won big Michigan primaries. Now comes the hard part",
+   "link": "https://www.bridgedetroit.com/progressives-won-big-michigan-primaries-now-comes-the-hard-part/",
+   "published": "Thu, 06 Aug 2026 13:56:59 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "What to know before walking across the Gordie Howe Bridge",
+   "link": "https://www.bridgedetroit.com/what-to-know-before-walking-across-the-gordie-howe-bridge/",
+   "published": "Thu, 06 Aug 2026 13:51:14 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Donavan McKinney ousts Shri Thanedar, vows to deliver for working people",
    "link": "https://www.bridgedetroit.com/mckinney-ousts-thanedar-vows-to-deliver-for-working-people/",
    "published": "Wed, 05 Aug 2026 21:08:56 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit voters OK crucial tax levy that supports the city school district",
-   "link": "https://www.bridgedetroit.com/120m-is-on-the-line-in-todays-dpscds-tax-proposal-vote/",
-   "published": "Wed, 05 Aug 2026 16:38:39 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Wayne county voters approve millage for expanded public transit",
-   "link": "https://www.bridgedetroit.com/smart-celebrates-early-voting-tallies-for-wayne-county-transit-millage/",
-   "published": "Wed, 05 Aug 2026 16:36:41 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Benson snags Whitmer endorsement at post-primary event, positioning herself as a party unifier",
-   "link": "https://michiganadvance.com/2026/08/05/benson-snags-whitmer-endorsement-at-post-primary-event-positioning-herself-as-a-party-unifier/",
-   "published": "Wed, 05 Aug 2026 21:36:03 +0000"
+   "title": "Michiganders are going hungry in the wake of federal food assistance cuts",
+   "link": "https://michiganadvance.com/2026/08/06/michiganders-going-hungry-in-the-wake-of-federal-food-assistance-cuts/",
+   "published": "Thu, 06 Aug 2026 12:00:08 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Lawrence faults Barrett over Medicaid cuts, renews Medicare for All push",
-   "link": "https://michiganadvance.com/2026/08/05/lawrence-faults-barrett-over-medicaid-cuts-renews-medicare-for-all-push/",
-   "published": "Wed, 05 Aug 2026 20:52:05 +0000"
+   "title": "Courts rule Trump administration can’t cancel $22B in climate grants",
+   "link": "https://michiganadvance.com/2026/08/06/repub/courts-rule-trump-administration-cant-cancel-22b-in-climate-grants/",
+   "published": "Thu, 06 Aug 2026 10:24:26 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Senate confirms Trump’s pick for CDC director",
-   "link": "https://michiganadvance.com/2026/08/05/repub/us-senate-confirms-trumps-pick-for-cdc-director/",
-   "published": "Wed, 05 Aug 2026 20:30:31 +0000"
+   "title": "Western wildfire could be latest climate disaster to unsettle property insurance market",
+   "link": "https://michiganadvance.com/2026/08/06/repub/western-wildfire-could-be-latest-climate-disaster-to-unsettle-property-insurance-market/",
+   "published": "Thu, 06 Aug 2026 10:24:08 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Asking Eric: Boyfriend dumped an unsolvable conflict in my lap when he told me what his neighbor said",
-   "link": "https://www.mlive.com/advice/2026/08/asking-eric-boyfriend-dumped-an-unsolvable-conflict-in-my-lap-when-he-told-me-what-his-neighbor-said.html",
-   "published": "Thu, 06 Aug 2026 08:00:00 +0000"
+   "title": "Lowell halts new water rate talks amid Microsoft data center controversy",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/08/lowell-halts-new-water-rate-talks-amid-microsoft-data-center-controversy.html",
+   "published": "Thu, 06 Aug 2026 14:20:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bench-clearing incident adds to spicy Tigers-Mariners rivalry: Here’s what happened",
-   "link": "https://www.mlive.com/tigers/2026/08/bench-clearing-incident-adds-to-spicy-tigers-mariners-rivalry-heres-what-happened.html",
-   "published": "Thu, 06 Aug 2026 06:02:06 +0000"
+   "title": "Max Miller, ex-wife’s family clash over 2-year-old’s blue bunny: ‘Craziest s--- I have ever seen’",
+   "link": "https://www.mlive.com/politics/2026/08/max-miller-ex-wifes-family-clash-over-2-year-olds-blue-bunny-craziest-s-i-have-ever-seen.html",
+   "published": "Thu, 06 Aug 2026 14:18:46 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Julio Rodriguez gets big blast, benches clear in Tigers loss to Mariners",
-   "link": "https://www.mlive.com/tigers/2026/08/julio-rodriguez-gets-big-blast-benches-clear-in-tigers-loss-to-mariners.html",
-   "published": "Thu, 06 Aug 2026 04:04:53 +0000"
+   "title": "Man drowns in Manistee River after vessel flips during float with family",
+   "link": "https://www.mlive.com/news/2026/08/man-drowns-in-manistee-river-after-vessel-flips-during-float-with-family.html",
+   "published": "Thu, 06 Aug 2026 14:17:54 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Backpack giveaways in Detroit: Your guide to free school supplies and family events",
+   "link": "https://outliermedia.org/detroit-backpack-giveaway-back-to-school-august/",
+   "published": "Thu, 06 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -157,12 +163,6 @@
    "title": "Primary 2026: Ballot proposals lead; US Senate race too close to call",
    "link": "https://outliermedia.org/michigan-2026-primary-election-elsayed-stevens-senate-races/",
    "published": "Wed, 05 Aug 2026 13:22:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Learn to organize and get involved in Detroit",
-   "link": "https://outliermedia.org/organizing-detroit-workshops-trainings-things-to-do/",
-   "published": "Wed, 05 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
