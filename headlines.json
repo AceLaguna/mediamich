@@ -1,7 +1,13 @@
 {
- "generated": "2026-08-07T19:15:15+00:00",
- "count": 30,
+ "generated": "2026-08-08T02:19:36+00:00",
+ "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Top 5 Restaurant Wine Lists",
+   "link": "https://lansingcitypulse.com/top-5-restaurant-wine-lists-2/",
+   "published": "Fri, 07 Aug 2026 21:04:05 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "August theater productions: “39 Steps,” “Anne of …,” “Shrek Jr.,” Renegade fest, improv, historical cabaret",
@@ -15,10 +21,10 @@
    "published": "Thu, 06 Aug 2026 01:17:11 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Will Lawrence wins, most local millages are approved; election results",
-   "link": "https://lansingcitypulse.com/will-lawrence-wins-most-local-millages-are-approved-election-results/",
-   "published": "Wed, 05 Aug 2026 16:33:30 +0000"
+   "outlet": "Metro Times",
+   "title": "Queens of the Stone Age turn Ford Field into their own twisted church",
+   "link": "https://www.metrotimes.com/music-2/queens-of-the-stone-age-turn-ford-field-into-their-own-twisted-church/",
+   "published": "Fri, 07 Aug 2026 19:38:22 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -31,12 +37,6 @@
    "title": "Michigan doubles daily food assistance benefit for fruits and vegetables",
    "link": "https://www.metrotimes.com/news/michigan-doubles-daily-food-assistance-benefit-for-fruits-and-vegetables/",
    "published": "Thu, 06 Aug 2026 20:11:19 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Photos: Train brings anniversary tour to Pine Knob",
-   "link": "https://www.metrotimes.com/music-2/photos-train-brings-anniversary-tour-to-pine-knob/",
-   "published": "Thu, 06 Aug 2026 19:45:58 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -93,40 +93,58 @@
    "published": "Sat, 01 Aug 2026 16:25:53 GMT"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Establishment frustrations, calls for local representation fueled McKinney’s primary win",
-   "link": "https://michiganadvance.com/2026/08/07/establishment-frustrations-calls-for-local-representation-fueled-mckinneys-primary-win/",
-   "published": "Fri, 07 Aug 2026 17:17:48 +0000"
+   "outlet": "Great Lakes Echo",
+   "title": "Study finds one of Michigan’s healthiest forests in Grand Rapids",
+   "link": "https://greatlakesecho.org/2026/07/20/study-finds-one-of-michigans-healthiest-forests-in-grand-rapids/",
+   "published": "Mon, 20 Jul 2026 12:53:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "It’s time for ‘corn sweat’ as mid-summer hits",
+   "link": "https://greatlakesecho.org/2026/07/18/its-time-for-corn-sweat-as-mid-summer-hits/",
+   "published": "Sat, 18 Jul 2026 11:11:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "One-time funding won’t fix financial strain for Michigan’s Fisheries Division",
+   "link": "https://greatlakesecho.org/2026/07/17/one-time-funding-wont-fix-financial-strain-for-michigans-fisheries-division/",
+   "published": "Fri, 17 Jul 2026 12:05:00 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US employers shed 23K jobs in July",
-   "link": "https://michiganadvance.com/2026/08/07/repub/us-employers-shed-23k-jobs-in-july/",
-   "published": "Fri, 07 Aug 2026 17:12:34 +0000"
+   "title": "US Senate struggles to wrap up work before August recess",
+   "link": "https://michiganadvance.com/2026/08/07/repub/us-senate-struggles-to-wrap-up-work-before-august-recess/",
+   "published": "Fri, 07 Aug 2026 23:45:49 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Some Haitians targeted for ankle monitors by ICE as they face threat of mass deportation",
-   "link": "https://michiganadvance.com/2026/08/07/repub/some-haitians-targeted-for-ankle-monitors-by-ice-as-they-face-threat-of-mass-deportation/",
-   "published": "Fri, 07 Aug 2026 17:12:14 +0000"
+   "title": "Trump announces $180M for mining education as administration recommits to coal",
+   "link": "https://michiganadvance.com/2026/08/07/repub/trump-announces-180m-for-mining-education-as-administration-recommits-to-coal/",
+   "published": "Fri, 07 Aug 2026 23:18:29 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "While stumping for Michigan Dems, Buttigieg stresses national problems have state-level solutions",
+   "link": "https://michiganadvance.com/2026/08/07/while-stumping-for-michigan-dems-buttigieg-stresses-national-problems-have-state-level-solutions/",
+   "published": "Fri, 07 Aug 2026 21:21:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "‘I’m hit,’ Flint officer radioed after alleged kidnapping attempt erupted in gunfire",
-   "link": "https://www.mlive.com/news/flint/2026/08/im-hit-flint-officer-radioed-after-alleged-kidnapping-attempt-erupted-in-gunfire.html",
-   "published": "Fri, 07 Aug 2026 18:47:00 +0000"
+   "title": "Tigers option reliever to reinstate Jackson Jobe from injured list",
+   "link": "https://www.mlive.com/tigers/2026/08/tigers-option-reliever-to-reinstate-jackson-jobe-from-injured-list.html",
+   "published": "Sat, 08 Aug 2026 01:18:43 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Top Lions CB, backup RB among those missing from latest camp practice",
-   "link": "https://www.mlive.com/lions/2026/08/top-lions-cb-backup-rb-among-those-missing-from-latest-camp-practice.html",
-   "published": "Fri, 07 Aug 2026 18:46:04 +0000"
+   "title": "Electric-bicycle rider seriously injured in collision with parked pickup",
+   "link": "https://www.mlive.com/news/detroit/2026/08/electric-bicycle-rider-seriously-injured-in-collision-with-parked-pickup.html",
+   "published": "Sat, 08 Aug 2026 00:48:33 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Trump attacks judges who ruled against ballroom with 456-word social media post: ‘Horrendous’",
-   "link": "https://www.mlive.com/politics/2026/08/trump-attacks-judges-who-ruled-against-ballroom-with-456-word-social-media-post-horrendous.html",
-   "published": "Fri, 07 Aug 2026 18:44:24 +0000"
+   "title": "Dirt-bike rider seriously injured in crash with SUV",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/08/dirt-bike-rider-seriously-injured-in-crash-with-suv.html",
+   "published": "Fri, 07 Aug 2026 23:57:15 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Wildfire smoke may have cleared, but mental health impacts can linger",
+   "link": "https://planetdetroit.org/2026/08/wildfire-smoke-mental-health-impacts-linger/",
+   "published": "Fri, 07 Aug 2026 20:29:45 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Michigan environmental news: Metro Detroit flooding survey open through Tuesday",
    "link": "https://planetdetroit.org/2026/08/michigan-environmental-news-flooding-survey/",
    "published": "Fri, 07 Aug 2026 15:17:08 +0000"
@@ -159,10 +183,10 @@
    "published": "Thu, 06 Aug 2026 20:03:25 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Detroit oil recycler drops application to reopen after fire: East side environmental activist ‘thrilled’",
-   "link": "https://planetdetroit.org/2026/08/detroit-oil-recycler-drops-reopening-plan/",
-   "published": "Thu, 06 Aug 2026 15:51:14 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Benson wants Whitmer’s job—but not her playbook",
+   "link": "https://gandernewsroom.com/news/elections/benson-vs-whitmer/",
+   "published": "Sat, 08 Aug 2026 00:14:50 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -177,10 +201,22 @@
    "published": "Thu, 06 Aug 2026 18:54:29 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Get to know these 10 family-owned dairy farms in Michigan",
-   "link": "https://gandernewsroom.com/local/culture/dairy-farms-in-michigan/",
-   "published": "Thu, 06 Aug 2026 18:39:02 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Army opens Michigan test range to small companies to try to get weapons quicker to the battlefield",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-07/army-opens-michigan-test-range-to-small-companies-to-try-to-get-weapons-quicker-to-the-battlefield",
+   "published": "Sat, 08 Aug 2026 02:14:04 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Democrats try to present a united front in Michigan after bitter primary",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-07/democrats-try-to-present-a-united-front-in-michigan-after-bitter-primary",
+   "published": "Sat, 08 Aug 2026 02:07:32 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Judge grants trial in lawsuit over Grand Rapids police officer's fatal shooting of Patrick Lyoya",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-08-07/judge-grants-trial-in-lawsuit-over-grand-rapids-police-officers-fatal-shooting-of-patrick-lyoya",
+   "published": "Sat, 08 Aug 2026 01:50:56 GMT"
   }
  ]
 }
