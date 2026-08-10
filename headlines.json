@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T02:31:40+00:00",
+ "generated": "2026-08-10T08:02:26+00:00",
  "count": 36,
  "headlines": [
   {
@@ -130,6 +130,12 @@
   },
   {
    "outlet": "MLive",
+   "title": "Michigan Little League state champs rise to challenge in must-win Great Lakes Regional clash",
+   "link": "https://www.mlive.com/sports/2026/08/michigan-little-league-state-champs-rise-to-challenge-in-must-win-great-lakes-regional-clash.html",
+   "published": "Mon, 10 Aug 2026 03:22:16 +0000"
+  },
+  {
+   "outlet": "MLive",
    "title": "‘Dukes of Hazzard’ star turned politician dead at 84",
    "link": "https://www.mlive.com/life/2026/08/dukes-of-hazzard-star-dead-at-84-he-loved-and-was-loved-by-so-many.html",
    "published": "Mon, 10 Aug 2026 00:39:36 +0000"
@@ -139,12 +145,6 @@
    "title": "Lions hold tryout with former All-Pro cornerback",
    "link": "https://www.mlive.com/lions/2026/08/lions-hold-tryout-with-former-all-pro-cornerback.html",
    "published": "Sun, 09 Aug 2026 23:55:40 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Tigers finish remarkable West Coast trip with 10-inning win over Giants",
-   "link": "https://www.mlive.com/tigers/2026/08/tigers-finish-remarkable-west-coast-trip-with-10-inning-win-over-giants.html",
-   "published": "Sun, 09 Aug 2026 23:13:45 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,14 +202,14 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan Reconnect expands free community college eligibility to age 21",
-   "link": "https://www.michiganpublic.org/education/2026-08-09/michigan-reconnect-expands-free-community-college-eligibility-to-age-21",
+   "title": "State energy regulators weighing \"carrot or stick\" strategy to improve utilities' performance",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-08-09/state-energy-regulators-weighing-carrot-or-stick-strategy-to-improve-utilities-performance",
    "published": "Sun, 09 Aug 2026 16:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "State energy regulators weighing \"carrot or stick\" strategy to improve utilities' performance",
-   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-08-09/state-energy-regulators-weighing-carrot-or-stick-strategy-to-improve-utilities-performance",
+   "title": "Michigan Reconnect expands free community college eligibility to age 21",
+   "link": "https://www.michiganpublic.org/education/2026-08-09/michigan-reconnect-expands-free-community-college-eligibility-to-age-21",
    "published": "Sun, 09 Aug 2026 16:00:00 GMT"
   },
   {
