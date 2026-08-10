@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-10T13:43:21+00:00",
- "count": 33,
+ "generated": "2026-08-10T19:14:40+00:00",
+ "count": 36,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
@@ -22,21 +22,27 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "The Boy Next Door",
+   "link": "https://www.metrotimes.com/detroit-guides/the-fiction-issue/the-boy-next-door/",
+   "published": "Mon, 10 Aug 2026 16:20:01 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "His murder case unraveled decades ago. Now a Detroit man is asking Whitmer to set him free",
+   "link": "https://www.metrotimes.com/news/his-murder-case-unraveled-decades-ago-now-a-detroit-man-is-asking-whitmer-to-set-him-free/",
+   "published": "Mon, 10 Aug 2026 14:39:04 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Queens of the Stone Age turn Ford Field into their own twisted church",
    "link": "https://www.metrotimes.com/music-2/queens-of-the-stone-age-turn-ford-field-into-their-own-twisted-church/",
    "published": "Fri, 07 Aug 2026 19:38:22 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Photos: Foo Fighters bring stadium-sized rock show to Detroit",
-   "link": "https://www.metrotimes.com/music-2/photos-foo-fighters-bring-stadium-sized-rock-show-to-detroit/",
-   "published": "Fri, 07 Aug 2026 14:44:42 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Michigan doubles daily food assistance benefit for fruits and vegetables",
-   "link": "https://www.metrotimes.com/news/michigan-doubles-daily-food-assistance-benefit-for-fruits-and-vegetables/",
-   "published": "Thu, 06 Aug 2026 20:11:19 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Michigan is spending $150M on one-time ‘educator’ bonuses. Here’s how it works",
+   "link": "https://bridgemi.com/talent-education/michigan-is-spending-150m-on-one-time-educator-bonuses-heres-how-it-works/",
+   "published": "Mon, 10 Aug 2026 16:29:08 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -49,12 +55,6 @@
    "title": "Facing money woes, Michigan villages mull extreme solutions: ceasing to exist",
    "link": "https://bridgemi.com/michigan-government/facing-money-woes-michigan-villages-mull-extreme-solutions-ceasing-to-exist/",
    "published": "Fri, 07 Aug 2026 18:02:57 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan counties, towns spend $30B a year. Could collaboration get more done?",
-   "link": "https://bridgemi.com/michigan-government/michigan-counties-towns-spend-30b-a-year-could-collaboration-get-more-done/",
-   "published": "Fri, 07 Aug 2026 18:02:15 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Daily Detroit",
+   "title": "Why the Detroit Shock Deserve More Credit in WNBA History",
+   "link": "https://www.dailydetroit.com/why-the-detroit-shock-deserve-more-credit-in-wnba-history/",
+   "published": "Mon, 10 Aug 2026 18:34:18 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
    "title": "A Question of Class and Classrooms: Should All Detroit's Public Schools Have Equal Programs and Opportunities?",
    "link": "https://www.dailydetroit.com/a-question-of-class-and-classrooms-should-all-detroits-public-schools-have-equal-programs-and-opportunities/",
    "published": "Mon, 03 Aug 2026 18:27:08 GMT"
@@ -87,10 +93,28 @@
    "published": "Sun, 02 Aug 2026 20:40:19 GMT"
   },
   {
-   "outlet": "Daily Detroit",
-   "title": "Abdul El-Sayed vs. Haley Stevens Last Minute Predictions and Analysis",
-   "link": "https://www.dailydetroit.com/michigan-politics-isnt-purple-its-pissed-off-el-sayed-vs-stevens-presid/",
-   "published": "Sat, 01 Aug 2026 16:25:53 GMT"
+   "outlet": "Great Lakes Echo",
+   "title": "Study finds one of Michigan’s healthiest forests in Grand Rapids",
+   "link": "https://greatlakesecho.org/2026/07/20/study-finds-one-of-michigans-healthiest-forests-in-grand-rapids/",
+   "published": "Mon, 20 Jul 2026 12:53:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "It’s time for ‘corn sweat’ as mid-summer hits",
+   "link": "https://greatlakesecho.org/2026/07/18/its-time-for-corn-sweat-as-mid-summer-hits/",
+   "published": "Sat, 18 Jul 2026 11:11:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "One-time funding won’t fix financial strain for Michigan’s Fisheries Division",
+   "link": "https://greatlakesecho.org/2026/07/17/one-time-funding-wont-fix-financial-strain-for-michigans-fisheries-division/",
+   "published": "Fri, 17 Jul 2026 12:05:00 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Nessel and environmental groups file initial arguments in appeal of DTE Saline data center contract",
+   "link": "https://michiganadvance.com/2026/08/10/nessel-and-environmental-groups-file-initial-arguments-in-appeal-of-dte-saline-data-center-contract/",
+   "published": "Mon, 10 Aug 2026 18:18:04 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -105,28 +129,22 @@
    "published": "Mon, 10 Aug 2026 10:00:50 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "With new tactics, ICE reaches new high in monthly arrests",
-   "link": "https://michiganadvance.com/2026/08/10/repub/with-new-tactics-ice-reaches-new-high-in-monthly-arrests/",
-   "published": "Mon, 10 Aug 2026 09:28:19 +0000"
+   "outlet": "MLive",
+   "title": "A common item in your house may now be illegal, according to US government",
+   "link": "https://www.mlive.com/news/2026/08/a-common-item-in-your-house-may-now-be-illegal-according-to-us-government.html",
+   "published": "Mon, 10 Aug 2026 19:10:39 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ex-NBA player, college basketball national champion dies at 64",
-   "link": "https://www.mlive.com/sports/2026/08/ex-nba-player-college-basketball-national-champion-dies-at-64.html",
-   "published": "Mon, 10 Aug 2026 13:35:03 +0000"
+   "title": "Michigan o-line shows improvement, and QB Bryce Underwood is taking notice",
+   "link": "https://www.mlive.com/wolverines/football/2026/08/michigan-o-line-shows-improvement-and-qb-bryce-underwood-is-taking-notice.html",
+   "published": "Mon, 10 Aug 2026 19:09:11 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Northview football preview: Wildcats looking for head coach, not lacking confidence",
-   "link": "https://www.mlive.com/highschoolsports/2026/08/northview-football-preview-wildcats-looking-for-head-coach-not-lacking-confidence.html",
-   "published": "Mon, 10 Aug 2026 13:34:15 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Trump delivers not-so-subtle jab at Jeanine Pirro with ‘highly credible witness’",
-   "link": "https://www.mlive.com/politics/2026/08/trump-delivers-not-so-subtle-troll-of-jeanine-pirro-with-highly-credible-witness.html",
-   "published": "Mon, 10 Aug 2026 13:30:00 +0000"
+   "title": "Streaming service launches all-day AI content channel",
+   "link": "https://www.mlive.com/news/2026/08/streaming-service-launches-all-day-ai-content-channel.html",
+   "published": "Mon, 10 Aug 2026 19:04:43 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +184,12 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Protect yourself: Why ticks are spreading in Michigan",
+   "link": "https://gandernewsroom.com/news/environment/protect-yourself-why-ticks-are-spreading-in-michigan/",
+   "published": "Mon, 10 Aug 2026 15:11:26 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Benson wants Whitmer’s job—but not her playbook",
    "link": "https://gandernewsroom.com/news/elections/benson-vs-whitmer/",
    "published": "Sat, 08 Aug 2026 00:14:50 +0000"
@@ -177,22 +201,16 @@
    "published": "Fri, 07 Aug 2026 15:07:11 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Josh & Jase were having a great time in Michigan. Then Traverse City happened",
-   "link": "https://gandernewsroom.com/local/people/josh-jase-were-having-a-great-time-in-michigan-then-traverse-city-happened/",
-   "published": "Thu, 06 Aug 2026 18:54:29 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "The Mids: What about the judges?",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-10/the-mids-what-about-the-judges",
+   "published": "Mon, 10 Aug 2026 15:45:21 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan DNR encourages public to leave threatened venomous snake alone",
    "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-10/michigan-dnr-encourages-public-to-leave-threatened-venomous-snake-alone",
    "published": "Mon, 10 Aug 2026 12:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Report: Many Michiganders are struggling to afford basic needs",
-   "link": "https://www.michiganpublic.org/economy/2026-08-10/report-many-michiganders-are-struggling-to-afford-basic-needs",
-   "published": "Mon, 10 Aug 2026 09:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
