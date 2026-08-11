@@ -1,7 +1,13 @@
 {
- "generated": "2026-08-10T19:14:40+00:00",
+ "generated": "2026-08-11T02:25:27+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Potter Park’s Kota euthanized",
+   "link": "https://lansingcitypulse.com/potter-parks-kota-euthanized/",
+   "published": "Mon, 10 Aug 2026 19:43:13 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Top 5 Restaurant Wine Lists",
@@ -15,10 +21,10 @@
    "published": "Fri, 07 Aug 2026 14:01:02 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Whitmer endorses Benson at post-primary celebration",
-   "link": "https://lansingcitypulse.com/whitmer-endorses-benson-at-post-primary-celebration/",
-   "published": "Thu, 06 Aug 2026 01:17:11 +0000"
+   "outlet": "Metro Times",
+   "title": "Dispensary chain blames Michigan’s 24% cannabis tax as it closes five weed stores",
+   "link": "https://www.metrotimes.com/weed-2/dispensary-chain-blames-michigans-24-cannabis-tax-as-it-closes-five-weed-stores/",
+   "published": "Mon, 10 Aug 2026 20:11:52 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,10 +39,16 @@
    "published": "Mon, 10 Aug 2026 14:39:04 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Queens of the Stone Age turn Ford Field into their own twisted church",
-   "link": "https://www.metrotimes.com/music-2/queens-of-the-stone-age-turn-ford-field-into-their-own-twisted-church/",
-   "published": "Fri, 07 Aug 2026 19:38:22 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Can Abdul El-Sayed unite Dems? He has work to do with Black, Jewish voters",
+   "link": "https://bridgemi.com/michigan-government/can-abdul-el-sayed-unite-dems-he-has-work-to-do-with-black-jewish-voters/",
+   "published": "Mon, 10 Aug 2026 22:00:49 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Trump, White House target Abdul El-Sayed as ‘threat’ in Michigan Senate race",
+   "link": "https://bridgemi.com/michigan-government/trump-white-house-target-abdul-el-sayed-as-threat-in-michigan-senate-race/",
+   "published": "Mon, 10 Aug 2026 20:37:30 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -45,16 +57,10 @@
    "published": "Mon, 10 Aug 2026 16:29:08 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Other states shrink local governments. Michigan law preserves archaic ‘mess’",
-   "link": "https://bridgemi.com/michigan-government/other-states-shrink-local-governments-michigan-law-preserves-archaic-mess/",
-   "published": "Fri, 07 Aug 2026 18:03:52 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Facing money woes, Michigan villages mull extreme solutions: ceasing to exist",
-   "link": "https://bridgemi.com/michigan-government/facing-money-woes-michigan-villages-mull-extreme-solutions-ceasing-to-exist/",
-   "published": "Fri, 07 Aug 2026 18:02:57 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Guide: How to reach your representatives and elected officials in Detroit",
+   "link": "https://www.bridgedetroit.com/how-to-reach-your-representatives-in-detroit/",
+   "published": "Mon, 10 Aug 2026 20:25:32 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -69,28 +75,22 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000"
   },
   {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan was to be a ‘haven state’ for abortion. It didn’t happen",
-   "link": "https://www.bridgedetroit.com/michigan-was-to-be-a-haven-state-for-abortion-it-didnt-happen/",
-   "published": "Sat, 08 Aug 2026 10:00:00 +0000"
+   "outlet": "Daily Detroit",
+   "title": "EVENING EDITION: Trying New Pizza, Inside Greektown's New Look, and More",
+   "link": "https://www.dailydetroit.com/evening-edition-trying-new-pizza-inside-greektowns-new-look-and-more/",
+   "published": "Tue, 11 Aug 2026 01:12:59 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
+   "title": "Redesigning Greektown: Inside Detroit's New People-First Streetscape",
+   "link": "https://www.dailydetroit.com/redesigning-greektown-inside-detroits-new-people-first-streetscape/",
+   "published": "Mon, 10 Aug 2026 19:33:04 GMT"
   },
   {
    "outlet": "Daily Detroit",
    "title": "Why the Detroit Shock Deserve More Credit in WNBA History",
    "link": "https://www.dailydetroit.com/why-the-detroit-shock-deserve-more-credit-in-wnba-history/",
    "published": "Mon, 10 Aug 2026 18:34:18 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "A Question of Class and Classrooms: Should All Detroit's Public Schools Have Equal Programs and Opportunities?",
-   "link": "https://www.dailydetroit.com/a-question-of-class-and-classrooms-should-all-detroits-public-schools-have-equal-programs-and-opportunities/",
-   "published": "Mon, 03 Aug 2026 18:27:08 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "Your New Canal-side Hangout in Detroit",
-   "link": "https://www.dailydetroit.com/the-weekender-canal-bar-coriander/",
-   "published": "Sun, 02 Aug 2026 20:40:19 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Nessel and environmental groups file initial arguments in appeal of DTE Saline data center contract",
-   "link": "https://michiganadvance.com/2026/08/10/nessel-and-environmental-groups-file-initial-arguments-in-appeal-of-dte-saline-data-center-contract/",
-   "published": "Mon, 10 Aug 2026 18:18:04 +0000"
+   "title": "New drug-resistant fungal disease increases among vulnerable patients",
+   "link": "https://michiganadvance.com/2026/08/10/repub/new-drug-resistant-fungal-disease-increases-among-vulnerable-patients/",
+   "published": "Mon, 10 Aug 2026 21:12:17 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "If it’s socialism, show us",
-   "link": "https://michiganadvance.com/2026/08/10/if-its-socialism-show-us/",
-   "published": "Mon, 10 Aug 2026 10:30:46 +0000"
+   "title": "Todd Blanche sworn in as attorney general after contentious Senate confirmation",
+   "link": "https://michiganadvance.com/2026/08/10/repub/todd-blanche-sworn-in-as-attorney-general-after-contentious-senate-confirmation/",
+   "published": "Mon, 10 Aug 2026 21:11:59 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan Data Centers: The Weekly Download",
-   "link": "https://michiganadvance.com/2026/08/10/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2/",
-   "published": "Mon, 10 Aug 2026 10:00:50 +0000"
+   "title": "El-Sayed has a coalition to rebuild after a bruising Democratic primary",
+   "link": "https://michiganadvance.com/2026/08/10/el-sayed-has-a-coalition-to-rebuild-after-a-bruising-democratic-primary/",
+   "published": "Mon, 10 Aug 2026 19:48:24 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "A common item in your house may now be illegal, according to US government",
-   "link": "https://www.mlive.com/news/2026/08/a-common-item-in-your-house-may-now-be-illegal-according-to-us-government.html",
-   "published": "Mon, 10 Aug 2026 19:10:39 +0000"
+   "title": "Two relievers from Tigers’ 2025 bullpen on the move",
+   "link": "https://www.mlive.com/tigers/2026/08/two-relievers-from-tigers-2025-bullpen-on-the-move.html",
+   "published": "Tue, 11 Aug 2026 00:43:11 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan o-line shows improvement, and QB Bryce Underwood is taking notice",
-   "link": "https://www.mlive.com/wolverines/football/2026/08/michigan-o-line-shows-improvement-and-qb-bryce-underwood-is-taking-notice.html",
-   "published": "Mon, 10 Aug 2026 19:09:11 +0000"
+   "title": "First day of practice is first of many firsts for new Bay City Academy football program",
+   "link": "https://www.mlive.com/highschoolsports/2026/08/first-day-of-practice-is-first-of-many-firsts-for-new-bay-city-academy-program.html",
+   "published": "Tue, 11 Aug 2026 00:28:54 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Streaming service launches all-day AI content channel",
-   "link": "https://www.mlive.com/news/2026/08/streaming-service-launches-all-day-ai-content-channel.html",
-   "published": "Mon, 10 Aug 2026 19:04:43 +0000"
+   "title": "Police seek answers after 3 injured in Muskegon Heights weekend shooting",
+   "link": "https://www.mlive.com/news/muskegon/2026/08/police-seek-answers-after-3-injured-in-muskegon-heights-weekend-shooting.html",
+   "published": "Tue, 11 Aug 2026 00:20:20 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan's energy regulator to hold workshops on affordability",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-10/energy-regulator-to-hold-workshops-on-affordability",
+   "published": "Mon, 10 Aug 2026 22:34:46 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan DNR encouraging residents to keep an eye out for invasive beetle",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-10/michigan-dnr-encouraging-residents-to-keep-an-eye-out-for-invasive-beetle",
+   "published": "Mon, 10 Aug 2026 21:47:40 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "The Mids: What about the judges?",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-10/the-mids-what-about-the-judges",
    "published": "Mon, 10 Aug 2026 15:45:21 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan DNR encourages public to leave threatened venomous snake alone",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-10/michigan-dnr-encourages-public-to-leave-threatened-venomous-snake-alone",
-   "published": "Mon, 10 Aug 2026 12:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Some small Michigan farms say lettuce sales are up in wake of national outbreak",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-10/some-small-michigan-farms-say-lettuce-sales-are-up-in-wake-of-national-outbreak",
-   "published": "Mon, 10 Aug 2026 09:00:00 GMT"
   }
  ]
 }
