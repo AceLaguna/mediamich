@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11T07:33:58+00:00",
+ "generated": "2026-08-11T13:39:47+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Democrats boost Christina Hines in bid to flip John James’ congressional seat",
+   "link": "https://www.metrotimes.com/news/democrats-boost-christina-hines-in-bid-to-flip-john-james-congressional-seat/",
+   "published": "Tue, 11 Aug 2026 09:00:00 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Dispensary chain blames Michigan’s 24% cannabis tax as it closes five weed stores",
    "link": "https://www.metrotimes.com/weed-2/dispensary-chain-blames-michigans-24-cannabis-tax-as-it-closes-five-weed-stores/",
    "published": "Mon, 10 Aug 2026 20:11:52 +0000"
@@ -33,10 +39,10 @@
    "published": "Mon, 10 Aug 2026 16:20:01 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "His murder case unraveled decades ago. Now a Detroit man is asking Whitmer to set him free",
-   "link": "https://www.metrotimes.com/news/his-murder-case-unraveled-decades-ago-now-a-detroit-man-is-asking-whitmer-to-set-him-free/",
-   "published": "Mon, 10 Aug 2026 14:39:04 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Opinion | With the right guardrails, we should consider embracing data centers",
+   "link": "https://bridgemi.com/guest-commentary/opinion-with-the-right-guardrails-we-should-consider-embracing-data-centers/",
+   "published": "Tue, 11 Aug 2026 11:00:00 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -51,28 +57,22 @@
    "published": "Mon, 10 Aug 2026 20:37:30 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
+   "outlet": "BridgeDetroit",
+   "title": "Detroit school district takes on questions about school cleanliness, special education, more",
+   "link": "https://www.bridgedetroit.com/detroit-school-district-questions-answers/",
+   "published": "Tue, 11 Aug 2026 11:41:37 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Michigan is spending $150M on one-time ‘educator’ bonuses. Here’s how it works",
-   "link": "https://bridgemi.com/talent-education/michigan-is-spending-150m-on-one-time-educator-bonuses-heres-how-it-works/",
-   "published": "Mon, 10 Aug 2026 16:29:08 +0000"
+   "link": "https://www.bridgedetroit.com/michigan-is-spending-150m-on-one-time-educator-bonuses-heres-how-it-works/",
+   "published": "Tue, 11 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
    "title": "Guide: How to reach your representatives and elected officials in Detroit",
    "link": "https://www.bridgedetroit.com/how-to-reach-your-representatives-in-detroit/",
    "published": "Mon, 10 Aug 2026 20:25:32 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan prisons paid millions over inmate deaths, disability discrimination",
-   "link": "https://www.bridgedetroit.com/michigan-prisons-paid-millions-over-inmate-deaths-disability-discrimination/",
-   "published": "Mon, 10 Aug 2026 12:02:14 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "The first Black woman to lead the CDC will face an uphill battle in restoring trust",
-   "link": "https://www.bridgedetroit.com/erica-schwartz-cdc-faces-battle/",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "New drug-resistant fungal disease increases among vulnerable patients",
-   "link": "https://michiganadvance.com/2026/08/10/repub/new-drug-resistant-fungal-disease-increases-among-vulnerable-patients/",
-   "published": "Mon, 10 Aug 2026 21:12:17 +0000"
+   "title": "A veteran’s case for more choice and more voice in elections",
+   "link": "https://michiganadvance.com/2026/08/11/a-veterans-case-for-more-choice-and-more-voice-in-elections/",
+   "published": "Tue, 11 Aug 2026 11:01:42 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Todd Blanche sworn in as attorney general after contentious Senate confirmation",
-   "link": "https://michiganadvance.com/2026/08/10/repub/todd-blanche-sworn-in-as-attorney-general-after-contentious-senate-confirmation/",
-   "published": "Mon, 10 Aug 2026 21:11:59 +0000"
+   "title": "Anti-abortion groups urge attorney general to halt mailing of abortion pills",
+   "link": "https://michiganadvance.com/2026/08/11/repub/anti-abortion-groups-urge-attorney-general-to-halt-mailing-of-abortion-pills/",
+   "published": "Tue, 11 Aug 2026 10:53:08 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "El-Sayed has a coalition to rebuild after a bruising Democratic primary",
-   "link": "https://michiganadvance.com/2026/08/10/el-sayed-has-a-coalition-to-rebuild-after-a-bruising-democratic-primary/",
-   "published": "Mon, 10 Aug 2026 19:48:24 +0000"
+   "title": "Trump urges shift in childhood vaccine recommendations, calls for splitting up MMR vaccine",
+   "link": "https://michiganadvance.com/2026/08/11/repub/trump-urges-shift-in-childhood-vaccine-recommendations-calls-for-splitting-up-mmr-vaccine/",
+   "published": "Tue, 11 Aug 2026 10:52:50 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Lowell data center regulations still months away, officials say",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/08/lowell-data-center-regulations-still-months-away-officials-say.html",
-   "published": "Tue, 11 Aug 2026 04:02:54 +0000"
+   "title": "Tigers release several notable minor leaguers in August roster trim",
+   "link": "https://www.mlive.com/tigers/2026/08/tigers-release-several-notable-minor-leaguers-in-august-roster-trim.html",
+   "published": "Tue, 11 Aug 2026 13:27:28 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Muskegon Heights interim city manager seeks $2,500 monthly stipend",
-   "link": "https://www.mlive.com/news/muskegon/2026/08/muskegon-heights-interim-city-manager-seeks-2500-monthly-stipend.html",
-   "published": "Tue, 11 Aug 2026 02:48:54 +0000"
+   "title": "Why forecasters are increasingly worried about this week’s storm pattern",
+   "link": "https://www.mlive.com/news/2026/08/the-biggest-threat-from-this-weeks-storms-may-not-be-what-you-think.html",
+   "published": "Tue, 11 Aug 2026 13:22:14 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Two relievers from Tigers’ 2025 bullpen on the move",
-   "link": "https://www.mlive.com/tigers/2026/08/two-relievers-from-tigers-2025-bullpen-on-the-move.html",
-   "published": "Tue, 11 Aug 2026 00:43:11 +0000"
+   "title": "Legendary rock musician dead at 66 after cancer battle: ‘A much-loved figure’",
+   "link": "https://www.mlive.com/life/2026/08/legendary-rock-musician-dead-at-66-after-cancer-battle-a-much-loved-figure.html",
+   "published": "Tue, 11 Aug 2026 13:19:41 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,27 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Michigan dispensary trips are being logged by a nationwide camera network",
+   "link": "https://gandernewsroom.com/news/cannabis/michigan-dispensary-cameras/",
+   "published": "Tue, 11 Aug 2026 11:55:51 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "6 quick hits of cannabis news from across Michigan",
+   "link": "https://gandernewsroom.com/news/cannabis/ccannabis-news-michigan-081126/",
+   "published": "Tue, 11 Aug 2026 11:46:52 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Protect yourself: Why ticks are spreading in Michigan",
    "link": "https://gandernewsroom.com/news/environment/protect-yourself-why-ticks-are-spreading-in-michigan/",
    "published": "Mon, 10 Aug 2026 15:11:26 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Benson wants Whitmer’s job—but not her playbook",
-   "link": "https://gandernewsroom.com/news/elections/benson-vs-whitmer/",
-   "published": "Sat, 08 Aug 2026 00:14:50 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Michigan State students: 15 free resources that you may not know about",
-   "link": "https://gandernewsroom.com/local/culture/michigan-state-students/",
-   "published": "Fri, 07 Aug 2026 15:07:11 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Legal expert calls $7M in prison payouts a ‘Drop in the Bucket’",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-08-11/legal-expert-calls-7m-in-prison-payouts-a-drop-in-the-bucket",
+   "published": "Tue, 11 Aug 2026 11:27:39 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
@@ -211,12 +217,6 @@
    "title": "Michigan DNR encouraging residents to keep an eye out for invasive beetle",
    "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-10/michigan-dnr-encouraging-residents-to-keep-an-eye-out-for-invasive-beetle",
    "published": "Mon, 10 Aug 2026 21:47:40 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "The Mids: What about the judges?",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-10/the-mids-what-about-the-judges",
-   "published": "Mon, 10 Aug 2026 15:45:21 GMT"
   }
  ]
 }
