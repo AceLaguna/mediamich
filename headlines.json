@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T07:50:44+00:00",
+ "generated": "2026-08-13T13:44:24+00:00",
  "count": 36,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "John James taps Rep. Jay DeBoyer as running mate in Michigan governor’s race",
+   "link": "https://bridgemi.com/michigan-government/michigan-governor-hopeful-john-james-taps-rep-jay-deboyer-as-running-mate/",
+   "published": "Thu, 13 Aug 2026 12:53:44 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Online pharmacies aid rural health care but threaten Michigan drugstores",
    "link": "https://bridgemi.com/michigan-health-watch/online-pharmacies-aid-rural-health-care-but-threaten-michigan-drugstores/",
    "published": "Wed, 12 Aug 2026 19:32:24 +0000"
@@ -51,10 +57,10 @@
    "published": "Wed, 12 Aug 2026 16:59:48 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan universities make secret decisions; some lawmakers want change",
-   "link": "https://bridgemi.com/talent-education/michigan-universities-make-secret-decisions-some-lawmakers-want-change/",
-   "published": "Wed, 12 Aug 2026 15:40:29 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Detroit arts, culture projects share in $3.6M funding boost",
+   "link": "https://www.bridgedetroit.com/detroit-arts-culture-funding-hudson-webber/",
+   "published": "Thu, 13 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "Detroit school board to fill vacant seat of late member Iris Taylor ahead of November election",
    "link": "https://www.bridgedetroit.com/detroit-school-board-to-fill-vacant-seat-of-late-member-iris-taylor-ahead-of-november-election/",
    "published": "Wed, 12 Aug 2026 17:45:01 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Visitors are rediscovering Greektown as $20M transformation takes shape",
-   "link": "https://www.bridgedetroit.com/greektown-renovations-update/",
-   "published": "Wed, 12 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "More GOP party platforms include anti-IVF language. Is surrogacy next?",
+   "link": "https://michiganadvance.com/2026/08/13/repub/more-gop-party-platforms-include-anti-ivf-language-is-surrogacy-next/",
+   "published": "Thu, 13 Aug 2026 12:09:13 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Alaska man charged with threatening, stalking Dearborn mayor",
+   "link": "https://michiganadvance.com/briefs/alaska-man-faces-federal-charges-of-threatening-stalking-dearborns-mayor/",
+   "published": "Thu, 13 Aug 2026 08:00:41 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Trump press secretary Leavitt to leave White House",
    "link": "https://michiganadvance.com/2026/08/12/repub/trump-press-secretary-leavitt-to-leave-white-house/",
    "published": "Wed, 12 Aug 2026 22:03:27 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Federal agency blocks Medicaid coverage of kids’ gender-affirming care",
-   "link": "https://michiganadvance.com/2026/08/12/repub/federal-agency-blocks-medicaid-coverage-of-kids-gender-affirming-care/",
-   "published": "Wed, 12 Aug 2026 22:03:12 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "DHS account, court records raise questions about DNR role in ICE arrest",
-   "link": "https://michiganadvance.com/2026/08/12/dhs-account-court-records-raise-questions-about-dnr-role-in-ice-arrest/",
-   "published": "Wed, 12 Aug 2026 20:29:31 +0000"
+   "outlet": "MLive",
+   "title": "Dearborn police chief: ‘Please stay home’ as Jake Lang plans return",
+   "link": "https://www.mlive.com/news/detroit/2026/08/dearborn-police-chief-please-stay-home-as-jake-lang-plans-return.html",
+   "published": "Thu, 13 Aug 2026 13:33:58 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Detroit Forecast: Stubborn weather pattern keeping Southeast Michigan stuck in limbo",
-   "link": "https://www.mlive.com/weather/2026/08/detroit-forecast-stubborn-weather-pattern-keeping-southeast-michigan-stuck-in-limbo.html",
-   "published": "Thu, 13 Aug 2026 02:49:05 +0000"
+   "title": "Michigan football’s biggest defensive question mark heading into fall camp",
+   "link": "https://www.mlive.com/wolverines/football/2026/08/michigan-footballs-biggest-defensive-question-mark-heading-into-fall-camp.html",
+   "published": "Thu, 13 Aug 2026 13:31:39 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Tigers believe All-Star outfielder’s injury is ‘mild’",
-   "link": "https://www.mlive.com/tigers/2026/08/tigers-believe-all-star-outfielders-injury-is-mild.html",
-   "published": "Thu, 13 Aug 2026 02:37:52 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Tigers stumble against Guardians, miss chance to reach .500",
-   "link": "https://www.mlive.com/tigers/2026/08/tigers-stumble-against-guardians-miss-chance-to-reach-500.html",
-   "published": "Thu, 13 Aug 2026 01:45:02 +0000"
+   "title": "A floating ice mass the size of Manhattan just broke free in Greenland",
+   "link": "https://www.mlive.com/news/2026/08/decades-old-greenland-glacier-made-a-dramatic-move-researchers-are-watching-closely.html",
+   "published": "Thu, 13 Aug 2026 13:29:21 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -178,7 +178,7 @@
   },
   {
    "outlet": "Planet Detroit",
-   "title": "Genesee County mobile home park recovers from out-of-state investors after drinking water troubles, prosecution",
+   "title": "Genesee County mobile home park recovers after prosecution of hedge fund owner",
    "link": "https://planetdetroit.org/2026/08/north-morris-communities-hedge-fund-ownership/",
    "published": "Tue, 11 Aug 2026 19:13:41 +0000"
   },
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "As Abdul El-Sayed breaks a barrier, anti-Muslim vitriol surges on multiple fronts",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-13/as-abdul-el-sayed-breaks-a-barrier-anti-muslim-vitriol-surges-on-multiple-fronts",
+   "published": "Thu, 13 Aug 2026 11:29:44 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stephen Henderson discusses his new radio show, \"Michigan, We Need to Talk\"",
+   "link": "https://www.michiganpublic.org/show/michigan-we-need-to-talk/2026-08-13/stephen-henderson-discusses-his-new-radio-show-michigan-we-need-to-talk",
+   "published": "Thu, 13 Aug 2026 09:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Hundreds of unaccompanied immigrant children to lose legal representation in Michigan",
    "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-08-12/hundreds-of-unaccompanied-immigrant-children-to-lose-legal-representation-in-michigan",
    "published": "Thu, 13 Aug 2026 02:14:59 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Republicans promote voter ID amendment after new allegation of noncitizen voter registration",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-12/republicans-promote-voter-id-amendment-after-new-allegation-of-noncitizen-voter-registration",
-   "published": "Thu, 13 Aug 2026 01:31:33 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "University of Michigan chooses site for controversial \"computing center\" near Ypsilanti",
-   "link": "https://www.michiganpublic.org/education/2026-08-12/university-of-michigan-chooses-site-for-controversial-computing-center-near-ypsilanti",
-   "published": "Wed, 12 Aug 2026 23:28:00 GMT"
   }
  ]
 }
