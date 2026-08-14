@@ -1,7 +1,13 @@
 {
- "generated": "2026-08-14T13:38:55+00:00",
+ "generated": "2026-08-14T19:11:49+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "TOP 5 RESTAURANTS FOR SENIORS",
+   "link": "https://lansingcitypulse.com/top-5-restaurants-for-seniors/",
+   "published": "Fri, 14 Aug 2026 18:19:24 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Pipelines and gas prices get attention at Lansing airport",
@@ -15,10 +21,16 @@
    "published": "Wed, 12 Aug 2026 09:15:00 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Gold Crown extracts are hitting Pure Options shelves — and if you know, you know.",
-   "link": "https://lansingcitypulse.com/gold-crown-extracts-are-hitting-pure-options-shelves-and-if-you-know-you-know/",
-   "published": "Wed, 12 Aug 2026 03:43:25 +0000"
+   "outlet": "Metro Times",
+   "title": "Kehlani brings out Big Sean for incredible night of R&B at Freedom Hill",
+   "link": "https://www.metrotimes.com/music-2/kehlani-brings-out-big-sean-for-incredible-night-of-rb-at-freedom-hill/",
+   "published": "Fri, 14 Aug 2026 17:53:56 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "The smear campaign against Abdul El-Sayed is built on lies, Islamophobia and hate",
+   "link": "https://www.metrotimes.com/news/the-smear-campaign-against-abdul-el-sayed-is-built-on-lies-islamophobia-and-hate/",
+   "published": "Fri, 14 Aug 2026 14:47:02 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -27,34 +39,28 @@
    "published": "Thu, 13 Aug 2026 19:26:24 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "John James and Tom Barrett are keeping campaign cash from a Republican accused of burning his ex-wife and holding a gun to her head",
-   "link": "https://www.metrotimes.com/news/john-james-and-tom-barrett-are-keeping-campaign-cash-from-a-republican-accused-of-burning-his-ex-wife-and-holding-a-gun-to-her-head/",
-   "published": "Thu, 13 Aug 2026 16:45:45 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Michigan lawmakers want to repeal the 24% cannabis tax, but don’t hold your breath",
-   "link": "https://www.metrotimes.com/weed-2/michigan-lawmakers-want-to-repeal-the-24-cannabis-tax-but-dont-hold-your-breath/",
-   "published": "Thu, 13 Aug 2026 15:16:21 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Dem AG candidate Eli Savit: ‘Common sense’ to ban bump stocks, ghost guns",
+   "link": "https://bridgemi.com/michigan-government/dem-ag-candidate-eli-savit-common-sense-to-ban-bump-stocks-ghost-guns/",
+   "published": "Fri, 14 Aug 2026 19:07:43 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Michigan charges 5 noncitizens for allegedly voting in 2024 election",
-   "link": "https://bridgemi.com/michigan-government/michigan-charges-5-noncitizens-for-allegedly-voting-in-2024-election/",
-   "published": "Thu, 13 Aug 2026 23:40:14 +0000"
+   "title": "Bridge Michigan News Quiz, Aug. 14:  Test your luck",
+   "link": "https://bridgemi.com/center-michigan/bridge-michigan-news-quiz-aug-14-test-your-luck/",
+   "published": "Fri, 14 Aug 2026 16:00:00 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "A renewed push to ban seclusion, reduce restraint in Michigan schools",
-   "link": "https://bridgemi.com/talent-education/a-renewed-push-to-ban-seclusion-reduce-restraint-in-michigan-schools/",
-   "published": "Thu, 13 Aug 2026 21:06:55 +0000"
+   "title": "Fact check: GOP claims Abdul El-Sayed hates football, fireworks, Mackinac Island",
+   "link": "https://bridgemi.com/michigan-government/fact-check-gop-claims-abdul-el-sayed-hates-football-fireworks-mackinac-island/",
+   "published": "Fri, 14 Aug 2026 15:04:29 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "She investigated Michigan Indian boarding schools — and found her family",
-   "link": "https://bridgemi.com/michigan-government/she-investigated-michigan-indian-boarding-schools-and-found-her-family/",
-   "published": "Thu, 13 Aug 2026 19:24:26 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Former Detroit Mayor Mike Duggan has a new job",
+   "link": "https://www.bridgedetroit.com/former-detroit-mayor-mike-duggan-has-a-new-job/",
+   "published": "Fri, 14 Aug 2026 17:42:48 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "Op-ed: Help shape the future of Detroit schools after millage approval",
    "link": "https://www.bridgedetroit.com/next-steps-detroit-public-schools-millage-482forward/",
    "published": "Fri, 14 Aug 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit arts, culture projects share in $3.6M funding boost",
-   "link": "https://www.bridgedetroit.com/detroit-arts-culture-funding-hudson-webber/",
-   "published": "Thu, 13 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Jay DeBoyer could help John James avoid a nasty GOP convention fight",
-   "link": "https://michiganadvance.com/2026/08/14/jay-deboyer-could-help-john-james-avoid-a-nasty-gop-convention-fight/",
-   "published": "Fri, 14 Aug 2026 11:30:15 +0000"
+   "title": "Lawsuit alleges Newaygo County Jail, prison health providers failed to treat inmate’s MS",
+   "link": "https://michiganadvance.com/2026/08/14/lawsuit-alleges-newaygo-county-jail-prison-health-providers-failed-to-treat-inmates-ms/",
+   "published": "Fri, 14 Aug 2026 18:30:57 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "AG charges 5 non-citizens who allegedly voted in Michigan’s 2024 general election",
-   "link": "https://michiganadvance.com/2026/08/14/ag-charges-five-non-citizens-who-allegedly-voted-in-michigans-2024-general-election/",
-   "published": "Fri, 14 Aug 2026 10:30:20 +0000"
+   "title": "Congressional approval not needed for White House ballroom, Trump tells high court",
+   "link": "https://michiganadvance.com/2026/08/14/repub/congressional-approval-not-needed-for-white-house-ballroom-trump-tells-high-court/",
+   "published": "Fri, 14 Aug 2026 17:27:33 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan Democratic Party says Doug Lloyd’s AG campaign filed late, incomplete financial report",
-   "link": "https://michiganadvance.com/2026/08/13/michigan-democratic-party-says-doug-lloyds-ag-campaign-filed-late-incomplete-financial-report/",
-   "published": "Thu, 13 Aug 2026 20:38:53 +0000"
+   "title": "In bid to stop Saline Data Center tax break, an attorney argues the township skipped crucial steps",
+   "link": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
+   "published": "Fri, 14 Aug 2026 17:13:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "DTE-backed group sues Ann Arbor over public power ballot proposal",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/08/dte-backed-group-sues-ann-arbor-over-public-power-ballot-proposal.html",
-   "published": "Fri, 14 Aug 2026 13:23:12 +0000"
+   "title": "Michigan man found his dream 1940 Ford truck for $8,000 over 30 years ago and it still looks brand new",
+   "link": "https://www.mlive.com/news/flint/2026/08/michigan-man-found-his-dream-1940-ford-truck-for-8000-over-30-years-ago-and-it-still-looks-brand-new.html",
+   "published": "Fri, 14 Aug 2026 19:08:40 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Tractor pulls and cornhole: What is on tap for Friday at 2026 Jackson County Fair",
-   "link": "https://www.mlive.com/news/jackson/2026/08/tractor-pulls-and-cornhole-what-is-on-tap-for-friday-at-2026-jackson-county-fair.html",
-   "published": "Fri, 14 Aug 2026 13:22:15 +0000"
+   "title": "Police looking for armed, dangerous man after incident in Northern Michigan",
+   "link": "https://www.mlive.com/news/2026/08/police-looking-for-armed-dangerous-man-after-incident-in-northern-michigan.html",
+   "published": "Fri, 14 Aug 2026 19:03:33 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Timeline: How Muskegon Heights arrived at financial crisis, FBI raid of city hall",
-   "link": "https://www.mlive.com/news/muskegon/2026/08/timeline-how-muskegon-heights-arrived-at-financial-crisis-fbi-raid-of-city-hall.html",
-   "published": "Fri, 14 Aug 2026 13:19:01 +0000"
+   "title": "Homicide case involving caretaker of 76-year-old still under review",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/08/homicide-case-involving-caretaker-of-76-year-old-still-under-review.html",
+   "published": "Fri, 14 Aug 2026 19:01:56 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,27 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "The hidden cost of college admissions: How Detroit teens are burning out",
+   "link": "https://planetdetroit.org/2026/08/college-application-stress-detroit-teens-burnout/",
+   "published": "Fri, 14 Aug 2026 15:56:51 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Michigan environmental news: Water treatment facility passwords changed in hack, Slotkin says",
+   "link": "https://planetdetroit.org/2026/08/michigan-water-cyberattack-slotkin/",
+   "published": "Fri, 14 Aug 2026 14:21:13 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money",
    "link": "https://planetdetroit.org/2026/08/mpsc-dte-consumers-recommendations/",
    "published": "Thu, 13 Aug 2026 19:58:13 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Environmental groups, Nessel make arguments in appeal of DTE Energy’s Saline Township data center contracts",
-   "link": "https://planetdetroit.org/2026/08/dte-oracle-contract-appeal-michigan/",
-   "published": "Wed, 12 Aug 2026 15:30:41 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "University of Michigan confirms Huron River site for $1.2 billion computing facility: Ypsilanti Township vows to fight back",
-   "link": "https://planetdetroit.org/2026/08/u-m-confirms-ypsilanti-data-center/",
-   "published": "Wed, 12 Aug 2026 14:39:22 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "MSU professor says Michigan voters will decide whether to open ‘Pandora’s box’ this November",
+   "link": "https://gandernewsroom.com/news/elections/msu-professor-says-michigan-voters-will-decide-whether-to-open-pandoras-box-this-november/",
+   "published": "Fri, 14 Aug 2026 16:45:14 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -195,28 +201,22 @@
    "published": "Thu, 13 Aug 2026 16:14:43 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Anthony Forlini’s extremist tendencies could harm future Michigan elections",
-   "link": "https://gandernewsroom.com/news/elections/anthony-forlinis-extremist-tendencies-could-harm-future-michigan-elections/",
-   "published": "Wed, 12 Aug 2026 20:37:03 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michiganders concerned about social security's future, as the program marks 91 years",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-14/michiganders-concerned-about-social-securitys-future-as-the-program-marks-91-years",
+   "published": "Fri, 14 Aug 2026 17:13:52 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "John U. Bacon: Tigers are still hot, Larkin's still here, and college football's still \"irrational\"",
+   "link": "https://www.michiganpublic.org/sports/2026-08-14/john-u-bacon-tigers-are-still-hot-larkins-still-here-and-college-footballs-still-irrational",
+   "published": "Fri, 14 Aug 2026 14:49:57 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Rep. John James chooses Rep. DeBoyer for Lt. Governor",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-14/rep-john-james-chooses-rep-deboyer-for-lt-governor",
    "published": "Fri, 14 Aug 2026 12:28:15 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Auchter's Art: Making the grade - disappear",
-   "link": "https://www.michiganpublic.org/opinion/2026-08-14/auchters-art-making-the-grade-disappear",
-   "published": "Fri, 14 Aug 2026 11:19:40 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Five noncitizens charged with voting in 2024 Michigan election",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-13/five-noncitizens-charged-with-voting-in-2024-michigan-election",
-   "published": "Fri, 14 Aug 2026 01:57:21 GMT"
   }
  ]
 }
