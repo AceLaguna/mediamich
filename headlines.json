@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T01:47:34+00:00",
+ "generated": "2026-08-15T06:55:42+00:00",
  "count": 36,
  "headlines": [
   {
@@ -142,7 +142,7 @@
   },
   {
    "outlet": "MLive",
-   "title": "Company beat Lockheed and Bell for $10 billion pilot-training contract through 2052",
+   "title": "Company beats Lockheed, Bell for $10 billion pilot-training contract through 2052",
    "link": "https://www.mlive.com/news/2026/08/company-beat-lockheed-and-bell-for-10-billion-pilot-training-contract-through-2052.html",
    "published": "Sat, 15 Aug 2026 01:12:37 +0000"
   },
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Appeals court denies Trump administration request to reconsider Michigan voter rolls case",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
+   "published": "Sat, 15 Aug 2026 02:19:28 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Swine flu case confirmed in Kent County Youth Fair participant",
    "link": "https://www.michiganpublic.org/health/2026-08-14/swine-flu-case-confirmed-in-kent-county-youth-fair-participant",
    "published": "Sat, 15 Aug 2026 00:48:30 GMT"
@@ -211,12 +217,6 @@
    "title": "TWTS: \"Hunky dory\" is doing just fine",
    "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-08-14/twts-hunky-dory-is-doing-just-fine",
    "published": "Fri, 14 Aug 2026 20:36:19 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michiganders concerned about social security's future, as the program marks 91 years",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-14/michiganders-concerned-about-social-securitys-future-as-the-program-marks-91-years",
-   "published": "Fri, 14 Aug 2026 17:13:52 GMT"
   }
  ]
 }
