@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T12:57:06+00:00",
+ "generated": "2026-08-15T18:45:53+00:00",
  "count": 36,
  "headlines": [
   {
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "‘Even the nuns are mad’: Catholic sisters are standing for Haitians outside ICE offices",
+   "link": "https://michiganadvance.com/2026/08/15/even-the-nuns-are-mad-catholic-sisters-are-standing-for-haitians-outside-ice-offices/",
+   "published": "Sat, 15 Aug 2026 13:00:22 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Michigan Bureau of Elections waives fees, admits error led to Doug Lloyd’s late AG campaign filing",
    "link": "https://michiganadvance.com/2026/08/14/michigan-bureau-of-elections-waives-fees-admits-error-led-to-doug-lloyds-late-ag-campaign-filing/",
    "published": "Fri, 14 Aug 2026 21:13:43 +0000"
@@ -123,28 +129,22 @@
    "published": "Fri, 14 Aug 2026 18:30:57 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Congressional approval not needed for White House ballroom, Trump tells high court",
-   "link": "https://michiganadvance.com/2026/08/14/repub/congressional-approval-not-needed-for-white-house-ballroom-trump-tells-high-court/",
-   "published": "Fri, 14 Aug 2026 17:27:33 +0000"
+   "outlet": "MLive",
+   "title": "Lions expect several injured players to return soon, including rookie defender",
+   "link": "https://www.mlive.com/lions/2026/08/lions-expect-several-injured-players-to-return-soon-including-rookie-defender.html",
+   "published": "Sat, 15 Aug 2026 18:36:16 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "This retired ICU nurse is now baking the most incredible European pastries in a small Michigan town",
-   "link": "https://www.mlive.com/news/flint/2026/08/this-retired-icu-nurse-is-now-baking-the-most-incredible-european-pastries-in-a-small-michigan-town.html",
-   "published": "Sat, 15 Aug 2026 12:49:43 +0000"
+   "title": "Burlesque, aerial circus acts at upcoming Michigan Theater arts event",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/08/burlesque-aerial-circus-acts-at-upcoming-michigan-theater-arts-event.html",
+   "published": "Sat, 15 Aug 2026 18:13:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "When does ‘Saturday Night Live’ start again?",
-   "link": "https://www.mlive.com/life/2026/08/when-does-saturday-night-live-start-again.html",
-   "published": "Sat, 15 Aug 2026 12:35:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Bucs’ Baker Mayfield eyes Browns matchup in Week 2: ‘Time to show them which home is better’",
-   "link": "https://www.mlive.com/sports/2026/08/bucs-baker-mayfield-eyes-browns-matchup-in-week-2-time-to-show-them-which-home-is-better.html",
-   "published": "Sat, 15 Aug 2026 12:31:00 +0000"
+   "title": "Rare Stutz Bearcat keeps Flint family tradition rolling",
+   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/rare-stutz-bearcat-keeps-flint-family-tradition-rolling.html",
+   "published": "Sat, 15 Aug 2026 18:02:19 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "DTE-funded group sues Ann Arbor after it approves November ballot question for city-owned utility",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/dte-funded-group-sues-ann-arbor-after-it-approves-november-ballot-question-for-city-owned-utility",
+   "published": "Sat, 15 Aug 2026 13:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Eli Savit, Michigan AG candidate, speaks on reducing gun violence in Detroit",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/eli-savit-michigan-ag-candidate-speaks-on-reducing-gun-violence-in-detroit",
+   "published": "Sat, 15 Aug 2026 13:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan coal power plant, set to close more than a year ago, is again ordered to keep running",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-15/michigan-coal-power-plant-set-to-close-more-than-a-year-ago-is-again-ordered-to-keep-running",
    "published": "Sat, 15 Aug 2026 02:54:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Appeals court denies Trump administration request to reconsider Michigan voter rolls case",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
-   "published": "Sat, 15 Aug 2026 02:19:28 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Swine flu case confirmed in Kent County Youth Fair participant",
-   "link": "https://www.michiganpublic.org/health/2026-08-14/swine-flu-case-confirmed-in-kent-county-youth-fair-participant",
-   "published": "Sat, 15 Aug 2026 00:48:30 GMT"
   }
  ]
 }
