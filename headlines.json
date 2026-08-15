@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T06:55:42+00:00",
+ "generated": "2026-08-15T12:57:06+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Michigan’s local election officials are confident in voting integrity ahead of November’s midterm election",
+   "link": "https://www.bridgedetroit.com/election-integrity-confidence-michigan-officials/",
+   "published": "Sat, 15 Aug 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Parent engagement and more resources to get kids to school: What to expect this school year in Detroit",
    "link": "https://www.bridgedetroit.com/what-to-expect-detroit-school-year/",
    "published": "Fri, 14 Aug 2026 23:01:08 +0000"
@@ -67,12 +73,6 @@
    "title": "Unemployed workers must show 2 more work searches or risk losing benefits",
    "link": "https://www.bridgedetroit.com/unemployment-rules-change-michigan/",
    "published": "Fri, 14 Aug 2026 20:39:47 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Former Detroit Mayor Mike Duggan has a new job",
-   "link": "https://www.bridgedetroit.com/former-detroit-mayor-mike-duggan-has-a-new-job/",
-   "published": "Fri, 14 Aug 2026 17:42:48 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -130,21 +130,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Ford unveils 795-hp Mustang convertible with Josh and Jase at Dream Cruise",
-   "link": "https://www.mlive.com/detroit/2026/08/ford-unveils-795-hp-mustang-convertible-with-josh-and-jase-at-dream-cruise.html",
-   "published": "Sat, 15 Aug 2026 01:32:28 +0000"
+   "title": "This retired ICU nurse is now baking the most incredible European pastries in a small Michigan town",
+   "link": "https://www.mlive.com/news/flint/2026/08/this-retired-icu-nurse-is-now-baking-the-most-incredible-european-pastries-in-a-small-michigan-town.html",
+   "published": "Sat, 15 Aug 2026 12:49:43 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Jackson Jobe rocked in home return as Tigers fall to White Sox",
-   "link": "https://www.mlive.com/tigers/2026/08/jackson-jobe-rocked-in-home-return-as-tigers-fall-to-white-sox.html",
-   "published": "Sat, 15 Aug 2026 01:20:56 +0000"
+   "title": "When does ‘Saturday Night Live’ start again?",
+   "link": "https://www.mlive.com/life/2026/08/when-does-saturday-night-live-start-again.html",
+   "published": "Sat, 15 Aug 2026 12:35:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Company beats Lockheed, Bell for $10 billion pilot-training contract through 2052",
-   "link": "https://www.mlive.com/news/2026/08/company-beat-lockheed-and-bell-for-10-billion-pilot-training-contract-through-2052.html",
-   "published": "Sat, 15 Aug 2026 01:12:37 +0000"
+   "title": "Bucs’ Baker Mayfield eyes Browns matchup in Week 2: ‘Time to show them which home is better’",
+   "link": "https://www.mlive.com/sports/2026/08/bucs-baker-mayfield-eyes-browns-matchup-in-week-2-time-to-show-them-which-home-is-better.html",
+   "published": "Sat, 15 Aug 2026 12:31:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan coal power plant, set to close more than a year ago, is again ordered to keep running",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/michigan-coal-power-plant-set-to-close-more-than-a-year-ago-is-again-ordered-to-keep-running",
+   "published": "Sat, 15 Aug 2026 02:54:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Appeals court denies Trump administration request to reconsider Michigan voter rolls case",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
    "published": "Sat, 15 Aug 2026 02:19:28 GMT"
@@ -211,12 +217,6 @@
    "title": "Swine flu case confirmed in Kent County Youth Fair participant",
    "link": "https://www.michiganpublic.org/health/2026-08-14/swine-flu-case-confirmed-in-kent-county-youth-fair-participant",
    "published": "Sat, 15 Aug 2026 00:48:30 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "TWTS: \"Hunky dory\" is doing just fine",
-   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-08-14/twts-hunky-dory-is-doing-just-fine",
-   "published": "Fri, 14 Aug 2026 20:36:19 GMT"
   }
  ]
 }
