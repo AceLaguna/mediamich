@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T18:45:00+00:00",
+ "generated": "2026-08-17T01:53:48+00:00",
  "count": 36,
  "headlines": [
   {
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "DNC approves 2028 presidential nominating cycle starting in South Carolina, Nevada",
+   "link": "https://michiganadvance.com/2026/08/16/repub/dnc-approves-2028-presidential-nominating-cycle-starting-in-south-carolina-nevada/",
+   "published": "Sun, 16 Aug 2026 20:25:05 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "How state constitutions became a left and right battleground for American rights and liberties",
    "link": "https://michiganadvance.com/2026/08/16/how-state-constitutions-became-a-left-and-right-battleground-for-american-rights-and-liberties/",
    "published": "Sun, 16 Aug 2026 13:00:19 +0000"
@@ -123,28 +129,22 @@
    "published": "Sat, 15 Aug 2026 13:00:22 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Michigan Bureau of Elections waives fees, admits error led to Doug Lloyd’s late AG campaign filing",
-   "link": "https://michiganadvance.com/2026/08/14/michigan-bureau-of-elections-waives-fees-admits-error-led-to-doug-lloyds-late-ag-campaign-filing/",
-   "published": "Fri, 14 Aug 2026 21:13:43 +0000"
+   "outlet": "MLive",
+   "title": "Experts warn climate shifts may increase future foodborne illness risks",
+   "link": "https://www.mlive.com/news/2026/08/the-hidden-factor-experts-say-could-be-affecting-your-food.html",
+   "published": "Mon, 17 Aug 2026 00:10:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Observations: Search for center replacement leads Lions back to second-year guard",
-   "link": "https://www.mlive.com/lions/2026/08/observations-search-for-center-replacement-leads-lions-back-to-second-year-guard.html",
-   "published": "Sun, 16 Aug 2026 18:40:11 +0000"
+   "title": "Top-ranked recruit wins USTA Nationals, earns U.S. Open berth after final ends early",
+   "link": "https://www.mlive.com/sports/kalamazoo/2026/08/top-ranked-recruit-wins-usta-nationals-earns-us-open-berth-after-final-ends-early.html",
+   "published": "Sun, 16 Aug 2026 23:48:58 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Lions see increased potential in emerging defensive lineman",
-   "link": "https://www.mlive.com/lions/2026/08/lions-see-increased-potential-in-emerging-defensive-lineman.html",
-   "published": "Sun, 16 Aug 2026 18:34:40 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Lions make four roster moves following injury-filled preseason opener",
-   "link": "https://www.mlive.com/lions/2026/08/lions-make-four-roster-moves-following-injury-filled-preseason-opener.html",
-   "published": "Sun, 16 Aug 2026 17:37:39 +0000"
+   "title": "Christopher Lambert, 68, receives sweet message from co-star following his hospitalization",
+   "link": "https://www.mlive.com/life/2026/08/christopher-lambert-68-receives-sweet-message-from-co-star-following-his-hospitalization.html",
+   "published": "Sun, 16 Aug 2026 23:30:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -208,14 +208,14 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Eli Savit, Michigan AG candidate, speaks on reducing gun violence in Detroit",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/eli-savit-michigan-ag-candidate-speaks-on-reducing-gun-violence-in-detroit",
+   "title": "DTE-funded group sues Ann Arbor after it approves November ballot question for city-owned utility",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/dte-funded-group-sues-ann-arbor-after-it-approves-november-ballot-question-for-city-owned-utility",
    "published": "Sat, 15 Aug 2026 13:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "DTE-funded group sues Ann Arbor after it approves November ballot question for city-owned utility",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/dte-funded-group-sues-ann-arbor-after-it-approves-november-ballot-question-for-city-owned-utility",
+   "title": "Eli Savit, Michigan AG candidate, speaks on reducing gun violence in Detroit",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-15/eli-savit-michigan-ag-candidate-speaks-on-reducing-gun-violence-in-detroit",
    "published": "Sat, 15 Aug 2026 13:00:00 GMT"
   }
  ]
