@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T07:02:08+00:00",
+ "generated": "2026-08-18T13:05:40+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Renaissance Center redevelopment plan is making its official debut",
+   "link": "https://www.bridgedetroit.com/renaissance-center-redevelopment-plan-is-making-its-official-debut/",
+   "published": "Tue, 18 Aug 2026 12:10:26 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "13 Detroit voters disenfranchised in primary because their absentee ballots were mishandled",
    "link": "https://www.bridgedetroit.com/13-detroit-voters-disenfranchised-in-primary-because-their-absentee-ballots-were-mishandled/",
    "published": "Mon, 17 Aug 2026 20:53:56 +0000"
@@ -67,12 +73,6 @@
    "title": "Free bus rides for Detroit students to continue in new school year",
    "link": "https://www.bridgedetroit.com/free-bus-rides-for-detroit-students-to-continue-in-new-school-year/",
    "published": "Mon, 17 Aug 2026 20:01:06 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan college students struggle with housing, food. Program aims to help",
-   "link": "https://www.bridgedetroit.com/michigan-college-students-struggle-with-housing-food-program-aims-to-help/",
-   "published": "Mon, 17 Aug 2026 18:23:36 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Dozens of cities and counties sue fire truck makers over soaring costs, delivery delays",
+   "link": "https://michiganadvance.com/2026/08/18/repub/dozens-of-cities-and-counties-sue-fire-truck-makers-over-soaring-costs-delivery-delays/",
+   "published": "Tue, 18 Aug 2026 09:36:48 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Documents show undercover DHS presence at Ann Arbor ICE resistance event in April",
+   "link": "https://michiganadvance.com/2026/08/18/documents-show-undercover-dhs-presence-at-ann-arbor-ice-resistance-event-in-april/",
+   "published": "Tue, 18 Aug 2026 08:00:19 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Nessel vows another challenge as DOE issues 6th order keeping Campbell plant open",
    "link": "https://michiganadvance.com/2026/08/17/nessel-vows-another-challenge-as-doe-issues-6th-order-keeping-campbell-plant-open/",
    "published": "Mon, 17 Aug 2026 22:52:00 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Refugee admissions on track to hit record low",
-   "link": "https://michiganadvance.com/2026/08/17/repub/refugee-admissions-on-track-to-hit-record-low/",
-   "published": "Mon, 17 Aug 2026 22:30:45 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Mice may drive Lyme disease more than deer",
-   "link": "https://michiganadvance.com/2026/08/17/repub/mice-may-drive-lyme-disease-more-than-deer/",
-   "published": "Mon, 17 Aug 2026 20:15:49 +0000"
+   "outlet": "MLive",
+   "title": "Trump’s former press secretary rips him for berating reporter: ‘An 80-year-old man child’",
+   "link": "https://www.mlive.com/politics/2026/08/trumps-former-press-secretary-rips-him-for-berating-reporter-an-80-year-old-man-child.html",
+   "published": "Tue, 18 Aug 2026 13:00:04 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Tigers shake off sweep, beat Pirates to open road trip",
-   "link": "https://www.mlive.com/tigers/2026/08/tigers-shake-off-sweep-beat-pirates-to-open-road-trip.html",
-   "published": "Tue, 18 Aug 2026 02:45:36 +0000"
+   "title": "Dallas Latino business owners adapt and thrive during World Cup crowds",
+   "link": "https://www.mlive.com/palabra/2026/08/dallas-latino-business-owners-adapt-and-thrive-during-world-cup-crowds.html",
+   "published": "Tue, 18 Aug 2026 13:00:01 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Observations: Third-year Lions CB pops with big plays and hits in scrimmage",
-   "link": "https://www.mlive.com/lions/2026/08/observations-third-year-lions-cb-pops-with-big-plays-and-hits-in-scrimmage.html",
-   "published": "Tue, 18 Aug 2026 02:44:05 +0000"
+   "title": "National Code Talker Day brings 101-year-old veteran to Phoenix",
+   "link": "https://www.mlive.com/native-american-news/2026/08/national-code-talker-day-brings-101-year-old-veteran-to-phoenix.html",
+   "published": "Tue, 18 Aug 2026 13:00:00 +0000"
   },
   {
-   "outlet": "MLive",
-   "title": "Saginaw ‘public nuisance’ ordinance vote delayed until November",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-public-nuisance-ordinance-vote-delayed-until-november.html",
-   "published": "Tue, 18 Aug 2026 02:25:19 +0000"
+   "outlet": "Outlier Media",
+   "title": "Detroit’s home repair program is helping over 100 households already. Applications are set to open next month for more",
+   "link": "https://outliermedia.org/home-repair-help-detroit-application-open-september/",
+   "published": "Tue, 18 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -157,12 +163,6 @@
    "title": "Backpack giveaways in Detroit: Your guide to free school supplies and family events",
    "link": "https://outliermedia.org/detroit-backpack-giveaway-back-to-school-august/",
    "published": "Thu, 06 Aug 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Abdul El-Sayed wins Michigan Senate primary",
-   "link": "https://outliermedia.org/abdul-el-sayed-michigan-senate-democratic-primary-race/",
-   "published": "Wed, 05 Aug 2026 16:33:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Dearborn leaders say city remains safe for all faiths ahead of visit by anti-Muslim provocateur",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-18/dearborn-leaders-say-city-remains-safe-for-all-faiths-ahead-of-visit-by-anti-muslim-provocateur",
+   "published": "Tue, 18 Aug 2026 11:00:16 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "\"Michiganders for Money out of Politics\" ballot question language finalized",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-17/michiganders-for-money-out-of-politics-ballot-question-language-finalized",
    "published": "Tue, 18 Aug 2026 02:51:00 GMT"
@@ -211,12 +217,6 @@
    "title": "Michigan advocates speak out against “devastating” federal healthcare funding cuts",
    "link": "https://www.michiganpublic.org/health/2026-08-17/michigan-advocates-speak-out-against-devastating-federal-healthcare-funding-cuts",
    "published": "Mon, 17 Aug 2026 21:59:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Monday, Aug. 17, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-08-17/stateside-monday-august",
-   "published": "Mon, 17 Aug 2026 19:58:00 GMT"
   }
  ]
 }
