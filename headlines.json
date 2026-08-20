@@ -1,7 +1,13 @@
 {
- "generated": "2026-08-19T18:51:28+00:00",
+ "generated": "2026-08-20T01:49:42+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "U.S. House Speaker Mike Johnson bolsters Barrett’s campaign in downtown Lansing skyscraper visit",
+   "link": "https://lansingcitypulse.com/u-s-house-speaker-mike-johnson-bolsters-barretts-campaign-in-downtown-lansing-skyscraper-visit/",
+   "published": "Wed, 19 Aug 2026 20:48:31 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Notice of Adoption of a Zoning Ordinance Amendment, Williamstown Township Board Of Trustees",
@@ -15,10 +21,10 @@
    "published": "Wed, 19 Aug 2026 16:56:14 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Notice of Public Hearings East Lansing Historic District Commission, Sept. 10, 2026",
-   "link": "https://lansingcitypulse.com/notice-of-public-hearings-east-lansing-historic-district-commission-sept-10-2026/",
-   "published": "Wed, 19 Aug 2026 16:36:19 +0000"
+   "outlet": "Metro Times",
+   "title": "AudioJack Music Fest brings Detroit’s underground under one roof",
+   "link": "https://www.metrotimes.com/music-2/audiojack-music-fest-brings-detroits-underground-under-one-roof/",
+   "published": "Wed, 19 Aug 2026 20:37:20 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,10 +39,16 @@
    "published": "Wed, 19 Aug 2026 16:55:41 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Supergeil’s fifth Oktoberfest brings beer, polka, and Bavarian games to Corktown",
-   "link": "https://www.metrotimes.com/food-drink/supergeils-fifth-oktoberfest-brings-beer-polka-and-bavarian-games-to-corktown/",
-   "published": "Tue, 18 Aug 2026 17:01:09 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Jocelyn Benson picks Winnie Brinks as running mate in Michigan governor race",
+   "link": "https://bridgemi.com/michigan-government/jocelyn-benson-picks-winnie-brinks-as-running-mate-in-michigan-governor-race/",
+   "published": "Wed, 19 Aug 2026 20:05:23 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Fact check: Would ‘money out of politics’ proposal stifle free speech?",
+   "link": "https://bridgemi.com/michigan-government/fact-check-would-money-out-of-politics-proposal-stifle-free-speech/",
+   "published": "Wed, 19 Aug 2026 20:04:05 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -45,16 +57,10 @@
    "published": "Wed, 19 Aug 2026 18:36:31 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan libraries expand beyond books — and walls — by going outdoors",
-   "link": "https://bridgemi.com/michigan-government/michigan-libraries-expand-beyond-books-and-walls-by-going-outdoors/",
-   "published": "Tue, 18 Aug 2026 20:39:05 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: What happened to Detroit dogs and cats under Abdul El-Sayed?",
-   "link": "https://bridgemi.com/michigan-government/fact-check-what-happened-to-detroit-dogs-and-cats-under-abdul-el-sayed/",
-   "published": "Tue, 18 Aug 2026 19:43:42 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Jocelyn Benson picks Winnie Brinks as running mate in Michigan governor race",
+   "link": "https://www.bridgedetroit.com/jocelyn-benson-picks-winnie-brinks-as-running-mate-in-michigan-governor-race/",
+   "published": "Wed, 19 Aug 2026 20:22:19 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -69,10 +75,10 @@
    "published": "Tue, 18 Aug 2026 23:06:12 +0000"
   },
   {
-   "outlet": "BridgeDetroit",
-   "title": "Renaissance Center redevelopment plan is making its official debut",
-   "link": "https://www.bridgedetroit.com/renaissance-center-redevelopment-plan-is-making-its-official-debut/",
-   "published": "Tue, 18 Aug 2026 12:10:26 +0000"
+   "outlet": "Daily Detroit",
+   "title": "Detroit's Giant RenCen is only 5% occupied. So what's next?",
+   "link": "https://www.dailydetroit.com/detroits-giant-rencen-is-only-5-occupied-so-whats-next/",
+   "published": "Wed, 19 Aug 2026 19:53:25 GMT"
   },
   {
    "outlet": "Daily Detroit",
@@ -85,12 +91,6 @@
    "title": "Fair Lane Previews Garage Renovation, Unc's Pizza Opens, New Life for Old GM HQ?",
    "link": "https://www.dailydetroit.com/fair-lane-previews-garage-renovation-uncs-pizza-opens-new-life-for-old-gm-hq/",
    "published": "Tue, 18 Aug 2026 21:38:24 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "The Big Data Center Fight Continues, Newsman Retires, & Listener Pushback",
-   "link": "https://www.dailydetroit.com/the-big-data-center-fight-continues-newsman-retires-listener-pushback/",
-   "published": "Fri, 14 Aug 2026 21:14:00 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Benson chooses Brinks as running mate, citing leadership and legislative wins",
+   "link": "https://michiganadvance.com/2026/08/19/benson-chooses-brinks-as-running-mate-citing-leadership-and-legislative-wins/",
+   "published": "Wed, 19 Aug 2026 21:02:50 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "As Michigan regulators unveil recommendations for lowering energy costs, advocates urge action",
    "link": "https://michiganadvance.com/2026/08/19/as-michigan-regulators-unveil-recommendations-for-lowering-energy-costs-advocates-urge-action/",
    "published": "Wed, 19 Aug 2026 18:00:34 +0000"
@@ -123,28 +129,22 @@
    "published": "Wed, 19 Aug 2026 11:30:10 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Christian nationalist protest led by Jan. 6 rioter stokes tensions in Dearborn",
-   "link": "https://michiganadvance.com/2026/08/19/christian-nationalist-protest-led-by-jan-6-rioter-stokes-tensions-in-dearborn/",
-   "published": "Wed, 19 Aug 2026 09:00:37 +0000"
+   "outlet": "MLive",
+   "title": "This viral tool gives you salon-quality blowouts in 10 minutes and it’s $20 off at Walmart right now",
+   "link": "https://www.mlive.com/shopping/2026/08/this-viral-tool-gives-you-salon-quality-blowouts-in-10-minutes-and-its-20-off-at-walmart-right-now.html",
+   "published": "Thu, 20 Aug 2026 01:32:56 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "West Michigan bakery employing workers with disabilities to close after 10-plus years",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/08/west-michigan-bakery-employing-workers-with-disabilities-to-close-after-10-plus-years.html",
-   "published": "Wed, 19 Aug 2026 18:44:23 +0000"
+   "title": "Coach Outlet’s most sustainable bag ever is 50% off and it gets more unique the longer you carry it",
+   "link": "https://www.mlive.com/shopping/2026/08/coach-outlets-most-sustainable-bag-ever-is-50-off-and-it-gets-more-unique-the-longer-you-carry-it.html",
+   "published": "Thu, 20 Aug 2026 01:27:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Holland’s new kid-friendly bike park just opened, with more riverfront development planned for 2027",
-   "link": "https://www.mlive.com/life/2026/08/hollands-new-kid-friendly-bike-park-just-opened-with-more-riverfront-development-planned-for-2027.html",
-   "published": "Wed, 19 Aug 2026 18:41:14 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "You may be surprised which estaurant brand ranks No. 1 in ‘emerging dining chains’",
-   "link": "https://www.mlive.com/life/2026/08/you-may-be-surprised-which-casual-restaurant-brand-ranked-no-1-in-emerging-dining-chains.html",
-   "published": "Wed, 19 Aug 2026 18:40:41 +0000"
+   "title": "Nike just announced two stunning new boots perfect for fall, and they drop tomorrow morning",
+   "link": "https://www.mlive.com/shopping/2026/08/nike-just-announced-two-stunning-new-boots-perfect-for-fall-and-they-drop-tomorrow-morning.html",
+   "published": "Thu, 20 Aug 2026 01:17:58 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Trump admin cuts funds for gender-affirming care for young people. Here’s how to fight back.",
+   "link": "https://gandernewsroom.com/local/things-to-do/trump-gender-affirming-care-take-action/",
+   "published": "Wed, 19 Aug 2026 18:53:24 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "9 of the best early-fall activities in Michigan",
    "link": "https://gandernewsroom.com/local/things-to-do/activities-in-michigan/",
    "published": "Wed, 19 Aug 2026 18:20:16 +0000"
@@ -195,28 +201,22 @@
    "published": "Wed, 19 Aug 2026 16:28:34 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Michigan’s weed has a quality problem. This grower might be part of the cure",
-   "link": "https://gandernewsroom.com/news/cannabis/michigan-weed-favrd/",
-   "published": "Mon, 17 Aug 2026 18:48:10 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Jocelyn Benson picks MI Senate Majority Leader Winnie Brinks for lieutenant governor",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-19/jocelyn-benson-picks-mi-senate-majority-leader-winnie-brinks-for-lieutenant-governor",
+   "published": "Wed, 19 Aug 2026 23:07:34 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Wednesday, Aug. 19, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-08-19/stateside-wednesday-aug-19-2026",
+   "published": "Wed, 19 Aug 2026 20:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Inside Lansing, from someone who’s seen it all",
    "link": "https://www.michiganpublic.org/podcast/its-just-politics/2026-08-19/inside-lansing-from-someone-whos-seen-it-all",
    "published": "Wed, 19 Aug 2026 17:23:54 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Communities across Michigan move to ditch Flock cameras",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-19/communities-across-michigan-move-to-ditch-flock-cameras",
-   "published": "Wed, 19 Aug 2026 17:16:41 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "“Against the Grain” gallery exhibit features unconventional styles, mediums",
-   "link": "https://www.michiganpublic.org/arts-life/2026-08-19/against-the-grain-gallery-exhibit-features-unconventional-styles-mediums",
-   "published": "Wed, 19 Aug 2026 16:35:47 GMT"
   }
  ]
 }
