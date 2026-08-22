@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T06:57:28+00:00",
+ "generated": "2026-08-22T12:58:34+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Mike Rogers vs. Abdul El-Sayed: 7 issues defining Michigan’s US Senate race",
+   "link": "https://www.bridgedetroit.com/mike-rogers-vs-abdul-el-sayed-7-issues-defining-michigans-us-senate-race/",
+   "published": "Sat, 22 Aug 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Back to school in Michigan: 5 things parents need to know",
    "link": "https://www.bridgedetroit.com/back-to-school-in-michigan-5-things-parents-need-to-know/",
    "published": "Fri, 21 Aug 2026 18:12:10 +0000"
@@ -66,12 +72,6 @@
    "outlet": "BridgeDetroit",
    "title": "Are you behind on your property taxes? A Wayne County relief program is back.",
    "link": "https://www.bridgedetroit.com/are-you-behind-on-your-property-taxes-a-wayne-county-relief-program-is-back/",
-   "published": "Fri, 21 Aug 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit was once home to 18 Black‑led hospitals. Learn about their rise and fall.",
-   "link": "https://www.bridgedetroit.com/detroit-was-once-home-to-18-black-led-hospitals-learn-about-their-rise-and-fall/",
    "published": "Fri, 21 Aug 2026 10:00:00 +0000"
   },
   {
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Higher grades and belonging: Trans students thrive when their teachers support them",
+   "link": "https://michiganadvance.com/2026/08/22/higher-grades-and-belonging-trans-students-thrive-when-their-teachers-support-them/",
+   "published": "Sat, 22 Aug 2026 12:00:47 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "US Supreme Court allows $400M Trump ballroom project to proceed",
    "link": "https://michiganadvance.com/2026/08/21/repub/us-supreme-court-allows-400m-trump-ballroom-project-to-proceed/",
    "published": "Fri, 21 Aug 2026 20:31:28 +0000"
@@ -123,28 +129,22 @@
    "published": "Fri, 21 Aug 2026 16:12:03 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Your Weekly Michigan Political Brief",
-   "link": "https://michiganadvance.com/2026/08/21/your-weekly-michigan-political-brief-45/",
-   "published": "Fri, 21 Aug 2026 16:00:28 +0000"
+   "outlet": "MLive",
+   "title": "Royal Oak restaurant’s Vernors ice cream tastes just like a classic Boston Cooler",
+   "link": "https://www.mlive.com/business/2026/08/royal-oak-restaurants-vernors-ice-cream-tastes-just-like-a-classic-boston-cooler.html",
+   "published": "Sat, 22 Aug 2026 12:47:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Tigers keep coming up short as Royals hand them sixth loss in seven games",
-   "link": "https://www.mlive.com/tigers/2026/08/tigers-keep-coming-up-short-as-royals-hand-them-sixth-loss-in-seven-games.html",
-   "published": "Sat, 22 Aug 2026 02:57:25 +0000"
+   "title": "The 5 most anticipated TV releases for September 2026",
+   "link": "https://www.mlive.com/life/2026/08/the-5-most-anticipated-tv-releases-for-september-2026.html",
+   "published": "Sat, 22 Aug 2026 12:35:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former USC track champion wins Michigan Mile for first time since 2019",
-   "link": "https://www.mlive.com/news/flint/2026/08/former-usc-track-champion-wins-michigan-mile-for-first-time-since-2019.html",
-   "published": "Sat, 22 Aug 2026 01:42:59 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "‘They live for it’: Lois Craig Invitational kicks off 2026 HAP Crim Festival of Races",
-   "link": "https://www.mlive.com/news/flint/2026/08/they-live-for-it-lois-craig-invitational-kicks-off-2026-hap-crim-festival-of-races.html",
-   "published": "Sat, 22 Aug 2026 01:05:41 +0000"
+   "title": "Flint council approves over $7M for Berston Field House expansion",
+   "link": "https://www.mlive.com/news/flint/2026/08/flint-council-approves-over-7m-for-berston-field-house-expansion.html",
+   "published": "Sat, 22 Aug 2026 12:34:31 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Federal judge dismisses Trump admin lawsuit against Washtenaw County \"sanctuary\" policies",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-22/federal-judge-dismisses-trump-admin-lawsuit-against-washtenaw-county-sanctuary-policies",
+   "published": "Sat, 22 Aug 2026 09:12:29 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan's revenue estimates up according to House, Senate Fiscal agencies",
+   "link": "https://www.michiganpublic.org/economy/2026-08-22/michigans-revenue-estimates-up-according-to-house-senate-fiscal-agencies",
+   "published": "Fri, 21 Aug 2026 23:38:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "TWTS: The cards language deals",
    "link": "https://www.michiganpublic.org/show/thats-what-they-say-1/2026-08-21/twts-the-cards-language-deals",
    "published": "Fri, 21 Aug 2026 23:16:12 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Inside Ayasofya, Kalamazoo's only Turkish restaurant",
-   "link": "https://www.michiganpublic.org/podcast/the-dish/2026-08-21/inside-ayasofya-kalamazoos-only-turkish-restaurant",
-   "published": "Fri, 21 Aug 2026 20:19:21 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Friday, August 21, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-08-21/stateside-friday-august-21-2026",
-   "published": "Fri, 21 Aug 2026 20:05:53 GMT"
   }
  ]
 }
