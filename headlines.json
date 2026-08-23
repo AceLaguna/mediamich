@@ -1,7 +1,13 @@
 {
- "generated": "2026-08-23T13:00:04+00:00",
+ "generated": "2026-08-23T18:46:22+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Top 5 Reubens",
+   "link": "https://lansingcitypulse.com/top-5-reubens/",
+   "published": "Sun, 23 Aug 2026 15:13:07 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Dog days of summer book roundup",
@@ -13,12 +19,6 @@
    "title": "State of Michigan Probate Court, Ingham County, Notice to Creditors, Estate of Robert Marteze Davis",
    "link": "https://lansingcitypulse.com/state-of-michigan-probate-court-ingham-county-notice-to-creditors-estate-of-robert-marteze-davis/",
    "published": "Fri, 21 Aug 2026 12:56:44 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "State of Michigan Probate Court, Ingham County, Notice to Creditors, Estate of Barbara J. Stephon",
-   "link": "https://lansingcitypulse.com/state-of-michigan-probate-court-ingham-county-notice-to-creditors-estate-of-barbara-j-stephon/",
-   "published": "Fri, 21 Aug 2026 12:53:05 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Tuskegee wreckage found in the Great Lakes provides a unique opportunity to uncover untold stories",
+   "link": "https://greatlakesecho.org/2026/08/23/tuskegee-wreckage-found-in-the-great-lakes-provides-a-unique-opportunity-to-uncover-untold-stories/",
+   "published": "Sun, 23 Aug 2026 18:30:54 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Study finds one of Michigan’s healthiest forests in Grand Rapids",
    "link": "https://greatlakesecho.org/2026/07/20/study-finds-one-of-michigans-healthiest-forests-in-grand-rapids/",
    "published": "Mon, 20 Jul 2026 12:53:00 +0000"
@@ -105,10 +111,16 @@
    "published": "Sat, 18 Jul 2026 11:11:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "One-time funding won’t fix financial strain for Michigan’s Fisheries Division",
-   "link": "https://greatlakesecho.org/2026/07/17/one-time-funding-wont-fix-financial-strain-for-michigans-fisheries-division/",
-   "published": "Fri, 17 Jul 2026 12:05:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "More heat extreme days are coming. Will states be ready?",
+   "link": "https://michiganadvance.com/2026/08/23/repub/more-heat-extreme-days-are-coming-will-states-be-ready/",
+   "published": "Sun, 23 Aug 2026 18:00:29 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Michigan tribes say ‘flawed’ federal review of Line 5 project violates treaty rights",
+   "link": "https://michiganadvance.com/2026/08/23/michigan-tribes-say-flawed-federal-review-of-line-5-project-violates-treaty-rights/",
+   "published": "Sun, 23 Aug 2026 15:41:23 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -117,34 +129,22 @@
    "published": "Sun, 23 Aug 2026 12:00:21 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "DeBoyer officially wins LG nomination as Michigan Republicans focus on leadership change in Lansing",
-   "link": "https://michiganadvance.com/2026/08/22/deboyer-officially-wins-lg-nomination-as-michigan-republicans-focus-on-leadership-change-in-lansing/",
-   "published": "Sat, 22 Aug 2026 19:40:47 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Despite record low in veteran homelessness, half the states saw increases",
-   "link": "https://michiganadvance.com/2026/08/22/repub/despite-record-low-in-veteran-homelessness-half-the-states-saw-increases/",
-   "published": "Sat, 22 Aug 2026 18:00:48 +0000"
+   "outlet": "MLive",
+   "title": "Former college football player and coach Paul Darragh dies following battle with cancer",
+   "link": "https://www.mlive.com/sports/2026/08/former-college-football-head-coach-dies-following-battle-with-cancer.html",
+   "published": "Sun, 23 Aug 2026 18:32:20 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Chance to make an impact with first-year coach is powerful driver for Pinconning",
-   "link": "https://www.mlive.com/highschoolsports/2026/08/chance-to-make-an-impact-with-first-year-coach-is-powerful-driver-for-pinconning.html",
-   "published": "Sun, 23 Aug 2026 12:47:34 +0000"
+   "title": "22 dead after landslide at landfill in the capital of Guinea",
+   "link": "https://www.mlive.com/news/2026/08/22-dead-after-landslide-at-landfill-in-the-capital-of-guinea.html",
+   "published": "Sun, 23 Aug 2026 17:14:17 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Detroit Lions stock report: Risers, fallers after win vs. Commanders",
-   "link": "https://www.mlive.com/lions/2026/08/detroit-lions-stock-report-risers-fallers-after-win-vs-commanders.html",
-   "published": "Sun, 23 Aug 2026 12:41:52 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "‘We’re not as geeky as you think’: Inside band camps across Southwest Michigan",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/08/were-not-as-geeky-as-you-think-inside-band-camps-across-southwest-michigan.html",
-   "published": "Sun, 23 Aug 2026 12:20:00 +0000"
+   "title": "Fast payout casino: 5 names worth joining for summer’s end",
+   "link": "https://www.mlive.com/online-casinos/2026/08/fast-payout-casino-5-names-worth-joining-for-summers-end.html",
+   "published": "Sun, 23 Aug 2026 17:01:00 +0000"
   },
   {
    "outlet": "Outlier Media",
