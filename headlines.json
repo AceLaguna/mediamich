@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T13:09:29+00:00",
+ "generated": "2026-08-25T18:55:26+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,21 +22,21 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Michigan Renaissance Festival returns for seven weekends of medieval mayhem",
+   "link": "https://www.metrotimes.com/arts/michigan-renaissance-festival-returns-for-seven-weekends-of-medieval-mayhem/",
+   "published": "Tue, 25 Aug 2026 17:53:10 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "Bill Huizenga took campaign donations after a company struck a deal with his businesses",
+   "link": "https://www.metrotimes.com/news/bill-huizenga-took-campaign-donations-after-a-company-struck-a-deal-with-his-businesses/",
+   "published": "Tue, 25 Aug 2026 14:46:07 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Hamtramck’s Nicolas Uncaged fest is back and somehow even weirder",
    "link": "https://www.metrotimes.com/arts/movies/hamtramcks-nicolas-uncaged-fest-is-back-and-somehow-even-weirder/",
    "published": "Mon, 24 Aug 2026 20:54:45 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "John James’ wealth soared in Congress as he traded stocks in industries he helped oversee",
-   "link": "https://www.metrotimes.com/news/john-james-wealth-soared-in-congress-as-he-traded-stocks-in-industries-he-helped-oversee/",
-   "published": "Mon, 24 Aug 2026 17:12:59 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Mike Rogers weakened housing rules while his family was in the building business",
-   "link": "https://www.metrotimes.com/news/mike-rogers-weakened-housing-rules-while-his-family-was-in-the-building-business/",
-   "published": "Mon, 24 Aug 2026 15:01:21 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Daily Detroit",
+   "title": "Detroit Sandwich Party Returns Bigger Than Ever for 2026 (with Carlos Parisi)",
+   "link": "https://www.dailydetroit.com/detroit-sandwich-party-returns-bigger-than-ever-for-2026-with-carlos-parisi/",
+   "published": "Tue, 25 Aug 2026 17:11:23 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
    "title": "Why Michigan Has the Most to Lose in a U.S. - Canada Trade War",
    "link": "https://www.dailydetroit.com/why-michigan-has-the-most-to-lose-in-a-u-s-canada-trade-war/",
    "published": "Mon, 24 Aug 2026 20:17:18 GMT"
@@ -87,10 +93,10 @@
    "published": "Mon, 24 Aug 2026 17:23:11 GMT"
   },
   {
-   "outlet": "Daily Detroit",
-   "title": "Summer fun is not done! What to do in Metro Detroit this weekend",
-   "link": "https://www.dailydetroit.com/summer-fun-is-not-done-what-to-do-in-metro-detroit-this-weekend/",
-   "published": "Fri, 21 Aug 2026 01:32:58 GMT"
+   "outlet": "Great Lakes Echo",
+   "title": "Kestrels help farmers protect crops and improve food safety, study finds",
+   "link": "https://greatlakesecho.org/2026/08/25/kestrels-help-farmers-protect-crops-and-improve-food-safety-study-finds/",
+   "published": "Tue, 25 Aug 2026 16:51:34 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -105,10 +111,16 @@
    "published": "Mon, 20 Jul 2026 12:53:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "It’s time for ‘corn sweat’ as mid-summer hits",
-   "link": "https://greatlakesecho.org/2026/07/18/its-time-for-corn-sweat-as-mid-summer-hits/",
-   "published": "Sat, 18 Jul 2026 11:11:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Federal appeals court upholds Hamtramck’s ban on Pride flags on city property",
+   "link": "https://michiganadvance.com/briefs/federal-appeals-court-upholds-hamtramcks-ban-on-pride-flags-on-city-property/",
+   "published": "Tue, 25 Aug 2026 15:40:18 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "How Trump’s decision to “re-examine” Afghans impacted one metro Detroit asylum seeker",
+   "link": "https://michiganadvance.com/2026/08/25/how-trumps-decision-to-re-examine-afghans-impacted-one-metro-detroit-asylum-seeker/",
+   "published": "Tue, 25 Aug 2026 13:15:16 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -117,34 +129,22 @@
    "published": "Tue, 25 Aug 2026 11:00:33 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Former Michigan House speaker slated for Sept. 21 trial amid accusations of misusing political funds",
-   "link": "https://michiganadvance.com/briefs/former-michigan-house-speaker-slated-for-sept-21-trial-amid-accusations-of-misusing-political-funds/",
-   "published": "Tue, 25 Aug 2026 10:00:25 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Cheaper health insurance changed their lives. Then it went away.",
-   "link": "https://michiganadvance.com/2026/08/25/repub/cheaper-health-insurance-changed-their-lives-then-it-went-away/",
-   "published": "Tue, 25 Aug 2026 09:57:03 +0000"
+   "outlet": "MLive",
+   "title": "‘We need your help,’ Flint mayor asks community to report illegally modified weapons",
+   "link": "https://www.mlive.com/news/flint/2026/08/we-need-your-help-flint-mayor-asks-community-to-report-illegally-modified-weapons.html",
+   "published": "Tue, 25 Aug 2026 18:50:10 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Miss Manners: Callers want to chat, but I need to help the next person",
-   "link": "https://www.mlive.com/advice/2026/08/miss-manners-callers-want-to-chat-but-i-need-to-help-the-next-person.html",
-   "published": "Tue, 25 Aug 2026 13:00:00 +0000"
+   "title": "Angler catches 44-inch trout, breaks state record set earlier this year on same lake",
+   "link": "https://www.mlive.com/news/2026/08/angler-catches-44-inch-trout-breaks-state-record-set-earlier-this-year-on-same-lake.html",
+   "published": "Tue, 25 Aug 2026 18:47:30 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "A beloved Ludington lighthouse needs help to give thousands of kids a free climb in 2027",
-   "link": "https://www.mlive.com/news/2026/08/a-beloved-ludington-lighthouse-needs-help-to-give-thousands-of-kids-a-free-climb-in-2027.html",
-   "published": "Tue, 25 Aug 2026 13:00:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Pissed Trump giving ‘serious consideration’ to blockbuster name change",
-   "link": "https://www.mlive.com/politics/2026/08/pissed-trump-giving-serious-consideration-to-blockbuster-name-change.html",
-   "published": "Tue, 25 Aug 2026 12:55:08 +0000"
+   "title": "Thousands of power tools sold by Amazon, Lowes recalled for electrocution hazards: Return ASAP",
+   "link": "https://www.mlive.com/news/2026/08/thousands-of-power-tools-sold-by-amazon-lowes-recalled-for-electrocution-hazards-return-asap.html",
+   "published": "Tue, 25 Aug 2026 18:45:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Army Corps cuts funding, shortens timeline for Southeast Michigan flood study",
+   "link": "https://planetdetroit.org/2026/08/army-corps-slashes-metro-detroit-flood-study-budget/",
+   "published": "Tue, 25 Aug 2026 16:12:06 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Michigan’s utility regulator to host Detroit energy affordability workshop: ‘Ultimately this is about people’",
    "link": "https://planetdetroit.org/2026/08/detroit-energy-affordability-workshop/",
    "published": "Fri, 21 Aug 2026 17:46:45 +0000"
@@ -177,28 +183,22 @@
    "published": "Fri, 21 Aug 2026 15:44:31 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Michiganders for Money Out Of Politics faces final hurdles: Lawsuit, Legislature",
-   "link": "https://planetdetroit.org/2026/08/dte-consumers-donations-ballot-proposal/",
-   "published": "Thu, 20 Aug 2026 20:01:14 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "3 things Michiganders need to know about Republican US Senate candidate Mike Rogers",
+   "link": "https://gandernewsroom.com/news/elections/3-things-michiganders-need-to-know-about-republican-us-senate-candidate-mike-rogers/",
+   "published": "Tue, 25 Aug 2026 18:24:24 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "Mike Rogers’ ties to wealth and power—like out-of-state elites, Betsy DeVos, and Big Tech",
+   "link": "https://gandernewsroom.com/news/politics/mike-rogers-ties-to-wealth-and-power/",
+   "published": "Tue, 25 Aug 2026 18:01:53 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
    "title": "Free Labor Day events across Michigan you don’t want to miss",
    "link": "https://gandernewsroom.com/local/things-to-do/free-labor-day-events-across-michigan-you-dont-want-to-miss/",
    "published": "Tue, 25 Aug 2026 12:43:05 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "State Senate District 32: Your candidates’ stances on reproductive, LGBTQ+ rights",
-   "link": "https://gandernewsroom.com/news/elections/state-senate-district-32-your-candidates-stances-on-reproductive-lgbtq-rights/",
-   "published": "Tue, 25 Aug 2026 12:33:40 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Your guide to taking action to protect reproductive rights in Michigan",
-   "link": "https://gandernewsroom.com/local/things-to-do/protect-reproductive-rights-michigan/",
-   "published": "Mon, 24 Aug 2026 19:54:44 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
