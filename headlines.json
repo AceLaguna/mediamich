@@ -1,7 +1,13 @@
 {
- "generated": "2026-08-25T01:50:29+00:00",
+ "generated": "2026-08-25T07:06:41+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Lansing moves to de-Flock",
+   "link": "https://lansingcitypulse.com/lansing-moves-to-de-flock/",
+   "published": "Tue, 25 Aug 2026 04:10:39 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Top 5 Reubens",
@@ -13,12 +19,6 @@
    "title": "Dog days of summer book roundup",
    "link": "https://lansingcitypulse.com/dog-days-of-summer-book-roundup-2026/",
    "published": "Fri, 21 Aug 2026 20:52:25 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "State of Michigan Probate Court, Ingham County, Notice to Creditors, Estate of Robert Marteze Davis",
-   "link": "https://lansingcitypulse.com/state-of-michigan-probate-court-ingham-county-notice-to-creditors-estate-of-robert-marteze-davis/",
-   "published": "Fri, 21 Aug 2026 12:56:44 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -130,21 +130,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Tigers’ skid reaches six games with loss to AL-leading Rays",
-   "link": "https://www.mlive.com/tigers/2026/08/tigers-skid-reaches-six-games-with-loss-to-al-leading-rays.html",
-   "published": "Tue, 25 Aug 2026 01:17:10 +0000"
+   "title": "What A.J. Hinch said after Tigers lose sixth straight",
+   "link": "https://www.mlive.com/tigers/2026/08/what-aj-hinch-said-after-tigers-lose-sixth-straight.html",
+   "published": "Tue, 25 Aug 2026 02:30:36 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Portage man sentenced in 2024 kidnapping of estranged wife, children",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/08/portage-man-sentenced-in-2024-kidnapping-of-estranged-wife-children.html",
-   "published": "Tue, 25 Aug 2026 00:55:23 +0000"
+   "title": "23-year-old drowns after jumping from boat in Northern Michigan lake",
+   "link": "https://www.mlive.com/news/2026/08/23-year-old-drowns-after-jumping-from-boat-in-northern-michigan-lake.html",
+   "published": "Tue, 25 Aug 2026 02:25:45 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "SEC reacts to NFL players committing to NCAA rosters",
-   "link": "https://www.mlive.com/sports/2026/08/sec-reacts-to-nfl-players-committing-to-ncaa-rosters-college-sports-are-for-college-athletes.html",
-   "published": "Tue, 25 Aug 2026 00:46:40 +0000"
+   "title": "Kenowa Hills school district fires athletic director after safety, discrimination probe",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/08/kenowa-hills-school-district-fires-athletic-director-after-safety-discrimination-probe.html",
+   "published": "Tue, 25 Aug 2026 02:23:32 +0000"
   },
   {
    "outlet": "Outlier Media",
