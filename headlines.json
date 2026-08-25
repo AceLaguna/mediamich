@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T18:57:36+00:00",
+ "generated": "2026-08-25T01:50:29+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Hamtramck’s Nicolas Uncaged fest is back and somehow even weirder",
+   "link": "https://www.metrotimes.com/arts/movies/hamtramcks-nicolas-uncaged-fest-is-back-and-somehow-even-weirder/",
+   "published": "Mon, 24 Aug 2026 20:54:45 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "John James’ wealth soared in Congress as he traded stocks in industries he helped oversee",
    "link": "https://www.metrotimes.com/news/john-james-wealth-soared-in-congress-as-he-traded-stocks-in-industries-he-helped-oversee/",
    "published": "Mon, 24 Aug 2026 17:12:59 +0000"
@@ -33,28 +39,22 @@
    "published": "Mon, 24 Aug 2026 15:01:21 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Photos: Keanu Reeves and Dogstar rock Saint Andrew’s Hall in Detroit",
-   "link": "https://www.metrotimes.com/music-2/photos-keanu-reeves-and-dogstar-rock-saint-andrews-hall-in-detroit/",
-   "published": "Sun, 23 Aug 2026 18:56:42 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Citizenship voting proposal blocked from Michigan ballot. Backers vow fight",
+   "link": "https://bridgemi.com/michigan-government/citizenship-voting-proposal-blocked-from-michigan-ballot-backers-vow-fight/",
+   "published": "Tue, 25 Aug 2026 01:03:51 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Opinion | Facts point to need for federal voucher opt-out",
+   "link": "https://bridgemi.com/guest-commentary/opinion-facts-point-to-need-for-federal-voucher-opt-out/",
+   "published": "Mon, 24 Aug 2026 19:00:47 +0000"
   },
   {
    "outlet": "Bridge Michigan",
    "title": "Michigan monitoring gaps mean many may unknowingly breathe unhealthy air",
    "link": "https://bridgemi.com/michigan-environment-watch/michigan-monitoring-gaps-mean-many-may-unknowingly-breathe-unhealthy-air/",
    "published": "Mon, 24 Aug 2026 14:39:34 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan GOP: Lots of talk about Dems, little about Trump, at convention",
-   "link": "https://bridgemi.com/michigan-government/michigan-gop-lots-of-talk-about-dems-little-about-trump-at-convention/",
-   "published": "Sat, 22 Aug 2026 19:06:12 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Blood test can find cancers, save Michigan lives. Is that worth $100B?",
-   "link": "https://bridgemi.com/michigan-health-watch/blood-test-can-find-cancers-save-michigan-lives-is-that-worth-100b/",
-   "published": "Fri, 21 Aug 2026 23:01:47 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Daily Detroit",
+   "title": "Why Michigan Has the Most to Lose in a U.S. - Canada Trade War",
+   "link": "https://www.dailydetroit.com/why-michigan-has-the-most-to-lose-in-a-u-s-canada-trade-war/",
+   "published": "Mon, 24 Aug 2026 20:17:18 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
    "title": "How Outsiders Tried to Rage Bait Dearborn (and Lost Again)",
    "link": "https://www.dailydetroit.com/how-outsiders-tried-to-rage-bait-dearborn-and-lost-again/",
    "published": "Mon, 24 Aug 2026 17:23:11 GMT"
@@ -85,12 +91,6 @@
    "title": "Summer fun is not done! What to do in Metro Detroit this weekend",
    "link": "https://www.dailydetroit.com/summer-fun-is-not-done-what-to-do-in-metro-detroit-this-weekend/",
    "published": "Fri, 21 Aug 2026 01:32:58 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "Detroit's Giant RenCen is only 5% occupied. So what's next?",
-   "link": "https://www.dailydetroit.com/detroits-giant-rencen-is-only-5-occupied-so-whats-next/",
-   "published": "Wed, 19 Aug 2026 19:53:25 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Postal Service moves ahead with mail ballot rule amid court battle",
-   "link": "https://michiganadvance.com/2026/08/24/repub/postal-service-moves-ahead-with-mail-ballot-rule-amid-court-battle/",
-   "published": "Mon, 24 Aug 2026 17:45:57 +0000"
+   "title": "Trump, McMahon promote school voucher program as students return to class",
+   "link": "https://michiganadvance.com/2026/08/24/repub/trump-mcmahon-promote-school-voucher-program-as-students-return-to-class/",
+   "published": "Mon, 24 Aug 2026 22:26:35 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Senate map trending toward Democrats, though GOP retains slim advantage",
-   "link": "https://michiganadvance.com/2026/08/24/repub/us-senate-map-trending-toward-democrats-though-gop-retains-slim-advantage/",
-   "published": "Mon, 24 Aug 2026 17:22:06 +0000"
+   "title": "Board of State Canvassers deadlocks on citizens-only voting measure, setting up court fight",
+   "link": "https://michiganadvance.com/2026/08/24/board-of-state-canvassers-deadlocks-on-citizens-only-voting-measure-setting-up-court-fight/",
+   "published": "Mon, 24 Aug 2026 22:21:33 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump administration plans $100,000 visa fee for high-skill foreign workers",
-   "link": "https://michiganadvance.com/2026/08/24/repub/trump-administration-plans-100000-visa-fee-for-high-skill-foreign-workers/",
-   "published": "Mon, 24 Aug 2026 16:36:54 +0000"
+   "title": "El-Sayed says Hasan Piker does not speak for his campaign amid comments about Jewish candidate",
+   "link": "https://michiganadvance.com/2026/08/24/el-sayed-says-hasan-piker-does-not-speak-for-his-campaign-amid-comments-on-sen-jeremy-moss/",
+   "published": "Mon, 24 Aug 2026 19:06:42 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "A machine reportedly made the final decision. The consequences are unsettling.",
-   "link": "https://www.mlive.com/news/2026/08/a-new-ukraine-battlefield-milestone-is-raising-alarms-around-the-world.html",
-   "published": "Mon, 24 Aug 2026 18:46:31 +0000"
+   "title": "Tigers’ skid reaches six games with loss to AL-leading Rays",
+   "link": "https://www.mlive.com/tigers/2026/08/tigers-skid-reaches-six-games-with-loss-to-al-leading-rays.html",
+   "published": "Tue, 25 Aug 2026 01:17:10 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ford wants its Dearborn headquarters to be a destination. Here’s what’s inside",
-   "link": "https://www.mlive.com/news/detroit/2026/08/ford-wants-its-dearborn-headquarters-to-be-a-destination-heres-whats-inside.html",
-   "published": "Mon, 24 Aug 2026 18:40:58 +0000"
+   "title": "Portage man sentenced in 2024 kidnapping of estranged wife, children",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/08/portage-man-sentenced-in-2024-kidnapping-of-estranged-wife-children.html",
+   "published": "Tue, 25 Aug 2026 00:55:23 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "What is the most intriguing Flint-area football matchup in Week 1?",
-   "link": "https://www.mlive.com/highschoolsports/2026/08/what-is-the-most-intriguing-flint-area-football-matchup-in-week-1.html",
-   "published": "Mon, 24 Aug 2026 18:30:00 +0000"
+   "title": "SEC reacts to NFL players committing to NCAA rosters",
+   "link": "https://www.mlive.com/sports/2026/08/sec-reacts-to-nfl-players-committing-to-ncaa-rosters-college-sports-are-for-college-athletes.html",
+   "published": "Tue, 25 Aug 2026 00:46:40 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Your guide to taking action to protect reproductive rights in Michigan",
+   "link": "https://gandernewsroom.com/local/things-to-do/protect-reproductive-rights-michigan/",
+   "published": "Mon, 24 Aug 2026 19:54:44 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Who’s actually growing the best weed in Michigan?",
    "link": "https://gandernewsroom.com/news/cannabis/best-weed-brands-michigan-2026/",
    "published": "Mon, 24 Aug 2026 18:48:31 +0000"
@@ -195,28 +201,22 @@
    "published": "Mon, 24 Aug 2026 18:34:00 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "A butterfly nearing global extinction gets new hope in Michigan",
-   "link": "https://gandernewsroom.com/news/environment/a-butterfly-nearing-global-extinction-gets-new-hope-in-michigan/",
-   "published": "Mon, 24 Aug 2026 13:13:52 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan voter ID question narrowly misses ballot, lawsuit likely",
+   "link": "https://www.michiganpublic.org/politics-government/2026-08-24/michigan-voter-id-question-narrowly-misses-ballot-lawsuit-likely",
+   "published": "Mon, 24 Aug 2026 23:25:37 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Is Superman ice cream from Michigan?",
-   "link": "https://www.michiganpublic.org/podcast/on-hand/2026-08-24/is-superman-ice-cream-from-michigan",
-   "published": "Mon, 24 Aug 2026 15:30:57 GMT"
+   "title": "Grand Rapids committee to get briefing on use of Flock cameras as residents speak out",
+   "link": "https://www.michiganpublic.org/community/2026-08-24/grand-rapids-committee-to-get-briefing-on-use-of-flock-cameras-as-residents-speak-out",
+   "published": "Mon, 24 Aug 2026 22:37:50 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "The Mids: A constitutional convention in 2026?",
-   "link": "https://www.michiganpublic.org/politics-government/2026-08-24/the-mids-a-constitutional-convention-in-2026",
-   "published": "Mon, 24 Aug 2026 14:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Kent County program aims to connect property owners with hunters",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-08-24/kent-county-program-aims-to-connect-property-owners-with-hunters",
-   "published": "Mon, 24 Aug 2026 09:50:00 GMT"
+   "title": "Stateside: Monday, Aug. 24, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-08-24/stateside-monday-aug-24-2026",
+   "published": "Mon, 24 Aug 2026 22:35:23 GMT"
   }
  ]
 }
