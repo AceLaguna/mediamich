@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-30T05:20:47+00:00",
- "count": 33,
+ "generated": "2026-08-30T11:52:06+00:00",
+ "count": 36,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Michigan houses are old and getting older. It’s a ‘huge problem’ for state",
+   "link": "https://www.bridgedetroit.com/michigan-houses-are-old-and-getting-older-its-a-huge-problem-for-state/",
+   "published": "Sun, 30 Aug 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "BridgeDetroit has spent 8 months talking to teens about what they need from their city. Here’s what we learned.",
    "link": "https://www.bridgedetroit.com/bridge-detroit-youth-survey-api-grant/",
    "published": "Fri, 28 Aug 2026 14:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "DPSCD board addresses funding gaps, other issues within athletics department",
    "link": "https://www.bridgedetroit.com/detroit-public-schools-athletics-funding-gaps/",
    "published": "Fri, 28 Aug 2026 11:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Download BridgeDetroit’s youth zine: A Guide to Civic Engagement",
-   "link": "https://www.bridgedetroit.com/download-bridgedetroits-youth-zine-guide-to-civic-engagement/",
-   "published": "Fri, 28 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Michigan Democrats finalize nominations, continue calls for unity heading into November",
+   "link": "https://michiganadvance.com/2026/08/30/michigan-democrats-finalize-nominations-continue-calls-for-unity-heading-into-november/",
+   "published": "Sun, 30 Aug 2026 10:30:24 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "States move to fortify elections against Trump",
    "link": "https://michiganadvance.com/2026/08/29/repub/states-move-to-fortify-elections-against-trump/",
    "published": "Sat, 29 Aug 2026 17:00:32 +0000"
@@ -123,28 +129,22 @@
    "published": "Sat, 29 Aug 2026 12:00:23 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Voting rights struggle continues, advocates say at March on Washington anniversary",
-   "link": "https://michiganadvance.com/2026/08/28/repub/voting-rights-struggle-continues-advocates-say-at-march-on-washington-anniversary/",
-   "published": "Sat, 29 Aug 2026 02:14:57 +0000"
+   "outlet": "MLive",
+   "title": "Drone footage reveals the sheer scale of Michigan’s largest waterfall and its new boardwalk",
+   "link": "https://www.mlive.com/life/2026/08/drone-footage-reveals-the-sheer-scale-of-michigans-largest-waterfall-and-its-new-boardwalk.html",
+   "published": "Sun, 30 Aug 2026 11:40:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Michigan quarterback tops 300 yards, wins first start at new college",
-   "link": "https://www.mlive.com/wolverines/football/2026/08/former-michigan-quarterback-tops-300-yards-wins-first-start-at-new-college.html",
-   "published": "Sun, 30 Aug 2026 02:49:53 +0000"
+   "title": "See typical home values in every Michigan ZIP code, from $30K to $1.3M",
+   "link": "https://www.mlive.com/data/2026/08/see-typical-home-values-in-every-michigan-zip-code-from-30k-to-13m.html",
+   "published": "Sun, 30 Aug 2026 11:40:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ex-Michigan State running back waived by Baltimore Ravens",
-   "link": "https://www.mlive.com/spartans/football/2026/08/ex-michigan-state-running-back-waived-by-baltimore-ravens.html",
-   "published": "Sun, 30 Aug 2026 01:47:51 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "El-Sayed urges Democrats to unite, targets Rogers and Trump ties",
-   "link": "https://www.mlive.com/politics/2026/08/el-sayed-urges-democrats-to-unite-targets-rogers-and-trump-ties.html",
-   "published": "Sun, 30 Aug 2026 01:45:48 +0000"
+   "title": "How a Kalamazoo record store keeps vinyl culture alive in the streaming era",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/08/how-a-kalamazoo-record-store-keeps-vinyl-culture-alive-in-the-streaming-era.html",
+   "published": "Sun, 30 Aug 2026 11:35:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -199,6 +199,24 @@
    "title": "Lansing area woman, 81, is oldest to thru-hike Appalachian Trail",
    "link": "https://gandernewsroom.com/local/people/lansing-area-woman-81-is-oldest-to-thru-hike-appalachian-trail/",
    "published": "Thu, 27 Aug 2026 17:10:28 +0000"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan audit evaluates maintenance of state voter rolls",
+   "link": "https://www.michiganpublic.org/2026-08-29/michigan-audit-evaluates-maintenance-of-state-voter-rolls",
+   "published": "Sat, 29 Aug 2026 11:00:40 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "TWTS: Old English, new boundaries",
+   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-08-28/twts-old-english-new-boundaries",
+   "published": "Fri, 28 Aug 2026 20:50:23 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Friday, Aug. 28, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-08-28/stateside-friday-aug-28-2026",
+   "published": "Fri, 28 Aug 2026 20:00:00 GMT"
   }
  ]
 }
