@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-29T20:53:28+00:00",
- "count": 36,
+ "generated": "2026-08-30T05:20:47+00:00",
+ "count": 33,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Michigan Democrats at convention: Calls to unify, fight against Trump",
+   "link": "https://bridgemi.com/michigan-government/michigan-democrats-at-convention-calls-to-unify-fight-against-trump/",
+   "published": "Sun, 30 Aug 2026 00:29:43 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "As crisis looms for Michigan rural townships, bills to help sit idle in Lansing",
    "link": "https://bridgemi.com/michigan-government/as-crisis-looms-for-michigan-rural-townships-bills-to-help-sit-idle-in-lansing/",
    "published": "Fri, 28 Aug 2026 19:52:41 +0000"
@@ -49,12 +55,6 @@
    "title": "Fact check: Abdul El-Sayed attacks Mike Rogers over pharma industry ties",
    "link": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-attacks-mike-rogers-over-pharma-industry-ties/",
    "published": "Fri, 28 Aug 2026 16:10:33 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Bridge Michigan News Quiz, Aug. 28:  Squeezing every drop of summer",
-   "link": "https://bridgemi.com/center-michigan/bridge-michigan-news-quiz-aug-28-squeezing-every-drop-of-summer/",
-   "published": "Fri, 28 Aug 2026 16:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Daily Detroit",
+   "title": "Investing in Detroit's Parks: Inside the Neighborhood-Focused Push of the Gilbert Family Foundation",
+   "link": "https://www.dailydetroit.com/investing-in-detroits-parks-inside-the-neighborhood-focused-push-of-the-gilbert-family-foundation/",
+   "published": "Sat, 29 Aug 2026 21:01:38 GMT"
+  },
+  {
+   "outlet": "Daily Detroit",
    "title": "Your Detroit Weekend Plans: New Spots, Tasty Anniversary Parties, And Garage Rock",
    "link": "https://www.dailydetroit.com/your-detroit-weekend-plans-new-spots-tasty-anniversary-parties-and-garage-rock/",
    "published": "Fri, 28 Aug 2026 00:10:42 GMT"
@@ -85,12 +91,6 @@
    "title": "Lake Ontario Was Here First, New Life for Mexicantown's YMCA & Bagels in Birmingham",
    "link": "https://www.dailydetroit.com/lake-ontario-was-here-first-new-life-for-mexicantowns-ymca-bagels-in-birmingham/",
    "published": "Wed, 26 Aug 2026 17:40:02 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "Detroit Sandwich Party Returns Bigger Than Ever for 2026 (with Carlos Parisi)",
-   "link": "https://www.dailydetroit.com/detroit-sandwich-party-returns-bigger-than-ever-for-2026-with-carlos-parisi/",
-   "published": "Tue, 25 Aug 2026 17:11:23 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -130,21 +130,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Final Detroit Lions roster projection: Secondary depth concerns lead to changes",
-   "link": "https://www.mlive.com/lions/2026/08/final-detroit-lions-roster-projection-secondary-depth-concerns-lead-to-changes.html",
-   "published": "Sat, 29 Aug 2026 20:44:05 +0000"
+   "title": "Former Michigan quarterback tops 300 yards, wins first start at new college",
+   "link": "https://www.mlive.com/wolverines/football/2026/08/former-michigan-quarterback-tops-300-yards-wins-first-start-at-new-college.html",
+   "published": "Sun, 30 Aug 2026 02:49:53 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Lions TE released by Bills months after signing",
-   "link": "https://www.mlive.com/lions/2026/08/former-lions-te-released-by-bills-months-after-signing.html",
-   "published": "Sat, 29 Aug 2026 20:31:47 +0000"
+   "title": "Ex-Michigan State running back waived by Baltimore Ravens",
+   "link": "https://www.mlive.com/spartans/football/2026/08/ex-michigan-state-running-back-waived-by-baltimore-ravens.html",
+   "published": "Sun, 30 Aug 2026 01:47:51 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Saginaw County reports positive rabies case in local bat, urges caution",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-county-reports-positive-rabies-case-in-local-bat-urges-caution.html",
-   "published": "Sat, 29 Aug 2026 20:29:38 +0000"
+   "title": "El-Sayed urges Democrats to unite, targets Rogers and Trump ties",
+   "link": "https://www.mlive.com/politics/2026/08/el-sayed-urges-democrats-to-unite-targets-rogers-and-trump-ties.html",
+   "published": "Sun, 30 Aug 2026 01:45:48 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -199,24 +199,6 @@
    "title": "Lansing area woman, 81, is oldest to thru-hike Appalachian Trail",
    "link": "https://gandernewsroom.com/local/people/lansing-area-woman-81-is-oldest-to-thru-hike-appalachian-trail/",
    "published": "Thu, 27 Aug 2026 17:10:28 +0000"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan audit evaluates maintenance of state voter rolls",
-   "link": "https://www.michiganpublic.org/2026-08-29/michigan-audit-evaluates-maintenance-of-state-voter-rolls",
-   "published": "Sat, 29 Aug 2026 11:00:40 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "TWTS: Old English, new boundaries",
-   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-08-28/twts-old-english-new-boundaries",
-   "published": "Fri, 28 Aug 2026 20:50:23 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Friday, Aug. 28, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-08-28/stateside-friday-aug-28-2026",
-   "published": "Fri, 28 Aug 2026 20:00:00 GMT"
   }
  ]
 }
