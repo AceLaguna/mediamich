@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T05:29:30+00:00",
+ "generated": "2026-08-31T13:43:23+00:00",
  "count": 36,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Opinion | Michigan’s education crisis is the civil rights issue of our lifetime",
+   "link": "https://bridgemi.com/guest-commentary/opinion-michigans-education-crisis-is-the-civil-rights-issue-of-our-lifetime/",
+   "published": "Mon, 31 Aug 2026 12:43:05 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Michigan Democrats at convention: Calls to unify, fight against Trump",
    "link": "https://bridgemi.com/michigan-government/michigan-democrats-at-convention-calls-to-unify-fight-against-trump/",
    "published": "Sun, 30 Aug 2026 00:29:43 +0000"
@@ -51,10 +57,10 @@
    "published": "Fri, 28 Aug 2026 19:52:41 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Abdul El-Sayed attacks Mike Rogers over pharma industry ties",
-   "link": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-attacks-mike-rogers-over-pharma-industry-ties/",
-   "published": "Fri, 28 Aug 2026 16:10:33 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Detroit school district to hold parents accountable for too many unexcused early sign-outs",
+   "link": "https://www.bridgedetroit.com/detroit-school-district-to-hold-parents-accountable-for-too-many-unexcused-early-sign-outs/",
+   "published": "Mon, 31 Aug 2026 10:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "BridgeDetroit has spent 8 months talking to teens about what they need from their city. Here’s what we learned.",
    "link": "https://www.bridgedetroit.com/bridge-detroit-youth-survey-api-grant/",
    "published": "Fri, 28 Aug 2026 14:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "DPSCD board addresses funding gaps, other issues within athletics department",
-   "link": "https://www.bridgedetroit.com/detroit-public-schools-athletics-funding-gaps/",
-   "published": "Fri, 28 Aug 2026 11:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "How wildfire smoke impacts pets, wildlife",
+   "link": "https://greatlakesecho.org/2026/08/31/how-wildfire-smoke-impacts-pets-wildlife/",
+   "published": "Mon, 31 Aug 2026 12:39:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Michigan fisheries get one-time funding for whitefish restoration",
    "link": "https://greatlakesecho.org/2026/08/30/michigan-fisheries-get-one-time-funding-for-whitefish-restoration/",
    "published": "Sun, 30 Aug 2026 11:33:00 +0000"
@@ -105,46 +111,40 @@
    "published": "Sat, 29 Aug 2026 11:25:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Fossils found in Illinois challenge scientists’ assumptions about early land animals",
-   "link": "https://greatlakesecho.org/2026/08/28/fossils-found-in-illinois-challenge-scientists-assumptions-about-early-land-animals/",
-   "published": "Fri, 28 Aug 2026 13:00:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "A summer of recalls exposes holes in the nation’s food safety net",
+   "link": "https://michiganadvance.com/2026/08/31/repub/a-summer-of-recalls-exposes-holes-in-the-nations-food-safety-net/",
+   "published": "Mon, 31 Aug 2026 11:05:14 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "To protect forests, I learned to burn them",
-   "link": "https://michiganadvance.com/2026/08/30/repub/learning-to-burn/",
-   "published": "Sun, 30 Aug 2026 12:02:45 +0000"
+   "title": "Trump’s trade war with Canada is reckless, pointless and dangerous",
+   "link": "https://michiganadvance.com/2026/08/31/trumps-trade-war-with-canada-is-reckless-pointless-and-dangerous/",
+   "published": "Mon, 31 Aug 2026 11:00:18 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "This Washington town is burning. That’s the plan.",
-   "link": "https://michiganadvance.com/2026/08/30/repub/this-washington-town-is-burning-thats-the-plan/",
-   "published": "Sun, 30 Aug 2026 12:01:47 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Photo essay: Communities embrace fire to protect against out-of-control blazes",
-   "link": "https://michiganadvance.com/2026/08/30/repub/photo-essay-communities-embrace-fire-to-protect-against-out-of-control-blazes/",
-   "published": "Sun, 30 Aug 2026 12:00:55 +0000"
+   "title": "Democratic lawmakers introduce bills expanding health coverage for low-income Michiganders",
+   "link": "https://michiganadvance.com/briefs/democratic-lawmakers-introduce-bills-expanding-health-coverage-for-low-income-michiganders/",
+   "published": "Mon, 31 Aug 2026 10:00:42 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Michigan captain waived by Cowboys",
-   "link": "https://www.mlive.com/wolverines/football/2026/08/former-michigan-captain-waived-by-cowboys.html",
-   "published": "Mon, 31 Aug 2026 03:58:01 +0000"
+   "title": "Free PBS KIDS Super Why screening in Mount Pleasant Sept. 26",
+   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/free-pbs-kids-super-why-screening-in-mount-pleasant-sept-26.html",
+   "published": "Mon, 31 Aug 2026 13:37:05 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Lions UDFA waived by Cardinals following lost season",
-   "link": "https://www.mlive.com/lions/2026/08/former-lions-udfa-waived-by-cardinals-following-lost-season.html",
-   "published": "Mon, 31 Aug 2026 03:08:52 +0000"
+   "title": "Drug trafficking probe in Kent County leads to 3 arrests",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/08/drug-trafficking-probe-in-kent-county-leads-to-3-arrests.html",
+   "published": "Mon, 31 Aug 2026 13:36:23 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Michigan State draft pick cut by second team",
-   "link": "https://www.mlive.com/spartans/football/2026/08/former-michigan-state-draft-pick-cut-by-second-team.html",
-   "published": "Mon, 31 Aug 2026 03:00:41 +0000"
+   "title": "Ex-Michigan All-Big Ten OL waived by Panthers after injury",
+   "link": "https://www.mlive.com/wolverines/football/2026/08/ex-michigan-all-big-ten-ol-waived-by-panthers-after-injury.html",
+   "published": "Mon, 31 Aug 2026 13:32:46 +0000"
   },
   {
    "outlet": "Outlier Media",
