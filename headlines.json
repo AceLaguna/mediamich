@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T11:35:52+00:00",
+ "generated": "2026-09-01T16:36:54+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,21 +22,27 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "SANA Detroit is opening its first permanent store downtown",
+   "link": "https://www.metrotimes.com/arts/culture/sana-detroit-is-opening-its-first-permanent-store-downtown/",
+   "published": "Tue, 01 Sep 2026 15:21:07 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "John James’ running mate says he would cut Medicaid and food assistance",
+   "link": "https://www.metrotimes.com/news/john-james-running-mate-says-he-would-cut-medicaid-and-food-assistance/",
+   "published": "Tue, 01 Sep 2026 12:18:18 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "You can now find Amon-Ra St. Brown in the energy drink aisle",
    "link": "https://www.metrotimes.com/food-drink/you-can-now-find-amon-ra-st-brown-in-the-energy-drink-aisle/",
    "published": "Mon, 31 Aug 2026 20:02:09 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Detroit artist Pat Duff’s surreal figurative art wrestles with life, death, and love",
-   "link": "https://www.metrotimes.com/arts/detroit-artist-pat-duffs-surreal-figurative-art-wrestles-with-life-death-and-love/",
-   "published": "Mon, 31 Aug 2026 17:58:46 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Inside the small-batch Warren grow making some of Michigan’s best live rosin",
-   "link": "https://www.metrotimes.com/weed-2/inside-the-small-batch-warren-grow-making-some-of-michigans-best-live-rosin/",
-   "published": "Mon, 31 Aug 2026 16:59:11 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Michigan colleges debut 3-year degrees in bid to cut costs, attract students",
+   "link": "https://bridgemi.com/talent-education/michigan-colleges-debut-3-year-degrees-in-bid-to-cut-costs-attract-students/",
+   "published": "Tue, 01 Sep 2026 15:26:13 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -49,12 +55,6 @@
    "title": "Michigan school districts offer insurance-free care to beat rising health costs",
    "link": "https://bridgemi.com/michigan-health-watch/michigan-school-districts-offer-insurance-free-care-to-beat-rising-health-costs/",
    "published": "Mon, 31 Aug 2026 16:42:37 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Opinion | Michigan’s education crisis is the civil rights issue of our lifetime",
-   "link": "https://bridgemi.com/guest-commentary/opinion-michigans-education-crisis-is-the-civil-rights-issue-of-our-lifetime/",
-   "published": "Mon, 31 Aug 2026 12:43:05 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -130,21 +130,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Judge to decide if Flint councilman will stand trial for violating election law",
-   "link": "https://www.mlive.com/news/flint/2026/09/judge-to-decide-if-flint-councilman-will-stand-trial-for-violating-election-law.html",
-   "published": "Tue, 01 Sep 2026 11:30:00 +0000"
+   "title": "Late actor, director’s son marries months after parents’ tragic deaths: report",
+   "link": "https://www.mlive.com/life/2026/09/late-actor-directors-son-marries-months-after-parents-tragic-deaths-report.html",
+   "published": "Tue, 01 Sep 2026 16:34:28 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Holiday Mathis horoscopes for Sept. 1, 2026: Dreams under pressure",
-   "link": "https://www.mlive.com/advice/2026/09/holiday-mathis-horoscope-for-sept-1-2026-dreams-under-pressure.html",
-   "published": "Tue, 01 Sep 2026 11:01:00 +0000"
+   "title": "Marching bands: Kalamazoo Central band previews 2026 ‘Unbroken’ program",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/09/marching-bands-kalamazoo-central-band-previews-2026-unbroken-program.html",
+   "published": "Tue, 01 Sep 2026 16:28:33 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "10 Ann Arbor-area girls golfers who could make noise this fall",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/10-ann-arbor-area-girls-golfers-who-could-make-noise-this-fall.html",
-   "published": "Tue, 01 Sep 2026 11:01:00 +0000"
+   "title": "Marching bands: Grand Haven marks centennial with musical journey through time",
+   "link": "https://www.mlive.com/news/2026/09/marching-bands-grand-haven-marks-centennial-with-musical-journey-through-time.html",
+   "published": "Tue, 01 Sep 2026 16:21:17 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Fall is weeks away, but some Michigan cider mills, orchards are open",
+   "link": "https://gandernewsroom.com/local/food-drink/fall-is-weeks-away-but-some-michigan-cider-mills-orchards-are-open/",
+   "published": "Tue, 01 Sep 2026 12:54:07 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Two Lansing budtenders picked my weed and it cost me twice as much",
    "link": "https://gandernewsroom.com/news/cannabis/lansing-budtender-picks-weed/",
    "published": "Mon, 31 Aug 2026 21:11:34 +0000"
@@ -195,10 +201,10 @@
    "published": "Mon, 31 Aug 2026 21:09:46 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "How a West Michigan corn maze became a Dolly Parton memorial",
-   "link": "https://gandernewsroom.com/local/people/how-a-west-michigan-corn-maze-became-a-dolly-parton-memorial/",
-   "published": "Mon, 31 Aug 2026 15:26:03 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan school districts offer insurance-free care to beat rising health costs",
+   "link": "https://www.michiganpublic.org/education/2026-09-01/michigan-school-districts-offer-insurance-free-care-to-beat-rising-health-costs",
+   "published": "Tue, 01 Sep 2026 13:48:36 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
@@ -211,12 +217,6 @@
    "title": "\"He Owns This\": Benson blames John James for Canadian tariff threat to Michigan jobs",
    "link": "https://www.michiganpublic.org/politics-government/2026-08-31/he-owns-this-benson-blames-john-james-for-canadian-tariff-threat-to-michigan-jobs",
    "published": "Tue, 01 Sep 2026 01:57:34 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Nurses strike at Henry Ford Genesys reaches milestone this week",
-   "link": "https://www.michiganpublic.org/health/2026-08-31/nurses-strike-at-henry-ford-genesys-reaches-milestone-this-week",
-   "published": "Mon, 31 Aug 2026 21:53:28 GMT"
   }
  ]
 }
