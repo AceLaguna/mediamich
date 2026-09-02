@@ -1,7 +1,19 @@
 {
- "generated": "2026-09-02T11:13:48+00:00",
+ "generated": "2026-09-02T16:32:44+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Police investigating after 57-year-old man found dead",
+   "link": "https://lansingcitypulse.com/police-investigating-after-57-year-old-man-found-dead/",
+   "published": "Wed, 02 Sep 2026 16:24:03 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "New England Journal of Medicine releases interim report on Michigan’s cyclosporiasis outbreak",
+   "link": "https://lansingcitypulse.com/new-england-journal-of-medicine-releases-interim-report-on-michigans-cyclosporiasis-outbreak/",
+   "published": "Wed, 02 Sep 2026 16:07:51 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Sea Leveaux spices up downtown dining scene",
@@ -9,16 +21,10 @@
    "published": "Wed, 02 Sep 2026 04:43:31 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "A dessert staple to cap off your next dinner party",
-   "link": "https://lansingcitypulse.com/a-dessert-staple-to-cap-off-your-next-dinner-party/",
-   "published": "Wed, 02 Sep 2026 04:26:14 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "The Great Lakes as the coordinates of the heart: poet Jim Daniels on poetry of Detroit and Michigan",
-   "link": "https://lansingcitypulse.com/the-great-lakes-as-the-coordinates-of-the-heart-poet-jim-daniels-on-poetry-of-detroit-and-michigan/",
-   "published": "Wed, 02 Sep 2026 04:14:19 +0000"
+   "outlet": "Metro Times",
+   "title": "Trump-backed ‘Freedom Fuel’ arrives in Detroit as lawsuit raises questions about cheap gas",
+   "link": "https://www.metrotimes.com/news/trump-backed-freedom-fuel-arrives-in-detroit-as-lawsuit-raises-questions-about-cheap-gas/",
+   "published": "Wed, 02 Sep 2026 16:00:50 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -31,12 +37,6 @@
    "title": "Hazel Park’s historic Bottle House just got a major price drop",
    "link": "https://www.metrotimes.com/arts/culture/hazel-parks-historic-bottle-house-just-got-a-major-price-drop/",
    "published": "Tue, 01 Sep 2026 17:06:50 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "SANA Detroit is opening its first permanent store downtown",
-   "link": "https://www.metrotimes.com/arts/culture/sana-detroit-is-opening-its-first-permanent-store-downtown/",
-   "published": "Tue, 01 Sep 2026 15:21:07 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,21 +58,21 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "How Detroiters can take action on air quality",
+   "link": "https://www.bridgedetroit.com/how-detroiters-can-take-action-on-air-quality/",
+   "published": "Wed, 02 Sep 2026 16:25:46 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Bedrock tells Detroiters its RenCen plan is ‘the only path forward’",
+   "link": "https://www.bridgedetroit.com/bedrock-tells-detroiters-its-rencen-plan-is-the-only-path-forward/",
+   "published": "Wed, 02 Sep 2026 15:39:24 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "New food hub taking root in Detroit’s North End",
    "link": "https://www.bridgedetroit.com/new-food-hub-taking-root-in-detroits-north-end/",
    "published": "Wed, 02 Sep 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan colleges debut 3-year degrees in bid to cut costs, attract students",
-   "link": "https://www.bridgedetroit.com/michigan-colleges-debut-3-year-degrees-in-bid-to-cut-costs-attract-students/",
-   "published": "Tue, 01 Sep 2026 18:44:23 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroiters push back as police board weighs ending virtual comments",
-   "link": "https://www.bridgedetroit.com/detroiters-push-back-as-police-board-weighs-ending-virtual-comments/",
-   "published": "Tue, 01 Sep 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Ohio weather is full of surprises. Climate change isn’t",
+   "link": "https://greatlakesecho.org/2026/09/02/ohio-weather-is-full-of-surprises-climate-change-isnt/",
+   "published": "Wed, 02 Sep 2026 10:36:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Michigan AG challenges the US Department of Energy again over coal plant’s forced operation",
    "link": "https://greatlakesecho.org/2026/09/01/michigan-ag-challenges-the-us-department-of-energy-again-over-coal-plants-forced-operation/",
    "published": "Tue, 01 Sep 2026 17:33:00 +0000"
@@ -105,10 +111,10 @@
    "published": "Tue, 01 Sep 2026 09:30:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "How wildfire smoke impacts pets, wildlife",
-   "link": "https://greatlakesecho.org/2026/08/31/how-wildfire-smoke-impacts-pets-wildlife/",
-   "published": "Mon, 31 Aug 2026 12:39:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Livingston County sheriff temporarily removes Flock cameras after repeated vandalism",
+   "link": "https://michiganadvance.com/2026/09/02/livingston-county-sheriff-temporarily-removes-flock-cameras-after-repeated-vandalism/",
+   "published": "Wed, 02 Sep 2026 15:08:10 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -123,28 +129,22 @@
    "published": "Wed, 02 Sep 2026 09:00:44 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Michiganders speak out on Consumers Energy’s proposed sale of 13 dams to private equity",
-   "link": "https://michiganadvance.com/2026/09/02/michiganders-speak-out-on-consumers-energys-proposed-sale-of-13-dams-to-private-equity/",
-   "published": "Wed, 02 Sep 2026 08:55:38 +0000"
+   "outlet": "MLive",
+   "title": "Taylor Swift, Travis Kelce purchase luxury Bratenahl mansion",
+   "link": "https://www.mlive.com/life/2026/09/the-latest-move-by-taylor-swift-and-travis-kelce-has-ohio-buzzing.html",
+   "published": "Wed, 02 Sep 2026 16:22:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ann Arbor-area volleyball players to watch in 2026",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/ann-arbor-area-volleyball-players-to-watch-in-2026.html",
-   "published": "Wed, 02 Sep 2026 11:02:00 +0000"
+   "title": "A Pulitzer Prize finalist and Muhammad Ali Humanitarian Award winner is speaking in Muskegon",
+   "link": "https://www.mlive.com/news/muskegon/2026/09/a-pulitzer-prize-finalist-and-muhammad-ali-humanitarian-award-winner-is-speaking-in-muskegon.html",
+   "published": "Wed, 02 Sep 2026 16:19:49 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Holiday Mathis horoscopes for Sept. 2, 2026: Moon squares Jupiter then trines Mercury",
-   "link": "https://www.mlive.com/advice/2026/09/holiday-mathis-horoscope-for-sept-2-2026-moon-squares-jupiter-then-trines-mercury.html",
-   "published": "Wed, 02 Sep 2026 11:01:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Top Ann Arbor-area field hockey players to watch entering 2026 season",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/top-ann-arbor-area-field-hockey-players-to-watch-entering-2026-season.html",
-   "published": "Wed, 02 Sep 2026 11:00:00 +0000"
+   "title": "Motorcyclist killed in downtown crash with SUV, police seek witnesses",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/09/motorcyclist-killed-in-downtown-crash-with-suv-police-seek-witnesses.html",
+   "published": "Wed, 02 Sep 2026 16:17:25 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Here’s what’s happening in Michigan this weekend (Sept. 4-7)",
+   "link": "https://gandernewsroom.com/local/things-to-do/heres-whats-happening-in-michigan-this-weekend-sept-4-7/",
+   "published": "Wed, 02 Sep 2026 15:04:18 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "As Trump tries to downgrade mail-in voting, Michiganders fight back",
+   "link": "https://gandernewsroom.com/news/elections/as-trump-tries-to-downgrade-mail-in-voting-michiganders-fight-back/",
+   "published": "Wed, 02 Sep 2026 14:54:40 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Fall is weeks away, but some Michigan cider mills, orchards are open",
    "link": "https://gandernewsroom.com/local/food-drink/fall-is-weeks-away-but-some-michigan-cider-mills-orchards-are-open/",
    "published": "Tue, 01 Sep 2026 12:54:07 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Two Lansing budtenders picked my weed and it cost me twice as much",
-   "link": "https://gandernewsroom.com/news/cannabis/lansing-budtender-picks-weed/",
-   "published": "Mon, 31 Aug 2026 21:11:34 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "7 quick hits of cannabis news from across Michigan",
-   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-083126/",
-   "published": "Mon, 31 Aug 2026 21:09:46 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
