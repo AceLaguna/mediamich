@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T11:09:48+00:00",
+ "generated": "2026-09-03T16:23:16+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Trump’s tariffs are hitting Michigan households harder than anywhere else, study finds",
+   "link": "https://www.metrotimes.com/news/trumps-tariffs-are-hitting-michigan-households-harder-than-anywhere-else-study-finds/",
+   "published": "Thu, 03 Sep 2026 13:57:07 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Trump-backed ‘Freedom Fuel’ arrives in Detroit as lawsuit raises questions about cheap gas",
    "link": "https://www.metrotimes.com/news/trump-backed-freedom-fuel-arrives-in-detroit-as-lawsuit-raises-questions-about-cheap-gas/",
    "published": "Wed, 02 Sep 2026 16:00:50 +0000"
@@ -31,12 +37,6 @@
    "title": "Bev’s Bagels is opening a second location in Birmingham",
    "link": "https://www.metrotimes.com/food-drink/food-news/bevs-bagels-is-opening-a-second-location-in-birmingham/",
    "published": "Tue, 01 Sep 2026 20:17:11 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Hazel Park’s historic Bottle House just got a major price drop",
-   "link": "https://www.metrotimes.com/arts/culture/hazel-parks-historic-bottle-house-just-got-a-major-price-drop/",
-   "published": "Tue, 01 Sep 2026 17:06:50 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Michigan voter rolls: What election-year audit shows",
+   "link": "https://www.bridgedetroit.com/michigan-voter-rolls-what-election-year-audit-shows/",
+   "published": "Thu, 03 Sep 2026 12:19:59 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "DPSCD parents press for answers on special education",
    "link": "https://www.bridgedetroit.com/dpscd-parents-press-for-answers-on-special-education/",
    "published": "Thu, 03 Sep 2026 11:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "At Motown’s front desk, metro Detroit resident Sonya Harris witnessed music history",
    "link": "https://www.bridgedetroit.com/at-motowns-front-desk-metro-detroit-resident-sonya-harris-witnessed-music-history/",
    "published": "Thu, 03 Sep 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Sheffield taps longtime Detroiter to serve as business, workforce chief",
-   "link": "https://www.bridgedetroit.com/sheffield-taps-longtime-detroiter-to-serve-as-business-workforce-chief/",
-   "published": "Wed, 02 Sep 2026 22:26:46 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump’s newest order on birthright citizenship blocked in federal court",
-   "link": "https://michiganadvance.com/2026/09/03/repub/trumps-newest-order-on-birthright-citizenship-blocked-in-federal-court/",
-   "published": "Thu, 03 Sep 2026 08:06:24 +0000"
+   "title": "Michigan AG investigating alleged embezzlement of state grant from the American Arab Chamber",
+   "link": "https://michiganadvance.com/2026/09/03/michigan-ag-investigating-alleged-embezzlement-of-state-grant-from-the-american-arab-chamber/",
+   "published": "Thu, 03 Sep 2026 14:51:13 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "More states are putting panic alarms in schools",
-   "link": "https://michiganadvance.com/2026/09/03/repub/more-states-are-putting-panic-alarms-in-schools/",
-   "published": "Thu, 03 Sep 2026 08:06:02 +0000"
+   "title": "Michigan State moves Berkey Hall classes online, citing potential threat",
+   "link": "https://michiganadvance.com/2026/09/03/michigan-state-moves-berkey-hall-classes-online-citing-potential-threat/",
+   "published": "Thu, 03 Sep 2026 12:16:11 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
-   "link": "https://michiganadvance.com/2026/09/03/nessel-wins-injunction-against-kalshi-as-prediction-market-says-michigan-lacks-regulatory-authority/",
-   "published": "Thu, 03 Sep 2026 08:00:58 +0000"
+   "title": "Gloria Steinem, who pushed for gender equality, dies at 92",
+   "link": "https://michiganadvance.com/2026/09/03/gloria-steinem-who-pushed-for-gender-equality-dies-at-92/",
+   "published": "Thu, 03 Sep 2026 12:04:46 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "State title contenders lead Ann Arbor-area boys tennis players to watch in 2026",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/state-title-contenders-lead-ann-arbor-area-boys-tennis-players-to-watch-in-2026.html",
-   "published": "Thu, 03 Sep 2026 11:02:00 +0000"
+   "title": "Retiree turns slow fishing trip around, catches ‘bull of a bluegill’ to set state record",
+   "link": "https://www.mlive.com/news/2026/09/retiree-turns-slow-fishing-trip-around-catches-bull-of-a-bluegill-to-set-state-record.html",
+   "published": "Thu, 03 Sep 2026 16:18:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Holiday Mathis horoscopes for Sept. 3, 2026: A twist of perspective",
-   "link": "https://www.mlive.com/advice/2026/09/holiday-mathis-horoscope-for-sept-3-2026-a-twist-of-perspective.html",
-   "published": "Thu, 03 Sep 2026 11:01:00 +0000"
+   "title": "California man rescued from garbage truck after bystander hears screams from under pile of trash",
+   "link": "https://www.mlive.com/news/2026/09/man-rescued-from-garbage-truck-after-bystander-hears-screams-from-under-pile-of-trash.html",
+   "published": "Thu, 03 Sep 2026 16:15:40 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "All-staters, newcomers highlight Ann Arbor-area boys soccer watchlist for 2026",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/all-staters-newcomers-highlight-ann-arbor-area-boys-soccer-watchlist-for-2026.html",
-   "published": "Thu, 03 Sep 2026 11:01:00 +0000"
+   "title": "List of sweeps casinos: Every site worth playing this month",
+   "link": "https://www.mlive.com/sweepstakes-casinos/2026/09/list-of-sweeps-casinos-every-site-worth-playing-this-month.html",
+   "published": "Thu, 03 Sep 2026 16:15:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Michigan environmental news: 105,000 without power after overnight storms, more severe weather expected",
+   "link": "https://planetdetroit.org/2026/09/michigan-storms-power-outages-severe-weather/",
+   "published": "Thu, 03 Sep 2026 15:53:00 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "CatchLight selects Planet Detroit for grant to report on climate anxiety among Detroit youth",
    "link": "https://planetdetroit.org/2026/09/detroit-youth-climate-cafes-photography/",
    "published": "Tue, 01 Sep 2026 20:58:16 +0000"
@@ -177,10 +183,16 @@
    "published": "Tue, 01 Sep 2026 17:56:42 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Students and teachers brace for Michigan’s new classroom phone ban",
-   "link": "https://planetdetroit.org/2026/08/michigan-school-phone-ban-students-teachers/",
-   "published": "Mon, 31 Aug 2026 13:46:19 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Here’s how to fight back against ICE and support immigrant communities in Michigan",
+   "link": "https://gandernewsroom.com/local/things-to-do/protest-ice-michigan-guide/",
+   "published": "Thu, 03 Sep 2026 15:10:30 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "The 13 most charming small towns in Michigan",
+   "link": "https://gandernewsroom.com/local/things-to-do/the-13-most-charming-small-towns-in-michigan/",
+   "published": "Thu, 03 Sep 2026 14:00:00 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -189,16 +201,10 @@
    "published": "Wed, 02 Sep 2026 17:30:47 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Here’s what’s happening in Michigan this weekend (Sept. 4-7)",
-   "link": "https://gandernewsroom.com/local/things-to-do/heres-whats-happening-in-michigan-this-weekend-sept-4-7/",
-   "published": "Wed, 02 Sep 2026 15:04:18 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "As Trump tries to downgrade mail-in voting, Michiganders fight back",
-   "link": "https://gandernewsroom.com/news/elections/as-trump-tries-to-downgrade-mail-in-voting-michiganders-fight-back/",
-   "published": "Wed, 02 Sep 2026 14:54:40 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan's midterms could put historical trends and conventional wisdom to the test",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-03/michigans-midterms-could-put-historical-trends-and-conventional-wisdom-to-the-test",
+   "published": "Thu, 03 Sep 2026 11:55:55 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
@@ -211,12 +217,6 @@
    "title": "New state report details hottest jobs and careers",
    "link": "https://www.michiganpublic.org/economy/2026-09-02/new-state-report-details-hottest-jobs-and-careers",
    "published": "Thu, 03 Sep 2026 01:16:30 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Candidates for Michigan governor disagree on a federal education tax credit",
-   "link": "https://www.michiganpublic.org/education/2026-09-02/candidates-for-michigan-governor-disagree-on-a-federal-education-tax-credit",
-   "published": "Wed, 02 Sep 2026 22:01:21 GMT"
   }
  ]
 }
