@@ -1,24 +1,24 @@
 {
- "generated": "2026-09-03T21:00:05+00:00",
+ "generated": "2026-09-04T04:28:04+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Berkey Hall will be open on Friday",
+   "link": "https://lansingcitypulse.com/berkey-hall-will-be-open-on-friday/",
+   "published": "Fri, 04 Sep 2026 00:17:48 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Man charged in Aug. 20 stabbing death",
+   "link": "https://lansingcitypulse.com/man-charged-in-aug-20-stabbing-death/",
+   "published": "Thu, 03 Sep 2026 21:03:46 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Thousands out of power in Greater Lansing area after storms",
    "link": "https://lansingcitypulse.com/thousands-out-of-power-in-greater-lansing-area-after-storms/",
    "published": "Thu, 03 Sep 2026 19:20:25 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Kalshi blocked from online sports betting, at least for now, amid Michigan lawsuit",
-   "link": "https://lansingcitypulse.com/kalshi-blocked-from-online-sports-betting-at-least-for-now-amid-michigan-lawsuit/",
-   "published": "Wed, 02 Sep 2026 19:38:53 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Police investigating after 57-year-old man found dead",
-   "link": "https://lansingcitypulse.com/police-investigating-after-57-year-old-man-found-dead/",
-   "published": "Wed, 02 Sep 2026 16:24:03 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -40,39 +40,39 @@
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "How MSU is using wasps to fight invasive beetles",
-   "link": "https://bridgemi.com/michigan-environment-watch/how-msu-is-using-wasps-to-fight-invasive-beetles/",
-   "published": "Thu, 03 Sep 2026 20:44:52 +0000"
+   "title": "Citizenship voting proposal denied ballot access by US, Michigan Supreme Courts",
+   "link": "https://bridgemi.com/michigan-government/citizenship-voting-proposal-denied-ballot-access-by-us-michigan-supreme-courts/",
+   "published": "Fri, 04 Sep 2026 02:14:28 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Supreme Court weighs fate of blocked Michigan citizenship voting proposal",
-   "link": "https://bridgemi.com/michigan-government/supreme-court-weighs-fate-of-blocked-michigan-citizenship-voting-proposal/",
-   "published": "Wed, 02 Sep 2026 21:15:06 +0000"
+   "title": "Feds halted work on project to stop invasive carp. Then Whitmer called Trump",
+   "link": "https://bridgemi.com/michigan-government/feds-halted-work-on-project-to-stop-invasive-carp-then-whitmer-called-trump/",
+   "published": "Thu, 03 Sep 2026 21:51:31 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Macho, macho men? El-Sayed, Rogers spar over ‘beta energy,’ football",
-   "link": "https://bridgemi.com/michigan-government/macho-macho-men-el-sayed-rogers-spar-over-beta-energy-football/",
-   "published": "Wed, 02 Sep 2026 20:08:28 +0000"
+   "title": "Fact check: No evidence Abdul El-Sayed ‘pledged support’ to Muslim Brotherhood",
+   "link": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/",
+   "published": "Thu, 03 Sep 2026 21:19:07 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Afternoon storms add to power outages; potential tornado touchdown on Detroit’s east side",
+   "link": "https://www.bridgedetroit.com/afternoon-storms-add-to-power-outages-potential-tornado-touchdown-on-detroits-east-side/",
+   "published": "Fri, 04 Sep 2026 01:22:48 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Police oversight board won’t end virtual public comment",
+   "link": "https://www.bridgedetroit.com/police-oversight-board-virtual-public-comment/",
+   "published": "Thu, 03 Sep 2026 21:13:23 +0000"
   },
   {
    "outlet": "BridgeDetroit",
    "title": "Voter guide 2026: Everything you need to know about voting in Detroit",
    "link": "https://www.bridgedetroit.com/2026-michigan-voter-guide-what-to-know/",
    "published": "Thu, 03 Sep 2026 19:25:16 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan voter rolls: What election-year audit shows",
-   "link": "https://www.bridgedetroit.com/michigan-voter-rolls-what-election-year-audit-shows/",
-   "published": "Thu, 03 Sep 2026 12:19:59 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "DPSCD parents press for answers on special education",
-   "link": "https://www.bridgedetroit.com/dpscd-parents-press-for-answers-on-special-education/",
-   "published": "Thu, 03 Sep 2026 11:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "US Supreme Court declines to hear application on Michigan citizens-only voting ballot measure",
+   "link": "https://michiganadvance.com/2026/09/03/us-supreme-court-declines-to-hear-application-on-michigan-citizens-only-voting-ballot-measure/",
+   "published": "Thu, 03 Sep 2026 21:35:13 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Women on parole face higher rates of mental health, housing challenges",
    "link": "https://michiganadvance.com/2026/09/03/repub/women-on-parole-face-higher-rates-of-mental-health-housing-challenges/",
    "published": "Thu, 03 Sep 2026 19:59:15 +0000"
@@ -123,28 +129,22 @@
    "published": "Thu, 03 Sep 2026 19:58:55 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "After Whitmer call, Trump administration lifts halt on invasive carp project",
-   "link": "https://michiganadvance.com/2026/09/03/after-whitmer-call-trump-administration-lifts-halt-on-invasive-carp-project/",
-   "published": "Thu, 03 Sep 2026 17:56:44 +0000"
+   "outlet": "MLive",
+   "title": "PHOTOS: Coopersville rolls past West Catholic 41-21, snaps 6-game skid to the Falcons",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/photos-coopersville-rolls-past-west-catholic-41-21-snaps-6-game-skid-to-the-falcons.html",
+   "published": "Fri, 04 Sep 2026 04:06:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "More than 38K out of power in Livingston County",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/09/more-than-38k-out-of-power-in-livingston-county.html",
-   "published": "Thu, 03 Sep 2026 20:48:12 +0000"
+   "title": "Vote for the Week 2 Flint-area Thursday Night Football Hero",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/vote-for-the-week-2-flint-area-thursday-night-football-hero.html",
+   "published": "Fri, 04 Sep 2026 04:05:34 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ex-LSU star from Ukraine breaks silence on decision to leave program",
-   "link": "https://www.mlive.com/sports/2026/09/ex-lsu-star-from-ukraine-breaks-silence-on-decision-to-leave-program.html",
-   "published": "Thu, 03 Sep 2026 20:46:41 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Woman sues police officer after injuries during alleged shoplifting arrest",
-   "link": "https://www.mlive.com/news/flint/2026/09/woman-sues-police-officer-after-injuries-during-alleged-shoplifting-arrest.html",
-   "published": "Thu, 03 Sep 2026 20:34:08 +0000"
+   "title": "Check out Metro Detroit high school football scores from Thursday of Week 2",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/check-out-metro-detroit-high-school-football-scores-from-thursday-of-week-2.html",
+   "published": "Fri, 04 Sep 2026 04:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan voter ID, proof of citizenship amendment loses at state, U.S. Supreme Court",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-03/michigan-proof-of-citizenship-voting-amendment-loses-at-state-u-s-supreme-court",
+   "published": "Fri, 04 Sep 2026 02:39:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Thursday, Sep. 3, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-09-03/stateside-thursday-sep-3",
+   "published": "Thu, 03 Sep 2026 20:58:15 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "College football has kicked off! Do you know how to watch the games?",
    "link": "https://www.michiganpublic.org/sports/2026-09-03/college-football-has-kicked-off-do-you-know-how-to-watch-the-games",
    "published": "Thu, 03 Sep 2026 19:38:11 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Here are 28 things to do in Michigan this weekend (September 4-7)",
-   "link": "https://www.michiganpublic.org/community/2026-09-03/here-are-28-things-to-do-in-michigan-this-weekend-september-4-7",
-   "published": "Thu, 03 Sep 2026 18:50:39 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan's midterms could put historical trends and conventional wisdom to the test",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-03/michigans-midterms-could-put-historical-trends-and-conventional-wisdom-to-the-test",
-   "published": "Thu, 03 Sep 2026 11:55:55 GMT"
   }
  ]
 }
