@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-06T15:25:46+00:00",
+ "generated": "2026-09-06T20:22:06+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Top 5 seafood restaurants",
+   "link": "https://lansingcitypulse.com/top-5-seafood-restaurants/",
+   "published": "Sun, 06 Sep 2026 18:25:37 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Photo gallery: A Festival of Oddities",
@@ -15,10 +21,10 @@
    "published": "Fri, 04 Sep 2026 21:36:50 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Notice of Public Hearing and Consolidated Annual Performance Evaluation Report Available, East Lansing Community Development Block Grant Program",
-   "link": "https://lansingcitypulse.com/notice-of-public-hearing-and-consolidated-annual-performance-evaluation-report-available-east-lansing-community-development-block-grant-program/",
-   "published": "Fri, 04 Sep 2026 21:27:55 +0000"
+   "outlet": "Metro Times",
+   "title": "Photos: Lytes Out 8 brings underground hip-hop to the Crofoot",
+   "link": "https://www.metrotimes.com/music-2/lytes-out-8-brings-underground-hip-hop-to-the-crofoot/",
+   "published": "Sun, 06 Sep 2026 18:59:57 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -31,12 +37,6 @@
    "title": "Motor City Comedy Festival packs Detroit and Hamtramck with rising stand-up stars",
    "link": "https://www.metrotimes.com/arts/motor-city-comedy-festival-packs-detroit-and-hamtramck-with-rising-stand-up-stars/",
    "published": "Fri, 04 Sep 2026 19:55:18 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Mike Rogers raises cash with ex-lawmaker who said ‘we can’t make an African American white’",
-   "link": "https://www.metrotimes.com/news/mike-rogers-raises-cash-with-ex-lawmaker-who-said-we-cant-make-an-african-american-white/",
-   "published": "Fri, 04 Sep 2026 18:24:52 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Everyone wants to win working-class voters. But have they realized many are women?",
+   "link": "https://michiganadvance.com/2026/09/06/everyone-wants-to-win-working-class-voters-but-have-they-realized-many-are-women/",
+   "published": "Sun, 06 Sep 2026 16:00:15 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "As the Trump administration dismantles Temporary Protected Status, Salvadorans may be next",
    "link": "https://michiganadvance.com/2026/09/06/repub/as-the-trump-administration-dismantles-temporary-protected-status-salvadorans-may-be-next/",
    "published": "Sun, 06 Sep 2026 11:00:59 +0000"
@@ -123,28 +129,22 @@
    "published": "Sat, 05 Sep 2026 16:00:22 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "ICE agent Christian Castro turns himself in on federal charges",
-   "link": "https://michiganadvance.com/2026/09/05/repub/ice-agent-christian-castro-turns-himself-in-on-federal-charge/",
-   "published": "Sat, 05 Sep 2026 11:00:40 +0000"
+   "outlet": "MLive",
+   "title": "Michigan State opens as betting favorite against in-state opponent",
+   "link": "https://www.mlive.com/spartans/football/2026/09/michigan-state-opens-as-betting-favorite-against-in-state-opponent.html",
+   "published": "Sun, 06 Sep 2026 20:20:28 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Springfield Township Supervisor Ric Davis targeted for recall",
-   "link": "https://www.mlive.com/news/2026/09/springfield-township-supervisor-ric-davis-targeted-for-recall.html",
-   "published": "Sun, 06 Sep 2026 15:16:12 +0000"
+   "title": "Hello Millions Casino tournament: Points and prizes this Labor Day Weekend",
+   "link": "https://www.mlive.com/sweepstakes-casinos/2026/09/hello-millions-casino-tournament-points-and-prizes-this-labor-day-weekend.html",
+   "published": "Sun, 06 Sep 2026 20:11:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Finebaum calls LSU contender, Clemson ‘middling’",
-   "link": "https://www.mlive.com/sports/2026/09/finebaum-calls-lsu-national-title-contender-refers-to-clemson-as-middling.html",
-   "published": "Sun, 06 Sep 2026 15:15:19 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Solar farm project faces lawsuit from Zeeland Township",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/09/silver-maple-solar-project-faces-lawsuit-from-zeeland-township.html",
-   "published": "Sun, 06 Sep 2026 15:15:00 +0000"
+   "title": "When is Labor Day 2026? What you need to know about the holiday, including store hours",
+   "link": "https://www.mlive.com/news/2026/09/when-is-labor-day-2026-what-you-need-to-know-about-the-holiday-including-store-hours.html",
+   "published": "Sun, 06 Sep 2026 20:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
