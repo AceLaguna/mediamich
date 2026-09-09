@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T11:18:41+00:00",
+ "generated": "2026-09-09T16:35:48+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Rouge Gateway Greenway is growing again in Dearborn",
+   "link": "https://www.metrotimes.com/news/rouge-gateway-greenway-is-growing-again-in-dearborn/",
+   "published": "Wed, 09 Sep 2026 16:19:10 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Six Detroit restaurants are serving climate-friendly specials this month",
    "link": "https://www.metrotimes.com/food-drink/six-detroit-restaurants-are-serving-climate-friendly-specials-this-month/",
    "published": "Tue, 08 Sep 2026 20:07:26 +0000"
@@ -33,10 +39,10 @@
    "published": "Tue, 08 Sep 2026 19:02:14 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Senate Theater turns 100 with silent films, live organ music and a big Detroit party",
-   "link": "https://www.metrotimes.com/arts/senate-theater-turns-100-with-silent-films-live-organ-music-and-a-big-detroit-party/",
-   "published": "Tue, 08 Sep 2026 15:21:37 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Whitmer rethinks Line 5 tunnel permits, ramps up shutdown pleas after court ruling",
+   "link": "https://bridgemi.com/michigan-environment-watch/whitmer-rethinks-line-5-tunnel-permits-ramps-up-shutdown-pleas-after-court-ruling/",
+   "published": "Wed, 09 Sep 2026 15:01:31 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -49,12 +55,6 @@
    "title": "Fact check: Democrats claim John James has used Congress to enrich himself",
    "link": "https://bridgemi.com/michigan-government/fact-check-democrats-claim-john-james-has-used-congress-to-enrich-himself/",
    "published": "Tue, 08 Sep 2026 20:16:40 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Damage from flood lingers Up North, as costs mount for schools, governments",
-   "link": "https://bridgemi.com/michigan-government/damage-from-flood-lingers-up-north-as-costs-mount-for-schools-governments/",
-   "published": "Tue, 08 Sep 2026 18:00:07 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Trump’s Canadian trade war stirs up trouble for Republican candidates",
+   "link": "https://michiganadvance.com/2026/09/09/repub/trumps-canadian-trade-war-stirs-up-trouble-for-republican-candidates/",
+   "published": "Wed, 09 Sep 2026 13:45:24 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Trump doesn’t have the power to limit mail-in voting, lawmakers tell US Supreme Court",
+   "link": "https://michiganadvance.com/2026/09/09/repub/trump-doesnt-have-the-power-to-limit-mail-in-voting-lawmakers-tell-us-supreme-court/",
+   "published": "Wed, 09 Sep 2026 12:00:54 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Michigan rabbis push El-Sayed to change  rhetoric on Israel, ensure safety of Jewish community",
    "link": "https://michiganadvance.com/2026/09/09/michigan-rabbis-push-el-sayed-to-change-rhetoric-on-israel-ensure-safety-of-jewish-community/",
    "published": "Wed, 09 Sep 2026 11:00:01 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "The largest US school districts restrict student AI use",
-   "link": "https://michiganadvance.com/2026/09/09/repub/the-largest-us-school-districts-restrict-student-ai-use/",
-   "published": "Wed, 09 Sep 2026 10:00:20 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Appeals court upholds decision to toss challenge to Ann Arbor public power initiative",
-   "link": "https://michiganadvance.com/2026/09/08/appeals-court-upholds-decision-to-toss-challenge-to-ann-arbor-public-power-initiative/",
-   "published": "Tue, 08 Sep 2026 18:52:32 +0000"
+   "outlet": "MLive",
+   "title": "Michigan prisons to add 870 high-security beds in safety initiative",
+   "link": "https://www.mlive.com/news/2026/09/michigan-prisons-to-add-870-high-security-beds-in-safety-initiative.html",
+   "published": "Wed, 09 Sep 2026 16:30:27 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Legendary rock band’s original singer to release first new album in 19 years",
-   "link": "https://www.mlive.com/life/2026/09/legendary-rock-bands-original-singer-to-release-first-new-album-in-19-years.html",
-   "published": "Wed, 09 Sep 2026 11:06:02 +0000"
+   "title": "Jared Goff aims to keep Lions OL on same page amid more potential changes",
+   "link": "https://www.mlive.com/lions/2026/09/jared-goff-aims-to-keep-lions-ol-on-same-page-amid-more-potential-changes.html",
+   "published": "Wed, 09 Sep 2026 16:28:27 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Detroit Lions game-by-game predictions: Are they primed for bounce-back season?",
-   "link": "https://www.mlive.com/lions/2026/09/detroit-lions-game-by-game-predictions-are-they-primed-for-bounce-back-season.html",
-   "published": "Wed, 09 Sep 2026 11:04:23 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "9/11 moment of silence: Bridge closure planned for Sept. 11",
-   "link": "https://www.mlive.com/news/2026/09/911-moment-of-silence-bridge-closure-planned-for-sept-11.html",
-   "published": "Wed, 09 Sep 2026 11:03:00 +0000"
+   "title": "Parents found competent for trial after son, 7, dies weighing 255 pounds",
+   "link": "https://www.mlive.com/news/flint/2026/09/parents-found-competent-for-trial-after-son-7-dies-weighing-255-pounds.html",
+   "published": "Wed, 09 Sep 2026 16:24:12 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "After F2 tornado, Detroit council wants to know about DTE Energy alternatives",
+   "link": "https://planetdetroit.org/2026/09/detroit-council-dte-alternatives-tornado/",
+   "published": "Wed, 09 Sep 2026 14:13:52 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Environmental advocates call for Wyandotte to switch drinking water source due to pollution near Detroit River intake",
    "link": "https://planetdetroit.org/2026/09/wyandotte-drinking-water-detroit-river-basf/",
    "published": "Tue, 08 Sep 2026 22:02:05 +0000"
@@ -175,12 +181,6 @@
    "title": "How Michigan attorney general race could reshape utility regulation, ratepayer protection",
    "link": "https://planetdetroit.org/2026/09/michigan-attorney-general-candidates-utility-oversight/",
    "published": "Thu, 03 Sep 2026 18:36:08 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Michigan environmental news: 105,000 without power after overnight storms, more severe weather expected",
-   "link": "https://planetdetroit.org/2026/09/michigan-storms-power-outages-severe-weather/",
-   "published": "Thu, 03 Sep 2026 15:53:00 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "A vote to completely rewrite Michigan’s Constitution? What to know about the “Con-Con.”",
+   "link": "https://www.michiganpublic.org/podcast/its-just-politics/2026-09-09/a-vote-to-completely-rewrite-michigans-constitution-what-to-know-about-the-con-con",
+   "published": "Wed, 09 Sep 2026 15:57:05 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Serving life for an unintended death: how felony murder locks up Black Michiganders",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-09/serving-life-for-an-unintended-death-how-felony-murder-locks-up-black-michiganders",
+   "published": "Wed, 09 Sep 2026 11:44:22 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "How we analyzed felony murder cases in Michigan",
    "link": "https://www.michiganpublic.org/2026-09-09/how-we-analyzed-felony-murder-cases-in-michigan",
    "published": "Wed, 09 Sep 2026 11:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Whitmer passes out school lunches, takes policy questions in Kalamazoo",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-08/whitmer-passes-out-school-lunches-takes-policy-questions-in-kalamazoo",
-   "published": "Wed, 09 Sep 2026 01:01:13 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Tuesday, Sep. 8, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-09-08/stateside-tuesday-sep-8-2026",
-   "published": "Tue, 08 Sep 2026 20:22:17 GMT"
   }
  ]
 }
