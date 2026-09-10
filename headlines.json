@@ -1,7 +1,19 @@
 {
- "generated": "2026-09-10T11:14:50+00:00",
+ "generated": "2026-09-10T16:21:44+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Guide to local museums and galleries",
+   "link": "https://lansingcitypulse.com/guide-to-local-museums-and-galleries/",
+   "published": "Thu, 10 Sep 2026 11:38:01 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Simply the blues, preserved for you",
+   "link": "https://lansingcitypulse.com/simply-the-blues-preserved-for-you/",
+   "published": "Thu, 10 Sep 2026 11:18:00 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "2026-‘27 theater productions:",
@@ -9,16 +21,10 @@
    "published": "Wed, 09 Sep 2026 20:25:07 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Family-owned orchard opens long-awaited wine room",
-   "link": "https://lansingcitypulse.com/family-owned-orchard-opens-long-awaited-wine-room/",
-   "published": "Wed, 09 Sep 2026 20:06:32 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "A case for the future as MSU College of Music marks 20 years of growth",
-   "link": "https://lansingcitypulse.com/a-case-for-the-future-as-msu-college-of-music-marks-20-years-of-growth/",
-   "published": "Wed, 09 Sep 2026 02:30:00 +0000"
+   "outlet": "Metro Times",
+   "title": "Before Mike Rogers invoked 9/11 against Abdul El-Sayed, he voted against care for sick responders",
+   "link": "https://www.metrotimes.com/news/before-mike-rogers-invoked-9-11-against-abdul-el-sayed-he-voted-against-care-for-sick-responders/",
+   "published": "Thu, 10 Sep 2026 16:13:10 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -31,12 +37,6 @@
    "title": "Former Detroit Tiger returns to the Hamtramck field where it all began",
    "link": "https://www.metrotimes.com/arts/things-to-do/former-detroit-tiger-returns-to-the-hamtramck-field-where-it-all-began/",
    "published": "Wed, 09 Sep 2026 18:33:18 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Rouge Gateway Greenway is growing again in Dearborn",
-   "link": "https://www.metrotimes.com/news/rouge-gateway-greenway-is-growing-again-in-dearborn/",
-   "published": "Wed, 09 Sep 2026 16:19:10 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Conservancy group plans new public trail in Ionia Natural Area",
+   "link": "https://greatlakesecho.org/2026/09/10/conservancy-group-plans-new-public-trail-in-ionia-natural-area/",
+   "published": "Thu, 10 Sep 2026 10:34:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Researchers release parasitoid wasps to combat invasive beetles",
    "link": "https://greatlakesecho.org/2026/09/09/researchers-release-parasitoid-wasps-to-combat-invasive-beetles/",
    "published": "Wed, 09 Sep 2026 09:26:00 +0000"
@@ -105,46 +111,40 @@
    "published": "Tue, 08 Sep 2026 10:45:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Michigan budget adds $2 million to wetlands conservation efforts",
-   "link": "https://greatlakesecho.org/2026/09/07/michigan-budget-adds-2-million-to-wetlands-conservation-efforts/",
-   "published": "Mon, 07 Sep 2026 09:35:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "How 9/11 changed the way America surveils its citizens",
+   "link": "https://michiganadvance.com/2026/09/10/repub/how-9-11-changed-the-way-america-surveils-its-citizens/",
+   "published": "Thu, 10 Sep 2026 15:57:53 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump plan would bar millions of Americans from voting by mail, states tell Supreme Court",
-   "link": "https://michiganadvance.com/2026/09/10/repub/trump-plan-would-bar-millions-of-americans-from-voting-by-mail-states-tell-supreme-court/",
-   "published": "Thu, 10 Sep 2026 10:00:07 +0000"
+   "title": "Citizens-only voting petition sponsors look to 2028 after initiative fails before state canvassers",
+   "link": "https://michiganadvance.com/2026/09/10/citizens-only-voting-petition-sponsors-look-to-2028-after-initiative-fails-before-state-canvassers/",
+   "published": "Thu, 10 Sep 2026 12:35:53 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Fetterman continues GOP flirtation, appears in surprise video to midterm convention",
-   "link": "https://michiganadvance.com/2026/09/10/repub/fetterman-continues-gop-flirtation-appears-in-surprise-video-to-midterm-convention/",
-   "published": "Thu, 10 Sep 2026 09:00:03 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Trump administration aims to exclude many noncitizens from the census",
-   "link": "https://michiganadvance.com/2026/09/10/repub/trump-administration-aims-to-exclude-many-noncitizens-from-the-census/",
-   "published": "Thu, 10 Sep 2026 08:00:20 +0000"
+   "title": "States sue feds over endangered species rollbacks",
+   "link": "https://michiganadvance.com/2026/09/10/repub/states-sue-feds-over-endangered-species-rollbacks/",
+   "published": "Thu, 10 Sep 2026 12:00:08 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Top 20 Ann Arbor-area girls cross country times for Sept. 10",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/top-20-ann-arbor-area-girls-cross-country-times-for-sept-10.html",
-   "published": "Thu, 10 Sep 2026 11:02:00 +0000"
+   "title": "Andre Pronovost, Red Wings forward in the 1960s, dies at 90",
+   "link": "https://www.mlive.com/redwings/2026/09/andre-pronovost-red-wings-forward-in-the-1960s-dies-at-90.html",
+   "published": "Thu, 10 Sep 2026 16:17:12 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bavarian makes the cut, predicts Week 3 Saginaw-area high school football games",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/bavarian-makes-the-cut-predicts-week-3-saginaw-area-high-school-football-games.html",
-   "published": "Thu, 10 Sep 2026 11:01:00 +0000"
+   "title": "U.S. Mint opens pre-orders for 9/11 ‘Never Forget’ half dollars — $40 a roll",
+   "link": "https://www.mlive.com/news/2026/09/us-mint-opens-pre-orders-for-911-never-forget-half-dollars-40-a-roll.html",
+   "published": "Thu, 10 Sep 2026 16:17:02 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Holiday Mathis horoscopes for Sept. 10, 2026: New moon brings focus on efficiency",
-   "link": "https://www.mlive.com/advice/2026/09/holiday-mathis-horoscopes-for-sept-10-2026-new-moon-brings-focus-on-efficiency.html",
-   "published": "Thu, 10 Sep 2026 11:01:00 +0000"
+   "title": "Viewers were deeply worried when one side of a news anchor's face was visibly paralyzed — now, he's sharing his diagnosis",
+   "link": "https://www.mlive.com/life/2026/09/news-anchor-reveals-surprising-diagnosis-behind-on-air-medical-emergency-that-had-fans-deeply-worried.html",
+   "published": "Thu, 10 Sep 2026 16:15:45 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Will Lawrence takes progressive campaign to conservative Livingston County to court independents",
+   "link": "https://gandernewsroom.com/news/elections/will-lawrence-independents/",
+   "published": "Thu, 10 Sep 2026 14:22:39 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Go apple-picking this fall at these 12 U-Pick farms in Michigan",
    "link": "https://gandernewsroom.com/local/things-to-do/u-pick-farms-in-michigan/",
    "published": "Tue, 08 Sep 2026 21:28:33 +0000"
@@ -195,10 +201,10 @@
    "published": "Tue, 08 Sep 2026 21:14:08 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "6 quick hits of cannabis news from across Michigan",
-   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-090826/",
-   "published": "Tue, 08 Sep 2026 20:46:41 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Federal lawsuit claims decades of hazing abuse in the University of Michigan hockey program",
+   "link": "https://www.michiganpublic.org/sports/2026-09-10/federal-lawsuit-claims-decades-of-hazing-abuse-in-the-university-of-michigan-hockey-program",
+   "published": "Thu, 10 Sep 2026 13:41:42 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
@@ -211,12 +217,6 @@
    "title": "Republican and Democratic U.S. Senate candidates laying out education plans",
    "link": "https://www.michiganpublic.org/politics-government/2026-09-10/republican-and-democratic-u-s-senate-candidates-laying-out-education-plans",
    "published": "Thu, 10 Sep 2026 01:58:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Jewish faith leaders air concerns with Democratic Senate nominee El-Sayed",
-   "link": "https://www.michiganpublic.org/2026-09-09/jewish-faith-leaders-air-concerns-with-democratic-senate-nominee-el-sayed",
-   "published": "Thu, 10 Sep 2026 01:13:00 GMT"
   }
  ]
 }
