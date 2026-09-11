@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T04:35:35+00:00",
+ "generated": "2026-09-11T11:16:28+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,21 +22,21 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Cass Café is coming back to Detroit with a whole lot more than food and drinks",
+   "link": "https://www.metrotimes.com/food-drink/cass-cafe-is-coming-back-to-detroit-with-a-whole-lot-more-than-food-and-drinks/",
+   "published": "Fri, 11 Sep 2026 05:19:31 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "Five bucks gets you a Brome smash burger on National Cheeseburger Day",
+   "link": "https://www.metrotimes.com/food-drink/five-bucks-gets-you-a-brome-smash-burger-on-national-cheeseburger-day/",
+   "published": "Fri, 11 Sep 2026 04:36:23 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Photos: Pitbull and Lil Jon turn Pine Knob into a party",
    "link": "https://www.metrotimes.com/music-2/photos-pitbull-and-lil-jon-turn-pine-knob-into-a-party/",
    "published": "Thu, 10 Sep 2026 20:48:04 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "‘How do you feel knowing we took your land?’ Richmond officer alleges racist harassment before firing",
-   "link": "https://www.metrotimes.com/news/how-do-you-feel-knowing-we-took-your-land-richmond-officer-alleges-racist-harassment-before-firing/",
-   "published": "Thu, 10 Sep 2026 19:54:52 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "‘Playing the diversity card’ emails reveal push to recruit Black residents for Detroit Thermal project",
-   "link": "https://www.metrotimes.com/news/playing-the-diversity-card-emails-reveal-push-to-recruit-black-residents-for-detroit-thermal-project/",
-   "published": "Thu, 10 Sep 2026 18:42:25 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Warning: Leave threatened venomous snake alone",
+   "link": "https://greatlakesecho.org/2026/09/11/warning-leave-threatened-venomous-snake-alone/",
+   "published": "Fri, 11 Sep 2026 09:37:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Conservancy group plans new public trail in Ionia Natural Area",
    "link": "https://greatlakesecho.org/2026/09/10/conservancy-group-plans-new-public-trail-in-ionia-natural-area/",
    "published": "Thu, 10 Sep 2026 10:34:00 +0000"
@@ -105,10 +111,16 @@
    "published": "Wed, 09 Sep 2026 09:26:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Illinois governor signs landmark plastic pollution bill",
-   "link": "https://greatlakesecho.org/2026/09/08/illinois-governor-signs-landmark-plastic-pollution-bill/",
-   "published": "Tue, 08 Sep 2026 10:45:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Schools, libraries sound alarm over potential changes to federal internet program",
+   "link": "https://michiganadvance.com/2026/09/11/repub/schools-libraries-sound-alarm-over-potential-changes-to-federal-internet-program/",
+   "published": "Fri, 11 Sep 2026 11:00:04 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "On the 25th anniversary of 9/11, States Newsroom editor remembers the heroes of Flight 93",
+   "link": "https://michiganadvance.com/2026/09/11/repub/on-the-25th-anniversary-of-9-11-states-newsroom-editor-remembers-the-heroes-of-flight-93/",
+   "published": "Fri, 11 Sep 2026 10:00:09 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -117,34 +129,22 @@
    "published": "Fri, 11 Sep 2026 03:23:59 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Republicans close out GOP midterm convention vowing to keep control of Congress",
-   "link": "https://michiganadvance.com/2026/09/10/repub/republicans-close-out-gop-midterm-convention-vowing-to-keep-control-of-congress/",
-   "published": "Fri, 11 Sep 2026 03:23:26 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Rogers uses RNC midterm platform to attack El-Sayed as Dems push back against Islamophobic rhetoric",
-   "link": "https://michiganadvance.com/2026/09/10/rogers-uses-rnc-midterm-platform-to-attack-el-sayed-as-dems-push-back-against-islamophobic-rhetoric/",
-   "published": "Fri, 11 Sep 2026 01:27:20 +0000"
+   "outlet": "MLive",
+   "title": "A half-century of horror: Michigan attraction opens for fall with 7 reimagined haunts",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/09/a-half-century-of-horror-michigan-attraction-opens-for-fall-with-7-reimagined-haunts.html",
+   "published": "Fri, 11 Sep 2026 11:05:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Dayton tops Great Lakes Loons to even Midwest League playoff series",
-   "link": "https://www.mlive.com/sports/saginaw-bay-city/2026/09/dayton-tops-great-lakes-loons-to-even-midwest-league-playoff-series.html",
-   "published": "Fri, 11 Sep 2026 03:03:11 +0000"
+   "title": "Holiday Mathis horoscopes for Sept. 11, 2026: The enduring human capacity for care",
+   "link": "https://www.mlive.com/advice/2026/09/holiday-mathis-horoscopes-for-sept-11-2026-the-enduring-human-capacity-for-care.html",
+   "published": "Fri, 11 Sep 2026 11:01:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Residents near proposed Ottawa County solar farm worry about harm to farmland, environment",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/09/residents-near-proposed-ottawa-county-solar-farm-worry-about-harm-to-farmland-environment.html",
-   "published": "Fri, 11 Sep 2026 02:07:18 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Ann Arbor-area football highlights: What stood out from Thursday’s action",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/ann-arbor-area-football-highlights-what-stood-out-from-thursdays-action.html",
-   "published": "Fri, 11 Sep 2026 02:05:00 +0000"
+   "title": "Permanent daylight saving time: These states would benefit the most",
+   "link": "https://www.mlive.com/news/2026/09/permanent-daylight-saving-time-these-states-would-benefit-the-most.html",
+   "published": "Fri, 11 Sep 2026 11:00:01 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Auchter's Art: Friends and allies",
+   "link": "https://www.michiganpublic.org/opinion/2026-09-11/auchters-art-friends-and-allies",
+   "published": "Fri, 11 Sep 2026 11:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Senate again passes nine vetoed bills that sat in limbo for 18 months",
    "link": "https://www.michiganpublic.org/politics-government/2026-09-10/senate-again-passes-nine-vetoed-bills-that-sat-in-limbo-for-18-months",
    "published": "Fri, 11 Sep 2026 01:04:03 GMT"
@@ -211,12 +217,6 @@
    "title": "Education advocates say Michigan should not opt in to federal tax credit for scholarship donations",
    "link": "https://www.michiganpublic.org/education/2026-09-10/education-advocates-say-michigan-should-not-opt-in-to-federal-tax-credit-for-scholarship-donations",
    "published": "Thu, 10 Sep 2026 22:55:53 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan's border crossings with Canada will close briefly on 9/11",
-   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-09-10/michigans-border-crossings-with-canada-will-close-briefly-on-9-11",
-   "published": "Thu, 10 Sep 2026 20:09:44 GMT"
   }
  ]
 }
