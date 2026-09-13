@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-13T11:47:10+00:00",
+ "generated": "2026-09-13T16:13:53+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Photo gallery: Abdul El-Sayed in Lansing, East Lansing",
+   "link": "https://lansingcitypulse.com/photo-gallery-abdul-el-sayed-in-lansing-east-lansing/",
+   "published": "Sun, 13 Sep 2026 13:26:19 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Abdul El-Sayed slams Mike Rogers for Texas appearance and offers a plan for Social Security reform",
@@ -13,12 +19,6 @@
    "title": "Musicians sought for World’s Longest Jam in Lansing",
    "link": "https://lansingcitypulse.com/musicians-sought-for-worlds-longest-jam-in-lansing/",
    "published": "Fri, 11 Sep 2026 20:28:30 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "9/11 memorial in Lansing brings Tom Barrett, Will Lawrence and Abdul El-Sayed to Lansing",
-   "link": "https://lansingcitypulse.com/9-11-memorial-in-lansing-brings-tom-barrett-will-lawrence-and-abdul-el-sayed-to-lansing/",
-   "published": "Fri, 11 Sep 2026 15:11:54 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -76,21 +76,21 @@
   },
   {
    "outlet": "Daily Detroit",
-   "title": "Your September Guide To Detroit: Jazz Fest, Month of Design & Stories We're Watching",
-   "link": "https://www.dailydetroit.com/your-september-guide-to-detroit-jazz-fest-month-of-design-stories-were-watching/",
-   "published": "Wed, 02 Sep 2026 22:37:29 GMT"
+   "title": "Should Detroit Switch Off DTE?",
+   "link": "https://www.dailydetroit.com/should-detroit-switch-off-dte/",
+   "published": "Sun, 13 Sep 2026 14:58:03 GMT"
   },
   {
    "outlet": "Daily Detroit",
-   "title": "Investing in Detroit's Parks: Inside the Neighborhood-Focused Push of the Gilbert Family Foundation",
-   "link": "https://www.dailydetroit.com/investing-in-detroits-parks-inside-the-neighborhood-focused-push-of-the-gilbert-family-foundation/",
-   "published": "Sat, 29 Aug 2026 21:01:38 GMT"
+   "title": "Inside Ray's Downtown, Bay Harbor Getaway & What's New at Greenfield Village",
+   "link": "https://www.dailydetroit.com/inside-rays-downtown-bay-harbor-getaway-whats-new-at-greenfield-village/",
+   "published": "Sun, 13 Sep 2026 14:46:25 GMT"
   },
   {
    "outlet": "Daily Detroit",
-   "title": "Your Detroit Weekend Plans: New Spots, Tasty Anniversary Parties, And Garage Rock",
-   "link": "https://www.dailydetroit.com/your-detroit-weekend-plans-new-spots-tasty-anniversary-parties-and-garage-rock/",
-   "published": "Fri, 28 Aug 2026 00:10:42 GMT"
+   "title": "Reinvesting in Detroit: Gratiot, 7 Mile, & Denby-Whittier",
+   "link": "https://www.dailydetroit.com/reinvesting-in-detroit-gratiot-7-mile-denby-whittier/",
+   "published": "Sun, 13 Sep 2026 14:42:44 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -130,21 +130,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "What do candidates for Michigan governor say about Flock cameras?",
-   "link": "https://www.mlive.com/politics/2026/09/what-do-candidates-for-michigan-governor-say-about-flock-cameras.html",
-   "published": "Sun, 13 Sep 2026 11:45:00 +0000"
+   "title": "Tigers eye Sept. 26 for possible Justin Verlander return",
+   "link": "https://www.mlive.com/tigers/2026/09/tigers-eye-sept-26-for-possible-justin-verlander-return.html",
+   "published": "Sun, 13 Sep 2026 16:05:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Long-shuttered Michigan paper mill to transform into haven for classic cars",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/09/long-shuttered-plainwell-paper-mill-transforms-into-haven-for-classic-cars.html",
-   "published": "Sun, 13 Sep 2026 11:40:00 +0000"
+   "title": "Michigan State PFF grades, snap counts: Linebackers tick up without captain",
+   "link": "https://www.mlive.com/spartans/football/2026/09/michigan-state-pff-grades-snap-counts-linebackers-tick-up-without-captain.html",
+   "published": "Sun, 13 Sep 2026 16:02:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Is Dana Chandler still in prison? An update on HBO’s ‘A Killer Story’",
-   "link": "https://www.mlive.com/life/2026/09/is-dana-chandler-still-in-prison-an-update-on-hbos-a-killer-story.html",
-   "published": "Sun, 13 Sep 2026 11:35:00 +0000"
+   "title": "Why Lions fans keep coming back to Eastern Market for game day",
+   "link": "https://www.mlive.com/lions/2026/09/why-lions-fans-keep-coming-back-to-eastern-market-for-game-day.html",
+   "published": "Sun, 13 Sep 2026 15:59:48 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "After regulators skip decision on sale of Consumers' dams, company begins negotiation with opponents",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-09-13/consumers-energy-begins-negotiations-with-opponents-of-its-proposed-sale-of-13-hydroelectric-dams",
+   "published": "Sun, 13 Sep 2026 16:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Federal court rejects Trump order keeping Michigan coal plant open",
    "link": "https://www.michiganpublic.org/environment-climate-change/2026-09-11/federal-court-rejects-trump-order-keeping-michigan-coal-plant-open",
    "published": "Fri, 11 Sep 2026 23:58:52 GMT"
@@ -211,12 +217,6 @@
    "title": "TWTS: \"Proactive\" gets a reaction in advance",
    "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-09-11/twts-proactive-gets-a-reaction-in-advance",
    "published": "Fri, 11 Sep 2026 20:45:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Come From Away brings Newfoundland 9/11 odyssey to Michigan",
-   "link": "https://www.michiganpublic.org/arts-life/2026-09-11/come-from-away-brings-newfoundland-9-11-odyssey-to-michigan",
-   "published": "Fri, 11 Sep 2026 17:57:55 GMT"
   }
  ]
 }
