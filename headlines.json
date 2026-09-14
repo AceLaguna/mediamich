@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T04:51:11+00:00",
+ "generated": "2026-09-14T12:40:46+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Michigan increased funding for English learners by $12.5M. Advocates say a big gap persists.",
+   "link": "https://www.bridgedetroit.com/michigan-increased-funding-for-english-learners-by-12-5m-advocates-say-a-big-gap-persists/",
+   "published": "Mon, 14 Sep 2026 11:53:04 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Detroit mayor announces $2.2M city investment in 7 new after-school sites",
    "link": "https://www.bridgedetroit.com/detroit-mayor-announces-7-new-after-school-sites-with-2-2m-in-city-funds/",
    "published": "Thu, 10 Sep 2026 22:04:56 +0000"
@@ -67,12 +73,6 @@
    "title": "September is Healthy Aging Month",
    "link": "https://www.bridgedetroit.com/september-is-healthy-aging-month/",
    "published": "Thu, 10 Sep 2026 16:12:47 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "‘Faith in Detroit’ project features Mustard Tree Co-op president and her faith story | American Black Journal",
-   "link": "https://www.bridgedetroit.com/faith-in-detroit-project-features-mustard-tree-co-op-president-and-her-faith-story-american-black-journal/",
-   "published": "Wed, 09 Sep 2026 16:11:29 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Company pays $500,000 fine for asbestos safety violations",
+   "link": "https://greatlakesecho.org/2026/09/14/company-pays-500000-fine-for-asbestos-safety-violations/",
+   "published": "Mon, 14 Sep 2026 09:05:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Project uses community input to guide tree planting in disadvantaged areas",
    "link": "https://greatlakesecho.org/2026/09/13/project-uses-community-input-to-guide-tree-planting-in-disadvantaged-areas/",
    "published": "Sun, 13 Sep 2026 09:56:00 +0000"
@@ -105,10 +111,16 @@
    "published": "Sat, 12 Sep 2026 10:42:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Warning: Leave threatened venomous snake alone",
-   "link": "https://greatlakesecho.org/2026/09/11/warning-leave-threatened-venomous-snake-alone/",
-   "published": "Fri, 11 Sep 2026 09:37:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Environmentalists push lawmakers to forge ahead on moratorium and regulations for data centers",
+   "link": "https://michiganadvance.com/2026/09/14/environmentalists-push-lawmakers-to-forge-ahead-on-moratorium-and-regulations-for-data-centers/",
+   "published": "Mon, 14 Sep 2026 10:00:42 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Someone’s taken into ICE custody in Michigan. Here’s what happens to them next.",
+   "link": "https://michiganadvance.com/2026/09/14/someones-taken-into-ice-custody-in-michigan-heres-what-happens-to-them-next/",
+   "published": "Mon, 14 Sep 2026 08:00:01 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -117,34 +129,22 @@
    "published": "Sat, 12 Sep 2026 16:00:02 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Mixed-status immigrant households expected to lose benefits under new public charge rule",
-   "link": "https://michiganadvance.com/2026/09/12/repub/mixed-status-immigrant-households-expected-to-lose-benefits-under-new-public-charge-rule/",
-   "published": "Sat, 12 Sep 2026 10:00:31 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Trump plan to limit mail voting hinders Democrats more than GOP, analysis finds",
-   "link": "https://michiganadvance.com/2026/09/11/repub/trump-plan-to-limit-mail-voting-hinders-democrats-more-than-gop-analysis-finds/",
-   "published": "Fri, 11 Sep 2026 21:43:02 +0000"
+   "outlet": "MLive",
+   "title": "Why have Michigan’s running backs been so quiet?",
+   "link": "https://www.mlive.com/wolverines/football/2026/09/why-have-michigans-running-backs-been-so-quiet.html",
+   "published": "Mon, 14 Sep 2026 12:30:05 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Red Wings pleased with prospects’ grit in loss to Penguins",
-   "link": "https://www.mlive.com/redwings/2026/09/red-wings-pleased-with-prospects-grit-in-loss-to-penguins.html",
-   "published": "Mon, 14 Sep 2026 02:29:54 +0000"
+   "title": "Beloved ‘80s rock band to perform hit album in full for first time on tour",
+   "link": "https://www.mlive.com/life/2026/09/beloved-80s-rock-band-to-perform-hit-album-in-full-for-first-time-on-tour.html",
+   "published": "Mon, 14 Sep 2026 12:26:22 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Convicted ex-NFL star moved to transitional housing",
-   "link": "https://www.mlive.com/sports/2026/09/convicted-ex-nfl-star-moved-to-transitional-housing-as-community-trustee.html",
-   "published": "Mon, 14 Sep 2026 02:29:41 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Todd Monken’s response to one Deshaun Watson question speaks volumes",
-   "link": "https://www.mlive.com/sports/2026/09/todd-monken-wont-answer-the-biggest-browns-question-after-ugly-loss.html",
-   "published": "Mon, 14 Sep 2026 00:43:25 +0000"
+   "title": "Jokester Jim Gaffigan holding meet and greet in Novi",
+   "link": "https://www.mlive.com/detroit/2026/09/jokester-jim-gaffigan-holding-meet-and-greet-in-novi.html",
+   "published": "Mon, 14 Sep 2026 12:17:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Some Flint water settlement claimants must fix paperwork problems or lose share of fund",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-14/some-flint-water-settlement-claimants-must-fix-paperwork-problems-or-lose-share-of-fund",
+   "published": "Mon, 14 Sep 2026 09:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan Public Fall Thank You gifts",
    "link": "https://www.michiganpublic.org/station-news/2026-09-14/michigan-public-spring-thank-you-gifts",
    "published": "Mon, 14 Sep 2026 04:04:00 GMT"
@@ -211,12 +217,6 @@
    "title": "Win a trip to visit the Galapagos Islands and the Amazon Rainforest with Michigan Public",
    "link": "https://www.michiganpublic.org/station-news/2026-09-14/win-a-trip-to-visit-the-galapagos-islands-and-the-amazon-rainforest-with-michigan-public",
    "published": "Mon, 14 Sep 2026 04:01:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "After regulators skip decision on sale of Consumers' dams, company begins negotiation with opponents",
-   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-09-13/consumers-energy-begins-negotiations-with-opponents-of-its-proposed-sale-of-13-hydroelectric-dams",
-   "published": "Sun, 13 Sep 2026 16:00:00 GMT"
   }
  ]
 }
