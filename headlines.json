@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-14T12:40:46+00:00",
+ "generated": "2026-09-14T21:47:31+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "East Lansing Police say officer was attacked with bear spray",
+   "link": "https://lansingcitypulse.com/east-lansing-police-say-officer-was-attacked-with-bear-spray/",
+   "published": "Mon, 14 Sep 2026 21:35:38 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Top 5 Soup in Greater Lansing",
@@ -15,28 +21,28 @@
    "published": "Sun, 13 Sep 2026 13:26:19 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Abdul El-Sayed slams Mike Rogers for Texas appearance and offers a plan for Social Security reform",
-   "link": "https://lansingcitypulse.com/abdul-el-sayed-slams-mike-rogers-for-texas-appearance-and-offers-a-plan-for-social-security-reform/",
-   "published": "Sat, 12 Sep 2026 15:21:25 +0000"
+   "outlet": "Metro Times",
+   "title": "A new book uncovers Detroit history’s strangest stories",
+   "link": "https://www.metrotimes.com/arts/culture/a-new-book-uncovers-detroit-historys-strangest-stories/",
+   "published": "Mon, 14 Sep 2026 17:36:53 +0000"
   },
   {
    "outlet": "Metro Times",
-   "title": "Mike Rogers opposed 9/11 responder health care not twice, but nine times",
-   "link": "https://www.metrotimes.com/news/mike-rogers-opposed-9-11-responder-health-care-not-twice-but-nine-times/",
-   "published": "Sat, 12 Sep 2026 15:39:05 +0000"
+   "title": "Detroit Black Film Festival returns with five days of movies, music and Black creativity",
+   "link": "https://www.metrotimes.com/arts/movies/detroit-black-film-festival-returns-with-five-days-of-movies-music-and-black-creativity/",
+   "published": "Mon, 14 Sep 2026 16:37:14 +0000"
   },
   {
    "outlet": "Metro Times",
-   "title": "The Lions are finally good. Why am I so worried?",
-   "link": "https://www.metrotimes.com/topic/sports/the-lions-are-finally-good-why-am-i-so-worried/",
-   "published": "Fri, 11 Sep 2026 19:24:18 +0000"
+   "title": "Donors named in Epstein files gave nearly $4.7 million to Mike Rogers and groups backing him",
+   "link": "https://www.metrotimes.com/news/donors-named-in-epstein-files-gave-nearly-4-7-million-to-mike-rogers-and-groups-backing-him/",
+   "published": "Mon, 14 Sep 2026 15:37:54 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Tlaib: Michigan schools can’t keep up with a heat crisis that corporate polluters created — and students are paying the price",
-   "link": "https://www.metrotimes.com/news/tlaib-michigan-schools-cant-keep-up-with-a-heat-crisis-that-corporate-polluters-created-and-students-are-paying-the-price/",
-   "published": "Fri, 11 Sep 2026 16:00:36 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "John James says he delivers results. What does his record show?",
+   "link": "https://bridgemi.com/michigan-government/john-james-says-he-delivers-results-what-does-his-record-show/",
+   "published": "Mon, 14 Sep 2026 19:32:13 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -49,12 +55,6 @@
    "title": "Push is on to boost career tech in Michigan schools. Not all agree that’s best",
    "link": "https://bridgemi.com/talent-education/from-the-classroom-to-the-shop-floor-how-michigans-career-tech-programs-work/",
    "published": "Fri, 11 Sep 2026 20:11:12 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Can Mike Rogers ‘put a shop class in every high school’?",
-   "link": "https://bridgemi.com/michigan-government/fact-check-can-mike-rogers-put-a-shop-class-in-every-high-school/",
-   "published": "Fri, 11 Sep 2026 18:26:04 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -112,39 +112,51 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Environmentalists push lawmakers to forge ahead on moratorium and regulations for data centers",
-   "link": "https://michiganadvance.com/2026/09/14/environmentalists-push-lawmakers-to-forge-ahead-on-moratorium-and-regulations-for-data-centers/",
-   "published": "Mon, 14 Sep 2026 10:00:42 +0000"
+   "title": "U.S. Senate Dems disclose Trump administration operation dug through state voter rolls",
+   "link": "https://michiganadvance.com/2026/09/14/repub/u-s-senate-dems-disclose-trump-administration-operation-dug-through-state-voter-rolls/",
+   "published": "Mon, 14 Sep 2026 20:54:45 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Someone’s taken into ICE custody in Michigan. Here’s what happens to them next.",
-   "link": "https://michiganadvance.com/2026/09/14/someones-taken-into-ice-custody-in-michigan-heres-what-happens-to-them-next/",
-   "published": "Mon, 14 Sep 2026 08:00:01 +0000"
+   "title": "Michigan State Police removes tens of thousands from sex offender registry after court order",
+   "link": "https://michiganadvance.com/2026/09/14/michigan-state-police-removes-tens-of-thousands-from-sex-offender-registry-after-court-order/",
+   "published": "Mon, 14 Sep 2026 20:53:38 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Divorce becomes next battleground as states debate family values",
-   "link": "https://michiganadvance.com/2026/09/12/repub/divorce-becomes-next-battleground-as-states-debate-family-values/",
-   "published": "Sat, 12 Sep 2026 16:00:02 +0000"
+   "title": "States, cities sue Trump administration over new green card restrictions",
+   "link": "https://michiganadvance.com/2026/09/14/repub/states-cities-sue-trump-administration-over-new-green-card-restrictions/",
+   "published": "Mon, 14 Sep 2026 20:48:30 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Why have Michigan’s running backs been so quiet?",
-   "link": "https://www.mlive.com/wolverines/football/2026/09/why-have-michigans-running-backs-been-so-quiet.html",
-   "published": "Mon, 14 Sep 2026 12:30:05 +0000"
+   "title": "Tents are illegal, and so is moving homeless people into your house, township near Jackson says",
+   "link": "https://www.mlive.com/news/jackson/2026/09/tents-are-illegal-and-so-is-moving-homeless-people-into-your-house-township-near-jackson-says.html",
+   "published": "Mon, 14 Sep 2026 21:39:20 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Beloved ‘80s rock band to perform hit album in full for first time on tour",
-   "link": "https://www.mlive.com/life/2026/09/beloved-80s-rock-band-to-perform-hit-album-in-full-for-first-time-on-tour.html",
-   "published": "Mon, 14 Sep 2026 12:26:22 +0000"
+   "title": "This $5 book subscription is changing how readers discover their next favorite novel this fall",
+   "link": "https://www.mlive.com/shopping/2026/09/this-5-book-subscription-is-changing-how-readers-discover-their-next-favorite-novel-this-fall.html",
+   "published": "Mon, 14 Sep 2026 21:33:47 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Jokester Jim Gaffigan holding meet and greet in Novi",
-   "link": "https://www.mlive.com/detroit/2026/09/jokester-jim-gaffigan-holding-meet-and-greet-in-novi.html",
-   "published": "Mon, 14 Sep 2026 12:17:00 +0000"
+   "title": "Ex-Pistons center announces retirement after 17-year NBA career",
+   "link": "https://www.mlive.com/pistons/2026/09/ex-pistons-center-announces-retirement-after-17-year-nba-career.html",
+   "published": "Mon, 14 Sep 2026 21:32:06 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Some Detroit English learners are being left behind. Here’s what’s at stake",
+   "link": "https://outliermedia.org/michigan-budget-doesnt-fill-this-longtime-funding-gap-for-english-learners/",
+   "published": "Mon, 14 Sep 2026 17:35:00 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "UM Detroit Center’s Block x Block series: Open dialogue on issues of concern, centering Detroiters’ lived experiences",
+   "link": "https://outliermedia.org/um-detroit-centers-block-x-block-series-open-dialogue-on-issues-of-concern-centering-detroiters-lived-experiences/",
+   "published": "Mon, 14 Sep 2026 17:31:25 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -153,34 +165,22 @@
    "published": "Wed, 09 Sep 2026 22:40:18 +0000"
   },
   {
-   "outlet": "Outlier Media",
-   "title": "Put your mark on the city, and get involved in Detroit",
-   "link": "https://outliermedia.org/detroit-month-of-design-events-september/",
-   "published": "Wed, 09 Sep 2026 10:00:00 +0000"
+   "outlet": "Planet Detroit",
+   "title": "Trump EPA moves to eliminate climate rules for coal, gas power plants",
+   "link": "https://planetdetroit.org/2026/09/trump-epa-power-plant-climate-rules/",
+   "published": "Mon, 14 Sep 2026 14:32:49 +0000"
   },
   {
-   "outlet": "Outlier Media",
-   "title": "They grew up breathing Detroit air. Generations of women are pushing for new approaches to pollution",
-   "link": "https://outliermedia.org/southwest-detroit-michigan-pollution-approaches/",
-   "published": "Tue, 08 Sep 2026 13:45:00 +0000"
+   "outlet": "Planet Detroit",
+   "title": "Michigan environmentalists push for statewide data center moratorium, regulations as bills stall",
+   "link": "https://planetdetroit.org/2026/09/data-center-regulations-stall-michigan-legislature/",
+   "published": "Mon, 14 Sep 2026 13:44:19 +0000"
   },
   {
    "outlet": "Planet Detroit",
    "title": "Federal court throws out Trump order forcing Michigan coal plant to stay open",
    "link": "https://planetdetroit.org/2026/09/michigan-coal-plant-emergency-order-struck-down/",
    "published": "Fri, 11 Sep 2026 18:36:22 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Michigan environmental news: $74.5 million DTE Gas rate hike is less than half utility’s requested amount",
-   "link": "https://planetdetroit.org/2026/09/dte-rate-hike-line-5-data-centers/",
-   "published": "Fri, 11 Sep 2026 15:32:01 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Michigan constitutional convention opponents say environmental protections at risk: ‘Pandora’s box’",
-   "link": "https://planetdetroit.org/2026/09/constitutional-convention-clean-energy-great-lakes/",
-   "published": "Thu, 10 Sep 2026 21:16:11 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Why are more Michigan kids going back to school with vaccine waivers?",
+   "link": "https://www.michiganpublic.org/section/stateside/2026-09-14/why-are-more-michigan-kids-going-back-to-school-with-vaccine-waivers",
+   "published": "Mon, 14 Sep 2026 17:22:04 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Some Flint water settlement claimants must fix paperwork problems or lose share of fund",
    "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-14/some-flint-water-settlement-claimants-must-fix-paperwork-problems-or-lose-share-of-fund",
    "published": "Mon, 14 Sep 2026 09:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan Public Fall Thank You gifts",
-   "link": "https://www.michiganpublic.org/station-news/2026-09-14/michigan-public-spring-thank-you-gifts",
+   "title": "Michigan Public fall thank you gifts",
+   "link": "https://www.michiganpublic.org/station-news/2026-09-14/michigan-public-fall-thank-you-gifts",
    "published": "Mon, 14 Sep 2026 04:04:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Win a trip to visit the Galapagos Islands and the Amazon Rainforest with Michigan Public",
-   "link": "https://www.michiganpublic.org/station-news/2026-09-14/win-a-trip-to-visit-the-galapagos-islands-and-the-amazon-rainforest-with-michigan-public",
-   "published": "Mon, 14 Sep 2026 04:01:00 GMT"
   }
  ]
 }
