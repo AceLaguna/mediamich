@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T11:40:31+00:00",
+ "generated": "2026-09-15T16:55:58+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Secretary of State candidates to debate at U-M; Bridge to moderate with Gongwer",
+   "link": "https://www.bridgedetroit.com/secretary-of-state-candidates-to-debate-at-u-m-bridge-to-moderate-with-gongwer/",
+   "published": "Tue, 15 Sep 2026 15:26:11 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "SNAP food replacement benefits deadline is Sept. 23. How to apply.",
    "link": "https://www.bridgedetroit.com/snap-benefits-reimbursement-wayne-county-storms/",
    "published": "Tue, 15 Sep 2026 10:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "How teachers and parents can collaborate to help Michigan’s 1.4M students succeed",
    "link": "https://www.bridgedetroit.com/how-teachers-and-parents-can-collaborate-to-help-michigans-1-4m-students-succeed/",
    "published": "Mon, 14 Sep 2026 22:27:28 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan increased funding for English learners by $12.5M. Advocates say a big gap persists.",
-   "link": "https://www.bridgedetroit.com/michigan-increased-funding-for-english-learners-by-12-5m-advocates-say-a-big-gap-persists/",
-   "published": "Mon, 14 Sep 2026 11:53:04 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Invasive carp get closer to Lake Michigan as project to halt their spread is ordered to stop",
+   "link": "https://greatlakesecho.org/2026/09/15/invasive-carp-get-closer-to-lake-michigan-as-project-to-halt-their-spread-is-ordered-to-stop/",
+   "published": "Tue, 15 Sep 2026 10:12:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Company pays $500,000 fine for asbestos safety violations",
    "link": "https://greatlakesecho.org/2026/09/14/company-pays-500000-fine-for-asbestos-safety-violations/",
    "published": "Mon, 14 Sep 2026 09:05:00 +0000"
@@ -105,10 +111,16 @@
    "published": "Sun, 13 Sep 2026 09:56:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Researchers working to increase algae growth for use in products",
-   "link": "https://greatlakesecho.org/2026/09/12/researchers-working-to-increase-algae-growth-for-use-in-products/",
-   "published": "Sat, 12 Sep 2026 10:42:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Fewer students, too many schools: Communities confront closures and consolidations",
+   "link": "https://michiganadvance.com/2026/09/15/repub/fewer-students-too-many-schools-communities-confront-closures-and-consolidations/",
+   "published": "Tue, 15 Sep 2026 14:29:20 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Michigan Department of Civil Rights charges Waterford law firm with disability discrimination",
+   "link": "https://michiganadvance.com/2026/09/15/michigan-department-of-civil-rights-charges-waterford-law-firm-with-disability-discrimination/",
+   "published": "Tue, 15 Sep 2026 12:00:20 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -117,34 +129,22 @@
    "published": "Tue, 15 Sep 2026 11:00:48 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Working Families Party joins Michigan Constitutional Convention opposition effort",
-   "link": "https://michiganadvance.com/2026/09/15/working-families-party-joins-michigan-constitutional-convention-opposition-effort/",
-   "published": "Tue, 15 Sep 2026 10:00:59 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "US Senate could soon take up bill to set standards for college athlete compensation",
-   "link": "https://michiganadvance.com/2026/09/15/repub/us-senate-could-soon-take-up-bill-to-set-standards-for-college-athlete-compensation/",
-   "published": "Tue, 15 Sep 2026 09:00:37 +0000"
+   "outlet": "MLive",
+   "title": "New poll shows 1 party with huge advantage in midterm elections — and it’s all thanks to Trump",
+   "link": "https://www.mlive.com/politics/2026/09/new-poll-shows-1-party-with-huge-advantage-in-midterm-elections-and-its-all-thanks-to-trump.html",
+   "published": "Tue, 15 Sep 2026 16:49:47 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan Forecast: Gale Warnings, Wind Advisories issued as storm system brings heavy rain",
-   "link": "https://www.mlive.com/weather/2026/09/michigan-forecast-gale-warnings-wind-advisories-issued-as-storm-system-brings-heavy-rain.html",
-   "published": "Tue, 15 Sep 2026 11:26:39 +0000"
+   "title": "Shroom fest returns to Ann Arbor as psychedelic industry expands with more shops",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/09/shroom-fest-returns-to-ann-arbor-as-psychedelic-industry-expands-with-more-shops.html",
+   "published": "Tue, 15 Sep 2026 16:47:39 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "South Haven approves $1.2M contract for police drones, license plate cameras",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/09/south-haven-approves-12m-contract-for-police-drones-license-plate-cameras.html",
-   "published": "Tue, 15 Sep 2026 11:15:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "NFL Hall of Famer mulled returning to play for Broncos",
-   "link": "https://www.mlive.com/sports/2026/09/nfl-hall-of-famer-mulled-returning-to-play-for-broncos-in-afc-title-game-last-season.html",
-   "published": "Tue, 15 Sep 2026 11:05:59 +0000"
+   "title": "WMU football records highest home opener attendance since 2017 in lopsided win",
+   "link": "https://www.mlive.com/broncos/2026/09/wmu-football-records-highest-home-opener-attendance-since-2017-in-lopsided-win.html",
+   "published": "Tue, 15 Sep 2026 16:40:50 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Voices: Michigan’s water systems need cybersecurity coordination after summer attacks",
+   "link": "https://planetdetroit.org/2026/09/michigan-water-systems-cybersecurity/",
+   "published": "Tue, 15 Sep 2026 15:21:19 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Trump EPA moves to eliminate climate rules for coal, gas power plants",
    "link": "https://planetdetroit.org/2026/09/trump-epa-power-plant-climate-rules/",
    "published": "Mon, 14 Sep 2026 14:32:49 +0000"
@@ -177,10 +183,10 @@
    "published": "Mon, 14 Sep 2026 13:44:19 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Federal court throws out Trump order forcing Michigan coal plant to stay open",
-   "link": "https://planetdetroit.org/2026/09/michigan-coal-plant-emergency-order-struck-down/",
-   "published": "Fri, 11 Sep 2026 18:36:22 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Over 14 million birds to fly over Michigan. Why they’re on the move",
+   "link": "https://gandernewsroom.com/local/local-news/over-14-million-birds-to-fly-over-michigan-why-theyre-on-the-move/",
+   "published": "Tue, 15 Sep 2026 13:41:56 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -193,12 +199,6 @@
    "title": "When will it snow in Michigan? When you might need your shovel",
    "link": "https://gandernewsroom.com/local/local-news/when-will-it-snow-in-michigan-when-you-might-need-your-shovel/",
    "published": "Thu, 10 Sep 2026 16:59:17 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Will Lawrence takes progressive campaign to conservative Livingston County to court independents",
-   "link": "https://gandernewsroom.com/news/elections/will-lawrence-independents/",
-   "published": "Thu, 10 Sep 2026 14:22:39 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
