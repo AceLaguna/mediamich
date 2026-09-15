@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T21:47:31+00:00",
+ "generated": "2026-09-15T04:50:30+00:00",
  "count": 36,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Secretary of State candidates to debate at U-M; Bridge to moderate with Gongwer",
+   "link": "https://bridgemi.com/michigan-government/secretary-of-state-candidates-to-debate-at-u-m-bridge-to-moderate-with-gongwer/",
+   "published": "Mon, 14 Sep 2026 22:24:45 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "John James says he delivers results. What does his record show?",
    "link": "https://bridgemi.com/michigan-government/john-james-says-he-delivers-results-what-does-his-record-show/",
    "published": "Mon, 14 Sep 2026 19:32:13 +0000"
@@ -51,10 +57,10 @@
    "published": "Fri, 11 Sep 2026 20:29:37 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Push is on to boost career tech in Michigan schools. Not all agree that’s best",
-   "link": "https://bridgemi.com/talent-education/from-the-classroom-to-the-shop-floor-how-michigans-career-tech-programs-work/",
-   "published": "Fri, 11 Sep 2026 20:11:12 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "How teachers and parents can collaborate to help Michigan’s 1.4M students succeed",
+   "link": "https://www.bridgedetroit.com/how-teachers-and-parents-can-collaborate-to-help-michigans-1-4m-students-succeed/",
+   "published": "Mon, 14 Sep 2026 22:27:28 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "Detroit mayor announces $2.2M city investment in 7 new after-school sites",
    "link": "https://www.bridgedetroit.com/detroit-mayor-announces-7-new-after-school-sites-with-2-2m-in-city-funds/",
    "published": "Thu, 10 Sep 2026 22:04:56 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "September is Healthy Aging Month",
-   "link": "https://www.bridgedetroit.com/september-is-healthy-aging-month/",
-   "published": "Thu, 10 Sep 2026 16:12:47 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "US Supreme Court blocks Trump rule limiting mail voting, sides with Dem states",
+   "link": "https://michiganadvance.com/2026/09/14/repub/breaking-us-supreme-court-blocks-trump-rule-limiting-mail-voting-sides-with-dem-states/",
+   "published": "Tue, 15 Sep 2026 00:53:19 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "U.S. Senate Dems disclose Trump administration operation dug through state voter rolls",
    "link": "https://michiganadvance.com/2026/09/14/repub/u-s-senate-dems-disclose-trump-administration-operation-dug-through-state-voter-rolls/",
    "published": "Mon, 14 Sep 2026 20:54:45 +0000"
@@ -123,28 +129,22 @@
    "published": "Mon, 14 Sep 2026 20:53:38 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "States, cities sue Trump administration over new green card restrictions",
-   "link": "https://michiganadvance.com/2026/09/14/repub/states-cities-sue-trump-administration-over-new-green-card-restrictions/",
-   "published": "Mon, 14 Sep 2026 20:48:30 +0000"
+   "outlet": "MLive",
+   "title": "Ex-Michigan State star and Super Bowl MVP posts monster debut for new team",
+   "link": "https://www.mlive.com/spartans/football/2026/09/ex-michigan-state-star-and-super-bowl-mvp-posts-monster-debut-for-new-team.html",
+   "published": "Tue, 15 Sep 2026 04:31:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Tents are illegal, and so is moving homeless people into your house, township near Jackson says",
-   "link": "https://www.mlive.com/news/jackson/2026/09/tents-are-illegal-and-so-is-moving-homeless-people-into-your-house-township-near-jackson-says.html",
-   "published": "Mon, 14 Sep 2026 21:39:20 +0000"
+   "title": "Chelsea allows city manager to resign instead of firing her for cause",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/09/chelsea-allows-city-manager-to-resign-instead-of-firing-her-for-cause.html",
+   "published": "Tue, 15 Sep 2026 03:41:34 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "This $5 book subscription is changing how readers discover their next favorite novel this fall",
-   "link": "https://www.mlive.com/shopping/2026/09/this-5-book-subscription-is-changing-how-readers-discover-their-next-favorite-novel-this-fall.html",
-   "published": "Mon, 14 Sep 2026 21:33:47 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Ex-Pistons center announces retirement after 17-year NBA career",
-   "link": "https://www.mlive.com/pistons/2026/09/ex-pistons-center-announces-retirement-after-17-year-nba-career.html",
-   "published": "Mon, 14 Sep 2026 21:32:06 +0000"
+   "title": "‘Widow’s Bay’ breaks Emmys comedy record with 14 wins including best comedy series",
+   "link": "https://www.mlive.com/life/2026/09/widows-bay-breaks-emmys-comedy-record-with-14-wins-including-best-comedy-series.html",
+   "published": "Tue, 15 Sep 2026 03:17:17 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Why are more Michigan kids going back to school with vaccine waivers?",
-   "link": "https://www.michiganpublic.org/section/stateside/2026-09-14/why-are-more-michigan-kids-going-back-to-school-with-vaccine-waivers",
-   "published": "Mon, 14 Sep 2026 17:22:04 GMT"
+   "title": "Abbott agrees to settlement over closure of largest baby formula plant in the US",
+   "link": "https://www.michiganpublic.org/health/2026-09-14/abbott-agrees-to-settlement-over-closure-of-largest-baby-formula-plant-in-the-us",
+   "published": "Tue, 15 Sep 2026 01:14:55 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Some Flint water settlement claimants must fix paperwork problems or lose share of fund",
-   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-14/some-flint-water-settlement-claimants-must-fix-paperwork-problems-or-lose-share-of-fund",
-   "published": "Mon, 14 Sep 2026 09:00:00 GMT"
+   "title": "Leading gubernatorial candidates, both pursuing housing affordability, suggest different routes",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-14/leading-gubernatorial-candidates-both-pursuing-housing-affordability-suggest-different-routes",
+   "published": "Mon, 14 Sep 2026 23:24:04 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan Public fall thank you gifts",
-   "link": "https://www.michiganpublic.org/station-news/2026-09-14/michigan-public-fall-thank-you-gifts",
-   "published": "Mon, 14 Sep 2026 04:04:00 GMT"
+   "title": "Whitmer travels to South Korea on trade mission with economic and military officials",
+   "link": "https://www.michiganpublic.org/2026-09-14/whitmer-travels-to-south-korea-on-trade-mission-with-economic-and-military-officials",
+   "published": "Mon, 14 Sep 2026 22:58:37 GMT"
   }
  ]
 }
