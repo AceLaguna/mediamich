@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T04:50:30+00:00",
+ "generated": "2026-09-15T11:40:31+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "SNAP food replacement benefits deadline is Sept. 23. How to apply.",
+   "link": "https://www.bridgedetroit.com/snap-benefits-reimbursement-wayne-county-storms/",
+   "published": "Tue, 15 Sep 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "How teachers and parents can collaborate to help Michigan’s 1.4M students succeed",
    "link": "https://www.bridgedetroit.com/how-teachers-and-parents-can-collaborate-to-help-michigans-1-4m-students-succeed/",
    "published": "Mon, 14 Sep 2026 22:27:28 +0000"
@@ -67,12 +73,6 @@
    "title": "Michigan increased funding for English learners by $12.5M. Advocates say a big gap persists.",
    "link": "https://www.bridgedetroit.com/michigan-increased-funding-for-english-learners-by-12-5m-advocates-say-a-big-gap-persists/",
    "published": "Mon, 14 Sep 2026 11:53:04 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit mayor announces $2.2M city investment in 7 new after-school sites",
-   "link": "https://www.bridgedetroit.com/detroit-mayor-announces-7-new-after-school-sites-with-2-2m-in-city-funds/",
-   "published": "Thu, 10 Sep 2026 22:04:56 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Supreme Court blocks Trump rule limiting mail voting, sides with Dem states",
-   "link": "https://michiganadvance.com/2026/09/14/repub/breaking-us-supreme-court-blocks-trump-rule-limiting-mail-voting-sides-with-dem-states/",
-   "published": "Tue, 15 Sep 2026 00:53:19 +0000"
+   "title": "Trump EPA to strip greenhouse gas limits for power plants, a key Biden climate policy",
+   "link": "https://michiganadvance.com/2026/09/15/repub/trump-epa-to-strip-greenhouse-gas-limits-for-power-plants-a-key-biden-climate-policy/",
+   "published": "Tue, 15 Sep 2026 11:00:48 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "U.S. Senate Dems disclose Trump administration operation dug through state voter rolls",
-   "link": "https://michiganadvance.com/2026/09/14/repub/u-s-senate-dems-disclose-trump-administration-operation-dug-through-state-voter-rolls/",
-   "published": "Mon, 14 Sep 2026 20:54:45 +0000"
+   "title": "Working Families Party joins Michigan Constitutional Convention opposition effort",
+   "link": "https://michiganadvance.com/2026/09/15/working-families-party-joins-michigan-constitutional-convention-opposition-effort/",
+   "published": "Tue, 15 Sep 2026 10:00:59 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan State Police removes tens of thousands from sex offender registry after court order",
-   "link": "https://michiganadvance.com/2026/09/14/michigan-state-police-removes-tens-of-thousands-from-sex-offender-registry-after-court-order/",
-   "published": "Mon, 14 Sep 2026 20:53:38 +0000"
+   "title": "US Senate could soon take up bill to set standards for college athlete compensation",
+   "link": "https://michiganadvance.com/2026/09/15/repub/us-senate-could-soon-take-up-bill-to-set-standards-for-college-athlete-compensation/",
+   "published": "Tue, 15 Sep 2026 09:00:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ex-Michigan State star and Super Bowl MVP posts monster debut for new team",
-   "link": "https://www.mlive.com/spartans/football/2026/09/ex-michigan-state-star-and-super-bowl-mvp-posts-monster-debut-for-new-team.html",
-   "published": "Tue, 15 Sep 2026 04:31:59 +0000"
+   "title": "Michigan Forecast: Gale Warnings, Wind Advisories issued as storm system brings heavy rain",
+   "link": "https://www.mlive.com/weather/2026/09/michigan-forecast-gale-warnings-wind-advisories-issued-as-storm-system-brings-heavy-rain.html",
+   "published": "Tue, 15 Sep 2026 11:26:39 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Chelsea allows city manager to resign instead of firing her for cause",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/09/chelsea-allows-city-manager-to-resign-instead-of-firing-her-for-cause.html",
-   "published": "Tue, 15 Sep 2026 03:41:34 +0000"
+   "title": "South Haven approves $1.2M contract for police drones, license plate cameras",
+   "link": "https://www.mlive.com/news/kalamazoo/2026/09/south-haven-approves-12m-contract-for-police-drones-license-plate-cameras.html",
+   "published": "Tue, 15 Sep 2026 11:15:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "‘Widow’s Bay’ breaks Emmys comedy record with 14 wins including best comedy series",
-   "link": "https://www.mlive.com/life/2026/09/widows-bay-breaks-emmys-comedy-record-with-14-wins-including-best-comedy-series.html",
-   "published": "Tue, 15 Sep 2026 03:17:17 +0000"
+   "title": "NFL Hall of Famer mulled returning to play for Broncos",
+   "link": "https://www.mlive.com/sports/2026/09/nfl-hall-of-famer-mulled-returning-to-play-for-broncos-in-afc-title-game-last-season.html",
+   "published": "Tue, 15 Sep 2026 11:05:59 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Why this Detroit tenants lawsuit is making landlords nervous",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-15/why-this-detroit-tenants-lawsuit-is-making-landlords-nervous",
+   "published": "Tue, 15 Sep 2026 10:30:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Abbott agrees to settlement over closure of largest baby formula plant in the US",
    "link": "https://www.michiganpublic.org/health/2026-09-14/abbott-agrees-to-settlement-over-closure-of-largest-baby-formula-plant-in-the-us",
    "published": "Tue, 15 Sep 2026 01:14:55 GMT"
@@ -211,12 +217,6 @@
    "title": "Leading gubernatorial candidates, both pursuing housing affordability, suggest different routes",
    "link": "https://www.michiganpublic.org/politics-government/2026-09-14/leading-gubernatorial-candidates-both-pursuing-housing-affordability-suggest-different-routes",
    "published": "Mon, 14 Sep 2026 23:24:04 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Whitmer travels to South Korea on trade mission with economic and military officials",
-   "link": "https://www.michiganpublic.org/2026-09-14/whitmer-travels-to-south-korea-on-trade-mission-with-economic-and-military-officials",
-   "published": "Mon, 14 Sep 2026 22:58:37 GMT"
   }
  ]
 }
