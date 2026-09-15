@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T16:55:58+00:00",
+ "generated": "2026-09-15T21:17:48+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,21 +22,27 @@
   },
   {
    "outlet": "Metro Times",
-   "title": "A new book uncovers Detroit history’s strangest stories",
-   "link": "https://www.metrotimes.com/arts/culture/a-new-book-uncovers-detroit-historys-strangest-stories/",
-   "published": "Mon, 14 Sep 2026 17:36:53 +0000"
+   "title": "E. Warrenfest brings music, food, and roller skating to Detroit’s east side",
+   "link": "https://www.metrotimes.com/arts/things-to-do/e-warrenfest-brings-music-food-and-roller-skating-to-detroits-east-side/",
+   "published": "Tue, 15 Sep 2026 19:26:50 +0000"
   },
   {
    "outlet": "Metro Times",
-   "title": "Detroit Black Film Festival returns with five days of movies, music and Black creativity",
-   "link": "https://www.metrotimes.com/arts/movies/detroit-black-film-festival-returns-with-five-days-of-movies-music-and-black-creativity/",
-   "published": "Mon, 14 Sep 2026 16:37:14 +0000"
+   "title": "After Trump’s public media cuts, WDET is doubling down on Detroit",
+   "link": "https://www.metrotimes.com/news/after-trumps-public-media-cuts-wdet-is-doubling-down-on-detroit/",
+   "published": "Tue, 15 Sep 2026 18:14:32 +0000"
   },
   {
    "outlet": "Metro Times",
-   "title": "Donors named in Epstein files gave nearly $4.7 million to Mike Rogers and groups backing him",
-   "link": "https://www.metrotimes.com/news/donors-named-in-epstein-files-gave-nearly-4-7-million-to-mike-rogers-and-groups-backing-him/",
-   "published": "Mon, 14 Sep 2026 15:37:54 +0000"
+   "title": "Colin Kaepernick talks protest, NFL settlement and Jay-Z diss in Detroit",
+   "link": "https://www.metrotimes.com/arts/colin-kaepernick-talks-protest-nfl-settlement-and-jay-z-diss-in-detroit/",
+   "published": "Tue, 15 Sep 2026 17:34:22 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Opinion | Michigan benefits from university research. Funding cuts hurt state",
+   "link": "https://bridgemi.com/guest-commentary/opinion-michigan-benefits-from-university-research-funding-cuts-hurt-state/",
+   "published": "Tue, 15 Sep 2026 17:13:46 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -51,28 +57,22 @@
    "published": "Mon, 14 Sep 2026 19:32:13 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Groups fight to keep 16,000 acres of national forest in Michigan road-free",
-   "link": "https://bridgemi.com/outdoors-life/groups-fight-to-keep-16000-acres-of-national-forest-in-michigan-road-free/",
-   "published": "Fri, 11 Sep 2026 20:29:37 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "M-STEP results: The Detroit school district is catching up to charter schools",
+   "link": "https://www.bridgedetroit.com/m-step-results-the-detroit-school-district-is-catching-up-to-charter-schools/",
+   "published": "Tue, 15 Sep 2026 21:08:21 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Report: DDOT wasted $40k in overtime pay driving employee to work",
+   "link": "https://www.bridgedetroit.com/ddot-detroit-inspector-general-investigation/",
+   "published": "Tue, 15 Sep 2026 19:16:13 +0000"
   },
   {
    "outlet": "BridgeDetroit",
    "title": "Secretary of State candidates to debate at U-M; Bridge to moderate with Gongwer",
    "link": "https://www.bridgedetroit.com/secretary-of-state-candidates-to-debate-at-u-m-bridge-to-moderate-with-gongwer/",
    "published": "Tue, 15 Sep 2026 15:26:11 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "SNAP food replacement benefits deadline is Sept. 23. How to apply.",
-   "link": "https://www.bridgedetroit.com/snap-benefits-reimbursement-wayne-county-storms/",
-   "published": "Tue, 15 Sep 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "How teachers and parents can collaborate to help Michigan’s 1.4M students succeed",
-   "link": "https://www.bridgedetroit.com/how-teachers-and-parents-can-collaborate-to-help-michigans-1-4m-students-succeed/",
-   "published": "Mon, 14 Sep 2026 22:27:28 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,6 +112,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Past secretaries, union leader call for probe into Education Department slashing",
+   "link": "https://michiganadvance.com/2026/09/15/repub/past-secretaries-union-leader-call-for-probe-into-education-department-slashing/",
+   "published": "Tue, 15 Sep 2026 19:40:34 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Fewer students, too many schools: Communities confront closures and consolidations",
    "link": "https://michiganadvance.com/2026/09/15/repub/fewer-students-too-many-schools-communities-confront-closures-and-consolidations/",
    "published": "Tue, 15 Sep 2026 14:29:20 +0000"
@@ -123,28 +129,22 @@
    "published": "Tue, 15 Sep 2026 12:00:20 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Trump EPA to strip greenhouse gas limits for power plants, a key Biden climate policy",
-   "link": "https://michiganadvance.com/2026/09/15/repub/trump-epa-to-strip-greenhouse-gas-limits-for-power-plants-a-key-biden-climate-policy/",
-   "published": "Tue, 15 Sep 2026 11:00:48 +0000"
+   "outlet": "MLive",
+   "title": "College football coach’s wife, former NCAA athlete dies suddenly at 30",
+   "link": "https://www.mlive.com/sports/2026/09/college-football-coachs-wife-former-ncaa-athlete-dies-suddenly-at-30.html",
+   "published": "Tue, 15 Sep 2026 21:08:47 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "New poll shows 1 party with huge advantage in midterm elections — and it’s all thanks to Trump",
-   "link": "https://www.mlive.com/politics/2026/09/new-poll-shows-1-party-with-huge-advantage-in-midterm-elections-and-its-all-thanks-to-trump.html",
-   "published": "Tue, 15 Sep 2026 16:49:47 +0000"
+   "title": "A major punishment is off the table. What happens next could matter most.",
+   "link": "https://www.mlive.com/life/2026/09/nick-reiner-wont-face-californias-harshest-punishment-what-happens-next.html",
+   "published": "Tue, 15 Sep 2026 21:06:32 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Shroom fest returns to Ann Arbor as psychedelic industry expands with more shops",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/09/shroom-fest-returns-to-ann-arbor-as-psychedelic-industry-expands-with-more-shops.html",
-   "published": "Tue, 15 Sep 2026 16:47:39 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "WMU football records highest home opener attendance since 2017 in lopsided win",
-   "link": "https://www.mlive.com/broncos/2026/09/wmu-football-records-highest-home-opener-attendance-since-2017-in-lopsided-win.html",
-   "published": "Tue, 15 Sep 2026 16:40:50 +0000"
+   "title": "Flint-area prep sports roundup for Sept. 14: Fenton, Powers Catholic stay unbeaten in soccer",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/flint-area-prep-sports-roundup-for-sept-14-fenton-powers-catholic-stay-unbeaten-in-soccer.html",
+   "published": "Tue, 15 Sep 2026 21:03:14 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Data center news: Dingell calls for pause on University of Michigan’s Ypsilanti Township supercomputing project",
+   "link": "https://planetdetroit.org/2026/09/data-center-news-dingell-um-ypsilanti/",
+   "published": "Tue, 15 Sep 2026 21:15:12 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Voices: Michigan’s water systems need cybersecurity coordination after summer attacks",
    "link": "https://planetdetroit.org/2026/09/michigan-water-systems-cybersecurity/",
    "published": "Tue, 15 Sep 2026 15:21:19 +0000"
@@ -177,46 +183,40 @@
    "published": "Mon, 14 Sep 2026 14:32:49 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Michigan environmentalists push for statewide data center moratorium, regulations as bills stall",
-   "link": "https://planetdetroit.org/2026/09/data-center-regulations-stall-michigan-legislature/",
-   "published": "Mon, 14 Sep 2026 13:44:19 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Michigan students head back to school as concerns over screen time grow",
+   "link": "https://gandernewsroom.com/news/students-screen-time/",
+   "published": "Tue, 15 Sep 2026 20:31:50 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Over 14 million birds to fly over Michigan. Why they’re on the move",
-   "link": "https://gandernewsroom.com/local/local-news/over-14-million-birds-to-fly-over-michigan-why-theyre-on-the-move/",
-   "published": "Tue, 15 Sep 2026 13:41:56 +0000"
+   "title": "Bombshell report ties Mike Rogers campaign donors to Jeffrey Epstein files",
+   "link": "https://gandernewsroom.com/news/elections/mike-rogers-epstein-files/",
+   "published": "Tue, 15 Sep 2026 20:07:13 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "The 7 best Oktoberfest celebrations happening across Michigan",
-   "link": "https://gandernewsroom.com/local/things-to-do/oktoberfest-in-michigan/",
-   "published": "Fri, 11 Sep 2026 00:47:10 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "When will it snow in Michigan? When you might need your shovel",
-   "link": "https://gandernewsroom.com/local/local-news/when-will-it-snow-in-michigan-when-you-might-need-your-shovel/",
-   "published": "Thu, 10 Sep 2026 16:59:17 +0000"
+   "title": "‘In any other workplace in America, he would be fired’: St. Clair County nurses, residents call for investigation into medical director",
+   "link": "https://gandernewsroom.com/news/st-clair-remington-investigation/",
+   "published": "Tue, 15 Sep 2026 18:51:57 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Why this Detroit tenants lawsuit is making landlords nervous",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-15/why-this-detroit-tenants-lawsuit-is-making-landlords-nervous",
-   "published": "Tue, 15 Sep 2026 10:30:00 GMT"
+   "title": "Stateside: Tuesday, Sep. 15, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-09-15/stateside-tuesday-sep-15-2026",
+   "published": "Tue, 15 Sep 2026 19:58:18 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Abbott agrees to settlement over closure of largest baby formula plant in the US",
-   "link": "https://www.michiganpublic.org/health/2026-09-14/abbott-agrees-to-settlement-over-closure-of-largest-baby-formula-plant-in-the-us",
-   "published": "Tue, 15 Sep 2026 01:14:55 GMT"
+   "title": "September brings numerous art events to Michigan",
+   "link": "https://www.michiganpublic.org/arts-life/2026-09-15/september-brings-numerous-art-events-to-michigan",
+   "published": "Tue, 15 Sep 2026 19:05:07 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Leading gubernatorial candidates, both pursuing housing affordability, suggest different routes",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-14/leading-gubernatorial-candidates-both-pursuing-housing-affordability-suggest-different-routes",
-   "published": "Mon, 14 Sep 2026 23:24:04 GMT"
+   "title": "Jim Abbott on his career and winning the Jimmy V Award at the ESPYs",
+   "link": "https://www.michiganpublic.org/show/stateside/2026-09-15/jim-abbott-on-his-career-and-winning-the-jimmy-v-award-at-the-espys",
+   "published": "Tue, 15 Sep 2026 18:18:50 GMT"
   }
  ]
 }
