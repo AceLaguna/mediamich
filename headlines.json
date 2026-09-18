@@ -1,7 +1,19 @@
 {
- "generated": "2026-09-18T16:21:43+00:00",
+ "generated": "2026-09-18T20:52:26+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Bacon makes pumpkin pie even better",
+   "link": "https://lansingcitypulse.com/bacon-makes-pumpkin-pie-even-better/",
+   "published": "Fri, 18 Sep 2026 20:02:19 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Craft a cocktail with some seasonal staples as the star ingredients",
+   "link": "https://lansingcitypulse.com/craft-a-cocktail-with-some-seasonal-staples-as-the-star-ingredients/",
+   "published": "Fri, 18 Sep 2026 19:46:54 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "East Lansing Historic District Commission, Notice of Public Hearings, Oct. 8, 2026",
@@ -9,16 +21,16 @@
    "published": "Wed, 16 Sep 2026 22:06:20 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "State of Michigan Probate Court, Ingham County, Notice to Creditors, Estate of Abel Becerill-Leyva",
-   "link": "https://lansingcitypulse.com/cp26-351-state-of-michigan-probate-court-ingham-county-notice-to-creditors-estate-of-abel-becerill-leyva/",
-   "published": "Wed, 16 Sep 2026 21:58:01 +0000"
+   "outlet": "Metro Times",
+   "title": "Metro Detroit readers have spoken: Here are your Best of Detroit winners",
+   "link": "https://www.metrotimes.com/topic/best-of-detroit/metro-detroit-readers-have-spoken-here-are-your-best-of-detroit-winners/",
+   "published": "Fri, 18 Sep 2026 18:12:53 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Williamstown Township, Board Meeting Synopsis, Sept. 9, 2026",
-   "link": "https://lansingcitypulse.com/williamstown-township-board-meeting-synopsis-sept-9-2026/",
-   "published": "Wed, 16 Sep 2026 21:54:52 +0000"
+   "outlet": "Metro Times",
+   "title": "Michigan AG candidate Doug Lloyd cut charges, sought no jail in sex-crime cases",
+   "link": "https://www.metrotimes.com/news/michigan-ag-candidate-doug-lloyd-cut-charges-sought-no-jail-in-sex-crime-cases/",
+   "published": "Fri, 18 Sep 2026 18:06:21 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -27,16 +39,16 @@
    "published": "Fri, 18 Sep 2026 15:45:59 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "The Cure co-founder Lol Tolhurst talks recovery, goth and Detroit",
-   "link": "https://www.metrotimes.com/arts/the-cure-co-founder-lol-tolhurst-talks-recovery-goth-and-detroit/",
-   "published": "Fri, 18 Sep 2026 14:59:51 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "As enrollments plummet, Michigan communities sweat job losses from universities",
+   "link": "https://bridgemi.com/talent-education/as-enrollments-plummet-michigan-communities-sweat-job-losses-from-universities/",
+   "published": "Fri, 18 Sep 2026 20:45:43 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Downriver recovery festival brings music, art and support together",
-   "link": "https://www.metrotimes.com/arts/downriver-recovery-festival-brings-music-art-and-support-together/",
-   "published": "Fri, 18 Sep 2026 14:58:57 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Fact check: Jocelyn Benson’s family ties to Saline data center",
+   "link": "https://bridgemi.com/michigan-government/fact-check-jocelyn-bensons-family-ties-to-saline-data-center/",
+   "published": "Fri, 18 Sep 2026 17:55:35 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -45,16 +57,10 @@
    "published": "Fri, 18 Sep 2026 16:00:00 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Audit finds fault in Michigan job training program, claims $59M misspent",
-   "link": "https://bridgemi.com/business-watch/audit-finds-fault-in-michigan-job-training-program-claims-59m-misspent/",
-   "published": "Thu, 17 Sep 2026 21:28:09 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Mike Rogers calls for gas tax pause. It’s a no-go, says state GOP leader",
-   "link": "https://bridgemi.com/michigan-government/mike-rogers-calls-for-gas-tax-pause-its-a-no-go-says-state-gop-leader/",
-   "published": "Thu, 17 Sep 2026 20:46:40 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "A new generation is picking up tennis in Detroit",
+   "link": "https://www.bridgedetroit.com/a-new-generation-is-picking-up-tennis-in-detroit/",
+   "published": "Fri, 18 Sep 2026 19:33:42 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "DPSCD making progress on long-needed air conditioning upgrades",
    "link": "https://www.bridgedetroit.com/detroit-public-schools-buildings-air-conditioning-update/",
    "published": "Thu, 17 Sep 2026 17:27:51 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan absenteeism inches down; 1 in 4 still miss too much school",
-   "link": "https://www.bridgedetroit.com/michigan-absenteeism-inches-down-1-in-4-still-miss-too-much-school/",
-   "published": "Thu, 17 Sep 2026 15:52:30 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan US Senate candidates call for suspending state and federal gas taxes",
-   "link": "https://michiganadvance.com/2026/09/18/michigan-us-senate-candidates-call-for-suspending-state-and-federal-gas-taxes/",
-   "published": "Fri, 18 Sep 2026 14:59:46 +0000"
+   "title": "High stakes embezzlement case against former GOP Michigan House speaker goes to trial next week",
+   "link": "https://michiganadvance.com/2026/09/18/high-stakes-embezzlement-case-against-former-gop-michigan-house-speaker-goes-to-trial-next-week/",
+   "published": "Fri, 18 Sep 2026 18:56:43 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Tribes hit hard by wildfires face health effects, cultural losses",
-   "link": "https://michiganadvance.com/2026/09/18/repub/tribes-hit-hard-by-wildfires-face-health-effects-cultural-losses/",
-   "published": "Fri, 18 Sep 2026 13:43:39 +0000"
+   "title": "New ‘Kids Count’ data shows drop in college readiness, education participation among young adults",
+   "link": "https://michiganadvance.com/2026/09/18/new-kids-count-data-shows-drop-in-college-readiness-education-participation-among-young-adults/",
+   "published": "Fri, 18 Sep 2026 17:34:39 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Tierra Walker died after she couldn’t get an abortion. Her family is suing Ken Paxton.",
-   "link": "https://michiganadvance.com/2026/09/18/tierra-walker-died-after-she-couldnt-get-an-abortion-her-family-is-suing-ken-paxton/",
-   "published": "Fri, 18 Sep 2026 10:00:04 +0000"
+   "title": "Your Weekly Michigan Political Brief",
+   "link": "https://michiganadvance.com/2026/09/18/your-weekly-michigan-political-brief-49/",
+   "published": "Fri, 18 Sep 2026 17:21:15 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Saginaw man gets prison time for stabbing, trying to kill man at East Side gas station",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-gets-prison-time-for-stabbing-trying-to-kill-man-at-east-side-gas-station.html",
-   "published": "Fri, 18 Sep 2026 16:17:19 +0000"
+   "title": "Red Wings’ Simon Edvinsson keeping up to speed awaiting deal",
+   "link": "https://www.mlive.com/redwings/2026/09/red-wings-simon-edvinsson-keeping-up-to-speed-awaiting-deal.html",
+   "published": "Fri, 18 Sep 2026 20:38:16 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Women veterans among those targeted in VA’s $1.17 billion homelessness push",
-   "link": "https://www.mlive.com/news/2026/09/women-veterans-and-chronically-ill-among-those-targeted-in-vas-117-billion-homelessness-push.html",
-   "published": "Fri, 18 Sep 2026 16:11:59 +0000"
+   "title": "Kaley Cuoco says John Ritter still guides her career",
+   "link": "https://www.mlive.com/life/2026/09/kaley-cuoco-says-beloved-tv-dads-sudden-death-was-one-of-the-worst-days-of-my-life.html",
+   "published": "Fri, 18 Sep 2026 20:32:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "1 dead, 2 injured as fishing boat crashes near Golden Gate Bridge",
-   "link": "https://www.mlive.com/news/2026/09/1-dead-2-injured-as-fishing-boat-crashes-near-golden-gate-bridge.html",
-   "published": "Fri, 18 Sep 2026 16:10:58 +0000"
+   "title": "Stanley just dropped two bewitching Halloween patterns that are vanishing faster than you can say trick-or-treat",
+   "link": "https://www.mlive.com/shopping/2026/09/stanley-just-dropped-two-bewitching-halloween-patterns-that-are-vanishing-faster-than-you-can-say-trick-or-treat.html",
+   "published": "Fri, 18 Sep 2026 20:23:07 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Why are judicial races in Michigan separated by incumbency?",
+   "link": "https://outliermedia.org/incumbent-judges-detroit-ballot-michigan-election/",
+   "published": "Fri, 18 Sep 2026 20:11:15 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -159,10 +165,16 @@
    "published": "Wed, 16 Sep 2026 10:00:00 +0000"
   },
   {
-   "outlet": "Outlier Media",
-   "title": "Some Detroit English learners are being left behind. Here’s what’s at stake",
-   "link": "https://outliermedia.org/michigan-budget-doesnt-fill-this-longtime-funding-gap-for-english-learners/",
-   "published": "Mon, 14 Sep 2026 17:35:00 +0000"
+   "outlet": "Planet Detroit",
+   "title": "Detroit women lead fight against decades of pollution in Southwest neighborhoods",
+   "link": "https://planetdetroit.org/2026/09/southwest-detroit-cumulative-impact-legislation/",
+   "published": "Fri, 18 Sep 2026 19:45:11 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Voices: Supporting Detroit’s urban farms boosts city’s resilience",
+   "link": "https://planetdetroit.org/2026/09/voices-supporting-detroit-urban-farms/",
+   "published": "Fri, 18 Sep 2026 18:04:18 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -171,52 +183,40 @@
    "published": "Thu, 17 Sep 2026 22:27:43 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Michigan environmental news: Detroit tornado damage, DTE Gas rate hike request, COVID vaccine delay for kids",
-   "link": "https://planetdetroit.org/2026/09/dte-rate-hikes-tornado-damage/",
-   "published": "Thu, 17 Sep 2026 18:24:45 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "As Michigan bans phones in classrooms, educator  argues for teaching digital literacy instead",
-   "link": "https://planetdetroit.org/2026/09/michigan-school-phone-ban-digital-literacy/",
-   "published": "Wed, 16 Sep 2026 19:22:48 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Court rejects DOE’s first Campbell order as fight over power plant continues",
+   "link": "https://gandernewsroom.com/news/environment/court-rejects-doe-campbell-order/",
+   "published": "Fri, 18 Sep 2026 20:40:28 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "10 events in Michigan worth the road trip this Sept. and Oct.",
-   "link": "https://gandernewsroom.com/local/things-to-do/fall-events-2026/",
-   "published": "Fri, 18 Sep 2026 00:53:56 +0000"
+   "title": "Michigan AG candidate Doug Lloyd has spotty record on alleged sex predators",
+   "link": "https://gandernewsroom.com/news/elections/michigan-ag-candidate-doug-lloyd-has-spotty-record-on-alleged-sex-predators/",
+   "published": "Fri, 18 Sep 2026 19:58:55 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Will Lawrence unveils new plan to pause data center construction and AI development",
-   "link": "https://gandernewsroom.com/news/elections/lawrence-ai-data-center-plan/",
-   "published": "Thu, 17 Sep 2026 19:19:53 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Reproductive rights org rallies Michigan voters ahead of Nov. 3 election",
-   "link": "https://gandernewsroom.com/news/elections/reproductive-rights-org-rallies-michigan-voters-ahead-of-nov-3-election/",
-   "published": "Thu, 17 Sep 2026 19:15:53 +0000"
+   "title": "St. Clair County nurse fears loss of healthcare workers without investigation into medical director",
+   "link": "https://gandernewsroom.com/news/healthcare/st-clair-county-nurse-investigation-into-medical-director/",
+   "published": "Fri, 18 Sep 2026 17:55:06 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "John U. Bacon: NCAA offers no relief for Western Michigan after last-second loss to Michigan",
-   "link": "https://www.michiganpublic.org/sports/2026-09-18/john-u-bacon-ncaa-offers-no-relief-for-western-michigan-after-last-second-loss-to-michigan",
-   "published": "Fri, 18 Sep 2026 15:38:33 GMT"
+   "title": "Stateside: Friday, Sept. 18, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-09-18/stateside-friday-sept-18-2026",
+   "published": "Fri, 18 Sep 2026 20:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Auchter: Challenges ahead",
-   "link": "https://www.michiganpublic.org/opinion/2026-09-18/auchter-challenges-ahead",
-   "published": "Fri, 18 Sep 2026 14:10:44 GMT"
+   "title": "Michigan Supreme Court orders review of Oxford school shooter's life without parole sentence",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-18/michigan-court-of-appeals-directed-to-review-convicted-school-shooter-ethan-crumbleys-appeal-of-life-without-parole-sentence",
+   "published": "Fri, 18 Sep 2026 19:23:57 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Will Lawrence rolls out plan for regulating Big Tech, data centers in Michigan and beyond",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-18/will-lawrence-rolls-out-plan-for-regulating-big-tech-data-centers-in-michigan-and-beyond",
-   "published": "Fri, 18 Sep 2026 12:12:44 GMT"
+   "title": "U.S. Supreme Court ruled against Trump . . . for now",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-18/u-s-supreme-court-ruled-against-trump-for-now",
+   "published": "Fri, 18 Sep 2026 18:25:12 GMT"
   }
  ]
 }
