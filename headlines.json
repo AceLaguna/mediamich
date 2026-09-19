@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-18T20:52:26+00:00",
+ "generated": "2026-09-19T04:33:53+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Gallery: Lansing’s giant Spooky Pumpkin ornaments modeled on Big Red Balls",
+   "link": "https://lansingcitypulse.com/gallery-lansings-giant-spooky-pumpkin-balls/",
+   "published": "Sat, 19 Sep 2026 01:58:03 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Bacon makes pumpkin pie even better",
@@ -13,12 +19,6 @@
    "title": "Craft a cocktail with some seasonal staples as the star ingredients",
    "link": "https://lansingcitypulse.com/craft-a-cocktail-with-some-seasonal-staples-as-the-star-ingredients/",
    "published": "Fri, 18 Sep 2026 19:46:54 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "East Lansing Historic District Commission, Notice of Public Hearings, Oct. 8, 2026",
-   "link": "https://lansingcitypulse.com/east-lansing-historic-district-commission-notice-of-public-hearings-oct-8-2026/",
-   "published": "Wed, 16 Sep 2026 22:06:20 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -40,21 +40,21 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "As Michigan forges forward on literacy, many ask: What about math?",
+   "link": "https://bridgemi.com/talent-education/as-michigan-forges-forward-on-literacy-many-ask-what-about-math/",
+   "published": "Fri, 18 Sep 2026 21:19:46 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Shifting sand is natural to Michigan’s dunes. How to cope is controversial",
+   "link": "https://bridgemi.com/michigan-environment-watch/shifting-sand-is-natural-to-michigans-dunes-how-to-cope-is-controversial/",
+   "published": "Fri, 18 Sep 2026 20:56:53 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "As enrollments plummet, Michigan communities sweat job losses from universities",
    "link": "https://bridgemi.com/talent-education/as-enrollments-plummet-michigan-communities-sweat-job-losses-from-universities/",
    "published": "Fri, 18 Sep 2026 20:45:43 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Jocelyn Benson’s family ties to Saline data center",
-   "link": "https://bridgemi.com/michigan-government/fact-check-jocelyn-bensons-family-ties-to-saline-data-center/",
-   "published": "Fri, 18 Sep 2026 17:55:35 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Bridge Michigan News Quiz, Sept. 18: Hooray for everyone",
-   "link": "https://bridgemi.com/center-michigan/bridge-michigan-news-quiz-sept-18-hooray-for-everyone/",
-   "published": "Fri, 18 Sep 2026 16:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Trump rapid third-country removal policy blocked at appeals court",
+   "link": "https://michiganadvance.com/2026/09/18/repub/trump-rapid-third-country-removal-policy-blocked-at-appeals-court/",
+   "published": "Fri, 18 Sep 2026 21:49:05 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Judge says case challenging Trump’s anti-weaponization fund ‘still alive and kicking’",
+   "link": "https://michiganadvance.com/2026/09/18/repub/judge-says-case-challenging-trumps-anti-weaponization-fund-still-alive-and-kicking/",
+   "published": "Fri, 18 Sep 2026 21:43:28 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "High stakes embezzlement case against former GOP Michigan House speaker goes to trial next week",
    "link": "https://michiganadvance.com/2026/09/18/high-stakes-embezzlement-case-against-former-gop-michigan-house-speaker-goes-to-trial-next-week/",
    "published": "Fri, 18 Sep 2026 18:56:43 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "New ‘Kids Count’ data shows drop in college readiness, education participation among young adults",
-   "link": "https://michiganadvance.com/2026/09/18/new-kids-count-data-shows-drop-in-college-readiness-education-participation-among-young-adults/",
-   "published": "Fri, 18 Sep 2026 17:34:39 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Your Weekly Michigan Political Brief",
-   "link": "https://michiganadvance.com/2026/09/18/your-weekly-michigan-political-brief-49/",
-   "published": "Fri, 18 Sep 2026 17:21:15 +0000"
+   "outlet": "MLive",
+   "title": "See Freeland, Valley Lutheran’s late-game heroics for Week 4 wins",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/see-freeland-valley-lutherans-late-game-heroics-for-week-4-wins.html",
+   "published": "Sat, 19 Sep 2026 04:07:55 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Red Wings’ Simon Edvinsson keeping up to speed awaiting deal",
-   "link": "https://www.mlive.com/redwings/2026/09/red-wings-simon-edvinsson-keeping-up-to-speed-awaiting-deal.html",
-   "published": "Fri, 18 Sep 2026 20:38:16 +0000"
+   "title": "PHOTOS: Schoolcraft, Constantine battle on gridiron for Week 4 homecoming matchup",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/photos-schoolcraft-constantine-battle-on-gridiron-for-week-4-homecoming-matchup.html",
+   "published": "Sat, 19 Sep 2026 03:58:07 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Kaley Cuoco says John Ritter still guides her career",
-   "link": "https://www.mlive.com/life/2026/09/kaley-cuoco-says-beloved-tv-dads-sudden-death-was-one-of-the-worst-days-of-my-life.html",
-   "published": "Fri, 18 Sep 2026 20:32:59 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Stanley just dropped two bewitching Halloween patterns that are vanishing faster than you can say trick-or-treat",
-   "link": "https://www.mlive.com/shopping/2026/09/stanley-just-dropped-two-bewitching-halloween-patterns-that-are-vanishing-faster-than-you-can-say-trick-or-treat.html",
-   "published": "Fri, 18 Sep 2026 20:23:07 +0000"
+   "title": "See who looked electric in Week 4 as Bay City area Friday Night Heroes",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/see-who-looked-electric-in-week-4-as-bay-city-area-friday-night-heroes.html",
+   "published": "Sat, 19 Sep 2026 03:54:50 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Friday, Sept. 18, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-09-18/stateside-friday-sept-18-2026",
-   "published": "Fri, 18 Sep 2026 20:00:00 GMT"
+   "title": "Amway and affiliates agree to pay $225 million to settle lawsuit over alleged deception of workers",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-18/amway-and-affiliates-to-pay-225-million-to-settle-lawsuit-over-alleged-deception-of-workers",
+   "published": "Sat, 19 Sep 2026 00:17:25 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan Supreme Court orders review of Oxford school shooter's life without parole sentence",
-   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-18/michigan-court-of-appeals-directed-to-review-convicted-school-shooter-ethan-crumbleys-appeal-of-life-without-parole-sentence",
-   "published": "Fri, 18 Sep 2026 19:23:57 GMT"
+   "title": "Michigan launches project with crop insurance companies to reward regenerative farming",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-09-18/michigan-launches-project-with-crop-insurance-companies-to-reward-regenerative-farming",
+   "published": "Sat, 19 Sep 2026 00:09:39 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "U.S. Supreme Court ruled against Trump . . . for now",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-18/u-s-supreme-court-ruled-against-trump-for-now",
-   "published": "Fri, 18 Sep 2026 18:25:12 GMT"
+   "title": "Why does the U.P. have a volcanic ridge?",
+   "link": "https://www.michiganpublic.org/podcast/on-hand/2026-09-18/why-does-the-u-p-have-a-volcanic-ridge",
+   "published": "Fri, 18 Sep 2026 22:23:31 GMT"
   }
  ]
 }
