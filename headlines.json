@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-23T11:30:35+00:00",
+ "generated": "2026-09-23T16:54:02+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Man killed in officer-involved shooting in Lansing",
+   "link": "https://lansingcitypulse.com/man-killed-in-officer-involved-shooting-in-lansing/",
+   "published": "Wed, 23 Sep 2026 12:41:00 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Give yourself the royal treatment with a meal at Crown Grill",
@@ -12,12 +18,6 @@
    "outlet": "Lansing City Pulse",
    "title": "We could debate … or make it as difficult as possible",
    "link": "https://lansingcitypulse.com/30756-2/",
-   "published": "Wed, 23 Sep 2026 02:30:00 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Festival of Oddities is ghosting Charlotte for a new location",
-   "link": "https://lansingcitypulse.com/festival-of-oddities-is-ghosting-charlotte-for-a-new-location/",
    "published": "Wed, 23 Sep 2026 02:30:00 +0000"
   },
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Fact check: John James’ link to data center tax breaks, donations",
+   "link": "https://bridgemi.com/michigan-government/fact-check-john-james-link-to-data-center-tax-breaks-donations/",
+   "published": "Wed, 23 Sep 2026 16:45:17 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Kamala Harris joins Abdul El-Sayed in Michigan: ‘The stakes are so high’",
    "link": "https://bridgemi.com/michigan-government/kamala-harris-joins-abdul-el-sayed-in-michigan-the-stakes-are-so-high/",
    "published": "Tue, 22 Sep 2026 23:12:13 +0000"
@@ -51,28 +57,22 @@
    "published": "Tue, 22 Sep 2026 20:41:25 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan villages have a fix for shortage of officials. Townships can’t use it",
-   "link": "https://bridgemi.com/michigan-government/michigan-villages-have-a-fix-for-shortage-of-officials-townships-cant-use-it/",
-   "published": "Tue, 22 Sep 2026 20:30:05 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "How to make your voice heard during city budgeting cycle",
+   "link": "https://www.bridgedetroit.com/how-to-get-involved-detroit-city-budgeting-process/",
+   "published": "Wed, 23 Sep 2026 15:53:34 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Judge dismisses tenant union’s lawsuit against 36th District Court",
+   "link": "https://www.bridgedetroit.com/judge-dismisses-tenant-unions-lawsuit-against-36th-district-court/",
+   "published": "Wed, 23 Sep 2026 15:16:26 +0000"
   },
   {
    "outlet": "BridgeDetroit",
    "title": "Detroit Council urging inspections of Munoz Realty’s entire portfolio",
    "link": "https://www.bridgedetroit.com/detroit-council-urging-inspections-of-munoz-realtys-entire-portfolio/",
    "published": "Wed, 23 Sep 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "How Detroit school board candidates would address chronic absenteeism",
-   "link": "https://www.bridgedetroit.com/how-detroit-school-board-candidates-would-address-chronic-absenteeism/",
-   "published": "Tue, 22 Sep 2026 20:31:55 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Michigan-connected stars are coming to Detroit for The Coney",
-   "link": "https://www.bridgedetroit.com/michigan-connected-stars-are-coming-to-detroit-for-the-coney/",
-   "published": "Tue, 22 Sep 2026 18:38:53 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Voters to decide fate of state taxes this fall",
-   "link": "https://michiganadvance.com/2026/09/23/repub/voters-to-decide-fate-of-state-taxes-this-fall/",
-   "published": "Wed, 23 Sep 2026 10:55:18 +0000"
+   "title": "Whitmer directs MSP to investigate fatal crash following ICE pursuit in Grand Rapids",
+   "link": "https://michiganadvance.com/2026/09/23/whitmer-directs-msp-to-investigate-fatal-crash-following-ice-pursuit-in-grand-rapids/",
+   "published": "Wed, 23 Sep 2026 16:26:18 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Carbon capture proposals draw mixed responses from environmental groups in Michigan House committee",
-   "link": "https://michiganadvance.com/2026/09/23/carbon-capture-proposals-draw-mixed-responses-from-environmental-groups-in-michigan-house-committee/",
-   "published": "Wed, 23 Sep 2026 10:33:41 +0000"
+   "title": "Justin Trudeau says Trump’s ‘win-lose’ approach is hurting U.S.-Canada relations at Brown lecture",
+   "link": "https://michiganadvance.com/2026/09/23/repub/justin-trudeau-says-trumps-win-lose-approach-is-hurting-u-s-canada-relations-at-brown-lecture/",
+   "published": "Wed, 23 Sep 2026 14:37:15 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "GOP’s ‘rubberstamp’ of Trump puts US Senate in play, Dem campaign chair says",
-   "link": "https://michiganadvance.com/2026/09/22/repub/gops-rubberstamp-of-trump-puts-us-senate-in-play-dem-campaign-chair-says/",
-   "published": "Tue, 22 Sep 2026 23:16:01 +0000"
+   "title": "Trinity Health layoffs expose the danger of the One Big Beautiful Bill Act",
+   "link": "https://michiganadvance.com/2026/09/23/trinity-health-layoffs-expose-the-danger-of-the-one-big-beautiful-bill-act/",
+   "published": "Wed, 23 Sep 2026 11:54:50 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Mackinac Bridge closed for ‘emergency incident’ that injured multiple people",
-   "link": "https://www.mlive.com/news/2026/09/mackinac-bridge-closed-for-emergency-incident.html",
-   "published": "Wed, 23 Sep 2026 11:15:24 +0000"
+   "title": "Popular Hollywood couple engaged after a year of dating (report)",
+   "link": "https://www.mlive.com/life/2026/09/popular-hollywood-couple-engaged-and-living-together-after-a-year-of-dating-report.html",
+   "published": "Wed, 23 Sep 2026 16:47:12 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Hurricane Polo is one of ‘strongest storms ever’ as another hurricane forms",
-   "link": "https://www.mlive.com/news/2026/09/hurricane-polo-is-one-of-strongest-storms-ever-as-another-hurricane-forms.html",
-   "published": "Wed, 23 Sep 2026 11:07:29 +0000"
+   "title": "His dream was to rollerblade across America. A tragedy in Kansas changed everything.",
+   "link": "https://www.mlive.com/news/2026/09/norway-man-was-chasing-a-dream-across-america-then-everything-changed-in-an-instant.html",
+   "published": "Wed, 23 Sep 2026 16:44:12 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Ferris State football star Trinidad Chambliss named AP Player of the Week",
-   "link": "https://www.mlive.com/sports/2026/09/former-ferris-state-football-star-trinidad-chambliss-named-ap-player-of-the-week.html",
-   "published": "Wed, 23 Sep 2026 11:07:00 +0000"
+   "title": "Saginaw man charged with breaking into girlfriend’s home at gunpoint, threatening to kill all there",
+   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-charged-with-breaking-into-girlfriends-home-at-gunpoint-threatening-to-kill-all-there.html",
+   "published": "Wed, 23 Sep 2026 16:43:15 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,27 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Federal judge orders Trump administration to restore $7 billion in Solar For All grants",
+   "link": "https://planetdetroit.org/2026/09/federal-judge-restores-solar-for-all/",
+   "published": "Wed, 23 Sep 2026 15:33:27 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Rural Michigan leaders push back against data center boom as election looms",
+   "link": "https://planetdetroit.org/2026/09/rural-michigan-data-centers-backlash/",
+   "published": "Wed, 23 Sep 2026 14:18:54 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Voices: Michigan PFAS Awareness Week is a call to action",
    "link": "https://planetdetroit.org/2026/09/michigan-pfas-awareness-data-center-threat/",
    "published": "Tue, 22 Sep 2026 14:41:58 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Voices: The PFAS rollback is not the whole problem",
-   "link": "https://planetdetroit.org/2026/09/pfas-epa-rules-forever-chemicals/",
-   "published": "Mon, 21 Sep 2026 21:38:25 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Detroit women lead fight against decades of pollution in Southwest neighborhoods",
-   "link": "https://planetdetroit.org/2026/09/southwest-detroit-cumulative-impact-legislation/",
-   "published": "Fri, 18 Sep 2026 19:45:11 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Here’s what’s happening in Michigan this weekend (Sept. 25-27)",
+   "link": "https://gandernewsroom.com/local/things-to-do/heres-whats-happening-in-michigan-this-weekend-sept-25-27/",
+   "published": "Wed, 23 Sep 2026 15:36:23 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -195,28 +201,22 @@
    "published": "Tue, 22 Sep 2026 13:48:07 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Lansing lab says Michigan is growing weed for the wrong reason",
-   "link": "https://gandernewsroom.com/news/cannabis/lansing-lab-testing-weed/",
-   "published": "Mon, 21 Sep 2026 20:39:40 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan and 21 other states win suit against Trump's USDA",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-23/michigan-and-21-other-states-win-suit-against-trumps-usda",
+   "published": "Wed, 23 Sep 2026 15:35:33 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Kamala Harris campaigns for Senate candidate Abdul El-Sayed ahead of Election Day",
-   "link": "https://www.michiganpublic.org/2026-09-23/kamala-harris-campaigns-for-senate-candidate-abdul-el-sayed-ahead-of-election-day",
-   "published": "Wed, 23 Sep 2026 08:42:45 GMT"
+   "title": "What the Vote?: A young conservative sees American dream \"withering away\"",
+   "link": "https://www.michiganpublic.org/section/stateside/2026-09-23/what-the-vote-a-young-conservative-sees-american-dream-withering-away",
+   "published": "Wed, 23 Sep 2026 15:30:32 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan Strategic Fund looks to future of battery, auto parts supply industry",
-   "link": "https://www.michiganpublic.org/economy/2026-09-22/michigan-strategic-fund-looks-to-future-of-battery-auto-parts-supply-industry",
-   "published": "Wed, 23 Sep 2026 01:52:30 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Environmentalists renew call for action on data center regulations",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-09-22/environmentalists-renew-call-for-action-on-data-center-regulations",
-   "published": "Wed, 23 Sep 2026 01:32:00 GMT"
+   "title": "Michigan Supreme Court candidates compete for two seats",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-23/michigan-supreme-court-candidates-compete-for-two-seats",
+   "published": "Wed, 23 Sep 2026 11:35:58 GMT"
   }
  ]
 }
