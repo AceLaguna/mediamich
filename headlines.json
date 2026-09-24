@@ -1,10 +1,16 @@
 {
- "generated": "2026-09-24T04:45:16+00:00",
+ "generated": "2026-09-24T11:41:11+00:00",
  "count": 36,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
-   "title": "Former Lansing mayor David Hollister dies",
+   "title": "Michigan State Police investigating after fatal Lansing Police shooting",
+   "link": "https://lansingcitypulse.com/michigan-state-police-investigating-after-fatal-lansing-police-shooting/",
+   "published": "Thu, 24 Sep 2026 04:51:44 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Former Lansing mayor David Hollister dies at 84",
    "link": "https://lansingcitypulse.com/former-lansing-mayor-david-hollister-dies/",
    "published": "Wed, 23 Sep 2026 17:54:53 +0000"
   },
@@ -13,12 +19,6 @@
    "title": "Man killed in officer-involved shooting in Lansing",
    "link": "https://lansingcitypulse.com/man-killed-in-officer-involved-shooting-in-lansing/",
    "published": "Wed, 23 Sep 2026 12:41:00 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Give yourself the royal treatment with a meal at Crown Grill",
-   "link": "https://lansingcitypulse.com/give-yourself-the-royal-treatment-with-a-meal-at-crown-grill/",
-   "published": "Wed, 23 Sep 2026 03:30:00 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Detroit soup kitchen will offer full-service meals in 2027",
+   "link": "https://www.bridgedetroit.com/detroit-full-service-soup-kitchen/",
+   "published": "Thu, 24 Sep 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "How to make your voice heard during city budgeting cycle",
    "link": "https://www.bridgedetroit.com/how-to-get-involved-detroit-city-budgeting-process/",
    "published": "Wed, 23 Sep 2026 15:53:34 +0000"
@@ -67,12 +73,6 @@
    "title": "Judge dismisses tenant union’s lawsuit against 36th District Court",
    "link": "https://www.bridgedetroit.com/judge-dismisses-tenant-unions-lawsuit-against-36th-district-court/",
    "published": "Wed, 23 Sep 2026 15:16:26 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit Council urging inspections of Munoz Realty’s entire portfolio",
-   "link": "https://www.bridgedetroit.com/detroit-council-urging-inspections-of-munoz-realtys-entire-portfolio/",
-   "published": "Wed, 23 Sep 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Flock surveillance cameras raise constitutional questions, bipartisan US senators say",
-   "link": "https://michiganadvance.com/2026/09/23/repub/flock-surveillance-cameras-raise-constitutional-questions-bipartisan-us-senators-say/",
-   "published": "Wed, 23 Sep 2026 22:09:19 +0000"
+   "title": "Federal judge orders White House must restore press passes to 3 banned news outlets",
+   "link": "https://michiganadvance.com/2026/09/24/repub/federal-judge-orders-white-house-must-restore-press-passes-to-3-banned-news-outlets/",
+   "published": "Thu, 24 Sep 2026 11:25:33 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Judge skeptical of White House ban of 3 news outlets but holds off on ruling for now",
-   "link": "https://michiganadvance.com/2026/09/23/repub/judge-skeptical-of-white-house-ban-of-3-news-outlets-but-holds-off-on-ruling-for-now/",
-   "published": "Wed, 23 Sep 2026 22:08:57 +0000"
+   "title": "New lawsuit alleges sexual misconduct, retaliation against 14-year-old at Interlochen arts school",
+   "link": "https://michiganadvance.com/2026/09/24/new-lawsuit-alleges-sexual-misconduct-retaliation-against-14-year-old-at-interlochen-arts-school/",
+   "published": "Thu, 24 Sep 2026 10:08:01 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Federal judge tosses Nessel suit accusing fossil fuel industry of anti-trust violations",
-   "link": "https://michiganadvance.com/2026/09/23/federal-judge-tosses-nessel-suit-accusing-fossil-fuel-industry-of-anti-trust-violations/",
-   "published": "Wed, 23 Sep 2026 21:27:19 +0000"
+   "title": "States put criminal justice, marijuana policies before voters in 2026",
+   "link": "https://michiganadvance.com/2026/09/24/repub/states-put-criminal-justice-marijuana-policies-before-voters-in-2026/",
+   "published": "Thu, 24 Sep 2026 09:50:20 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Western volleyball survives major test from Marshall",
-   "link": "https://www.mlive.com/highschoolsports/2026/09/western-volleyball-survives-major-test-from-marshall.html",
-   "published": "Thu, 24 Sep 2026 02:57:21 +0000"
+   "title": "Michigan Weather: Sunny skies and fall temps will hold steady into next week",
+   "link": "https://www.mlive.com/weather/2026/09/michigan-weather-sunny-skies-and-fall-temps-will-hold-steady-into-next-week.html",
+   "published": "Thu, 24 Sep 2026 11:28:04 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Nike drops another futuristic AIRMAX 1000 with upgraded 3D-printed mesh, expected to sell out fast",
-   "link": "https://www.mlive.com/shopping/2026/09/nike-drops-another-futuristic-airmax-1000-with-upgraded-3d-printed-mesh-expected-to-sell-out-fast.html",
-   "published": "Thu, 24 Sep 2026 01:55:43 +0000"
+   "title": "Why Michigan vs. Iowa has the lowest projected score of any game this week",
+   "link": "https://www.mlive.com/wolverines/football/2026/09/why-michigan-vs-iowa-has-the-lowest-projected-score-of-any-game-this-week.html",
+   "published": "Thu, 24 Sep 2026 11:22:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bay City motorcyclist killed in suspected road rage incident",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-city-motorcyclist-killed-in-suspected-road-rage-incident.html",
-   "published": "Thu, 24 Sep 2026 01:08:08 +0000"
+   "title": "Lakers legend dies at 76: ‘Forever in our hearts’",
+   "link": "https://www.mlive.com/sports/2026/09/lakers-legend-dies-at-76-forever-in-our-hearts.html",
+   "published": "Thu, 24 Sep 2026 11:16:30 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Detroit’s Water Board Building needs at least $30M in repairs. The department may relocate altogether",
+   "link": "https://outliermedia.org/detroit-water-board-building-repairs-dwsd-headquarters-louis-kamper/",
+   "published": "Thu, 24 Sep 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -157,12 +163,6 @@
    "title": "Detroiters look back at a summer of extreme heat, power outages, wildfire smoke and food recalls",
    "link": "https://outliermedia.org/detroit-summer-heat-power-outage-wildfire-smoke/",
    "published": "Tue, 22 Sep 2026 18:49:49 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Why are judicial races in Michigan separated by incumbency?",
-   "link": "https://outliermedia.org/incumbent-judges-detroit-ballot-michigan-election/",
-   "published": "Fri, 18 Sep 2026 20:11:15 +0000"
   },
   {
    "outlet": "Planet Detroit",
