@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-24T21:28:42+00:00",
- "count": 36,
+ "generated": "2026-09-25T04:55:42+00:00",
+ "count": 33,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
-   "title": "Shop REO Town, Old Town and Downtown in less than a 5k (or drive)",
+   "title": "Shop REO Town, Old Town and Downtown in less than a 5K (or drive)",
    "link": "https://lansingcitypulse.com/shop-reo-town-old-town-and-downtown-in-less-than-a-5k-or-drive/",
    "published": "Thu, 24 Sep 2026 21:19:13 +0000"
   },
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Little Italy Pizza is opening its fourth location in two years",
+   "link": "https://www.metrotimes.com/food-drink/little-italy-pizza-is-opening-its-fourth-location-in-two-years/",
+   "published": "Fri, 25 Sep 2026 04:51:03 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "John James fundraiser spotlights ties to controversial Flock lobbyists",
    "link": "https://www.metrotimes.com/news/john-james-fundraiser-spotlights-ties-to-controversial-flock-lobbyists/",
    "published": "Thu, 24 Sep 2026 19:27:20 +0000"
@@ -31,12 +37,6 @@
    "title": "Weezer threw Detroit a house party with basement-level sound (PHOTOS)",
    "link": "https://www.metrotimes.com/music-2/weezer-threw-detroit-a-house-party-with-basement-level-sound-photos/",
    "published": "Thu, 24 Sep 2026 17:53:10 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "BABYMETAL, Halestorm and Violent Vira reign supreme at Pine Knob",
-   "link": "https://www.metrotimes.com/music-2/babymetal-halestorm-and-violent-vira-reign-supreme-at-pine-knob/",
-   "published": "Wed, 23 Sep 2026 18:18:30 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -93,58 +93,40 @@
    "published": "Mon, 21 Sep 2026 23:28:16 GMT"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Michigan city continues push to replace thousands of lead water service lines",
-   "link": "https://greatlakesecho.org/2026/09/18/michigan-city-continues-push-to-replace-thousands-of-lead-water-service-lines/",
-   "published": "Fri, 18 Sep 2026 09:46:00 +0000"
-  },
-  {
-   "outlet": "Great Lakes Echo",
-   "title": "Shipwrecks: Cultural heritage protection and underwater tombs",
-   "link": "https://greatlakesecho.org/2026/09/17/shipwrecks-cultural-heritage-protection-and-underwater-tombs/",
-   "published": "Thu, 17 Sep 2026 09:32:00 +0000"
-  },
-  {
-   "outlet": "Great Lakes Echo",
-   "title": "Most of Minnesota’s gray wolf pups don’t survive first year, but population remains stable",
-   "link": "https://greatlakesecho.org/2026/09/16/most-of-minnesotas-gray-wolf-pups-dont-survive-first-year-but-population-remains-stable/",
-   "published": "Wed, 16 Sep 2026 09:21:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Trump administration asks Supreme Court to permit quick third-country deportations",
+   "link": "https://michiganadvance.com/2026/09/24/repub/trump-administration-asks-supreme-court-to-permit-quick-third-country-deportations/",
+   "published": "Fri, 25 Sep 2026 00:27:49 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Lawmakers call on Michigan House to move on offshoring protections for call center workers",
-   "link": "https://michiganadvance.com/2026/09/24/lawmakers-call-on-michigan-house-to-move-on-offshoring-protections-for-call-center-workers/",
-   "published": "Thu, 24 Sep 2026 19:12:48 +0000"
+   "title": "Mike Rogers claims he was an assembly line worker. The UAW said that is stretching the truth.",
+   "link": "https://michiganadvance.com/2026/09/24/mike-rogers-claims-he-was-an-assembly-line-worker-the-uaw-said-that-is-stretching-the-truth/",
+   "published": "Thu, 24 Sep 2026 23:48:41 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "FDA nominee faces skepticism on vaccines from Republican senators at confirmation hearing",
-   "link": "https://michiganadvance.com/2026/09/24/repub/fda-nominee-faces-skepticism-on-vaccines-from-republican-senators-at-confirmation-hearing/",
-   "published": "Thu, 24 Sep 2026 19:02:16 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Clerks reiterate Michigan elections are ‘safe, secure, fair’ as absentee voting begins",
-   "link": "https://michiganadvance.com/2026/09/24/clerks-reiterate-michigan-elections-are-safe-secure-fair-as-absentee-voting-begins/",
-   "published": "Thu, 24 Sep 2026 18:24:41 +0000"
+   "title": "Democrats gain 4 in US Senate GOP on Iran war resolution, but vote falls short",
+   "link": "https://michiganadvance.com/2026/09/24/repub/democrats-gain-4-in-us-senate-gop-on-iran-war-resolution-but-vote-falls-short/",
+   "published": "Thu, 24 Sep 2026 21:25:29 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "DTE pitches 2 major new gas power plants, more renewables as coal goes offline",
-   "link": "https://www.mlive.com/news/2026/09/dte-pitches-2-major-new-gas-power-plants-more-renewables-as-coal-goes-offline.html",
-   "published": "Thu, 24 Sep 2026 21:13:41 +0000"
+   "title": "Vigil held for Guatemalan father who died after fleeing ICE traffic stop in Grand Rapids",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/09/vigil-held-for-guatemalan-father-who-died-after-fleeing-ice-traffic-stop-in-grand-rapids.html",
+   "published": "Fri, 25 Sep 2026 03:20:07 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Woman found dead in camper that caught fire in Jackson",
-   "link": "https://www.mlive.com/news/jackson/2026/09/woman-found-dead-in-camper-that-caught-fire-in-jackson.html",
-   "published": "Thu, 24 Sep 2026 21:11:10 +0000"
+   "title": "Alex DeBrincat scraps, scores as Red Wings top Sabres in overtime",
+   "link": "https://www.mlive.com/redwings/2026/09/alex-debrincat-scraps-scores-as-red-wings-top-sabres-in-overtime.html",
+   "published": "Fri, 25 Sep 2026 01:51:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "How to watch ‘American Horror Story: 13′ premiere for free tonight",
-   "link": "https://www.mlive.com/tv/2026/09/how-to-watch-american-horror-story-13-premiere-for-free-tonight.html",
-   "published": "Thu, 24 Sep 2026 21:00:00 +0000"
+   "title": "‘It just blew up.’ Neighbor recounts Jackson camper fire that killed woman",
+   "link": "https://www.mlive.com/news/jackson/2026/09/it-just-blew-up-neighbor-recounts-jackson-camper-fire-that-killed-woman.html",
+   "published": "Fri, 25 Sep 2026 01:30:51 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Absentee voting starts in Michigan",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-24/absentee-voting-starts-in-michigan",
+   "published": "Thu, 24 Sep 2026 23:32:39 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "DTE's proposed long term plan has hidden risks due to data centers, environmental group says",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-09-24/dtes-proposed-long-term-plan-has-hidden-risks-due-to-data-centers-environmental-group-says",
+   "published": "Thu, 24 Sep 2026 23:18:44 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Stateside: Thursday, Sept. 24, 2026",
    "link": "https://www.michiganpublic.org/stateside/2026-09-24/stateside-thursday-sept-24-2026",
    "published": "Thu, 24 Sep 2026 19:59:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Here are 28 things to do in Michigan this weekend (September 25-27)",
-   "link": "https://www.michiganpublic.org/community/2026-09-24/here-are-28-things-to-do-in-michigan-this-weekend-september-18-20",
-   "published": "Thu, 24 Sep 2026 16:56:33 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Where does MI PFAS contamination stand during PFAS Awareness Week?",
-   "link": "https://www.michiganpublic.org/show/stateside/2026-09-24/where-does-mi-pfas-contamination-stand-during-pfas-awareness-week",
-   "published": "Thu, 24 Sep 2026 16:44:47 GMT"
   }
  ]
 }
