@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-25T21:32:21+00:00",
+ "generated": "2026-09-26T04:53:38+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Top 5 Sub Sandwiches in Greater Lansing",
+   "link": "https://lansingcitypulse.com/top-5-sub-sandwiches-in-greater-lansing/",
+   "published": "Fri, 25 Sep 2026 09:37:00 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Shop REO Town, Old Town and Downtown in less than a 5K (or drive)",
@@ -13,12 +19,6 @@
    "title": "National reproductive rights advocacy organization endorses Lansing Democrats",
    "link": "https://lansingcitypulse.com/national-reproductive-rights-advocacy-organization-endorses-lansing-democrats/",
    "published": "Thu, 24 Sep 2026 11:41:26 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Michigan State Police investigating after fatal Lansing Police shooting",
-   "link": "https://lansingcitypulse.com/michigan-state-police-investigating-after-fatal-lansing-police-shooting/",
-   "published": "Thu, 24 Sep 2026 04:51:44 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -58,21 +58,21 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Fact check: Why are judicial races in Michigan separated by incumbency?",
+   "link": "https://www.bridgedetroit.com/why-are-judicial-races-in-michigan-separated-by-incumbency/",
+   "published": "Fri, 25 Sep 2026 21:38:24 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Voter guide 2026: Everything you need to know about voting in Detroit",
+   "link": "https://www.bridgedetroit.com/2026-michigan-voter-guide-what-to-know/",
+   "published": "Fri, 25 Sep 2026 21:34:06 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Literacy lawsuit money is expiring. Here’s how DPSCD board candidates would keep key interventions.",
    "link": "https://www.bridgedetroit.com/literacy-lawsuit-money-is-expiring-heres-how-dpscd-board-candidates-would-keep-key-interventions/",
    "published": "Fri, 25 Sep 2026 17:29:06 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Absentee ballots going out in Michigan: What to know",
-   "link": "https://www.bridgedetroit.com/absentee-ballots-going-out-in-michigan-what-to-know/",
-   "published": "Fri, 25 Sep 2026 15:00:37 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Don’t spoil your ballot: What you need to know about the school board race",
-   "link": "https://www.bridgedetroit.com/dont-spoil-your-ballot-what-you-need-to-know-about-the-school-board-race/",
-   "published": "Thu, 24 Sep 2026 19:11:17 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -130,21 +130,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Saginaw man once again convicted of killing mother and younger sister in 2013",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-once-again-convicted-of-killing-mother-younger-sister-in-2013.html",
-   "published": "Fri, 25 Sep 2026 21:22:09 +0000"
+   "title": "Who was the Friday night football hero in the Muskegon area for Week 5?",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/who-was-the-friday-night-football-hero-in-the-muskegon-area-for-week-5.html",
+   "published": "Sat, 26 Sep 2026 04:43:25 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Brooklyn gets $4K grant toward new gazebo",
-   "link": "https://www.mlive.com/news/jackson/2026/09/brooklyn-gets-4k-grant-toward-new-gazebo.html",
-   "published": "Fri, 25 Sep 2026 21:09:34 +0000"
+   "title": "Frankenmuth overpowers Freeland in Clash for a Cure win",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/frankenmuth-overpowers-freeland-in-clash-for-a-cure-win.html",
+   "published": "Sat, 26 Sep 2026 04:36:53 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Grueling reality show sends celebrity home with cracked rib and perforated eardrum",
-   "link": "https://www.mlive.com/life/2026/09/grueling-reality-show-sends-celebrity-home-with-cracked-rib-and-perforated-eardrum.html",
-   "published": "Fri, 25 Sep 2026 21:03:13 +0000"
+   "title": "Take a gander at the great performances of Bay City area’s Friday Night Heroes for Week 5",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/take-a-gander-at-the-great-performances-of-bay-city-areas-friday-night-heroes-for-week-5.html",
+   "published": "Sat, 26 Sep 2026 04:34:51 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "U.S. Senate Candidates in Michigan campaign amidst a trade war with Canada",
-   "link": "https://www.michiganpublic.org/2026-09-25/u-s-senate-candidates-in-michigan-campaign-amidst-a-trade-war-with-canada",
+   "title": "ACLU report: University of Michigan, among others, unfairly targeted pro-Palestine speech",
+   "link": "https://www.michiganpublic.org/education/2026-09-26/aclu-report-university-of-michigan-among-others-unfairly-targeted-pro-palestine-speech",
+   "published": "Sat, 26 Sep 2026 04:06:20 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "TWTS: The same, just more exact",
+   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-09-25/twts-the-same-just-more-exact",
+   "published": "Fri, 25 Sep 2026 22:04:53 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Anxiety over trade war with Canada provides backdrop for Michigan U.S. Senate race",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-25/u-s-senate-candidates-in-michigan-campaign-amidst-a-trade-war-with-canada",
    "published": "Fri, 25 Sep 2026 20:08:39 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Friday, Sept. 25, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-09-25/stateside-friday-sept-25-2026",
-   "published": "Fri, 25 Sep 2026 19:59:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Detroit community violence intervention program shows positive results, study says",
-   "link": "https://www.michiganpublic.org/public-safety/2026-09-25/shotstoppers-detroit-community-violence-intervention-study",
-   "published": "Fri, 25 Sep 2026 16:53:49 GMT"
   }
  ]
 }
