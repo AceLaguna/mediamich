@@ -1,7 +1,13 @@
 {
- "generated": "2026-09-28T13:48:13+00:00",
+ "generated": "2026-09-28T23:14:09+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Lansing Police found apparent human remains",
+   "link": "https://lansingcitypulse.com/lansing-police-found-apparent-human-remains/",
+   "published": "Mon, 28 Sep 2026 15:33:34 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Absentee ballots as early as today",
@@ -15,10 +21,10 @@
    "published": "Fri, 25 Sep 2026 09:37:00 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Shop REO Town, Old Town and Downtown in less than a 5K (or drive)",
-   "link": "https://lansingcitypulse.com/shop-reo-town-old-town-and-downtown-in-less-than-a-5k-or-drive/",
-   "published": "Thu, 24 Sep 2026 21:19:13 +0000"
+   "outlet": "Metro Times",
+   "title": "Mike Rogers voted against children’s health coverage over and over",
+   "link": "https://www.metrotimes.com/news/mike-rogers-voted-against-childrens-health-coverage-over-and-over/",
+   "published": "Mon, 28 Sep 2026 19:34:47 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,28 +39,34 @@
    "published": "Fri, 25 Sep 2026 16:54:19 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Little Italy Pizza is opening its fourth location in two years",
-   "link": "https://www.metrotimes.com/food-drink/little-italy-pizza-is-opening-its-fourth-location-in-two-years/",
-   "published": "Fri, 25 Sep 2026 04:51:03 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Michigan got $173M to transform rural health. Where is it going?",
+   "link": "https://bridgemi.com/michigan-health-watch/michigan-got-173m-to-transform-rural-health-where-is-it-going/",
+   "published": "Mon, 28 Sep 2026 20:31:51 +0000"
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Proposal 1: Rewrite Michigan’s Constitution? Here’s how it would work",
+   "link": "https://bridgemi.com/michigan-government/proposal-1-rewrite-michigans-constitution-heres-how-it-would-work/",
+   "published": "Mon, 28 Sep 2026 20:22:42 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Trump lowers fuel economy standards. Detroit automakers welcome change",
+   "link": "https://bridgemi.com/business-watch/trump-admin-lowers-fuel-economy-standards-detroit-automakers-welcome-change/",
+   "published": "Mon, 28 Sep 2026 20:13:38 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Who will be exempt from Medicaid work rules in Michigan? What to know",
-   "link": "https://bridgemi.com/michigan-health-watch/who-will-be-exempt-from-medicaid-work-rules-in-michigan-what-to-know/",
-   "published": "Fri, 25 Sep 2026 19:15:31 +0000"
+   "link": "https://www.bridgedetroit.com/who-will-be-exempt-from-medicaid-work-rules-in-michigan-what-to-know/",
+   "published": "Mon, 28 Sep 2026 17:22:13 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Would Abdul El-Sayed raise taxes to pay for Medicare for All?",
-   "link": "https://bridgemi.com/michigan-government/fact-check-would-abdul-el-sayed-raise-taxes-to-pay-for-medicare-for-all/",
-   "published": "Fri, 25 Sep 2026 18:10:33 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Abdul El-Sayed under microscope: His record,  from public health to podcasts",
-   "link": "https://bridgemi.com/michigan-government/abdul-el-sayed-under-the-microscope-from-public-health-to-politics/",
-   "published": "Fri, 25 Sep 2026 18:06:18 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Michigan’s home heating credit deadline is Sept. 30. Here’s how to claim it.",
+   "link": "https://www.bridgedetroit.com/michigans-home-heating-credit-deadline-is-sept-30-heres-how-to-claim-it/",
+   "published": "Mon, 28 Sep 2026 17:03:13 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -63,16 +75,10 @@
    "published": "Mon, 28 Sep 2026 09:00:00 +0000"
   },
   {
-   "outlet": "BridgeDetroit",
-   "title": "El-Sayed, Rogers face voter opposition to data centers in crucial Senate race",
-   "link": "https://www.bridgedetroit.com/el-sayed-rogers-face-voter-opposition-to-data-centers-in-crucial-senate-race/",
-   "published": "Sun, 27 Sep 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Fact check: Why are judicial races in Michigan separated by incumbency?",
-   "link": "https://www.bridgedetroit.com/why-are-judicial-races-in-michigan-separated-by-incumbency/",
-   "published": "Fri, 25 Sep 2026 21:38:24 +0000"
+   "outlet": "Daily Detroit",
+   "title": "People Mover Expansion? Dearborn Coffee Week, and a Downtown High-Rise in Danger",
+   "link": "https://www.dailydetroit.com/people-mover-expansion-dearborn-coffee-week-and-a-downtown-high-rise-in-danger/",
+   "published": "Fri, 25 Sep 2026 19:31:00 GMT"
   },
   {
    "outlet": "Daily Detroit",
@@ -85,12 +91,6 @@
    "title": "What Makes For A Great Sandwich? + A Georgia O'Keeffe DIA Preview",
    "link": "https://www.dailydetroit.com/great-sandwich-okeefe-exhibition/",
    "published": "Tue, 22 Sep 2026 22:53:00 GMT"
-  },
-  {
-   "outlet": "Daily Detroit",
-   "title": "\"Fifth Third Park\" Is A Foul Choice Of A Ballpark Name",
-   "link": "https://www.dailydetroit.com/fifth-third-park-is-a-foul-choice-of-a-ballpark-name/",
-   "published": "Mon, 21 Sep 2026 23:28:16 GMT"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan is burning. Here’s what the next governor can do to extinguish the blaze.",
-   "link": "https://michiganadvance.com/2026/09/28/michigan-is-burning-heres-what-the-next-governor-can-do-to-extinguish-the-blaze/",
-   "published": "Mon, 28 Sep 2026 12:00:14 +0000"
+   "title": "Trump thwarted in hunt for rare noncitizen voters as midterms near",
+   "link": "https://michiganadvance.com/2026/09/28/repub/trump-thwarted-in-hunt-for-rare-noncitizen-voters-as-midterms-near/",
+   "published": "Mon, 28 Sep 2026 21:28:00 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Only half of Michigan schools complying with safe firearm storage information deadline",
-   "link": "https://michiganadvance.com/2026/09/28/push-for-schools-to-guide-safe-firearm-storage-only-half-complying-a-month-from-annual-deadline/",
-   "published": "Mon, 28 Sep 2026 10:30:22 +0000"
+   "title": "‘Dumbfounds us all’: Congress struggles with policies rippling from AI development",
+   "link": "https://michiganadvance.com/2026/09/28/repub/dumbfounds-us-all-congress-struggles-with-policies-rippling-from-ai-development/",
+   "published": "Mon, 28 Sep 2026 21:27:02 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan Data Centers: The Weekly Download",
-   "link": "https://michiganadvance.com/2026/09/28/michigan-data-centers-the-weekly-download-4-2-2-2-2-2/",
-   "published": "Mon, 28 Sep 2026 10:00:03 +0000"
+   "title": "Governors pledge to oppose federal overreach — even when their party runs Washington",
+   "link": "https://michiganadvance.com/2026/09/28/repub/governors-pledge-to-oppose-federal-overreach-even-when-their-party-runs-washington/",
+   "published": "Mon, 28 Sep 2026 19:18:55 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Ann Arbor-Saline Road intersection reopens after tricky hill lowered",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-saline-road-intersection-reopens-after-tricky-hill-lowered.html",
-   "published": "Mon, 28 Sep 2026 13:39:54 +0000"
+   "title": "Flushing’s Amari Sanders voted Friday Night Hero after three-INT performance",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/flushings-amari-sanders-voted-friday-night-hero-after-three-int-performance.html",
+   "published": "Mon, 28 Sep 2026 23:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Popular BET personality and radio host dies at 58",
-   "link": "https://www.mlive.com/life/2026/09/beloved-tv-personality-dies-at-58-she-was-a-sweet-soul.html",
-   "published": "Mon, 28 Sep 2026 13:25:28 +0000"
+   "title": "Trump sees a 40-point shift among crucial voting group before midterms: CNN expert",
+   "link": "https://www.mlive.com/politics/2026/09/trump-sees-a-40-point-shift-among-crucial-voting-group-before-midterms-cnn-expert.html",
+   "published": "Mon, 28 Sep 2026 23:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Chippewa Nature Center to host Fall Harvest Festival celebrating 19th-century traditions",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/chippewa-nature-center-to-host-fall-harvest-festival-celebrating-19th-century-traditions.html",
-   "published": "Mon, 28 Sep 2026 13:22:14 +0000"
+   "title": "SEC suspends star defender for punch he wasn't flagged for",
+   "link": "https://www.mlive.com/sports/2026/09/sec-suspends-star-defender-for-punch-egregious-contact-reflects-behavior-that-is-unacceptable.html",
+   "published": "Mon, 28 Sep 2026 22:59:44 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Voices: $5 gas isn’t just a price spike. It’s a warning.",
+   "link": "https://planetdetroit.org/2026/09/gas-prices-michigan-electric-vehicles/",
+   "published": "Mon, 28 Sep 2026 20:55:18 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "El-Sayed, Rogers face voter opposition to data centers in crucial Senate race",
    "link": "https://planetdetroit.org/2026/09/data-centers-michigan-senate-rogers-el-sayed/",
    "published": "Fri, 25 Sep 2026 18:07:26 +0000"
@@ -177,46 +183,40 @@
    "published": "Thu, 24 Sep 2026 17:50:33 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Voices: How clean energy can drive Detroit’s growth",
-   "link": "https://planetdetroit.org/2026/09/clean-energy-detroit-growth/",
-   "published": "Wed, 23 Sep 2026 21:04:14 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Michigan cannabis brands roll out seasonal drops for Halloween",
+   "link": "https://gandernewsroom.com/news/cannabis/michigan-cannabis-halloween-2026/",
+   "published": "Mon, 28 Sep 2026 20:35:00 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Looking for fall color? 5 road trips worth trying in Michigan",
-   "link": "https://gandernewsroom.com/local/things-to-do/looking-for-fall-color-5-road-trips-worth-trying-in-michigan/",
-   "published": "Thu, 24 Sep 2026 17:24:04 +0000"
+   "title": "9 quick hits of cannabis news from across Michigan",
+   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-092826/",
+   "published": "Mon, 28 Sep 2026 20:22:15 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Project uses community input to guide tree planting in disadvantaged areas",
-   "link": "https://gandernewsroom.com/news/environment/project-uses-community-input-to-guide-tree-planting-in-disadvantaged-areas/",
-   "published": "Thu, 24 Sep 2026 17:07:33 +0000"
+   "title": "Driftwood dragon, opal butterfly, 7 deadly sins, more at ArtPrize 2026",
+   "link": "https://gandernewsroom.com/local/culture/driftwood-dragon-opal-butterfly-7-deadly-sins-more-at-artprize-2026/",
+   "published": "Mon, 28 Sep 2026 14:58:12 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Nessel discusses threats of federal monitors, law enforcement at polling places during voter forum",
-   "link": "https://gandernewsroom.com/news/elections/nessel-election-threats-michigan/",
-   "published": "Thu, 24 Sep 2026 15:07:10 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Health policy polling shows similar feelings across party lines",
+   "link": "https://www.michiganpublic.org/health/2026-09-28/health-policy-polling-shows-similar-feelings-across-party-lines",
+   "published": "Mon, 28 Sep 2026 21:24:31 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Emergency hearing held over alleged toxic mold at Women's Huron Valley Prison",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-09-25/emergency-hearing-held-over-alleged-toxic-mold-at-womens-huron-valley-prison",
+   "published": "Mon, 28 Sep 2026 18:55:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan congresswoman pitches bipartisan bill as way to lower child care costs",
    "link": "https://www.michiganpublic.org/education/2026-09-28/michigan-congresswoman-pitches-bipartisan-bill-as-way-to-lower-child-care-costs",
    "published": "Mon, 28 Sep 2026 09:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan's Tenth Congressional race could determine which party controls Congress",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-28/10th-congressional-race-michigan-michael-bouchard-christina-hines",
-   "published": "Mon, 28 Sep 2026 08:56:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan regulators want to restrain utilities' bias toward building costly power plants",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-09-28/michigan-regulators-want-to-restrain-utilities-bias-toward-building-costly-power-plants",
-   "published": "Mon, 28 Sep 2026 08:15:00 GMT"
   }
  ]
 }
