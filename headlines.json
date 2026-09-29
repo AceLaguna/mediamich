@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T05:40:16+00:00",
+ "generated": "2026-09-29T12:47:57+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "K-2 reading growth slowed last year in the Detroit district. Here’s what administrators say caused it.",
+   "link": "https://www.bridgedetroit.com/k-2-reading-growth-slowed-last-year-in-the-detroit-district-heres-what-administrators-say-caused-it/",
+   "published": "Tue, 29 Sep 2026 12:23:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Who will be exempt from Medicaid work rules in Michigan? What to know",
    "link": "https://www.bridgedetroit.com/who-will-be-exempt-from-medicaid-work-rules-in-michigan-what-to-know/",
    "published": "Mon, 28 Sep 2026 17:22:13 +0000"
@@ -67,12 +73,6 @@
    "title": "Michigan’s home heating credit deadline is Sept. 30. Here’s how to claim it.",
    "link": "https://www.bridgedetroit.com/michigans-home-heating-credit-deadline-is-sept-30-heres-how-to-claim-it/",
    "published": "Mon, 28 Sep 2026 17:03:13 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit and Flint teens are struggling with their mental health – and worried adults around them feel ‘helpless’",
-   "link": "https://www.bridgedetroit.com/detroit-and-flint-teens-are-struggling-with-their-mental-health-and-worried-adults-around-them-feel-helpless/",
-   "published": "Mon, 28 Sep 2026 09:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Major bill to set standards for college athletes’ pay passes US Senate",
-   "link": "https://michiganadvance.com/2026/09/28/repub/major-bill-to-set-standards-for-college-athletes-pay-on-track-to-pass-us-senate/",
-   "published": "Tue, 29 Sep 2026 00:25:50 +0000"
+   "title": "When time becomes a barrier to justice for Michigan survivors",
+   "link": "https://michiganadvance.com/2026/09/29/when-time-becomes-a-barrier-to-justice-for-michigan-survivors/",
+   "published": "Tue, 29 Sep 2026 12:00:41 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump used impossible foreign labor standards as tariff workaround, small businesses say",
-   "link": "https://michiganadvance.com/2026/09/28/repub/trump-used-impossible-foreign-labor-standards-as-tariff-workaround-small-businesses-say/",
-   "published": "Mon, 28 Sep 2026 23:22:10 +0000"
+   "title": "Anti-abortion groups worry Hyde Amendment’s 50-year run could end with new congressional majority",
+   "link": "https://michiganadvance.com/2026/09/29/repub/anti-abortion-groups-worry-hyde-amendments-50-year-run-could-end-with-new-congressional-majority/",
+   "published": "Tue, 29 Sep 2026 09:45:18 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump thwarted in hunt for rare noncitizen voters as midterms near",
-   "link": "https://michiganadvance.com/2026/09/28/repub/trump-thwarted-in-hunt-for-rare-noncitizen-voters-as-midterms-near/",
-   "published": "Mon, 28 Sep 2026 21:28:00 +0000"
+   "title": "Lansing protesters block Flock cameras over license plate reader contract",
+   "link": "https://michiganadvance.com/2026/09/29/lansing-deflock-protesters-block-cameras-over-license-plate-reader-contract/",
+   "published": "Tue, 29 Sep 2026 08:00:19 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Senate passes college sports bill that would rein in athlete payments and transfers",
-   "link": "https://www.mlive.com/news/2026/09/senate-passes-college-sports-bill-that-would-rein-in-athlete-payments-and-transfers.html",
-   "published": "Tue, 29 Sep 2026 03:36:40 +0000"
+   "title": "What Tuesday’s hearing could mean for Lindsay Clancy after mistrial",
+   "link": "https://www.mlive.com/news/2026/09/a-single-juror-changed-everything-in-lindsay-clancy-case-now-a-judge-faces-big-decision.html",
+   "published": "Tue, 29 Sep 2026 12:32:12 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Joggers find man stabbed to death in Flint",
-   "link": "https://www.mlive.com/news/flint/2026/09/joggers-find-man-stabbed-to-death-in-flint.html",
-   "published": "Tue, 29 Sep 2026 03:10:53 +0000"
+   "title": "DA says he didn’t investigate Cornell rape case, relied on campus police before lawsuit",
+   "link": "https://www.mlive.com/news/2026/09/da-says-he-didnt-investigate-cornell-rape-case-relied-on-campus-police-before-lawsuit.html",
+   "published": "Tue, 29 Sep 2026 12:29:49 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "The early word on John Henry Daley, injured before final play in Michigan loss",
-   "link": "https://www.mlive.com/wolverines/football/2026/09/the-early-world-on-john-henry-daley-injured-before-final-play-in-michigan-loss.html",
-   "published": "Tue, 29 Sep 2026 00:57:40 +0000"
+   "title": "Cast of popular ‘90s sitcom to reunite in Royal Oak for 30th anniversary",
+   "link": "https://www.mlive.com/detroit/2026/09/sabrina-the-teenage-witch-cast-to-reunite-in-royal-oak-for-30th-anniversary.html",
+   "published": "Tue, 29 Sep 2026 12:17:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "One year after deadly attack, Grand Blanc Mormon church begins rebuilding",
+   "link": "https://www.michiganpublic.org/community/2026-09-29/one-year-after-deadly-attack-grand-blanc-mormon-church-begins-rebuilding",
+   "published": "Tue, 29 Sep 2026 07:38:48 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Stateside: Monday, Sept 28, 2026",
    "link": "https://www.michiganpublic.org/stateside/2026-09-28/stateside-monday-sept-28-2026",
    "published": "Tue, 29 Sep 2026 00:06:24 GMT"
@@ -211,12 +217,6 @@
    "title": "Benson, James boast dueling endorsements from first responders, veterans groups",
    "link": "https://www.michiganpublic.org/politics-government/2026-09-28/benson-james-boast-dueling-endorsements-from-first-responders-veterans-groups",
    "published": "Mon, 28 Sep 2026 23:07:36 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Health policy polling shows similar feelings across party lines",
-   "link": "https://www.michiganpublic.org/health/2026-09-28/health-policy-polling-shows-similar-feelings-across-party-lines",
-   "published": "Mon, 28 Sep 2026 21:24:31 GMT"
   }
  ]
 }
