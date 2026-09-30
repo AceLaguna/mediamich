@@ -1,24 +1,24 @@
 {
- "generated": "2026-09-29T22:14:29+00:00",
- "count": 33,
+ "generated": "2026-09-30T05:28:25+00:00",
+ "count": 36,
  "headlines": [
   {
    "outlet": "Lansing City Pulse",
-   "title": "City of Lansing, Notice of Public Hearing, Mon., Oct. 12, 2026, approval of Obsolete Property Rehabilitation District for 1515 W Mt Hope Ave.",
-   "link": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-mon-oct-12-2026-approval-of-obsolete-property-rehabilitation-district-for-1515-w-mt-hope-ave/",
-   "published": "Tue, 29 Sep 2026 21:36:47 +0000"
+   "title": "Book explores Northern Michigan’s climate haven potential",
+   "link": "https://lansingcitypulse.com/book-explores-northern-michigans-climate-haven-potential/",
+   "published": "Wed, 30 Sep 2026 05:00:43 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "City of Lansing, Notice of Public Hearing, Mon., Oct. 12, 2026, approval of Obsolete Property Rehabilitation Certificate for 1515 W Mt Hope Ave.",
-   "link": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-mon-oct-12-2026-approval-of-obsolete-property-rehabilitation-certificate-for-1515-w-mt-hope-ave/",
-   "published": "Tue, 29 Sep 2026 21:23:28 +0000"
+   "title": "Enjoy this delicacy from the comfort of home",
+   "link": "https://lansingcitypulse.com/enjoy-this-delicacy-from-the-comfort-of-home/",
+   "published": "Wed, 30 Sep 2026 04:57:15 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "City of Lansing, Notice of Public Hearing, Mon., Oct. 12, 2026, approval of Obsolete Property Rehabilitation Certificate for 1204 S Washington Ave.",
-   "link": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-approval-of-obsolete-property-rehabilitation-certificate-for-1204-s-washington-ave/",
-   "published": "Tue, 29 Sep 2026 20:59:43 +0000"
+   "title": "Poppa’s Cookbook and ABLE Allies come full circle",
+   "link": "https://lansingcitypulse.com/poppas-cookbook-and-able-allies-come-full-circle/",
+   "published": "Wed, 30 Sep 2026 04:46:14 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Detroit School Board race: What to know",
+   "link": "https://www.bridgedetroit.com/detroit-school-board-why-it-matters/",
+   "published": "Wed, 30 Sep 2026 02:30:55 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Proposal 1: Rewrite Michigan’s Constitution? Here’s how it would work",
    "link": "https://www.bridgedetroit.com/proposal-1-rewrite-michigans-constitution-heres-how-it-would-work/",
    "published": "Tue, 29 Sep 2026 16:12:52 +0000"
@@ -67,12 +73,6 @@
    "title": "K-2 reading growth slowed last year in the Detroit district. Here’s what administrators say caused it.",
    "link": "https://www.bridgedetroit.com/k-2-reading-growth-slowed-last-year-in-the-detroit-district-heres-what-administrators-say-caused-it/",
    "published": "Tue, 29 Sep 2026 12:23:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Who will be exempt from Medicaid work rules in Michigan? What to know",
-   "link": "https://www.bridgedetroit.com/who-will-be-exempt-from-medicaid-work-rules-in-michigan-what-to-know/",
-   "published": "Mon, 28 Sep 2026 17:22:13 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -93,40 +93,58 @@
    "published": "Tue, 22 Sep 2026 22:53:00 GMT"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Citizens Research Council outlines impacts of Mop Up Michigan initiative",
-   "link": "https://michiganadvance.com/2026/09/29/citizens-research-council-outlines-impacts-of-mop-up-michigan-initiative/",
-   "published": "Tue, 29 Sep 2026 20:51:10 +0000"
+   "outlet": "Great Lakes Echo",
+   "title": "Insects offer new hope in Michigan State University’s fight against forever chemicals",
+   "link": "https://greatlakesecho.org/2026/09/25/insects-offer-new-hope-in-michigan-state-universitys-fight-against-forever-chemicals/",
+   "published": "Fri, 25 Sep 2026 17:34:10 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "Michigan city continues push to replace thousands of lead water service lines",
+   "link": "https://greatlakesecho.org/2026/09/18/michigan-city-continues-push-to-replace-thousands-of-lead-water-service-lines/",
+   "published": "Fri, 18 Sep 2026 09:46:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
+   "title": "Shipwrecks: Cultural heritage protection and underwater tombs",
+   "link": "https://greatlakesecho.org/2026/09/17/shipwrecks-cultural-heritage-protection-and-underwater-tombs/",
+   "published": "Thu, 17 Sep 2026 09:32:00 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Appeals court poised to allow contempt probe of DHS deportation flights to El Salvador",
-   "link": "https://michiganadvance.com/2026/09/29/repub/appeals-court-poised-to-allow-contempt-probe-of-dhs-deportation-flights-to-el-salvador/",
-   "published": "Tue, 29 Sep 2026 20:40:24 +0000"
+   "title": "Trump TV ads paid for with $20M in Homeland Security funds, Dems find",
+   "link": "https://michiganadvance.com/2026/09/29/repub/trump-tv-ads-paid-for-with-20m-in-homeland-security-funds-dems-find/",
+   "published": "Wed, 30 Sep 2026 00:51:48 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "GOP senator bungles accusation against former special counsel Jack Smith in heated hearing",
-   "link": "https://michiganadvance.com/2026/09/29/repub/gop-senator-bungles-accusation-against-former-special-counsel-jack-smith-in-heated-hearing/",
-   "published": "Tue, 29 Sep 2026 20:39:46 +0000"
+   "title": "US Supreme Court allows Trump to resume deportations outside immigrants’ home countries",
+   "link": "https://michiganadvance.com/2026/09/29/repub/us-supreme-court-allows-trump-to-resume-deportations-outside-immigrants-home-countries/",
+   "published": "Wed, 30 Sep 2026 00:51:31 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Congressional watchdog says Trump administration can’t defy lawmakers to revoke $810M",
+   "link": "https://michiganadvance.com/2026/09/29/repub/congressional-watchdog-says-trump-administration-cant-defy-lawmakers-to-revoke-810m/",
+   "published": "Wed, 30 Sep 2026 00:51:16 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "NFL quarterback’s sister calls out fans over ‘threats, hate, bullying’",
-   "link": "https://www.mlive.com/sports/2026/09/nfl-quarterbacks-sister-calls-out-fans-over-threats-hate-bullying.html",
-   "published": "Tue, 29 Sep 2026 22:10:21 +0000"
+   "title": "Skyline shows championship resilience in Round 1 of Top 5 soccer battle",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/skyline-shows-championship-resilience-in-round-1-of-top-5-soccer-battle.html",
+   "published": "Wed, 30 Sep 2026 03:20:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Shoulder work to close section of Mt. Morris Road on Wednesday",
-   "link": "https://www.mlive.com/news/flint/2026/09/shoulder-work-to-close-section-of-mt-morris-road-on-wednesday.html",
-   "published": "Tue, 29 Sep 2026 22:00:00 +0000"
+   "title": "Detroit Lions name Divine Child’s Chris Laney Week 5 High School Coach of the Week",
+   "link": "https://www.mlive.com/highschoolsports/2026/09/detroit-lions-name-divine-childs-chris-laney-week-5-high-school-coach-of-the-week.html",
+   "published": "Wed, 30 Sep 2026 02:39:24 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Mud, sweat and tears: These 200 photos reveal the grit behind The Pull tradition",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/09/mud-sweat-and-tears-these-200-photos-reveal-the-grit-behind-the-pull-tradition.html",
-   "published": "Tue, 29 Sep 2026 22:00:00 +0000"
+   "title": "The Raven Club is shutting down. But what is to replace it remains unclear",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/09/the-ravens-club-in-ann-arbor-is-closed-but-new-owner-is-planning-swanky-laid-back-relaunch.html",
+   "published": "Wed, 30 Sep 2026 01:31:07 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Tuesday, Sept. 29, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-09-29/stateside-tuesday-sept-29-2026",
-   "published": "Tue, 29 Sep 2026 22:07:23 GMT"
+   "title": "Michigan Libertarian party washes its hands of its gubernatorial nominee",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-29/michigan-libertarian-party-washes-its-hands-of-its-gubernatorial-nominee",
+   "published": "Wed, 30 Sep 2026 00:45:39 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "U-M students react to suspension of planned policy to hide letter grades of first-semester freshmen",
-   "link": "https://www.michiganpublic.org/education/2026-09-29/u-m-students-react-to-suspension-of-planned-policy-to-hide-letter-grades-of-first-semester-freshmen",
-   "published": "Tue, 29 Sep 2026 21:52:25 GMT"
+   "title": "Exploring the history of \"good fire\" in Northern Michigan",
+   "link": "https://www.michiganpublic.org/section/stateside/2026-09-29/exploring-the-history-of-good-fire-in-northern-michigan",
+   "published": "Wed, 30 Sep 2026 00:21:48 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "University of Michigan pauses freshmen no-grade policy for further review",
-   "link": "https://www.michiganpublic.org/education/2026-09-29/university-of-michigan-freshmen-grade-policy-pause",
-   "published": "Tue, 29 Sep 2026 17:58:21 GMT"
+   "title": "Michigan research council predicts legal challenges if money-out-of-politics campaign succeeds",
+   "link": "https://www.michiganpublic.org/politics-government/2026-09-29/michigan-research-council-predicts-legal-challenges-if-money-out-of-politics-campaign-succeeds",
+   "published": "Tue, 29 Sep 2026 23:30:42 GMT"
   }
  ]
 }
