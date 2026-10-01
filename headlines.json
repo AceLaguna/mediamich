@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T05:47:09+00:00",
+ "generated": "2026-10-01T13:07:29+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Mike Rogers is selling a health care fix after years of voting the other way",
+   "link": "https://www.metrotimes.com/news/mike-rogers-is-selling-a-health-care-fix-after-years-of-voting-the-other-way/",
+   "published": "Thu, 01 Oct 2026 12:28:51 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "How Abdul El-Sayed turned an improbable Senate run into a remarkable political rise",
    "link": "https://www.metrotimes.com/news/how-abdul-el-sayed-turned-an-improbable-senate-run-into-a-remarkable-political-rise/",
    "published": "Wed, 30 Sep 2026 13:57:13 +0000"
@@ -31,12 +37,6 @@
    "title": "Republican AG candidate Doug Lloyd raises money with lawyer who fought to enforce Michigan’s 1931 abortion ban",
    "link": "https://www.metrotimes.com/news/republican-ag-candidate-doug-lloyd-raises-money-with-lawyer-who-fought-to-enforce-michigans-1931-abortion-ban/",
    "published": "Tue, 29 Sep 2026 19:16:52 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Michigan still hasn’t fixed serious child welfare caseload problems, audit finds",
-   "link": "https://www.metrotimes.com/news/michigan-still-hasnt-fixed-serious-child-welfare-caseload-problems-audit-finds/",
-   "published": "Tue, 29 Sep 2026 18:10:37 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,21 +58,21 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "5 Detroit school board candidates running as ‘anti-fascist’ slate calling for Vitti’s firing",
+   "link": "https://www.bridgedetroit.com/bamn-detroit-school-board-slate/",
+   "published": "Thu, 01 Oct 2026 11:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Neighborhood Advisory Council poised to begin negotiations with RenCen, riverfront developers",
+   "link": "https://www.bridgedetroit.com/renaissance-center-community-benefits-agreement-plan/",
+   "published": "Thu, 01 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Who are the Michigan State Board of Education candidates? What to know.",
    "link": "https://www.bridgedetroit.com/michigan-state-board-of-education-candidates-what-to-know/",
    "published": "Thu, 01 Oct 2026 04:19:02 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Who’s running for Michigan Supreme Court? 6 candidates compete for 2 seats",
-   "link": "https://www.bridgedetroit.com/michigan-supreme-court-six-candidates/",
-   "published": "Thu, 01 Oct 2026 03:57:59 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "‘Faith in Detroit’ features a young man’s journey of faith from nonbeliever to believer | American Black Journal",
-   "link": "https://www.bridgedetroit.com/faith-in-detroit-features-a-young-mans-journey-of-faith-from-nonbeliever-to-believer-american-black-journal/",
-   "published": "Wed, 30 Sep 2026 17:19:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Senate Dems block bill curbing congressional stock trading, calling it too weak",
-   "link": "https://michiganadvance.com/2026/09/30/repub/us-senate-dems-block-bill-curbing-congressional-stock-trading-calling-it-too-weak/",
-   "published": "Wed, 30 Sep 2026 23:20:50 +0000"
+   "title": "Put the AI servers within sanctuaries",
+   "link": "https://michiganadvance.com/2026/10/01/put-the-ai-servers-within-sanctuaries/",
+   "published": "Thu, 01 Oct 2026 12:00:15 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Slotkin, bipartisan group of lawmakers introduce bill to improve ovarian cancer prevention and care",
-   "link": "https://michiganadvance.com/2026/09/30/slotkin-bipartisan-group-of-lawmakers-introduce-bill-to-improve-ovarian-cancer-prevention-and-care/",
-   "published": "Wed, 30 Sep 2026 21:57:15 +0000"
+   "title": "Trump launches campaign tour in GOP-friendly states ahead of midterms",
+   "link": "https://michiganadvance.com/2026/10/01/repub/trump-launches-campaign-tour-in-gop-friendly-states-ahead-of-midterms/",
+   "published": "Thu, 01 Oct 2026 10:14:16 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Schumer: Democratic US Senate may block Trump nominees for Supreme Court, lower courts",
-   "link": "https://michiganadvance.com/2026/09/30/repub/schumer-democratic-us-senate-may-block-trump-nominees-for-supreme-court-lower-courts/",
-   "published": "Wed, 30 Sep 2026 21:55:19 +0000"
+   "title": "As anti-trans attacks escalate, Michigan-based Stand with Trans empowers by building community",
+   "link": "https://michiganadvance.com/2026/10/01/as-anti-trans-attacks-escalate-michigan-based-stand-with-trans-empowers-by-building-community/",
+   "published": "Thu, 01 Oct 2026 09:53:25 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Caitlin Clark’s first signature Nike shoe is finally here alongside apparel starting at $35, grab it before it’s gone",
-   "link": "https://www.mlive.com/shopping/2026/10/caitlin-clarks-first-signature-nike-shoe-is-finally-here-alongside-apparel-starting-at-35-grab-it-before-its-gone.html",
-   "published": "Thu, 01 Oct 2026 00:53:57 +0000"
+   "title": "Miss Manners: Why do doctors think I can read minds and know their titles?",
+   "link": "https://www.mlive.com/advice/2026/10/miss-manners-why-do-doctors-think-i-can-read-minds-and-know-their-titles.html",
+   "published": "Thu, 01 Oct 2026 13:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan State’s top LB doubtful, CB depth hammered ahead of trip to Wisconsin",
-   "link": "https://www.mlive.com/spartans/football/2026/10/michigan-states-top-lb-doubtful-cb-depth-hammered-ahead-of-trip-to-wisconsin.html",
-   "published": "Thu, 01 Oct 2026 00:27:47 +0000"
+   "title": "Former state rep faces Rockford business owner in race for 90th House seat Nov. 3",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/10/former-state-rep-faces-rockford-business-owner-in-race-for-90th-house-seat-nov-3.html",
+   "published": "Thu, 01 Oct 2026 12:56:26 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan WR Andrew Marsh, three other starters questionable vs. Minnesota",
-   "link": "https://www.mlive.com/wolverines/football/2026/10/michigan-wr-andrew-marsh-three-other-starters-questionable-vs-minnesota.html",
-   "published": "Thu, 01 Oct 2026 00:27:14 +0000"
+   "title": "These bestselling Carhartt x ’47 Michigan team hats always disappear fast and they’re back in camo",
+   "link": "https://www.mlive.com/shopping/2026/10/these-bestselling-carhartt-x-47-michigan-team-hats-always-disappear-fast-and-theyre-back-in-camo.html",
+   "published": "Thu, 01 Oct 2026 12:46:06 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Detroit’s feeling spooky. Celebrate Halloween, Harvest Fest and more with these events",
+   "link": "https://outliermedia.org/things-to-do-october-halloween-detroit-fall-autumn/",
+   "published": "Thu, 01 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -157,12 +163,6 @@
    "title": "Detroit’s Water Board Building needs at least $30M in repairs. The department may relocate altogether",
    "link": "https://outliermedia.org/detroit-water-board-building-repairs-dwsd-headquarters-louis-kamper/",
    "published": "Thu, 24 Sep 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Speed date a Documenter and get involved in Detroit",
-   "link": "https://outliermedia.org/detroit-documenters-networking-event-jobs-opportunities/",
-   "published": "Wed, 23 Sep 2026 10:00:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Gaskey vs. Pounds: Open seat in Michigan’s 54th District could flip the House",
+   "link": "https://gandernewsroom.com/news/elections/gaskey-pounds-54th-election/",
+   "published": "Thu, 01 Oct 2026 12:00:00 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "How to stop voter suppression in Michigan",
    "link": "https://gandernewsroom.com/news/elections/stop-voter-suppression-michigan/",
    "published": "Wed, 30 Sep 2026 18:52:04 +0000"
@@ -195,28 +201,22 @@
    "published": "Wed, 30 Sep 2026 15:01:27 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Here’s what’s happening in Michigan this weekend (Oct. 2-4, 2026)",
-   "link": "https://gandernewsroom.com/local/things-to-do/heres-whats-happening-in-michigan-this-weekend-oct-2-4-2026/",
-   "published": "Wed, 30 Sep 2026 13:12:46 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "NRDC:  Trump administration's fuel economy rollback is \"get out of jail free\" card for automakers",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-01/nrdc-trump-administrations-fuel-economy-rollback-is-get-out-of-jail-free-card-for-automakers",
+   "published": "Thu, 01 Oct 2026 11:54:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Slotkin says voters should be wary of federal interference in midterms",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-30/slotkin-says-voters-should-be-wary-of-federal-interference-in-midterms",
-   "published": "Thu, 01 Oct 2026 02:18:00 GMT"
+   "title": "Isle Royale wolves inbred but likely to survive, study says",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-01/isle-royale-wolves-inbred-but-likely-to-survive-study-says",
+   "published": "Thu, 01 Oct 2026 11:35:38 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Advocates pressure lawmakers to end fees for serving restraining orders",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-30/advocates-pressure-lawmakers-to-end-fees-for-serving-restraining-orders",
-   "published": "Thu, 01 Oct 2026 02:04:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Antrim County Clerk, struggling to regain access to voter records, faces recall petitions",
-   "link": "https://www.michiganpublic.org/politics-government/2026-09-30/antrim-county-clerk-struggling-to-regain-access-to-voter-records-faces-likely-recall-election",
-   "published": "Thu, 01 Oct 2026 01:54:00 GMT"
+   "title": "Police say parents to face charges after a Michigan toddler displayed a gun at daycare",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-01/police-say-parents-to-face-charges-after-a-michigan-toddler-displayed-a-gun-at-daycare",
+   "published": "Thu, 01 Oct 2026 11:29:33 GMT"
   }
  ]
 }
