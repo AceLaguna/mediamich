@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T05:32:02+00:00",
+ "generated": "2026-10-02T12:28:57+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Commentary: Detroit students need more support. Their schools deserve more credit.",
+   "link": "https://www.bridgedetroit.com/detroit-schools-deserve-more-credit/",
+   "published": "Fri, 02 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "5 Detroit school board candidates running as ‘anti-fascist’ slate calling for Vitti’s firing",
    "link": "https://www.bridgedetroit.com/bamn-detroit-school-board-slate/",
    "published": "Thu, 01 Oct 2026 11:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "Neighborhood Advisory Council poised to begin negotiations with RenCen, riverfront developers",
    "link": "https://www.bridgedetroit.com/renaissance-center-community-benefits-agreement-plan/",
    "published": "Thu, 01 Oct 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Who are the Michigan State Board of Education candidates? What to know.",
-   "link": "https://www.bridgedetroit.com/michigan-state-board-of-education-candidates-what-to-know/",
-   "published": "Thu, 01 Oct 2026 04:19:02 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Outraged over ‘illegal’ wetlands rule, a GOP senator blocks dozens of Trump nominees",
-   "link": "https://michiganadvance.com/2026/10/01/repub/outraged-over-illegal-wetlands-rule-a-gop-senator-blocks-dozens-of-trump-nominees/",
-   "published": "Thu, 01 Oct 2026 20:50:40 +0000"
+   "title": "Supreme Court will consider Trump’s mandatory immigrant detention policy",
+   "link": "https://michiganadvance.com/2026/10/02/repub/supreme-court-will-consider-trumps-mandatory-immigrant-detention-policy/",
+   "published": "Fri, 02 Oct 2026 12:00:53 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Judge blocks federal prosecutors from refiling charges in Reflecting Pool case",
-   "link": "https://michiganadvance.com/2026/10/01/repub/judge-blocks-federal-prosecutors-from-refiling-charges-in-reflecting-pool-case/",
-   "published": "Thu, 01 Oct 2026 16:31:56 +0000"
+   "title": "Michigan Senate committee considers requirement for state funding in special legislative elections",
+   "link": "https://michiganadvance.com/2026/10/02/michigan-senate-committee-considers-requirement-for-state-funding-in-special-legislative-elections/",
+   "published": "Fri, 02 Oct 2026 11:00:56 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Senate leaves nation’s capital in advance of midterms with much still undone",
-   "link": "https://michiganadvance.com/2026/10/01/repub/us-senate-leaves-nations-capital-in-advance-of-midterms-with-much-still-undone/",
-   "published": "Thu, 01 Oct 2026 15:03:23 +0000"
+   "title": "District attorney elections linked to more prison admissions during ‘tough on crime’ era",
+   "link": "https://michiganadvance.com/2026/10/02/repub/district-attorney-elections-linked-to-more-prison-admissions-during-tough-on-crime-era/",
+   "published": "Fri, 02 Oct 2026 10:00:14 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Detroit Pistons come to terms on long-term extension with Jalen Duren, per report",
-   "link": "https://www.mlive.com/pistons/2026/10/detroit-pistons-come-to-terms-on-long-term-extension-with-jalen-duren-per-report.html",
-   "published": "Fri, 02 Oct 2026 02:31:13 +0000"
+   "title": "Marching bands: Grand Haven High School steps into its 100th year on the field",
+   "link": "https://www.mlive.com/news/muskegon/2026/10/marching-bands-grand-haven-high-school-steps-into-its-100th-year-on-the-field.html",
+   "published": "Fri, 02 Oct 2026 12:15:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Fire at Grand Haven apartment building leaves 4 units currently unlivable",
-   "link": "https://www.mlive.com/news/muskegon/2026/10/fire-at-grand-haven-apartment-building-leaves-4-units-currently-unlivable.html",
-   "published": "Fri, 02 Oct 2026 01:58:05 +0000"
+   "title": "Hurricane Rachel nears coast with life-threatening conditions",
+   "link": "https://www.mlive.com/news/2026/10/hurricane-rachel-nears-coast-with-life-threatening-conditions.html",
+   "published": "Fri, 02 Oct 2026 12:10:04 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Clifton 10, Bondi 9, Mach 7 and more: A Guide to HOKA’s neutral running shoes and how to pick yours",
-   "link": "https://www.mlive.com/shopping/2026/10/clifton-10-bondi-9-mach-7-and-more-a-guide-to-hokas-neutral-running-shoes-and-how-to-pick-yours.html",
-   "published": "Fri, 02 Oct 2026 01:46:27 +0000"
+   "title": "Our Lady of Peace Parish to bless animals in honor of St. Francis of Assisi",
+   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/our-lady-of-peace-parish-to-bless-animals-in-honor-of-st-francis-of-assisi.html",
+   "published": "Fri, 02 Oct 2026 12:04:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Auchter's Art: Lose my number",
+   "link": "https://www.michiganpublic.org/opinion/2026-10-02/auchters-art-lose-my-number",
+   "published": "Fri, 02 Oct 2026 11:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Meet the Michigan Supreme Court candidates: Casandra Morse-Bills",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-02/meet-the-mi-supreme-court-candidates-casandra-morse-bills",
+   "published": "Fri, 02 Oct 2026 10:30:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Less jeering, just as much emotion at second U-M town hall on proposed computing center",
    "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-01/less-jeering-just-as-much-emotion-at-second-um-townhall-on-proposed-computing-center",
    "published": "Fri, 02 Oct 2026 03:59:13 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Whitmer supports federal gas tax holiday, but declines to weigh in on state proposal",
-   "link": "https://www.michiganpublic.org/economy/2026-10-01/whitmer-supports-federal-gas-tax-holiday-but-declines-to-weigh-in-on-state-proposal",
-   "published": "Fri, 02 Oct 2026 02:23:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "State will use $89 in settlements from polluters to clean up Kalamazoo, Detroit rivers",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-01/state-will-use-89-in-settlements-from-polluters-to-clean-up-kalamazoo-detroit-rivers",
-   "published": "Fri, 02 Oct 2026 01:58:00 GMT"
   }
  ]
 }
