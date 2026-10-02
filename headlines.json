@@ -1,7 +1,13 @@
 {
- "generated": "2026-10-02T12:28:57+00:00",
+ "generated": "2026-10-02T22:10:47+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Lansing Police Chief can’t rule out serial killer in deaths of several unhoused people along riverfront",
+   "link": "https://lansingcitypulse.com/lansing-police-chief-cant-rule-out-serial-killer-in-deaths-of-several-unhoused-people-along-riverfront/",
+   "published": "Fri, 02 Oct 2026 15:38:26 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Man shot by police had fake gun and may have called 911 himself amid mental health crisis",
@@ -15,10 +21,16 @@
    "published": "Wed, 30 Sep 2026 20:47:16 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "New York Times publisher speaks at MSU",
-   "link": "https://lansingcitypulse.com/new-york-times-publisher-speaks-at-msu/",
-   "published": "Wed, 30 Sep 2026 13:30:08 +0000"
+   "outlet": "Metro Times",
+   "title": "She needed a kidney. A Birmingham marketing team spent four years helping her find one",
+   "link": "https://www.metrotimes.com/news/she-needed-a-kidney-a-birmingham-marketing-team-spent-four-years-helping-her-find-one/",
+   "published": "Fri, 02 Oct 2026 19:18:50 +0000"
+  },
+  {
+   "outlet": "Metro Times",
+   "title": "Michael Bouchard Jr. took big donations from real estate execs tied to discrimination claims and unsafe housing",
+   "link": "https://www.metrotimes.com/news/michael-bouchard-jr-took-big-donations-from-real-estate-execs-tied-to-discrimination-claims-and-unsafe-housing/",
+   "published": "Fri, 02 Oct 2026 17:51:47 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -27,34 +39,28 @@
    "published": "Thu, 01 Oct 2026 20:07:56 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Aiko Street Food returns to metro Detroit for a two-month Utica residency",
-   "link": "https://www.metrotimes.com/food-drink/aiko-street-food-returns-to-metro-detroit-for-a-two-month-utica-residency/",
-   "published": "Thu, 01 Oct 2026 19:36:57 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Big Rock Italian Chophouse is making happy hour a little fancier in Birmingham",
-   "link": "https://www.metrotimes.com/food-drink/big-rock-italian-chophouse-is-making-happy-hour-a-little-fancier-in-birmingham/",
-   "published": "Thu, 01 Oct 2026 16:54:55 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "How many students are ‘college ready’ in your district? Look up SAT scores",
+   "link": "https://bridgemi.com/talent-education/how-many-students-are-college-ready-in-your-district-look-up-sat-scores/",
+   "published": "Fri, 02 Oct 2026 20:12:22 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Long-awaited dam safety reforms move closer to law after Michigan Senate vote",
-   "link": "https://bridgemi.com/environment/long-awaited-dam-safety-reforms-move-closer-to-law-after-michigan-senate-vote/",
-   "published": "Thu, 01 Oct 2026 23:26:59 +0000"
+   "title": "Just 1 in 4 Michigan juniors are ‘college ready,’ SAT scores indicate",
+   "link": "https://bridgemi.com/talent-education/just-1-in-4-michigan-juniors-are-college-ready-sat-scores-indicate/",
+   "published": "Fri, 02 Oct 2026 20:07:44 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Doug Lloyd blasts Eli Savit’s ‘dangerous’ sex work policy in Michigan AG race",
-   "link": "https://bridgemi.com/michigan-government/doug-lloyd-blasts-eli-savits-dangerous-sex-work-policy-in-michigan-ag-race/",
-   "published": "Thu, 01 Oct 2026 20:48:47 +0000"
+   "title": "It’s chipmunk season, Michigan. The cute critters are causing trouble once again",
+   "link": "https://bridgemi.com/outdoors-life/its-chipmunk-season-michigan-the-cute-critters-are-causing-trouble-once-again/",
+   "published": "Fri, 02 Oct 2026 19:40:26 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Where former foster youth in Michigan can get postsecondary aid, training",
-   "link": "https://bridgemi.com/michigan-government/where-former-foster-youth-in-michigan-can-get-postsecondary-aid-training/",
-   "published": "Thu, 01 Oct 2026 19:20:14 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "How to fix Michigan’s literacy crisis? Start with poverty and housing solutions, experts say",
+   "link": "https://www.bridgedetroit.com/how-to-fix-michigans-literacy-crisis-start-with-poverty-and-housing-solutions-experts-say/",
+   "published": "Fri, 02 Oct 2026 18:42:54 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "5 Detroit school board candidates running as ‘anti-fascist’ slate calling for Vitti’s firing",
    "link": "https://www.bridgedetroit.com/bamn-detroit-school-board-slate/",
    "published": "Thu, 01 Oct 2026 11:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Neighborhood Advisory Council poised to begin negotiations with RenCen, riverfront developers",
-   "link": "https://www.bridgedetroit.com/renaissance-center-community-benefits-agreement-plan/",
-   "published": "Thu, 01 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Supreme Court will consider Trump’s mandatory immigrant detention policy",
-   "link": "https://michiganadvance.com/2026/10/02/repub/supreme-court-will-consider-trumps-mandatory-immigrant-detention-policy/",
-   "published": "Fri, 02 Oct 2026 12:00:53 +0000"
+   "title": "Anxiety is growing Trump may try to disrupt the midterm elections. States like Michigan are prepping.",
+   "link": "https://michiganadvance.com/2026/10/02/repub/anxiety-is-growing-trump-may-try-to-disrupt-the-midterm-elections-states-like-michigan-are-prepping/",
+   "published": "Fri, 02 Oct 2026 19:58:22 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan Senate committee considers requirement for state funding in special legislative elections",
-   "link": "https://michiganadvance.com/2026/10/02/michigan-senate-committee-considers-requirement-for-state-funding-in-special-legislative-elections/",
-   "published": "Fri, 02 Oct 2026 11:00:56 +0000"
+   "title": "Thousands of Wayne County voters to get new ballots after printing error",
+   "link": "https://michiganadvance.com/2026/10/02/thousands-of-wayne-county-voters-to-get-new-ballots-after-printing-error/",
+   "published": "Fri, 02 Oct 2026 18:48:55 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "District attorney elections linked to more prison admissions during ‘tough on crime’ era",
-   "link": "https://michiganadvance.com/2026/10/02/repub/district-attorney-elections-linked-to-more-prison-admissions-during-tough-on-crime-era/",
-   "published": "Fri, 02 Oct 2026 10:00:14 +0000"
+   "title": "Federal funds for local police enforcement accelerated Trump immigration crackdown",
+   "link": "https://michiganadvance.com/2026/10/02/repub/federal-funds-for-local-police-enforcement-accelerated-trump-immigration-crackdown/",
+   "published": "Fri, 02 Oct 2026 17:07:31 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Marching bands: Grand Haven High School steps into its 100th year on the field",
-   "link": "https://www.mlive.com/news/muskegon/2026/10/marching-bands-grand-haven-high-school-steps-into-its-100th-year-on-the-field.html",
-   "published": "Fri, 02 Oct 2026 12:15:00 +0000"
+   "title": "Live high school football updates for Week 6 games in Michigan",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/live-high-school-football-updates-for-week-6-games-in-michigan.html",
+   "published": "Fri, 02 Oct 2026 22:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Hurricane Rachel nears coast with life-threatening conditions",
-   "link": "https://www.mlive.com/news/2026/10/hurricane-rachel-nears-coast-with-life-threatening-conditions.html",
-   "published": "Fri, 02 Oct 2026 12:10:04 +0000"
+   "title": "‘Big Brother 28’ runner-up Taylor Brown defends her gameplay: ‘I didn’t get this far for no reason’",
+   "link": "https://www.mlive.com/life/2026/10/big-brother-28-runner-up-taylor-brown-defends-her-gameplay-i-didnt-get-this-far-for-no-reason.html",
+   "published": "Fri, 02 Oct 2026 21:58:17 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Our Lady of Peace Parish to bless animals in honor of St. Francis of Assisi",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/our-lady-of-peace-parish-to-bless-animals-in-honor-of-st-francis-of-assisi.html",
-   "published": "Fri, 02 Oct 2026 12:04:00 +0000"
+   "title": "Red Wings’ Horcoff on Edvinsson: ‘We’re doing everything we can’",
+   "link": "https://www.mlive.com/redwings/2026/10/red-wings-horcoff-on-edvinsson-were-doing-everything-we-can.html",
+   "published": "Fri, 02 Oct 2026 21:47:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,21 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Michigan environmental news: State announces $89 million for Detroit, Kalamazoo river cleanup",
+   "link": "https://planetdetroit.org/2026/10/michigan-89-million-river-cleanup-environmental-news/",
+   "published": "Fri, 02 Oct 2026 21:32:01 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "‘What environmental racism looks like’: Protest targets University of Michigan computing center",
+   "link": "https://planetdetroit.org/2026/10/um-regent-joins-ypsilanti-data-center-protest/",
+   "published": "Fri, 02 Oct 2026 20:33:05 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Michigan regulators OK DTE contracts for Google data center",
    "link": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
    "published": "Thu, 01 Oct 2026 19:19:31 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Wayne County landfill’s lawyers say radioactive waste ban ‘judicial overreach’",
-   "link": "https://planetdetroit.org/2026/10/wayne-disposal-appeals-radioactive-waste-ban/",
-   "published": "Thu, 01 Oct 2026 17:18:48 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Can green infrastructure fortify flood-prone Southeast Michigan? ‘We’re opening the door for projects’",
-   "link": "https://planetdetroit.org/2026/09/rain-gardens-detroit-stormwater-solutions/",
-   "published": "Wed, 30 Sep 2026 18:04:29 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Auchter's Art: Lose my number",
-   "link": "https://www.michiganpublic.org/opinion/2026-10-02/auchters-art-lose-my-number",
-   "published": "Fri, 02 Oct 2026 11:00:00 GMT"
+   "title": "DNR commissions new Lake Michigan research vessel",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-02/dnr-commissions-new-lake-michigan-research-vessel",
+   "published": "Fri, 02 Oct 2026 21:00:03 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet the Michigan Supreme Court candidates: Casandra Morse-Bills",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-02/meet-the-mi-supreme-court-candidates-casandra-morse-bills",
-   "published": "Fri, 02 Oct 2026 10:30:00 GMT"
+   "title": "TWTS: Dictionaries get glow-ups, too",
+   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-10-02/thats-what-they-say-michigan-public-dictionaries",
+   "published": "Fri, 02 Oct 2026 20:48:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Less jeering, just as much emotion at second U-M town hall on proposed computing center",
-   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-01/less-jeering-just-as-much-emotion-at-second-um-townhall-on-proposed-computing-center",
-   "published": "Fri, 02 Oct 2026 03:59:13 GMT"
+   "title": "1 of 100 registered voters in Michigan have already voted in the midterm election",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-02/michigan-absentee-voter-turnout-midterm-election",
+   "published": "Fri, 02 Oct 2026 19:04:12 GMT"
   }
  ]
 }
