@@ -1,7 +1,13 @@
 {
- "generated": "2026-10-04T12:17:31+00:00",
+ "generated": "2026-10-04T21:20:38+00:00",
  "count": 36,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Current-ly on the Porch",
+   "link": "https://lansingcitypulse.com/current-ly-on-the-porch/",
+   "published": "Sun, 04 Oct 2026 15:16:08 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Lansing Eastern High Homecoming game",
@@ -13,12 +19,6 @@
    "title": "Top 5 Sushi in Greater Lansing",
    "link": "https://lansingcitypulse.com/31085-2/",
    "published": "Sat, 03 Oct 2026 03:46:27 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Lansing Police Chief can’t rule out serial killer in deaths of several unhoused people along riverfront",
-   "link": "https://lansingcitypulse.com/lansing-police-chief-cant-rule-out-serial-killer-in-deaths-of-several-unhoused-people-along-riverfront/",
-   "published": "Fri, 02 Oct 2026 15:38:26 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Hiring slows in September with job growth of 29K",
+   "link": "https://michiganadvance.com/2026/10/04/repub/hiring-slows-in-september-with-job-growth-of-29k/",
+   "published": "Sun, 04 Oct 2026 16:00:30 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Analyst: Democrats show promise in gaining congressional control",
+   "link": "https://michiganadvance.com/2026/10/04/repub/analyst-democrats-show-promise-in-gaining-congressional-control/",
+   "published": "Sun, 04 Oct 2026 12:00:16 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Democrats target Macomb County with a first-ever joint town hall featuring El-Sayed, Slotkin",
    "link": "https://michiganadvance.com/2026/10/04/democrats-target-macomb-county-with-a-first-ever-joint-town-hall-featuring-el-sayed-slotkin/",
    "published": "Sun, 04 Oct 2026 10:42:49 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "New electric research boat creates a (quiet) splash in Grand Traverse Bay",
-   "link": "https://michiganadvance.com/2026/10/03/new-electric-research-boat-creates-a-quiet-splash-in-grand-traverse-bay/",
-   "published": "Sat, 03 Oct 2026 12:00:36 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "After states sue, Trump administration walks away from disability rights enforcement",
-   "link": "https://michiganadvance.com/2026/10/03/repub/after-states-sue-trump-administration-walks-away-from-disability-rights-enforcement/",
-   "published": "Sat, 03 Oct 2026 11:00:30 +0000"
+   "outlet": "MLive",
+   "title": "Michigan State opens as slight underdog in matchup of struggling Big Ten teams",
+   "link": "https://www.mlive.com/spartans/football/2026/10/michigan-state-opens-as-slight-underdog-in-matchup-of-struggling-big-ten-teams.html",
+   "published": "Sun, 04 Oct 2026 20:55:29 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Four candidates vie for three seats on Western School Board in upcoming election",
-   "link": "https://www.mlive.com/politics/2026/10/four-candidates-vie-for-three-seats-on-western-school-board-in-upcoming-election.html",
-   "published": "Sun, 04 Oct 2026 12:00:00 +0000"
+   "title": "Michigan State PFF grades, snap counts: New low on both sides of the ball",
+   "link": "https://www.mlive.com/spartans/football/2026/10/michigan-state-pff-grades-snap-counts-new-low-on-both-sides-of-the-ball.html",
+   "published": "Sun, 04 Oct 2026 20:32:13 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Iconic singer’s death at 63 rocks music world: ‘Was such a powerhouse bluesy vocalist’",
-   "link": "https://www.mlive.com/life/2026/10/iconic-singers-death-at-63-rocks-music-world-was-such-a-powerhouse-bluesy-vocalist.html",
-   "published": "Sun, 04 Oct 2026 12:00:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Popular bakery opening second location, church rebuilding after attack and more Flint-area news",
-   "link": "https://www.mlive.com/news/flint/2026/10/popular-bakery-opening-second-location-church-rebuilding-after-attack-and-more-flint-area-news.html",
-   "published": "Sun, 04 Oct 2026 12:00:00 +0000"
+   "title": "Jon Gruden brought his NFL coaching style to an Ohio rally",
+   "link": "https://www.mlive.com/sports/2026/10/jon-gruden-showed-up-at-an-ohio-rally-and-people-werent-expecting-what-happened-next.html",
+   "published": "Sun, 04 Oct 2026 20:12:55 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Despair over future fuels political anxiety for Michigan college students on the cusp of adulthood",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-04/despair-over-future-fuels-political-anxiety-for-michigan-college-students-on-the-cusp-of-adulthood",
+   "published": "Sun, 04 Oct 2026 14:11:46 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Ann Arbor nurse charged with helping man escape from ICE, legal experts predict similar cases",
    "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-03/ann-arbor-nurse-charged-with-helping-man-escape-from-ice-legal-experts-predict-similar-cases",
    "published": "Sat, 03 Oct 2026 13:31:25 GMT"
@@ -211,12 +217,6 @@
    "title": "Governor’s race hits Saline Township, site of massive data center project",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-02/governors-race-hits-saline-township-site-of-massive-data-center-project",
    "published": "Sat, 03 Oct 2026 02:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "GOP attorney general candidate attacks Democratic rival over sex work policy",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-02/gop-attorney-general-candidate-attacks-democratic-rival-over-sex-work-policy",
-   "published": "Sat, 03 Oct 2026 00:39:00 GMT"
   }
  ]
 }
