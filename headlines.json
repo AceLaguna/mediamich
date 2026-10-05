@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T05:34:01+00:00",
+ "generated": "2026-10-05T14:30:47+00:00",
  "count": 36,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "How is Detroit using AI? We dug into the city’s policy",
+   "link": "https://www.bridgedetroit.com/how-is-detroit-using-ai-we-dug-into-the-citys-policy/",
+   "published": "Mon, 05 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Voter guide 2026: Are Detroit students better off under DPSCD? School board candidates weigh in.",
    "link": "https://www.bridgedetroit.com/voter-guide-2026-are-detroit-students-better-off-under-dpscd-school-board-candidates-weigh-in/",
    "published": "Sun, 04 Oct 2026 10:00:00 +0000"
@@ -67,12 +73,6 @@
    "title": "How to fix Michigan’s literacy crisis? Start with poverty and housing solutions, experts say",
    "link": "https://www.bridgedetroit.com/how-to-fix-michigans-literacy-crisis-start-with-poverty-and-housing-solutions-experts-say/",
    "published": "Fri, 02 Oct 2026 18:42:54 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Commentary: Detroit students need more support. Their schools deserve more credit.",
-   "link": "https://www.bridgedetroit.com/detroit-schools-deserve-more-credit/",
-   "published": "Fri, 02 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Hiring slows in September with job growth of 29K",
-   "link": "https://michiganadvance.com/2026/10/04/repub/hiring-slows-in-september-with-job-growth-of-29k/",
-   "published": "Sun, 04 Oct 2026 16:00:30 +0000"
+   "title": "Kratom, 7-OH laws diverge amid the spread of potent synthetic products",
+   "link": "https://michiganadvance.com/2026/10/05/repub/kratom-7-oh-laws-diverge-amid-the-spread-of-potent-synthetic-products/",
+   "published": "Mon, 05 Oct 2026 12:22:24 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Analyst: Democrats show promise in gaining congressional control",
-   "link": "https://michiganadvance.com/2026/10/04/repub/analyst-democrats-show-promise-in-gaining-congressional-control/",
-   "published": "Sun, 04 Oct 2026 12:00:16 +0000"
+   "title": "Care and Costs: What can be done about the price of healthcare?",
+   "link": "https://michiganadvance.com/2026/10/05/care-and-costs-what-can-be-done-about-the-price-of-healthcare/",
+   "published": "Mon, 05 Oct 2026 12:00:55 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Democrats target Macomb County with a first-ever joint town hall featuring El-Sayed, Slotkin",
-   "link": "https://michiganadvance.com/2026/10/04/democrats-target-macomb-county-with-a-first-ever-joint-town-hall-featuring-el-sayed-slotkin/",
-   "published": "Sun, 04 Oct 2026 10:42:49 +0000"
+   "title": "Youth vote skews heavily to Democrats in Michigan, swing states; economic issues stay top concerns",
+   "link": "https://michiganadvance.com/2026/10/05/youth-vote-skews-heavily-to-democrats-in-michigan-swing-states-economic-issues-stay-top-concerns/",
+   "published": "Mon, 05 Oct 2026 10:00:42 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "What’s being said nationally about Lions’ disappointing loss to Panthers",
-   "link": "https://www.mlive.com/lions/2026/10/whats-being-said-nationally-about-lions-disappointing-loss-to-panthers.html",
-   "published": "Mon, 05 Oct 2026 05:17:47 +0000"
+   "title": "A viral arrest video shocked viewers. now the legal case is moving forward",
+   "link": "https://www.mlive.com/news/2026/10/what-happened-after-this-college-cheerleader-stepped-toward-police-has-millions-talking.html",
+   "published": "Mon, 05 Oct 2026 14:23:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former Lions players call out ‘bad bad’ defense in loss to Panthers",
-   "link": "https://www.mlive.com/lions/2026/10/former-lions-players-call-out-bad-bad-defense-in-loss-to-panthers.html",
-   "published": "Mon, 05 Oct 2026 04:24:38 +0000"
+   "title": "NFL reviewing official’s confrontation with star player",
+   "link": "https://www.mlive.com/sports/2026/10/nfl-reviewing-officials-confrontation-with-star-player.html",
+   "published": "Mon, 05 Oct 2026 14:21:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Detroit Lions struggle against Panthers, fall to .500 with frustrating showing",
-   "link": "https://www.mlive.com/lions/2026/10/detroit-lions-struggle-against-panthers-fall-to-500-with-frustrating-showing.html",
-   "published": "Mon, 05 Oct 2026 03:43:52 +0000"
+   "title": "Belleville woman arrested for utility pole arsons in Washtenaw County",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/10/belleville-woman-arrested-for-utility-pole-arsons-in-washtenaw-county.html",
+   "published": "Mon, 05 Oct 2026 14:20:23 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -202,21 +202,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Despair over future fuels political anxiety for Michigan college students on the cusp of adulthood",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-04/despair-over-future-fuels-political-anxiety-for-michigan-college-students-on-the-cusp-of-adulthood",
-   "published": "Sun, 04 Oct 2026 14:11:46 GMT"
+   "title": "Meet the MI Supreme Court Candidates: Noah Hood",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-05/meet-the-mi-supreme-court-candidates-noah-hood",
+   "published": "Mon, 05 Oct 2026 11:09:29 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Ann Arbor nurse charged with helping man escape from ICE, legal experts predict similar cases",
-   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-03/ann-arbor-nurse-charged-with-helping-man-escape-from-ice-legal-experts-predict-similar-cases",
-   "published": "Sat, 03 Oct 2026 13:31:25 GMT"
+   "title": "The core of Dexter Cider Mill's longevity? Family tradition",
+   "link": "https://www.michiganpublic.org/show/stateside/2026-10-05/dexter-cider-mill-family",
+   "published": "Mon, 05 Oct 2026 11:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Governor’s race hits Saline Township, site of massive data center project",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-02/governors-race-hits-saline-township-site-of-massive-data-center-project",
-   "published": "Sat, 03 Oct 2026 02:00:00 GMT"
+   "title": "OPINION: AI is forcing Michigan schools to rethink learning",
+   "link": "https://www.michiganpublic.org/opinion/2026-10-05/opinion-ai-is-forcing-michigan-schools-to-rethink-learning",
+   "published": "Mon, 05 Oct 2026 09:00:00 GMT"
   }
  ]
 }
