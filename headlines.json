@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T05:54:22+00:00",
+ "generated": "2026-10-07T13:17:15+00:00",
  "count": 36,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Mike Rogers has a new position on the Iran war. Again.",
+   "link": "https://www.metrotimes.com/news/mike-rogers-has-a-new-position-on-the-iran-war-again/",
+   "published": "Wed, 07 Oct 2026 12:24:47 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "FIVE15 in Royal Oak has an election-season cure: Drag queens and $5.15 bingo tickets",
    "link": "https://www.metrotimes.com/arts/five15-in-royal-oak-has-an-election-season-cure-drag-queens-and-5-15-bingo-tickets/",
    "published": "Tue, 06 Oct 2026 20:10:55 +0000"
@@ -31,12 +37,6 @@
    "title": "John James took thousands from poultry executives tied to pollution, labor violations",
    "link": "https://www.metrotimes.com/news/john-james-took-thousands-from-poultry-executives-tied-to-pollution-labor-violations/",
    "published": "Tue, 06 Oct 2026 19:39:32 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "From ‘illegal invaders’ to $1.85 gas, Trump-loving Matt Maddock keeps missing reality",
-   "link": "https://www.metrotimes.com/news/from-illegal-invaders-to-1-85-gas-trump-loving-matt-maddock-keeps-missing-reality/",
-   "published": "Tue, 06 Oct 2026 15:40:07 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -58,21 +58,21 @@
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "20K Detroit absentee ballots are already back. What voters need to know",
-   "link": "https://www.bridgedetroit.com/20k-detroit-absentee-ballots-are-already-back-what-voters-need-to-know/",
-   "published": "Tue, 06 Oct 2026 21:19:48 +0000"
+   "title": "Fact check: John James, Jocelyn Benson debate data centers, tariffs, more",
+   "link": "https://www.bridgedetroit.com/fact-check-john-james-jocelyn-benson-debate-data-centers-tariffs-more/",
+   "published": "Wed, 07 Oct 2026 12:26:59 +0000"
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "Detroit is drafting data center rules. One council member wants a pause first.",
-   "link": "https://www.bridgedetroit.com/detroit-is-drafting-data-center-rules-one-council-member-wants-a-pause-first/",
-   "published": "Tue, 06 Oct 2026 11:34:19 +0000"
+   "title": "Detroit council wants to know more before supporting statewide kratom ban proposal",
+   "link": "https://www.bridgedetroit.com/detroit-council-wants-to-know-more-before-supporting-statewide-kratom-ban-proposal/",
+   "published": "Wed, 07 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
-   "title": "From ‘The Voice’ to Eastern Market: A Detroit native’s next act",
-   "link": "https://www.bridgedetroit.com/detroit-native-the-voice-producer-opens-listening-lounge-coffee-shop-in-eastern-market/",
-   "published": "Tue, 06 Oct 2026 10:00:00 +0000"
+   "title": "Detroit approves $2.7M in park cameras, lighting amid surveillance concerns",
+   "link": "https://www.bridgedetroit.com/detroit-approves-2-7m-in-park-cameras-lighting-amid-surveillance-concerns/",
+   "published": "Wed, 07 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Daily Detroit",
@@ -112,39 +112,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Benson, James tackle affordability, federal relations at first gubernatorial debate",
-   "link": "https://michiganadvance.com/2026/10/06/benson-james-tackle-affordability-federal-relations-at-first-gubernatorial-debate/",
-   "published": "Wed, 07 Oct 2026 02:14:16 +0000"
+   "title": "Are some police targeting immigrants? A closer look at one jaywalking stop",
+   "link": "https://michiganadvance.com/2026/10/07/are-some-police-targeting-immigrants-a-closer-look-at-one-jaywalking-stop/",
+   "published": "Wed, 07 Oct 2026 12:30:08 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "New York governor declares measles emergency",
-   "link": "https://michiganadvance.com/2026/10/06/repub/new-york-governor-declares-measles-emergency/",
-   "published": "Tue, 06 Oct 2026 23:51:47 +0000"
+   "title": "Abortion foes plan to push pill restrictions in the states",
+   "link": "https://michiganadvance.com/2026/10/07/repub/abortion-foes-plan-to-push-pill-restrictions-in-the-states/",
+   "published": "Wed, 07 Oct 2026 10:39:36 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Top Democratic US Senate PAC commits to 9 states, eyes more Republican targets",
-   "link": "https://michiganadvance.com/2026/10/06/repub/top-democratic-us-senate-pac-commits-to-9-states-eyes-more-republican-targets/",
-   "published": "Tue, 06 Oct 2026 21:12:28 +0000"
+   "title": "Three years after October 7, Jewish voters need reassurance from our Democratic leaders",
+   "link": "https://michiganadvance.com/2026/10/07/three-years-after-october-7-jewish-voters-need-reassurance-from-our-democratic-leaders/",
+   "published": "Wed, 07 Oct 2026 10:00:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan governor candidates pitch economic plans, clash on data centers during debate",
-   "link": "https://www.mlive.com/politics/2026/10/michigan-governor-candidates-pitch-economic-plans-clash-on-data-centers-at-first-debate.html",
-   "published": "Wed, 07 Oct 2026 04:17:31 +0000"
+   "title": "Red Wings’ Dylan Larkin had teammates’ backs, and they had his",
+   "link": "https://www.mlive.com/redwings/2026/10/red-wings-dylan-larkin-had-teammates-backs-and-they-had-his.html",
+   "published": "Wed, 07 Oct 2026 13:01:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Eventful night for Dylan Larkin: I’m trying to be a man and face it",
-   "link": "https://www.mlive.com/redwings/2026/10/eventful-night-for-dylan-larkin-im-trying-to-be-a-man-and-face-it.html",
-   "published": "Wed, 07 Oct 2026 03:30:33 +0000"
+   "title": "Whitmer signs bill for possible Michigan National Guard center north of Ann Arbor",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/10/whitmer-signs-bill-for-possible-michigan-national-guard-center-north-of-ann-arbor.html",
+   "published": "Wed, 07 Oct 2026 13:00:27 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "‘Saved by the Bell’ star’s cause of death revealed",
-   "link": "https://www.mlive.com/life/2026/10/saved-by-the-bell-stars-cause-of-death-revealed.html",
-   "published": "Wed, 07 Oct 2026 01:50:05 +0000"
+   "title": "Amazon Prime customers could get $200 settlement refunds: Who is eligible for more money?",
+   "link": "https://www.mlive.com/news/2026/10/amazon-prime-customers-could-get-200-settlement-refunds-who-is-eligible-for-more-money.html",
+   "published": "Wed, 07 Oct 2026 13:00:00 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Changing seasons and so many reasons to get involved in Detroit!",
+   "link": "https://outliermedia.org/detroit-school-board-candidates-get-involved/",
+   "published": "Wed, 07 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -157,12 +163,6 @@
    "title": "Need help paying your Detroit water bill? What you need to know to get it",
    "link": "https://outliermedia.org/detroit-water-bill-help-paying-resources/",
    "published": "Mon, 05 Oct 2026 20:21:30 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Detroit’s feeling spooky. Celebrate Halloween, Harvest Fest and more with these events",
-   "link": "https://outliermedia.org/things-to-do-october-halloween-detroit-fall-autumn/",
-   "published": "Thu, 01 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -202,6 +202,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "James distances himself from Trump as Benson tries to connect them in gubernatorial debate",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-07/james-distances-himself-from-trump-as-benson-tries-to-connect-them-in-gubernatorial-debate",
+   "published": "Wed, 07 Oct 2026 05:46:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Nessel reassures Michiganders of voting security",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-06/nessel-reassures-michiganders-of-voting-security",
    "published": "Wed, 07 Oct 2026 00:59:55 GMT"
@@ -211,12 +217,6 @@
    "title": "Meet the Michigan Supreme Court candidates: Chief Justice Megan Cavanagh",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-06/meet-the-michigan-supreme-court-candidates-chief-justice-megan-cavanagh",
    "published": "Tue, 06 Oct 2026 18:48:13 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Ann Arbor City Council votes to oppose proposal that would create municipal utility board",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-06/ann-arbor-city-council-votes-to-oppose-proposal-that-would-create-municipal-utility-board",
-   "published": "Tue, 06 Oct 2026 18:15:08 GMT"
   }
  ]
 }
