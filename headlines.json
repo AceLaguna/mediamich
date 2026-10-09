@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T23:18:36+00:00",
+ "generated": "2026-10-09T06:04:12+00:00",
  "count": 33,
  "headlines": [
   {
@@ -40,21 +40,21 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Fact Check: Gilchrist, Forlini spar over election denialism in SOS debate",
+   "link": "https://bridgemi.com/michigan-government/fact-check-gilchrist-forlini-spar-over-election-denialism-in-sos-debate/",
+   "published": "Fri, 09 Oct 2026 02:33:38 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Fact check: Abdul El-Sayed and Mike Rogers debate Trump, tariffs, war, more",
+   "link": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-and-mike-rogers-debate-trump-tariffs-war-more/",
+   "published": "Fri, 09 Oct 2026 02:04:19 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Opinion | Michigan should enforce, not erase protections for students with disabilities",
    "link": "https://bridgemi.com/guest-commentary/opinion-michigan-should-enforce-not-erase-protections-for-students-with-disabilities/",
    "published": "Thu, 08 Oct 2026 22:27:50 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Despair over future fuels political anxiety for Michigan college students",
-   "link": "https://bridgemi.com/michigan-government/despair-over-future-fuels-political-anxiety-for-michigan-college-students/",
-   "published": "Thu, 08 Oct 2026 21:57:16 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "A top Michigan clerk is quitting. She can’t take the voting lies anymore",
-   "link": "https://bridgemi.com/michigan-government/a-top-michigan-clerk-is-quitting-she-cant-take-the-voting-lies-anymore/",
-   "published": "Thu, 08 Oct 2026 21:33:53 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "El-Sayed, Rogers trade barbs, accusations during first televised U.S. Senate debate",
+   "link": "https://michiganadvance.com/2026/10/08/el-sayed-rogers-trade-barbs-accusations-during-first-televised-u-s-senate-debate/",
+   "published": "Fri, 09 Oct 2026 02:43:46 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Michigan Supreme Court hears arguments in discrimination case involving former Calvin professor",
    "link": "https://michiganadvance.com/2026/10/08/michigan-supreme-court-hears-arguments-in-discrimination-case-involving-former-calvin-professor/",
    "published": "Thu, 08 Oct 2026 21:01:01 +0000"
@@ -105,28 +111,22 @@
    "published": "Thu, 08 Oct 2026 18:08:48 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "US Senate Dems demand apology from Chuck Grassley to Jack Smith for attacks at hearing",
-   "link": "https://michiganadvance.com/2026/10/08/repub/us-senate-dems-demand-apology-from-chuck-grassley-to-jack-smith-for-attacks-at-hearing/",
-   "published": "Thu, 08 Oct 2026 18:08:30 +0000"
+   "outlet": "MLive",
+   "title": "SOS candidates Gilchrist, Forlini debate competing visions for election security",
+   "link": "https://www.mlive.com/politics/2026/10/sos-candidates-gilchrist-forlini-debate-competing-visions-for-election-security.html",
+   "published": "Fri, 09 Oct 2026 03:05:42 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Grand Rapids-area prep football rankings: Top-two teams to square off in Week 7",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/grand-rapids-area-prep-football-rankings-top-two-teams-to-square-off-in-week-7.html",
-   "published": "Thu, 08 Oct 2026 23:10:36 +0000"
+   "title": "Here are the MHSFCA rankings heading into Week 7",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/here-are-the-mhsfca-rankings-heading-into-week-7.html",
+   "published": "Fri, 09 Oct 2026 03:04:53 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "‘He could work with anyone’: Grand Blanc community mourns death of treasurer, farmer and friend",
-   "link": "https://www.mlive.com/news/flint/2026/10/he-could-work-with-anyone-grand-blanc-community-mourns-death-of-treasurer-farmer-and-friend.html",
-   "published": "Thu, 08 Oct 2026 22:59:18 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Hurricane Isaias forcing Florida towns to issue mandatory evacuations as storm approaches",
-   "link": "https://www.mlive.com/news/2026/10/hurricane-isaias-forcing-florida-towns-to-issue-mandatory-evacuations-as-storm-approaches.html",
-   "published": "Thu, 08 Oct 2026 22:52:47 +0000"
+   "title": "Saban on tearful former Alabama, NFL star in doc trailer",
+   "link": "https://www.mlive.com/sports/2026/10/nick-saban-reacts-to-tearful-former-alabama-nfl-star-in-documentary-trailer.html",
+   "published": "Fri, 09 Oct 2026 02:19:25 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Rogers, El-Sayed debate gets hostile as candidates clash in pivotal US Senate race",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-09/rogers-el-sayed-debate-gets-hostile-as-candidates-clash-in-pivotal-us-senate-race",
+   "published": "Fri, 09 Oct 2026 04:22:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan sues state's largest health insurer, Blue Cross Blue Shield, claiming it's a monopoly",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-08/michigan-sues-states-largest-health-insurer-blue-cross-blue-shield-claiming-its-a-monopoly",
+   "published": "Thu, 08 Oct 2026 23:28:40 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Stateside: Thursday, Oct. 8, 2026",
    "link": "https://www.michiganpublic.org/stateside/2026-10-08/stateside-thursday-oct-8-2026",
    "published": "Thu, 08 Oct 2026 20:57:28 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Here are 28 things to do in Michigan this weekend, October 9-11",
-   "link": "https://www.michiganpublic.org/community/2026-10-08/here-are-28-things-to-do-in-michigan-this-weekend-october-9-11",
-   "published": "Thu, 08 Oct 2026 18:25:33 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet the Michigan Supreme Court candidates: Jody White",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-08/meet-the-michigan-supreme-court-candidates-jody-white",
-   "published": "Thu, 08 Oct 2026 16:16:31 GMT"
   }
  ]
 }
