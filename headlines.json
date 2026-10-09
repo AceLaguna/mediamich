@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:04:12+00:00",
+ "generated": "2026-10-09T13:11:46+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Gorillaz stun Detroit with surprise D12 reunion and Danny Brown appearance",
+   "link": "https://www.metrotimes.com/music-2/gorillaz-stun-detroit-with-surprise-d12-reunion-and-danny-brown-appearance/",
+   "published": "Fri, 09 Oct 2026 12:45:29 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Republican congressional candidate Tom Smith says the Great Lakes make Michigan ideal for data centers",
    "link": "https://www.metrotimes.com/news/republican-congressional-candidate-tom-smith-says-the-great-lakes-make-michigan-ideal-for-data-centers/",
    "published": "Thu, 08 Oct 2026 17:31:46 +0000"
@@ -33,14 +39,8 @@
    "published": "Thu, 08 Oct 2026 13:06:54 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Saroki’s is giving away free pizza and chicken across Michigan",
-   "link": "https://www.metrotimes.com/food-drink/sarokis-is-giving-away-free-pizza-and-chicken-across-michigan/",
-   "published": "Wed, 07 Oct 2026 16:41:28 +0000"
-  },
-  {
    "outlet": "Bridge Michigan",
-   "title": "Fact Check: Gilchrist, Forlini spar over election denialism in SOS debate",
+   "title": "Fact check: Gilchrist, Forlini spar over election denialism in SOS debate",
    "link": "https://bridgemi.com/michigan-government/fact-check-gilchrist-forlini-spar-over-election-denialism-in-sos-debate/",
    "published": "Fri, 09 Oct 2026 02:33:38 +0000"
   },
@@ -58,21 +58,27 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Fact check: Abdul El-Sayed and Mike Rogers debate Trump, tariffs, war, more",
+   "link": "https://www.bridgedetroit.com/fact-check-abdul-el-sayed-and-mike-rogers-debate-trump-tariffs-war-more/",
+   "published": "Fri, 09 Oct 2026 11:33:54 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Detroit, it’s time to do your candidate homework",
+   "link": "https://www.bridgedetroit.com/detroit-its-time-to-do-your-candidate-homework/",
+   "published": "Fri, 09 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Where Michigan secretary of state hopefuls stand on big election issues",
    "link": "https://www.bridgedetroit.com/where-michigan-secretary-of-state-hopefuls-stand-on-big-election-issues/",
    "published": "Thu, 08 Oct 2026 12:09:41 +0000"
   },
   {
-   "outlet": "BridgeDetroit",
-   "title": "Detroiters ask RenCen developers for $40M in benefits. What’s on the list",
-   "link": "https://www.bridgedetroit.com/detroiters-ask-rencen-developers-for-40m-in-gifts-whats-on-the-list/",
-   "published": "Wed, 07 Oct 2026 18:22:46 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "A conversation with author of ‘Forgotten Souls: The Search for the Lost Tuskegee Airmen’ | American Black Journal",
-   "link": "https://www.bridgedetroit.com/a-conversation-with-author-of-forgotten-souls-the-search-for-the-lost-tuskegee-airmen-american-black-journal/",
-   "published": "Wed, 07 Oct 2026 15:18:37 +0000"
+   "outlet": "Great Lakes Echo",
+   "title": "Man charged with discharging sewage into Lake Michigan, impersonating a federal officer",
+   "link": "https://greatlakesecho.org/2026/10/09/man-charged-with-discharging-sewage-into-lake-michigan-impersonating-a-federal-officer/",
+   "published": "Fri, 09 Oct 2026 12:05:31 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -87,46 +93,40 @@
    "published": "Fri, 25 Sep 2026 17:34:10 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Michigan city continues push to replace thousands of lead water service lines",
-   "link": "https://greatlakesecho.org/2026/09/18/michigan-city-continues-push-to-replace-thousands-of-lead-water-service-lines/",
-   "published": "Fri, 18 Sep 2026 09:46:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Michigan ACLU threatens legal action against township that was late to mail out absentee ballots",
+   "link": "https://michiganadvance.com/2026/10/09/michigan-aclu-threatens-legal-action-against-township-that-was-late-to-mail-out-absentee-ballots/",
+   "published": "Fri, 09 Oct 2026 11:51:53 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "El-Sayed, Rogers trade barbs, accusations during first televised U.S. Senate debate",
-   "link": "https://michiganadvance.com/2026/10/08/el-sayed-rogers-trade-barbs-accusations-during-first-televised-u-s-senate-debate/",
-   "published": "Fri, 09 Oct 2026 02:43:46 +0000"
+   "title": "Cornell case highlights the patchwork of state laws governing intoxication, sexual consent",
+   "link": "https://michiganadvance.com/2026/10/09/repub/cornell-case-highlights-the-patchwork-of-state-laws-governing-intoxication-sexual-consent/",
+   "published": "Fri, 09 Oct 2026 10:16:15 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan Supreme Court hears arguments in discrimination case involving former Calvin professor",
-   "link": "https://michiganadvance.com/2026/10/08/michigan-supreme-court-hears-arguments-in-discrimination-case-involving-former-calvin-professor/",
-   "published": "Thu, 08 Oct 2026 21:01:01 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Judge extends temporary access to White House for news organizations Trump banned",
-   "link": "https://michiganadvance.com/2026/10/08/repub/judge-extends-temporary-access-to-white-house-for-news-organizations-trump-banned/",
-   "published": "Thu, 08 Oct 2026 18:08:48 +0000"
+   "title": "Corrections isn’t a political sideshow. Michigan’s next governor must make it a priority.",
+   "link": "https://michiganadvance.com/2026/10/09/corrections-isnt-a-political-sideshow-michigans-next-governor-must-make-it-a-priority/",
+   "published": "Fri, 09 Oct 2026 10:00:07 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "SOS candidates Gilchrist, Forlini debate competing visions for election security",
-   "link": "https://www.mlive.com/politics/2026/10/sos-candidates-gilchrist-forlini-debate-competing-visions-for-election-security.html",
-   "published": "Fri, 09 Oct 2026 03:05:42 +0000"
+   "title": "Tony Romo’s latest golf bid ends after unexpected scorecard controversy",
+   "link": "https://www.mlive.com/sports/2026/10/tony-romo-thought-his-round-was-over-then-questions-started-surfacing.html",
+   "published": "Fri, 09 Oct 2026 13:05:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Here are the MHSFCA rankings heading into Week 7",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/here-are-the-mhsfca-rankings-heading-into-week-7.html",
-   "published": "Fri, 09 Oct 2026 03:04:53 +0000"
+   "title": "Cream puffs and community: Inside Clementine’s Pastries’ local journey",
+   "link": "https://www.mlive.com/news/detroit/2026/10/cream-puffs-and-community-inside-clementines-pastries-local-journey.html",
+   "published": "Fri, 09 Oct 2026 13:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Saban on tearful former Alabama, NFL star in doc trailer",
-   "link": "https://www.mlive.com/sports/2026/10/nick-saban-reacts-to-tearful-former-alabama-nfl-star-in-documentary-trailer.html",
-   "published": "Fri, 09 Oct 2026 02:19:25 +0000"
+   "title": "Miss Manners: The host refused to give me space or let me finish a sentence",
+   "link": "https://www.mlive.com/advice/2026/10/miss-manners-the-host-refused-to-give-me-space-or-let-me-finish-a-sentence.html",
+   "published": "Fri, 09 Oct 2026 13:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Auchter's Art: Senate candidates",
+   "link": "https://www.michiganpublic.org/opinion/2026-10-09/auchters-art-senate-candidates",
+   "published": "Fri, 09 Oct 2026 11:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Rogers, El-Sayed debate gets hostile as candidates clash in pivotal US Senate race",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-09/rogers-el-sayed-debate-gets-hostile-as-candidates-clash-in-pivotal-us-senate-race",
    "published": "Fri, 09 Oct 2026 04:22:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan sues state's largest health insurer, Blue Cross Blue Shield, claiming it's a monopoly",
-   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-08/michigan-sues-states-largest-health-insurer-blue-cross-blue-shield-claiming-its-a-monopoly",
-   "published": "Thu, 08 Oct 2026 23:28:40 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Thursday, Oct. 8, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-10-08/stateside-thursday-oct-8-2026",
-   "published": "Thu, 08 Oct 2026 20:57:28 GMT"
+   "title": "Secretary of State candidates square off over election integrity at debate",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-09/secretary-of-state-candidates-square-off-over-election-integrity-at-debate",
+   "published": "Fri, 09 Oct 2026 04:03:00 GMT"
   }
  ]
 }
