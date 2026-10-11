@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T12:44:18+00:00",
+ "generated": "2026-10-11T21:54:43+00:00",
  "count": 33,
  "headlines": [
   {
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Minnesota’s golden shiner shortage is pushing the bait industry toward fish farming",
+   "link": "https://greatlakesecho.org/2026/10/11/minnesotas-golden-shiner-shortage-is-pushing-the-bait-industry-toward-fish-farming/",
+   "published": "Sun, 11 Oct 2026 11:02:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Small Detroit parks may offer surprisingly strong cooling, new study finds",
    "link": "https://greatlakesecho.org/2026/10/10/small-detroit-parks-may-offer-surprisingly-strong-cooling-new-study-finds/",
    "published": "Sat, 10 Oct 2026 11:07:00 +0000"
@@ -87,10 +93,10 @@
    "published": "Fri, 09 Oct 2026 12:05:31 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Book explores Northern Michigan’s climate haven potential",
-   "link": "https://greatlakesecho.org/2026/09/30/book-explores-northern-michigans-climate-haven-potential/",
-   "published": "Wed, 30 Sep 2026 10:49:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Michigan spill prompts federal probe of Energy Transfer pipelines’ safety",
+   "link": "https://michiganadvance.com/2026/10/11/michigan-spill-prompts-federal-probe-of-energy-transfer-pipelines-safety/",
+   "published": "Sun, 11 Oct 2026 15:30:13 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -105,28 +111,22 @@
    "published": "Sun, 11 Oct 2026 11:31:00 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "National scrutiny on mail ballots changed Utah’s elections system",
-   "link": "https://michiganadvance.com/2026/10/11/repub/national-scrutiny-on-mail-ballots-changed-utahs-elections-system/",
-   "published": "Sun, 11 Oct 2026 10:00:53 +0000"
+   "outlet": "MLive",
+   "title": "Terry Bradshaw opens up about Chuck Noll in new memoir",
+   "link": "https://www.mlive.com/sports/2026/10/terry-bradshaw-waited-40-years-to-say-this-about-a-steelers-legend.html",
+   "published": "Sun, 11 Oct 2026 21:51:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Catch fall colors on display at 2 free Kalamazoo County events",
-   "link": "https://www.mlive.com/news/2026/10/catch-fall-colors-on-display-at-2-free-kalamazoo-county-events.html",
-   "published": "Sun, 11 Oct 2026 12:00:00 +0000"
+   "title": "Buccaneers face tough QB call after rookie impresses",
+   "link": "https://www.mlive.com/sports/2026/10/a-buccaneers-legend-just-made-a-bold-baker-mayfield-claim.html",
+   "published": "Sun, 11 Oct 2026 21:27:01 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "This Halloween, the biggest scare may be skyrocketing candy prices",
-   "link": "https://www.mlive.com/life/2026/10/this-halloween-the-biggest-scare-may-be-skyrocketing-candy-prices.html",
-   "published": "Sun, 11 Oct 2026 12:00:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Dearborn is getting its first Aldi grocery store. Here’s where",
-   "link": "https://www.mlive.com/news/detroit/2026/10/dearborn-is-getting-its-first-aldi-grocery-store-heres-where.html",
-   "published": "Sun, 11 Oct 2026 12:00:00 +0000"
+   "title": "Why Roddy Gayle Jr. didn’t play in Michigan’s first exhibition",
+   "link": "https://www.mlive.com/wolverines/basketball/2026/10/why-roddy-gayle-jr-didnt-play-in-michigans-first-exhibition.html",
+   "published": "Sun, 11 Oct 2026 20:50:53 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "State of Michigan asking people to submit their questions about infrastructure in survey",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-11/state-of-michigan-asking-people-to-submit-their-questions-about-infrastructure-in-survey",
+   "published": "Sun, 11 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "UAW tries to reassert political power in Michigan as the union faces internal divisions",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-10/uaw-tries-to-reassert-political-power-in-michigan-as-the-union-faces-internal-divisions",
    "published": "Sat, 10 Oct 2026 18:58:11 GMT"
@@ -193,12 +199,6 @@
    "title": "Bills seek to \"incentivize\" faster power restoration by hiking outage credits for customers",
    "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-10/bills-seek-to-incentivize-faster-power-restoration-by-hiking-outage-credits-for-customers",
    "published": "Sat, 10 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet the candidates running for the U-M Board of Regents",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-09/meet-the-candidates-running-for-the-u-m-board-of-regents",
-   "published": "Fri, 09 Oct 2026 23:18:57 GMT"
   }
  ]
 }
