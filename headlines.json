@@ -1,24 +1,24 @@
 {
- "generated": "2026-10-12T15:16:30+00:00",
+ "generated": "2026-10-13T00:36:28+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Hours without power disrupted MSU’s campus; investigation continues",
+   "link": "https://lansingcitypulse.com/hours-without-power-disrupted-msus-campus-investigation-continues/",
+   "published": "Mon, 12 Oct 2026 21:21:59 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Resolution for 17-year-old Lansing cold case, suspects deceased",
+   "link": "https://lansingcitypulse.com/resolution-for-17-year-old-lansing-cold-case-suspects-deceased/",
+   "published": "Mon, 12 Oct 2026 20:24:37 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "El-Sayed makes his case to voters at Grewal Hall; Calls Rogers “not serious”",
    "link": "https://lansingcitypulse.com/el-sayed-makes-his-case-to-voters-at-grewal-hall-calls-rogers-not-serious/",
    "published": "Sat, 10 Oct 2026 23:09:35 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "TOP 5 TACOS",
-   "link": "https://lansingcitypulse.com/top-5-tacos/",
-   "published": "Fri, 09 Oct 2026 20:38:54 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Lansing Police say they’ve solved 2009 homicide of Lansing teenager",
-   "link": "https://lansingcitypulse.com/lansing-police-say-theyve-solved-2009-homicide-of-lansing-teenager/",
-   "published": "Fri, 09 Oct 2026 15:50:25 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -40,21 +40,33 @@
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Republicans put spotlight on Abdul El-Sayed. He welcomes the fight",
-   "link": "https://bridgemi.com/michigan-government/republicans-put-spotlight-on-abdul-el-sayed-he-welcomes-the-fight/",
-   "published": "Mon, 12 Oct 2026 14:15:00 +0000"
+   "title": "Michigan communities invest millions in their rivers. Will it bring returns?",
+   "link": "https://bridgemi.com/outdoors-life/michigan-communities-invest-millions-in-their-rivers-will-it-bring-returns/",
+   "published": "Mon, 12 Oct 2026 20:35:41 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Opinion | Michigan ambulance services are stretched thin. RESCUE Act offers lifeline",
-   "link": "https://bridgemi.com/guest-commentary/opinion-michigan-ambulance-services-are-stretched-thin-rescue-act-offers-lifeline/",
-   "published": "Fri, 09 Oct 2026 20:58:10 +0000"
+   "title": "Michigan’s biggest hospitals won’t say how much they collect in facility fees",
+   "link": "https://bridgemi.com/michigan-health-watch/michigans-biggest-hospitals-wont-say-how-much-they-collect-in-facility-fees/",
+   "published": "Mon, 12 Oct 2026 18:41:37 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "What’s all the buzz about yellowjackets this fall in Michigan?",
-   "link": "https://bridgemi.com/quality-life/whats-all-the-buzz-about-yellowjackets-this-fall-in-michigan/",
-   "published": "Fri, 09 Oct 2026 20:23:26 +0000"
+   "title": "Hidden fees cost Michigan patients millions. Lawmakers push reforms",
+   "link": "https://bridgemi.com/michigan-health-watch/hidden-fees-cost-michigan-patients-millions-lawmakers-push-reforms/",
+   "published": "Mon, 12 Oct 2026 18:21:37 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "How COTS Detroit is helping at-risk families achieve stability and success  | One Detroit",
+   "link": "https://www.bridgedetroit.com/how-cots-detroit-is-helping-at-risk-families-achieve-stability-and-success-one-detroit/",
+   "published": "Mon, 12 Oct 2026 21:40:11 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Interactive: Pick your Detroit school board candidates",
+   "link": "https://www.bridgedetroit.com/interactive-pick-your-detroit-school-board-candidates/",
+   "published": "Mon, 12 Oct 2026 20:54:24 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -63,16 +75,10 @@
    "published": "Mon, 12 Oct 2026 10:00:00 +0000"
   },
   {
-   "outlet": "BridgeDetroit",
-   "title": "GUIDE: What Detroit school board candidates say about closing small schools",
-   "link": "https://www.bridgedetroit.com/guide-what-detroit-school-board-candidates-say-about-closing-small-schools/",
-   "published": "Mon, 12 Oct 2026 09:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Psychological assessment is a gateway to care. Too many Detroit families can’t access it.",
-   "link": "https://www.bridgedetroit.com/psychological-assessment-is-a-gateway-to-care-too-many-detroit-families-cant-access-it/",
-   "published": "Sat, 10 Oct 2026 10:00:00 +0000"
+   "outlet": "Great Lakes Echo",
+   "title": "Michigan may adopt grey wolf hunting season if federal protections are lifted",
+   "link": "https://greatlakesecho.org/2026/10/12/michigan-may-adopt-grey-wolf-hunting-season-if-federal-protections-are-lifted/",
+   "published": "Mon, 12 Oct 2026 10:25:00 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -87,46 +93,40 @@
    "published": "Sat, 10 Oct 2026 11:07:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Man charged with discharging sewage into Lake Michigan, impersonating a federal officer",
-   "link": "https://greatlakesecho.org/2026/10/09/man-charged-with-discharging-sewage-into-lake-michigan-impersonating-a-federal-officer/",
-   "published": "Fri, 09 Oct 2026 12:05:31 +0000"
+   "outlet": "Michigan Advance",
+   "title": "US senators from both parties blast Trump order to import Russian diesel as illegal",
+   "link": "https://michiganadvance.com/2026/10/12/repub/us-senators-from-both-parties-blast-trump-order-to-import-russian-diesel-as-illegal/",
+   "published": "Mon, 12 Oct 2026 20:37:45 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan needs more behavioral health professionals.",
-   "link": "https://michiganadvance.com/2026/10/12/michigan-needs-more-behavioral-health-professionals/",
-   "published": "Mon, 12 Oct 2026 12:00:44 +0000"
+   "title": "US House Dem leaders condemn Homeland Security raid on home of Rep. Ilhan Omar",
+   "link": "https://michiganadvance.com/2026/10/12/repub/us-house-dem-leaders-condemn-homeland-security-raid-on-home-of-rep-ilhan-omar/",
+   "published": "Mon, 12 Oct 2026 20:37:28 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Data center backlash set to sway midterm elections",
-   "link": "https://michiganadvance.com/2026/10/12/repub/data-center-backlash-set-to-sway-midterm-elections/",
-   "published": "Mon, 12 Oct 2026 09:27:18 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Great Lakes lab hit by DOGE is hanging on — for now",
-   "link": "https://michiganadvance.com/2026/10/12/great-lakes-lab-hit-by-doge-is-hanging-on-for-now/",
-   "published": "Mon, 12 Oct 2026 08:00:54 +0000"
+   "title": "Researchers point to community violence programs, pandemic recovery in historic homicide decline",
+   "link": "https://michiganadvance.com/2026/10/12/repub/researchers-point-to-community-violence-programs-pandemic-recovery-in-historic-homicide-decline/",
+   "published": "Mon, 12 Oct 2026 20:37:09 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "House fire leaves 1 dead in Northern Michigan",
-   "link": "https://www.mlive.com/news/2026/10/house-fire-leaves-1-dead-in-northern-michigan.html",
-   "published": "Mon, 12 Oct 2026 15:07:50 +0000"
+   "title": "Dan Campbell says Lions still have ‘a lot more’ to clean up",
+   "link": "https://www.mlive.com/lions/2026/10/dan-campbell-says-lions-still-have-a-lot-more-to-clean-up.html",
+   "published": "Tue, 13 Oct 2026 00:09:28 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bay City intersection to see afternoon traffic disruptions for Lafayette Bridge project",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/bay-city-intersection-to-see-afternoon-traffic-disruptions-for-lafayette-bridge-project.html",
-   "published": "Mon, 12 Oct 2026 15:05:32 +0000"
+   "title": "Pedestrian struck by pickup on U.S. 2 in Delta County",
+   "link": "https://www.mlive.com/news/2026/10/woman-seriously-injured-after-being-struck-by-pickup-on-us-2-in-delta-county.html",
+   "published": "Mon, 12 Oct 2026 23:34:20 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Famous actor officiates ex-wife’s wedding just weeks after finalizing divorce",
-   "link": "https://www.mlive.com/life/2026/10/famous-actor-officiates-ex-wifes-wedding-just-weeks-after-finalizing-their-divorce.html",
-   "published": "Mon, 12 Oct 2026 15:03:23 +0000"
+   "title": "‘Love Is Blind’ couples who got married: Where are they now?",
+   "link": "https://www.mlive.com/life/2026/10/love-is-blind-couples-who-got-married-where-are-they-now.html",
+   "published": "Mon, 12 Oct 2026 23:16:31 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,6 +148,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "New Natural Resources Commission appointee draws criticism",
+   "link": "https://planetdetroit.org/2026/10/new-natural-resources-commission-appointee-draws-criticism/",
+   "published": "Mon, 12 Oct 2026 21:19:47 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Voices: Strength in numbers. Tribal Nations are building energy sovereignty together.",
    "link": "https://planetdetroit.org/2026/10/voices-strength-in-numbers-tribal-nations-are-building-energy-sovereignty-together/",
    "published": "Mon, 12 Oct 2026 14:31:48 +0000"
@@ -159,10 +165,10 @@
    "published": "Fri, 09 Oct 2026 21:16:26 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Voices: The story of Noojimo’waning, Detroit’s first Indigenous Land Back project",
-   "link": "https://planetdetroit.org/2026/10/detroit-indigenous-land-back/",
-   "published": "Fri, 09 Oct 2026 19:31:41 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Fall weekends close to home: Micro-adventures in Michigan that cost less than a tank of gas",
+   "link": "https://gandernewsroom.com/local/things-to-do/micro-adventures-in-michigan/",
+   "published": "Mon, 12 Oct 2026 15:54:17 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -177,28 +183,22 @@
    "published": "Thu, 08 Oct 2026 17:34:55 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "These Michigan election deniers could be in office when 2028 votes are counted",
-   "link": "https://gandernewsroom.com/news/michigan-election-deniers/",
-   "published": "Wed, 07 Oct 2026 22:47:33 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Public accuracy tests underway across Michigan for midterm elections",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-12/michigan-voting-machine-accuracy-election-2026",
+   "published": "Mon, 12 Oct 2026 21:17:54 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Crews battling two Upper Peninsula fires that forced evacuations",
-   "link": "https://www.michiganpublic.org/public-safety/2026-10-12/upper-peninsula-wildfires-michigan-dnr",
-   "published": "Mon, 12 Oct 2026 14:06:17 GMT"
+   "title": "Study ranks states on elevated lead levels in drinking water",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-12/study-ranks-states-on-elevated-lead-levels-in-drinking-water",
+   "published": "Mon, 12 Oct 2026 21:11:27 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-11/republicans-face-midterm-backlash-from-factory-workers-squeezed-out-of-jobs-by-trumps-tariffs",
-   "published": "Mon, 12 Oct 2026 01:06:12 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Republicans want Abdul El-Sayed to be the main character of the midterms. He's happy to oblige",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-11/republicans-want-abdul-el-sayed-to-be-the-main-character-of-the-midterms-hes-happy-to-oblige",
-   "published": "Mon, 12 Oct 2026 00:49:24 GMT"
+   "title": "From shame to representation: One Grand Rapids educator’s mission to center Native stories",
+   "link": "https://www.michiganpublic.org/news/2026-10-12/grand-rapids-schools-native-american-library-indigenous-stories",
+   "published": "Mon, 12 Oct 2026 21:00:46 GMT"
   }
  ]
 }
