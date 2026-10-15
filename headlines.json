@@ -1,7 +1,13 @@
 {
- "generated": "2026-10-14T21:38:03+00:00",
- "count": 30,
+ "generated": "2026-10-15T04:33:01+00:00",
+ "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Long nightmare is over: Quality Dairy bakery is back tomorrow",
+   "link": "https://lansingcitypulse.com/long-nightmare-is-over-quality-dairy-bakery-is-back-tomorrow/",
+   "published": "Thu, 15 Oct 2026 00:34:39 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Police release new information on one River Trail death",
@@ -15,10 +21,10 @@
    "published": "Wed, 14 Oct 2026 09:38:00 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Three-person cast tackles meaty, multi-character roles in LCC’s ‘Layers’",
-   "link": "https://lansingcitypulse.com/three-person-cast-tackles-meaty-multi-character-roles-in-lccs-layers/",
-   "published": "Wed, 14 Oct 2026 09:11:00 +0000"
+   "outlet": "Metro Times",
+   "title": "Aurora Italiana goes full ’90s Italian glamour for Halloween",
+   "link": "https://www.metrotimes.com/food-drink/aurora-italiana-goes-full-90s-italian-glamour-for-halloween/",
+   "published": "Thu, 15 Oct 2026 03:21:27 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,28 +39,22 @@
    "published": "Wed, 14 Oct 2026 17:41:30 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Marv Neal wants Detroit fashion to get its due",
-   "link": "https://www.metrotimes.com/arts/marv-neal-wants-detroit-fashion-to-get-its-due/",
-   "published": "Wed, 14 Oct 2026 17:40:38 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Township vote paves way for Michigan’s second hyperscale data center",
+   "link": "https://bridgemi.com/michigan-environment-watch/township-vote-paves-way-for-michigans-second-hyperscale-data-center/",
+   "published": "Thu, 15 Oct 2026 01:05:09 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Fact check: What’s true and what’s not in Michigan’s data center debate",
+   "link": "https://bridgemi.com/environment/fact-check-whats-true-and-whats-not-in-michigans-data-center-debate/",
+   "published": "Wed, 14 Oct 2026 23:19:13 +0000"
   },
   {
    "outlet": "Bridge Michigan",
    "title": "Michigan DNR to track fish stocking using 23andMe-style gene testing",
    "link": "https://bridgemi.com/outdoors-life/michigan-dnr-to-track-fish-stocking-using-23andme-style-gene-testing/",
    "published": "Wed, 14 Oct 2026 21:31:35 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Opinion | Michigan’s road back to educational excellence begins before kindergarten",
-   "link": "https://bridgemi.com/guest-commentary/opinion-michigans-road-back-to-educational-excellence-begins-before-kindergarten/",
-   "published": "Wed, 14 Oct 2026 18:59:26 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Did Mike Rogers buy two yachts after leaving Congress?",
-   "link": "https://bridgemi.com/michigan-government/fact-check-did-mike-rogers-buy-two-yachts-after-leaving-congress/",
-   "published": "Wed, 14 Oct 2026 18:35:32 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "The next act for the No Kings movement: early voting in the midterms",
+   "link": "https://michiganadvance.com/2026/10/14/repub/the-next-act-for-the-no-kings-movement-early-voting-in-the-midterms/",
+   "published": "Wed, 14 Oct 2026 22:38:06 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Buttigieg and McCann argue Republican self-interest is undermining the American Dream",
+   "link": "https://michiganadvance.com/2026/10/14/buttigieg-and-mccann-argue-republican-self-interest-is-undermining-the-american-dream/",
+   "published": "Wed, 14 Oct 2026 21:36:57 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Michigan election officials say there is room for improvement in signature petition review process",
    "link": "https://michiganadvance.com/2026/10/14/michigan-election-officials-say-there-is-room-for-improvement-in-signature-petition-review-process/",
    "published": "Wed, 14 Oct 2026 20:02:53 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Democrats aiming for control of Congress vow action on healthcare, cost of living, Iran war",
-   "link": "https://michiganadvance.com/2026/10/14/repub/democrats-aiming-for-control-of-congress-vow-action-on-healthcare-cost-of-living-iran-war/",
-   "published": "Wed, 14 Oct 2026 19:53:28 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Trump’s DOJ demands California halt ballots to suspected noncitizens",
-   "link": "https://michiganadvance.com/2026/10/14/repub/trumps-doj-demands-california-halt-ballots-to-suspected-noncitizens/",
-   "published": "Wed, 14 Oct 2026 19:04:47 +0000"
+   "outlet": "MLive",
+   "title": "Bay City area soccer districts: Postseason openers bring out the best in local teams",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/bay-city-area-soccer-districts-postseason-openers-bring-out-the-best-in-local-teams.html",
+   "published": "Thu, 15 Oct 2026 03:41:34 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Monday Night Football announcers reportedly got into an argument before Rams-Bills game. Here’s why.",
-   "link": "https://www.mlive.com/sports/2026/10/monday-night-football-announcers-reportedly-got-into-an-argument-before-rams-bills-game-heres-why.html",
-   "published": "Wed, 14 Oct 2026 21:25:38 +0000"
+   "title": "Who are the top girls volleyball underclassmen around Grand Rapids? Our picks, your votes",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/who-are-the-top-girls-volleyball-underclassmen-around-grand-rapids-our-picks-your-votes.html",
+   "published": "Thu, 15 Oct 2026 01:21:41 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Fugitive barricaded in Detroit home, police negotiating",
-   "link": "https://www.mlive.com/news/detroit/2026/10/police-respond-to-barricaded-fugitive-in-detroit.html",
-   "published": "Wed, 14 Oct 2026 21:18:37 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Michigan State Police investigating Jackson officer use of force",
-   "link": "https://www.mlive.com/news/jackson/2026/10/michigan-state-police-investigating-jackson-officer-use-of-force.html",
-   "published": "Wed, 14 Oct 2026 21:01:03 +0000"
+   "title": "2 Michigan boys found safe in Ohio after father's abduction",
+   "link": "https://www.mlive.com/news/detroit/2026/10/michigan-boys-found-safe-in-ohio-after-father-abducts-them-from-home.html",
+   "published": "Thu, 15 Oct 2026 01:03:31 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -165,22 +165,40 @@
    "published": "Mon, 12 Oct 2026 21:19:47 +0000"
   },
   {
+   "outlet": "The 'Gander Newsroom",
+   "title": "Exclusive: Inside the NAACP’s plan to turn out 280,000 Black voters in Michigan",
+   "link": "https://gandernewsroom.com/news/naacp-michigan-2026-election/",
+   "published": "Wed, 14 Oct 2026 21:54:23 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "Barack Obama says Jocelyn Benson has ‘real answers’ for Michigan families",
+   "link": "https://gandernewsroom.com/news/elections/obama-benson-2026-election/",
+   "published": "Wed, 14 Oct 2026 15:20:05 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "13 events to check out this weekend in Michigan (Oct. 16-18, 2026)",
+   "link": "https://gandernewsroom.com/local/things-to-do/13-events-to-check-out-this-weekend-in-michigan-oct-16-18-2026/",
+   "published": "Wed, 14 Oct 2026 13:45:48 +0000"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Listen to ICE agent's 911 call in fatal Grand Rapids crash",
+   "link": "https://www.michiganpublic.org/public-safety/2026-10-14/listen-to-ice-agents-911-call-in-fatal-grand-rapids-crash",
+   "published": "Wed, 14 Oct 2026 23:23:21 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Regulators approve plan to remove damaged fuel assembly at Palisades",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-14/regulators-approve-plan-to-remove-damaged-fuel-assembly-at-palisades",
+   "published": "Wed, 14 Oct 2026 22:03:52 GMT"
+  },
+  {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Stateside: Wednesday, Oct. 14, 2026",
    "link": "https://www.michiganpublic.org/stateside/2026-10-14/stateside-wednesday-oct-14-2026",
    "published": "Wed, 14 Oct 2026 19:37:15 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan communities invest millions in their rivers. Will it bring returns?",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-14/michigan-rivers",
-   "published": "Wed, 14 Oct 2026 15:54:40 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "What the Vote?: This Muskegon city official wants to see other young people running for office",
-   "link": "https://www.michiganpublic.org/section/stateside/2026-10-14/what-the-vote-2026-kiley-jackson",
-   "published": "Wed, 14 Oct 2026 14:00:00 GMT"
   }
  ]
 }
