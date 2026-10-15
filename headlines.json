@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T16:56:37+00:00",
+ "generated": "2026-10-15T21:19:46+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Detroit cultivator Hytek is dropping one of the hottest weed strains of 2026",
+   "link": "https://www.metrotimes.com/weed-2/detroit-cultivator-hytek-is-dropping-one-of-the-hottest-weed-strains-of-2026/",
+   "published": "Thu, 15 Oct 2026 20:07:35 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Detroit-based singer-songwriter Christian Ohly is finding his way back to the light",
    "link": "https://www.metrotimes.com/music-2/detroit-based-singer-songwriter-christian-ohly-is-finding-his-way-back-to-the-light/",
    "published": "Thu, 15 Oct 2026 14:17:31 +0000"
@@ -31,12 +37,6 @@
    "title": "Devil’s Night gets a new kind of fright in Detroit",
    "link": "https://www.metrotimes.com/arts/devils-night-gets-a-new-kind-of-fright-in-detroit/",
    "published": "Thu, 15 Oct 2026 13:34:04 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "Aurora Italiana goes full ’90s Italian glamour for Halloween",
-   "link": "https://www.metrotimes.com/food-drink/aurora-italiana-goes-full-90s-italian-glamour-for-halloween/",
-   "published": "Thu, 15 Oct 2026 03:21:27 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Report card: Most Michigan school districts failing to meet safe firearm storage law requirements",
+   "link": "https://michiganadvance.com/2026/10/15/report-card-most-michigan-school-districts-failing-to-meet-safe-firearm-storage-law-requirements/",
+   "published": "Thu, 15 Oct 2026 18:36:43 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Colorado student wins top prize at National Civics Bee Championship",
    "link": "https://michiganadvance.com/2026/10/15/repub/colorado-student-wins-top-prize-at-national-civics-bee-championship/",
    "published": "Thu, 15 Oct 2026 16:37:04 +0000"
@@ -105,28 +111,22 @@
    "published": "Thu, 15 Oct 2026 16:36:39 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Trump: Execution of Fort Hood shooter will not be livestreamed",
-   "link": "https://michiganadvance.com/2026/10/15/repub/trump-execution-of-fort-hood-shooter-will-not-be-livestreamed/",
-   "published": "Thu, 15 Oct 2026 16:00:55 +0000"
+   "outlet": "MLive",
+   "title": "Michigan-Denver Frozen Four rematch features No. 1 vs. No. 2, 32 NHL draft picks, but no national TV",
+   "link": "https://www.mlive.com/wolverines/2026/10/michigan-denver-frozen-four-rematch-features-no-1-vs-no-2-but-no-national-tv.html",
+   "published": "Thu, 15 Oct 2026 21:01:14 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Freeze Watch issued ahead for Denver of ‘Thursday Night Football’ game",
-   "link": "https://www.mlive.com/sports/2026/10/freeze-watch-issued-ahead-of-nfls-thursday-night-football-game.html",
-   "published": "Thu, 15 Oct 2026 16:52:27 +0000"
+   "title": "How to watch the Brewers vs. Dodgers NLCS Game 4 for free tonight",
+   "link": "https://www.mlive.com/tv/2026/10/how-to-watch-the-brewers-vs-dodgers-nlcs-game-4-for-free-tonight.html",
+   "published": "Thu, 15 Oct 2026 21:01:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Why Hockey Fights Cancer Night is special, personal for Red Wings",
-   "link": "https://www.mlive.com/redwings/2026/10/why-hockey-fights-cancer-night-is-special-personal-for-red-wings.html",
-   "published": "Thu, 15 Oct 2026 16:46:50 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Former Tigers manager mentioned as possible Astros replacement",
-   "link": "https://www.mlive.com/tigers/2026/10/former-tigers-manager-mentioned-as-possible-astros-replacement.html",
-   "published": "Thu, 15 Oct 2026 16:46:09 +0000"
+   "title": "911 audio reveals frantic attempt was made to save actress before her tragic death at 36",
+   "link": "https://www.mlive.com/life/2026/10/911-audio-reveals-frantic-attempt-was-made-to-save-actress-before-her-tragic-death-at-36.html",
+   "published": "Thu, 15 Oct 2026 21:00:37 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,21 +148,27 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Google data center secures Van Buren Township approval, with startup expected in late 2027",
+   "link": "https://planetdetroit.org/2026/10/google-data-center-van-buren-approval/",
+   "published": "Thu, 15 Oct 2026 18:21:11 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "How heat from a Wisconsin data center is being stored for the winter",
+   "link": "https://planetdetroit.org/2026/10/data-center-heat-underground-storage/",
+   "published": "Thu, 15 Oct 2026 18:02:02 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "From toxic to tourist draw: How Michigan cities are transforming rivers",
    "link": "https://planetdetroit.org/2026/10/michigan-river-restoration-investment/",
    "published": "Wed, 14 Oct 2026 21:14:27 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Ann Arbor council comes out against public power ballot proposal, says it could cost city $1 billion",
-   "link": "https://planetdetroit.org/2026/10/ann-arbor-public-power-council-vote/",
-   "published": "Wed, 14 Oct 2026 19:24:36 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "New Natural Resources Commission appointee draws criticism",
-   "link": "https://planetdetroit.org/2026/10/new-natural-resources-commission-appointee-draws-criticism/",
-   "published": "Mon, 12 Oct 2026 21:19:47 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "That one time in Michigan: When we saw visitors in the sky",
+   "link": "https://gandernewsroom.com/local/history/unidentified-flying-objects/",
+   "published": "Thu, 15 Oct 2026 17:53:10 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -177,28 +183,22 @@
    "published": "Wed, 14 Oct 2026 15:20:05 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "13 events to check out this weekend in Michigan (Oct. 16-18, 2026)",
-   "link": "https://gandernewsroom.com/local/things-to-do/13-events-to-check-out-this-weekend-in-michigan-oct-16-18-2026/",
-   "published": "Wed, 14 Oct 2026 13:45:48 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Membership Donor Retention Lead",
+   "link": "https://www.michiganpublic.org/2026-10-15/membership-donor-retention-lead",
+   "published": "Thu, 15 Oct 2026 18:32:34 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan DNR to track fish stocking using 23andMe-style gene testing",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-15/michigan-dnr-fish-tracking-23andme",
+   "published": "Thu, 15 Oct 2026 18:07:46 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Here are 28 things to do in Michigan this weekend, October 16-18",
    "link": "https://www.michiganpublic.org/community/2026-10-15/here-are-28-things-to-do-in-michigan-this-weekend-october-16-18",
    "published": "Thu, 15 Oct 2026 14:43:55 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Two Michigan Supreme Court candidates aren't eligible to serve. What if they win?",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-15/two-michigan-supreme-court-candidates-arent-eligible-to-serve-what-if-they-win",
-   "published": "Thu, 15 Oct 2026 14:09:55 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Sturgeon Fest releases 1,500 fish with hopes of boosting Lake Erie population",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-15/1500-baby-sturgeon-released-for-annual-sturgeon-fest",
-   "published": "Thu, 15 Oct 2026 13:00:00 GMT"
   }
  ]
 }
