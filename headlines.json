@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T11:17:59+00:00",
+ "generated": "2026-10-16T16:34:59+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "A Milford brewery is throwing a free Halloween rock ’n’ roll bash",
+   "link": "https://www.metrotimes.com/arts/a-milford-brewery-is-throwing-a-free-halloween-rock-n-roll-bash/",
+   "published": "Fri, 16 Oct 2026 15:43:28 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Detroit cultivator Hytek is dropping one of the hottest weed strains of 2026",
    "link": "https://www.metrotimes.com/weed-2/detroit-cultivator-hytek-is-dropping-one-of-the-hottest-weed-strains-of-2026/",
    "published": "Thu, 15 Oct 2026 20:07:35 +0000"
@@ -33,10 +39,10 @@
    "published": "Thu, 15 Oct 2026 14:17:31 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Devil’s Night gets a new kind of fright in Detroit",
-   "link": "https://www.metrotimes.com/arts/devils-night-gets-a-new-kind-of-fright-in-detroit/",
-   "published": "Thu, 15 Oct 2026 13:34:04 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Bridge Michigan News Quiz, Oct. 16: Are you paying attention?",
+   "link": "https://bridgemi.com/news-quiz/bridge-michigan-news-quiz-oct-16-are-you-paying-attention/",
+   "published": "Fri, 16 Oct 2026 16:00:00 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -49,12 +55,6 @@
    "title": "Fact check: JD Vance attacks Abdul El-Sayed in Michigan",
    "link": "https://bridgemi.com/michigan-government/fact-check-jd-vance-attacks-abdul-el-sayed-in-michigan/",
    "published": "Fri, 16 Oct 2026 00:01:10 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan elections: What Democrats, Republicans say they’d do if they win big",
-   "link": "https://bridgemi.com/michigan-government/michigan-elections-what-democrats-republicans-say-theyd-do-if-they-win-big/",
-   "published": "Thu, 15 Oct 2026 16:38:43 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Wisconsin successfully restores habitat for piping plovers after 49 years with no sightings",
+   "link": "https://greatlakesecho.org/2026/10/16/wisconsin-successfully-restores-habitat-for-piping-plovers-after-49-years-with-no-sightings/",
+   "published": "Fri, 16 Oct 2026 10:32:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Century-long data reveals complex trends in ice cover in the Great Lakes",
    "link": "https://greatlakesecho.org/2026/10/15/century-long-data-reveals-complex-trends-in-ice-cover-in-the-great-lakes/",
    "published": "Thu, 15 Oct 2026 10:48:00 +0000"
@@ -87,46 +93,40 @@
    "published": "Wed, 14 Oct 2026 10:39:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Suburban Chicago has greater tree canopy inequity than the city, study finds",
-   "link": "https://greatlakesecho.org/2026/10/13/suburban-chicago-has-greater-tree-canopy-inequity-than-the-city-study-finds/",
-   "published": "Tue, 13 Oct 2026 11:29:00 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Your Weekly Michigan Political Brief",
+   "link": "https://michiganadvance.com/2026/10/16/your-weekly-michigan-political-brief-53/",
+   "published": "Fri, 16 Oct 2026 16:00:19 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Data centers are now the largest financial bet in US history",
-   "link": "https://michiganadvance.com/2026/10/16/repub/data-centers-are-now-the-largest-financial-bet-in-us-history/",
-   "published": "Fri, 16 Oct 2026 09:41:38 +0000"
+   "title": "Michigan engineer who helped expose Flint Water Crisis files for injunction to block EPA policy",
+   "link": "https://michiganadvance.com/2026/10/16/michigan-engineer-who-helped-expose-flint-water-crisis-files-for-injunction-to-block-epa-policy/",
+   "published": "Fri, 16 Oct 2026 15:52:13 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Nessel joins lawsuit seeking consumer protections as chatbot service declares bankruptcy",
-   "link": "https://michiganadvance.com/2026/10/16/nessel-joins-lawsuit-seeking-consumer-protections-as-chatbot-service-declares-bankruptcy/",
-   "published": "Fri, 16 Oct 2026 08:00:42 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "In Detroit debate, Benson and James each blame the other’s party leadership for today’s problems",
-   "link": "https://michiganadvance.com/2026/10/15/in-detroit-debate-benson-and-james-each-blame-the-others-party-leadership-for-todays-problems/",
-   "published": "Fri, 16 Oct 2026 03:01:32 +0000"
+   "title": "Listen to ICE agent’s 911 call in fatal Grand Rapids crash",
+   "link": "https://michiganadvance.com/2026/10/16/listen-to-ice-agents-911-call-in-fatal-grand-rapids-crash/",
+   "published": "Fri, 16 Oct 2026 11:16:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Josh Jacobs hasn’t played in 2026. Why one former star thinks that may not change",
-   "link": "https://www.mlive.com/sports/2026/10/josh-jacobs-packers-absence-could-last-much-longer-than-expected.html",
-   "published": "Fri, 16 Oct 2026 11:12:03 +0000"
+   "title": "Former Ann Arbor pastor accused of sexual abuse",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/10/former-ann-arbor-pastor-accused-of-sexual-abuse.html",
+   "published": "Fri, 16 Oct 2026 16:30:15 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan voters want good-paying jobs. Here’s what the candidates would do",
-   "link": "https://www.mlive.com/politics/2026/10/michigan-voters-want-good-paying-jobs-heres-what-the-candidates-would-do.html",
-   "published": "Fri, 16 Oct 2026 11:08:00 +0000"
+   "title": "Mich. is getting its very first Sprouts",
+   "link": "https://www.mlive.com/news/2026/10/supermarket-chain-expands-footprint-same-day-delivery.html",
+   "published": "Fri, 16 Oct 2026 16:28:48 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Holiday Mathis horoscopes for Oct. 16, 2026: Take the next step despite complex emotions",
-   "link": "https://www.mlive.com/advice/2026/10/holiday-mathis-horoscopes-for-oct-16-2026-take-the-next-step-despite-complex-emotions.html",
-   "published": "Fri, 16 Oct 2026 11:01:00 +0000"
+   "title": "Sean Payton’s pregame moment with Charissa Thompson caught fans off guard",
+   "link": "https://www.mlive.com/sports/2026/10/sean-paytons-awkward-moment-with-charissa-thompson-has-nfl-fans-talking.html",
+   "published": "Fri, 16 Oct 2026 16:23:26 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "John U. Bacon: Michigan fans should stay patient on Bryce Underwood, Kyle Whittingham",
+   "link": "https://www.michiganpublic.org/sports/2026-10-16/bryce-underwood-michigan-msu-football-john-u-bacon",
+   "published": "Fri, 16 Oct 2026 15:00:32 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "US reviving shuttered nuclear plants to meet growing electricity demand, power data centers",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-16/united-states-nuclear-plants-palisades-michigan",
+   "published": "Fri, 16 Oct 2026 14:21:38 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Auchter's Art: Elon bonds with Michiganders",
    "link": "https://www.michiganpublic.org/opinion/2026-10-16/auchters-art-elon-bonds-with-michiganders",
    "published": "Fri, 16 Oct 2026 11:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Auchter's Art: Musk money in Michigan",
-   "link": "https://www.michiganpublic.org/opinion/2026-10-16/auchters-art-musk-money-in-michigan",
-   "published": "Fri, 16 Oct 2026 08:36:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Vance, Rogers keep up attacks on El-Sayed during Monroe rally",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-16/vance-rogers-keep-up-attacks-on-el-sayed-during-monroe-rally",
-   "published": "Fri, 16 Oct 2026 05:26:00 GMT"
   }
  ]
 }
