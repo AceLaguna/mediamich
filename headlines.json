@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T04:20:40+00:00",
+ "generated": "2026-10-17T10:38:08+00:00",
  "count": 33,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Michigan elections: What Democrats, Republicans say they’d do if they win big",
+   "link": "https://www.bridgedetroit.com/michigan-elections-what-democrats-republicans-say-theyd-do-if-they-win-big/",
+   "published": "Sat, 17 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Mayoral election result from 2025 overturned after 37 disputed ballots are finally counted",
    "link": "https://www.bridgedetroit.com/mayoral-election-result-from-2025-overturned-after-37-disputed-ballots-are-finally-counted/",
    "published": "Sat, 17 Oct 2026 00:17:16 +0000"
@@ -67,12 +73,6 @@
    "title": "Detroit is key to Abdul El-Sayed’s Senate bid. But he faces deep divides",
    "link": "https://www.bridgedetroit.com/detroit-is-key-to-abdul-el-sayeds-senate-bid-but-he-faces-deep-divides/",
    "published": "Fri, 16 Oct 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "What Detroit students want from the next school board",
-   "link": "https://www.bridgedetroit.com/what-detroit-students-want-from-the-next-school-board/",
-   "published": "Wed, 14 Oct 2026 11:53:22 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,21 +112,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Concord shows fight, but comes up short",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/concord-shows-fight-but-comes-up-short.html",
-   "published": "Sat, 17 Oct 2026 04:12:02 +0000"
+   "title": "Country music star says he had a ‘rough go’ in battle against serious illness",
+   "link": "https://www.mlive.com/life/2026/10/country-music-star-says-he-had-a-rough-go-in-battle-against-serious-illness.html",
+   "published": "Sat, 17 Oct 2026 10:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Flint-area high school football Week 8 scoreboard",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/flint-area-high-school-football-week-8-scoreboard.html",
-   "published": "Sat, 17 Oct 2026 04:02:54 +0000"
+   "title": "Country music stars behind bars: These singers have been locked up in 2026",
+   "link": "https://www.mlive.com/life/2026/10/country-music-stars-behind-bars-these-singers-have-been-locked-up-in-2026.html",
+   "published": "Sat, 17 Oct 2026 10:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Watch final Hail Mary sequence from East Grand Rapids’ win over Thornapple Kellogg",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/watch-final-hail-mary-sequence-from-east-grand-rapids-win-over-thornapple-kellogg.html",
-   "published": "Sat, 17 Oct 2026 03:53:31 +0000"
+   "title": "Floated Dem contender sends ‘strongest signal yet’ of 2028 White House run",
+   "link": "https://www.mlive.com/politics/2026/10/floated-dem-contender-sends-strongest-signal-yet-of-2028-white-house-run.html",
+   "published": "Sat, 17 Oct 2026 10:15:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Anna Ansari and the melon that never made it home",
+   "link": "https://www.michiganpublic.org/podcast/the-dish/2026-10-17/anna-ansari-and-the-melon-that-never-made-it-home",
+   "published": "Sat, 17 Oct 2026 09:30:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Coalition calls for paid family and medical leave in Michigan",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-17/coalition-calls-for-paid-family-and-medical-leave-in-michigan",
+   "published": "Sat, 17 Oct 2026 09:11:06 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "The long, sometimes bitter nurses strike at Henry Ford Genesys is over",
    "link": "https://www.michiganpublic.org/economy/2026-10-16/the-long-sometimes-bitter-nurses-strike-at-henry-ford-genesys-is-over",
    "published": "Sat, 17 Oct 2026 00:31:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Newly counted ballots mean Hamtramck's mayor may have actually lost last year's election",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-16/newly-counted-ballots-mean-hamtramcks-mayor-may-have-actually-lost-last-years-election",
-   "published": "Fri, 16 Oct 2026 22:37:22 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Supporters push for Michigan bills to restrict 'addictive' social media feeds for young users",
-   "link": "https://www.michiganpublic.org/community/2026-10-16/kids-over-clicks-bills-michigan",
-   "published": "Fri, 16 Oct 2026 20:59:51 GMT"
   }
  ]
 }
