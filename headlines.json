@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T04:26:46+00:00",
+ "generated": "2026-10-18T10:59:29+00:00",
  "count": 33,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Fact check: What’s true and what’s not in Michigan’s data center debate",
+   "link": "https://www.bridgedetroit.com/fact-check-whats-true-and-whats-not-in-michigans-data-center-debate/",
+   "published": "Sun, 18 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Detroit is key to Abdul El-Sayed’s Senate bid. But he faces deep divides",
    "link": "https://www.bridgedetroit.com/detroit-is-key-to-abdul-el-sayeds-senate-bid-but-he-faces-deep-divides/",
    "published": "Sat, 17 Oct 2026 11:31:53 +0000"
@@ -67,12 +73,6 @@
    "title": "Michigan elections: What Democrats, Republicans say they’d do if they win big",
    "link": "https://www.bridgedetroit.com/michigan-elections-what-democrats-republicans-say-theyd-do-if-they-win-big/",
    "published": "Sat, 17 Oct 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Mayoral election result from 2025 overturned after 37 disputed ballots are finally counted",
-   "link": "https://www.bridgedetroit.com/mayoral-election-result-from-2025-overturned-after-37-disputed-ballots-are-finally-counted/",
-   "published": "Sat, 17 Oct 2026 00:17:16 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "DTE Energy attacks $100 million fine for Zug Island pollution on appeal",
+   "link": "https://michiganadvance.com/2026/10/18/dte-energy-attacks-100-million-fine-for-zug-island-pollution-on-appeal/",
+   "published": "Sun, 18 Oct 2026 10:30:19 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Plans to roll back roadless rule threatens a New England forest",
+   "link": "https://michiganadvance.com/2026/10/18/repub/plans-to-roll-back-roadless-rule-threatens-a-new-england-forest/",
+   "published": "Sun, 18 Oct 2026 10:30:07 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "No Kings shifts strategy from streets to ballot boxes with early voting day of action",
    "link": "https://michiganadvance.com/2026/10/17/repub/no-kings-shifts-strategy-from-streets-to-the-ballot-box-with-early-voting-day-of-action/",
    "published": "Sun, 18 Oct 2026 00:16:59 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "In the nation’s capital, rallygoers hoist umbrellas at No Kings get-out-the-vote event",
-   "link": "https://michiganadvance.com/2026/10/17/repub/in-the-nations-capital-rallygoers-hoist-umbrellas-at-no-kings-get-out-the-vote-event/",
-   "published": "Sun, 18 Oct 2026 00:16:39 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Michigan No Kings rallies blend anti-Trump protests with calls to vote early",
-   "link": "https://michiganadvance.com/2026/10/17/michigan-no-kings-rallies-blend-anti-trump-protests-with-calls-to-vote-early/",
-   "published": "Sat, 17 Oct 2026 18:49:15 +0000"
+   "outlet": "MLive",
+   "title": "NJ’s home to America’s ‘best college,’ report says",
+   "link": "https://www.mlive.com/news/2026/10/uss-best-university-boasts-quality-teaching-high-graduation-rate.html",
+   "published": "Sun, 18 Oct 2026 10:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan flips turnover script in victory over Penn State",
-   "link": "https://www.mlive.com/wolverines/football/2026/10/michigan-flips-turnover-script-in-victory-over-penn-state.html",
-   "published": "Sun, 18 Oct 2026 02:41:52 +0000"
+   "title": "The ‘priceless’ trait that could get Pistons rookie on the court",
+   "link": "https://www.mlive.com/pistons/2026/10/the-priceless-trait-that-could-get-pistons-rookie-on-the-court.html",
+   "published": "Sun, 18 Oct 2026 10:00:01 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan injury updates: Rod Moore ‘OK’ after being carted off in win",
-   "link": "https://www.mlive.com/wolverines/football/2026/10/michigan-injury-updates-rod-moore-ok-after-being-carted-off-in-win.html",
-   "published": "Sun, 18 Oct 2026 02:21:56 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Red Wings rally to beat Sharks in shootout, extend points streak",
-   "link": "https://www.mlive.com/redwings/2026/10/red-wings-rally-to-beat-sharks-in-shootout-extend-points-streak.html",
-   "published": "Sun, 18 Oct 2026 02:11:26 +0000"
+   "title": "Overdoses surged in Michigan prisons. Drug-soaked paper is to blame.",
+   "link": "https://www.mlive.com/news/2026/10/overdoses-surged-in-michigan-prisons-drug-soaked-paper-is-to-blame.html",
+   "published": "Sun, 18 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
