@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:49:01+00:00",
+ "generated": "2026-10-18T20:37:43+00:00",
  "count": 33,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Metro Times",
+   "title": "Mike D brings fresh noise and Beastie Boys classics to Detroit",
+   "link": "https://www.metrotimes.com/music-2/mike-d-brings-fresh-noise-and-beastie-boys-classics-to-detroit/",
+   "published": "Sun, 18 Oct 2026 18:40:59 +0000"
+  },
+  {
+   "outlet": "Metro Times",
    "title": "Kevin Adell hit with $62.2 million verdict in racial discrimination case",
    "link": "https://www.metrotimes.com/news/kevin-adell-hit-with-62-2-million-verdict-in-racial-discrimination-case/",
    "published": "Fri, 16 Oct 2026 20:03:04 +0000"
@@ -31,12 +37,6 @@
    "title": "Republicans distort rape case to falsely attack Christina Hines",
    "link": "https://www.metrotimes.com/news/republicans-distort-rape-case-to-falsely-attack-christina-hines/",
    "published": "Fri, 16 Oct 2026 18:04:13 +0000"
-  },
-  {
-   "outlet": "Metro Times",
-   "title": "A Milford brewery is throwing a free Halloween rock ’n’ roll bash",
-   "link": "https://www.metrotimes.com/arts/a-milford-brewery-is-throwing-a-free-halloween-rock-n-roll-bash/",
-   "published": "Fri, 16 Oct 2026 15:43:28 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "How El Niño Could Affect Fall Colors in the Great Lakes Region",
+   "link": "https://greatlakesecho.org/2026/10/18/how-el-nino-could-affect-fall-colors-in-the-great-lakes-region/",
+   "published": "Sun, 18 Oct 2026 12:18:01 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Call for more air quality monitors in Michigan’s Upper Peninsula",
    "link": "https://greatlakesecho.org/2026/10/17/call-for-more-air-quality-monitors-in-michigans-upper-peninsula/",
    "published": "Sat, 17 Oct 2026 11:06:00 +0000"
@@ -85,12 +91,6 @@
    "title": "Wisconsin successfully restores habitat for piping plovers after 49 years with no sightings",
    "link": "https://greatlakesecho.org/2026/10/16/wisconsin-successfully-restores-habitat-for-piping-plovers-after-49-years-with-no-sightings/",
    "published": "Fri, 16 Oct 2026 10:32:00 +0000"
-  },
-  {
-   "outlet": "Great Lakes Echo",
-   "title": "Century-long data reveals complex trends in ice cover in the Great Lakes",
-   "link": "https://greatlakesecho.org/2026/10/15/century-long-data-reveals-complex-trends-in-ice-cover-in-the-great-lakes/",
-   "published": "Thu, 15 Oct 2026 10:48:00 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -112,21 +112,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Finebaum on Georgia’s loss: ‘It meant everything to Auburn’",
-   "link": "https://www.mlive.com/sports/2026/10/finebaum-on-no-1-georgias-loss-it-meant-everything-to-auburn.html",
-   "published": "Sun, 18 Oct 2026 15:35:21 +0000"
+   "title": "SVSU snaps losing streak with win over Wayne State",
+   "link": "https://www.mlive.com/sports/saginaw-bay-city/2026/10/svsu-snaps-losing-streak-with-win-over-wayne-state.html",
+   "published": "Sun, 18 Oct 2026 20:16:50 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan State PFF grades, snap counts: Pass rush dominates as upset falls short",
-   "link": "https://www.mlive.com/spartans/football/2026/10/michigan-state-pff-grades-snap-counts-pass-rush-dominates-as-upset-falls-short.html",
-   "published": "Sun, 18 Oct 2026 15:32:10 +0000"
+   "title": "Robert Griffin III reacts to viral moment during Duke-UNC game",
+   "link": "https://www.mlive.com/sports/2026/10/robert-griffin-iii-saw-this-duke-football-moment-and-had-a-blunt-response.html",
+   "published": "Sun, 18 Oct 2026 20:01:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "ESPN analyst shreds Sarkisian for Arch Manning play",
-   "link": "https://www.mlive.com/sports/2026/10/espn-analyst-shreds-sarkisian-for-arch-manning-play-hes-made-absolute-mess-out-of-longhorns.html",
-   "published": "Sun, 18 Oct 2026 15:18:28 +0000"
+   "title": "Michigan State opens as double-digit underdog against final undefeated Big Ten team",
+   "link": "https://www.mlive.com/spartans/football/2026/10/michigan-state-opens-as-double-digit-underdog-against-final-undefeated-big-ten-team.html",
+   "published": "Sun, 18 Oct 2026 19:54:20 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,6 +184,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stubborn wildfires continue to burn in the Upper Peninsula",
+   "link": "https://www.michiganpublic.org/weather/2026-10-18/stubborn-wildfires-continue-to-burn-in-the-upper-peninsula",
+   "published": "Sun, 18 Oct 2026 17:19:34 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Campaign cracks down on drivers who don't stop for school buses with flashing red lights",
    "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-18/campaign-cracks-down-on-drivers-who-dont-stop-for-school-buses-with-flashing-red-lights",
    "published": "Sun, 18 Oct 2026 15:00:00 GMT"
@@ -193,12 +199,6 @@
    "title": "Anna Ansari and the melon that never made it home",
    "link": "https://www.michiganpublic.org/podcast/the-dish/2026-10-17/anna-ansari-and-the-melon-that-never-made-it-home",
    "published": "Sat, 17 Oct 2026 09:30:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Coalition calls for paid family and medical leave in Michigan",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-17/coalition-calls-for-paid-family-and-medical-leave-in-michigan",
-   "published": "Sat, 17 Oct 2026 09:11:06 GMT"
   }
  ]
 }
