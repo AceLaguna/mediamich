@@ -1,7 +1,19 @@
 {
- "generated": "2026-10-21T17:08:08+00:00",
+ "generated": "2026-10-21T21:38:43+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Man found dead at Eaton County Jail",
+   "link": "https://lansingcitypulse.com/man-found-dead-at-eaton-county-jail/",
+   "published": "Wed, 21 Oct 2026 21:27:06 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Carhartt coming … tomorrow",
+   "link": "https://lansingcitypulse.com/carhartt-coming-tomorrow/",
+   "published": "Wed, 21 Oct 2026 21:20:37 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Evolve Theatrics’ ‘Annie’ is well worth attending",
@@ -9,16 +21,10 @@
    "published": "Wed, 21 Oct 2026 09:20:00 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "‘Come From Away’ takes us back to kinder days",
-   "link": "https://lansingcitypulse.com/come-from-away-takes-us-back-to-kinder-days/",
-   "published": "Wed, 21 Oct 2026 09:13:00 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Starlight Dinner Theatre seeks help amid economic difficulties",
-   "link": "https://lansingcitypulse.com/starlight-dinner-theatre-seeks-help-amid-economic-difficulties/",
-   "published": "Wed, 21 Oct 2026 09:04:00 +0000"
+   "outlet": "Metro Times",
+   "title": "Creepy Cheapy turns the Crofoot into a rock star costume party",
+   "link": "https://www.metrotimes.com/music-2/creepy-cheapy-turns-the-crofoot-into-a-rock-star-costume-party/",
+   "published": "Wed, 21 Oct 2026 18:28:57 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,10 +39,16 @@
    "published": "Wed, 21 Oct 2026 15:18:26 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Doug Lloyd failed to charge an ex-prosecutor’s grandson until after we questioned his no-jail sex assault deal",
-   "link": "https://www.metrotimes.com/news/doug-lloyd-failed-to-charge-an-ex-prosecutors-grandson-until-after-we-questioned-his-no-jail-sex-assault-deal/",
-   "published": "Wed, 21 Oct 2026 14:00:55 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Toledo chemical tank rupture forces Michigan school closures near border",
+   "link": "https://bridgemi.com/michigan-environment-watch/toledo-chemical-tank-rupture-forces-michigan-school-closures-near-border/",
+   "published": "Wed, 21 Oct 2026 20:17:21 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Russia frees retired Michigan teacher after over 4 years behind bars",
+   "link": "https://bridgemi.com/michigan-government/russia-frees-retired-michigan-teacher-after-over-4-years-behind-bars/",
+   "published": "Wed, 21 Oct 2026 19:48:38 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -45,16 +57,10 @@
    "published": "Wed, 21 Oct 2026 14:59:23 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Help Bridge keep Michigan voters informed this election",
-   "link": "https://bridgemi.com/center-michigan/help-bridge-keep-michigan-voters-informed-this-election/",
-   "published": "Wed, 21 Oct 2026 13:00:00 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Watch Bridge Michigan’s inaugural Issues Summit livestream today",
-   "link": "https://bridgemi.com/center-michigan/watch-bridge-michigans-inaugural-issues-summit-livestream-today/",
-   "published": "Wed, 21 Oct 2026 09:00:00 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Detroit City Council member’s probe of east side bars sparks uproar",
+   "link": "https://www.bridgedetroit.com/detroit-city-council-members-probe-of-east-side-bars-sparks-uproar/",
+   "published": "Wed, 21 Oct 2026 19:15:29 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "Mike Rogers, Abdul El-Sayed pitch competing economic visions",
    "link": "https://www.bridgedetroit.com/mike-rogers-abdul-el-sayed-pitch-competing-economic-visions/",
    "published": "Wed, 21 Oct 2026 11:57:38 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit’s museum and zoo millages, explained: What voters need to know",
-   "link": "https://www.bridgedetroit.com/detroit-museum-zoo-millage-election/",
-   "published": "Wed, 21 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Ottawa County judge rules for solar developer in $330M land dispute with local family",
-   "link": "https://michiganadvance.com/2026/10/21/ottawa-county-judge-rules-for-solar-developer-in-330m-land-dispute-with-local-family/",
-   "published": "Wed, 21 Oct 2026 15:30:07 +0000"
+   "title": "Trump set to campaign in tight US Senate contests in Iowa, Texas, Ohio, Michigan",
+   "link": "https://michiganadvance.com/2026/10/21/repub/trump-set-to-campaign-in-tight-us-senate-contests-in-iowa-texas-ohio-michigan/",
+   "published": "Wed, 21 Oct 2026 21:08:28 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan species at risk after Trump rolls back protections, advocates say",
-   "link": "https://michiganadvance.com/2026/10/21/michigan-species-at-risk-after-trump-rolls-back-protections-advocates-say/",
-   "published": "Wed, 21 Oct 2026 13:30:35 +0000"
+   "title": "US Supreme Court allows gender-affirming care for trans people in federal prisons",
+   "link": "https://michiganadvance.com/2026/10/21/repub/us-supreme-court-allows-gender-affirming-care-for-trans-people-in-federal-prisons/",
+   "published": "Wed, 21 Oct 2026 20:25:08 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Commentary: House members took a big step to boost recycling. It’s the Senate’s turn.",
-   "link": "https://michiganadvance.com/2026/10/21/house-members-took-a-big-step-to-boost-recycling-its-the-senates-turn/",
-   "published": "Wed, 21 Oct 2026 12:00:41 +0000"
+   "title": "E-bikes now rival motorcycles for speed. State and city laws haven’t caught up.",
+   "link": "https://michiganadvance.com/2026/10/21/repub/e-bikes-now-rival-motorcycles-for-speed-state-and-city-laws-havent-caught-up/",
+   "published": "Wed, 21 Oct 2026 20:24:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Fan-favorite sandwich with devoted following returning to McDonald’s for limited time",
-   "link": "https://www.mlive.com/news/2026/10/fan-favorite-sandwich-with-devoted-following-returning-to-mcdonalds-for-limited-time.html",
-   "published": "Wed, 21 Oct 2026 16:59:14 +0000"
+   "title": "Legendary coach dealing with serious health issues",
+   "link": "https://www.mlive.com/sports/2026/10/legendary-basketball-coach-dealing-with-health-issues-affecting-aspects-of-his-daily-life.html",
+   "published": "Wed, 21 Oct 2026 21:14:36 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Australian lawmaker loses both of her legs in ‘targeted’ attack involving a vehicle",
-   "link": "https://www.mlive.com/news/2026/10/australian-lawmaker-loses-both-of-her-legs-in-targeted-attack-involving-a-vehicle.html",
-   "published": "Wed, 21 Oct 2026 16:55:59 +0000"
+   "title": "Disgraced rapper faces major change in living conditions after sudden prison transfer",
+   "link": "https://www.mlive.com/life/2026/10/disgraced-rapper-faces-major-change-in-living-conditions-after-sudden-prison-transfer.html",
+   "published": "Wed, 21 Oct 2026 21:13:08 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "New government program could pay you up to $30,000 multiple times for this one thing",
-   "link": "https://www.mlive.com/news/2026/10/new-government-program-could-pay-you-up-to-30000-multiple-times-for-this-one-thing.html",
-   "published": "Wed, 21 Oct 2026 16:51:41 +0000"
+   "title": "Pistons forward feels ‘comfortable’ on both ends after strong opener",
+   "link": "https://www.mlive.com/pistons/2026/10/pistons-foward-feeling-comfortable-on-both-ends-after-strong-showing-in-opener.html",
+   "published": "Wed, 21 Oct 2026 21:01:59 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,6 +148,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Detroit teens speak out: ‘They just need someone who’s willing to listen’",
+   "link": "https://planetdetroit.org/2026/10/detroit-youth-support-guidance/",
+   "published": "Wed, 21 Oct 2026 21:19:22 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Detroit museum, zoo millages on the November ballot: What’s at stake?",
    "link": "https://planetdetroit.org/2026/10/detroit-museum-zoo-millages/",
    "published": "Wed, 21 Oct 2026 16:00:19 +0000"
@@ -159,28 +165,28 @@
    "published": "Wed, 21 Oct 2026 13:31:43 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "From fun to fear: How harsh coaching affects mental health for student athletes",
-   "link": "https://planetdetroit.org/2026/10/harsh-coaches-student-athletes-mental-health/",
-   "published": "Tue, 20 Oct 2026 21:43:09 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Anthony Forlini’s ‘election denier’ past is haunting him in the race for Michigan SOS",
+   "link": "https://gandernewsroom.com/news/elections/anthony-forlinis-election-denier-past-is-haunting-him-in-the-race-for-michigan-sos/",
+   "published": "Wed, 21 Oct 2026 20:28:27 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Huizenga fought Trump’s tariffs in 2018. Now he backs them as factories close",
-   "link": "https://gandernewsroom.com/news/money-jobs/huizenga-backs-factories-close/",
-   "published": "Wed, 21 Oct 2026 17:03:03 +0000"
+   "title": "Sean McCann’s pitch to West Michigan: More good-paying jobs, lower costs",
+   "link": "https://gandernewsroom.com/news/politics/sean-mccann-michigan/",
+   "published": "Wed, 21 Oct 2026 19:27:25 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Report: Tom Barrett promised veterans service dogs and jobs but never delivered",
-   "link": "https://gandernewsroom.com/news/tom-barrett-michigan-veterans-funding/",
-   "published": "Wed, 21 Oct 2026 15:17:16 +0000"
+   "title": "Your guide to Party at the Polls in Michigan",
+   "link": "https://gandernewsroom.com/news/elections/party-at-the-polls-nov-3-mi/",
+   "published": "Wed, 21 Oct 2026 18:25:32 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Labor unions line up behind Will Lawrence as corporate PACs back Tom Barrett",
-   "link": "https://gandernewsroom.com/news/elections/lawrence-barrett-endorsements/",
-   "published": "Tue, 20 Oct 2026 18:39:12 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Wednesday, Oct. 21, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-10-21/stateside-wednesday-oct-21-2026",
+   "published": "Wed, 21 Oct 2026 20:19:54 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
@@ -193,12 +199,6 @@
    "title": "What the Vote?:  First-time Michigan voter values candidates over party",
    "link": "https://www.michiganpublic.org/section/stateside/2026-10-21/what-the-vote-connor-london-michigan",
    "published": "Wed, 21 Oct 2026 15:41:46 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Toledo chemical tank explosion triggers evacuations, shelter-in-place orders",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-21/evacuations-and-shelter-in-place-orders-issued-in-toledo-ohio-after-chemical-release",
-   "published": "Wed, 21 Oct 2026 12:52:23 GMT"
   }
  ]
 }
