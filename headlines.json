@@ -1,7 +1,13 @@
 {
- "generated": "2026-10-22T17:06:51+00:00",
+ "generated": "2026-10-22T21:32:17+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Opinion: Environmentalist/author Bill McKibben says older ‘experienced Americans’ are going for El-Sayed, Lawrence",
+   "link": "https://lansingcitypulse.com/opinion-environmentalist-author-bill-mckibben-says-older-experienced-americans-are-going-for-el-sayed-lawrence/",
+   "published": "Thu, 22 Oct 2026 20:41:31 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Man found dead at Eaton County Jail",
@@ -15,10 +21,10 @@
    "published": "Wed, 21 Oct 2026 21:20:37 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Evolve Theatrics’ ‘Annie’ is well worth attending",
-   "link": "https://lansingcitypulse.com/evolve-theatrics-annie-is-well-worth-attending/",
-   "published": "Wed, 21 Oct 2026 09:20:00 +0000"
+   "outlet": "Metro Times",
+   "title": "Stoli’s is bringing smash burgers and late-night eats to West Bloomfield",
+   "link": "https://www.metrotimes.com/food-drink/stolis-is-bringing-smash-burgers-and-late-night-eats-to-west-bloomfield/",
+   "published": "Thu, 22 Oct 2026 20:07:09 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,28 +39,22 @@
    "published": "Wed, 21 Oct 2026 16:43:10 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Michigan Republicans found no widespread fraud. They’re still trying to restrict voting",
-   "link": "https://www.metrotimes.com/news/michigan-republicans-found-no-widespread-fraud-theyre-still-trying-to-restrict-voting/",
-   "published": "Wed, 21 Oct 2026 15:18:26 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "Abdul El-Sayed vs. Mike Rogers: These voting groups may decide the Michigan race",
+   "link": "https://bridgemi.com/michigan-government/abdul-el-sayed-vs-mike-rogers-these-voting-groups-may-decide-the-michigan-race/",
+   "published": "Thu, 22 Oct 2026 20:23:56 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Fact check: John James bought second home, but no evidence he left his district",
-   "link": "https://bridgemi.com/michigan-government/fact-check-john-james-bought-second-home-but-no-evidence-he-left-his-district/",
-   "published": "Thu, 22 Oct 2026 15:11:34 +0000"
+   "title": "Poll: Older Michiganders give Medicare little thought. That’s risky",
+   "link": "https://bridgemi.com/michigan-health-watch/poll-older-michiganders-give-medicare-little-thought-thats-risky/",
+   "published": "Thu, 22 Oct 2026 19:40:34 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Fact check: Abdul El-Sayed, Mike Rogers debate trade, money, immigration, more",
-   "link": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-mike-rogers-debate-trade-money-immigration-more/",
-   "published": "Thu, 22 Oct 2026 01:59:05 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Elections, data centers, education take center stage at Bridge Issues Summit",
-   "link": "https://bridgemi.com/events/elections-data-centers-education-take-center-stage-at-bridge-issues-summit/",
-   "published": "Wed, 21 Oct 2026 22:30:36 +0000"
+   "title": "A Michigan clerk tried to kick voters off rolls. How her county, state stopped her",
+   "link": "https://bridgemi.com/michigan-government/michigan-clerk-tried-to-kick-voters-off-rolls-how-her-county-state-stopped-her/",
+   "published": "Thu, 22 Oct 2026 18:22:39 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "EGLE takes comments on wastewater permit for onsite water treatment at Saline Township data center",
-   "link": "https://michiganadvance.com/2026/10/22/egle-takes-comments-on-wastewater-permit-for-onsite-water-treatment-at-saline-township-data-center/",
-   "published": "Thu, 22 Oct 2026 13:16:55 +0000"
+   "title": "These White suburban moms regret voting for Trump — but aren’t sold on Democrats",
+   "link": "https://michiganadvance.com/2026/10/22/these-white-suburban-moms-regret-voting-for-trump-but-arent-sold-on-democrats/",
+   "published": "Thu, 22 Oct 2026 19:30:04 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "National bus tour brings healthcare affordability fight to Michigan",
-   "link": "https://michiganadvance.com/2026/10/22/national-bus-tour-brings-healthcare-affordability-fight-to-michigan/",
-   "published": "Thu, 22 Oct 2026 10:18:49 +0000"
+   "title": "DOJ to send election monitors to seven Michigan communities",
+   "link": "https://michiganadvance.com/2026/10/22/doj-to-send-election-monitors-to-seven-michigan-communities/",
+   "published": "Thu, 22 Oct 2026 18:31:59 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "A record number of women are running for state legislatures this year",
-   "link": "https://michiganadvance.com/2026/10/22/repub/a-record-number-of-women-are-running-for-state-legislatures-this-year/",
-   "published": "Thu, 22 Oct 2026 09:51:41 +0000"
+   "title": "Michigan AG urges state regulators to reject Consumers Energy dam sale",
+   "link": "https://michiganadvance.com/2026/10/22/michigan-ag-urges-state-regulators-to-reject-consumers-energy-dam-sale/",
+   "published": "Thu, 22 Oct 2026 16:53:22 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Magnitude 7 earthquake rocks China’s Tibet",
-   "link": "https://www.mlive.com/news/2026/10/magnitude-7-earthquake-rocks-chinas-tibet.html",
-   "published": "Thu, 22 Oct 2026 17:01:29 +0000"
+   "title": "Austrailian TV reporter saves man from drowning moments before truck sinks in floodwater",
+   "link": "https://www.mlive.com/news/2026/10/tv-reporter-saves-man-from-drowning-moments-before-truck-sinks-in-floodwater.html",
+   "published": "Thu, 22 Oct 2026 21:13:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Michigan advances toward digital divide with $1.4B broadband initiative",
-   "link": "https://www.mlive.com/news/2026/10/michigan-advances-toward-digital-divide-with-14b-broadband-initiative.html",
-   "published": "Thu, 22 Oct 2026 17:00:21 +0000"
+   "title": "Jackson Lumen Christi claims first boys tennis state title in school history",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/jackson-lumen-christi-claims-first-boys-tennis-state-title-in-school-history.html",
+   "published": "Thu, 22 Oct 2026 21:03:36 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "First look inside new Briarwood Mall apartments with rents approaching $5K",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/10/first-look-inside-new-briarwood-mall-apartments-with-rents-approaching-5k.html",
-   "published": "Thu, 22 Oct 2026 16:58:33 +0000"
+   "title": "Election forecaster announces major shift in Ohio race amid backlash to Ramaswamy ad",
+   "link": "https://www.mlive.com/politics/2026/10/election-forecaster-announces-major-shift-in-ohio-race-amid-backlash-to-ramaswamy-ad.html",
+   "published": "Thu, 22 Oct 2026 21:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,6 +148,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Fact-checking the El-Sayed-Rogers Senate debate: Immigration, trade, corporate money claims",
+   "link": "https://planetdetroit.org/2026/10/el-sayed-rogers-senate-debate-fact/",
+   "published": "Thu, 22 Oct 2026 17:18:58 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Detroit teens speak out: ‘They just need someone who’s willing to listen’",
    "link": "https://planetdetroit.org/2026/10/detroit-youth-support-guidance/",
    "published": "Wed, 21 Oct 2026 21:19:22 +0000"
@@ -159,10 +165,10 @@
    "published": "Wed, 21 Oct 2026 16:00:19 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Hazardous chemical leak in Toledo prompts evacuations, shelter orders",
-   "link": "https://planetdetroit.org/2026/10/toledo-chemical-release-evacuations/",
-   "published": "Wed, 21 Oct 2026 13:31:43 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "For $2.7 million, you could own this Upper Peninsula tourist stop",
+   "link": "https://gandernewsroom.com/local/culture/for-2-7-million-you-could-own-this-upper-peninsula-tourist-stop/",
+   "published": "Thu, 22 Oct 2026 17:57:36 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -177,28 +183,22 @@
    "published": "Wed, 21 Oct 2026 19:27:25 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Your guide to Party at the Polls in Michigan",
-   "link": "https://gandernewsroom.com/news/elections/party-at-the-polls-nov-3-mi/",
-   "published": "Wed, 21 Oct 2026 18:25:32 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Thursday, Oct. 22, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-10-22/stateside-thursday-oct-22-2026",
+   "published": "Thu, 22 Oct 2026 20:53:36 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Fuel loading to resume at Palisades after workers remove damaged fuel assembly",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-22/palisades-nuclear-plant-fuel-assembly",
+   "published": "Thu, 22 Oct 2026 17:34:31 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Here are 28 things to do in Michigan this weekend, October 23-25",
    "link": "https://www.michiganpublic.org/community/2026-10-22/here-are-28-things-to-do-in-michigan-this-weekend-october-23-25",
    "published": "Thu, 22 Oct 2026 14:43:59 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet Michigan's Attorney General candidates: Eli Savit",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/eli-savit-michigan-attorney-general-candidate",
-   "published": "Thu, 22 Oct 2026 10:30:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet Michigan's Attorney General candidates: Doug Lloyd",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/doug-lloyd-michigan-attorney-general-candidate",
-   "published": "Thu, 22 Oct 2026 10:30:00 GMT"
   }
  ]
 }
