@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T04:38:21+00:00",
+ "generated": "2026-10-22T11:46:12+00:00",
  "count": 33,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Election 2026: Need special accommodations to vote? What you need to know.",
+   "link": "https://www.bridgedetroit.com/election-2026-special-accommodations-to-vote-what-you-need-to-know/",
+   "published": "Thu, 22 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Detroit City Council member’s probe of east side bars sparks uproar",
    "link": "https://www.bridgedetroit.com/detroit-city-council-members-probe-of-east-side-bars-sparks-uproar/",
    "published": "Wed, 21 Oct 2026 19:15:29 +0000"
@@ -67,12 +73,6 @@
    "title": "Help Bridge keep Detroit voters informed this election",
    "link": "https://www.bridgedetroit.com/help-bridge-keep-detroit-voters-informed-this-election/",
    "published": "Wed, 21 Oct 2026 13:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Mike Rogers, Abdul El-Sayed pitch competing economic visions",
-   "link": "https://www.bridgedetroit.com/mike-rogers-abdul-el-sayed-pitch-competing-economic-visions/",
-   "published": "Wed, 21 Oct 2026 11:57:38 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -94,39 +94,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Judge blocks Homeland Security from conducting election-related sweeps in 9 states",
-   "link": "https://michiganadvance.com/2026/10/21/repub/judge-blocks-homeland-security-from-conducting-election-related-sweeps-in-9-states/",
-   "published": "Thu, 22 Oct 2026 01:48:41 +0000"
+   "title": "National bus tour brings healthcare affordability fight to Michigan",
+   "link": "https://michiganadvance.com/2026/10/22/national-bus-tour-brings-healthcare-affordability-fight-to-michigan/",
+   "published": "Thu, 22 Oct 2026 10:18:49 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Rogers, El-Sayed clash over Iran, healthcare and Muslim Brotherhood during second debate",
-   "link": "https://michiganadvance.com/2026/10/21/rogers-el-sayed-clash-over-iran-healthcare-and-muslim-brotherhood-during-second-debate/",
-   "published": "Thu, 22 Oct 2026 01:42:27 +0000"
+   "title": "A record number of women are running for state legislatures this year",
+   "link": "https://michiganadvance.com/2026/10/22/repub/a-record-number-of-women-are-running-for-state-legislatures-this-year/",
+   "published": "Thu, 22 Oct 2026 09:51:41 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump set to campaign in tight US Senate contests in Iowa, Texas, Ohio, Michigan",
-   "link": "https://michiganadvance.com/2026/10/21/repub/trump-set-to-campaign-in-tight-us-senate-contests-in-iowa-texas-ohio-michigan/",
-   "published": "Wed, 21 Oct 2026 21:08:28 +0000"
+   "title": "Analysis: Trump deportations near 1M, but few are criminals",
+   "link": "https://michiganadvance.com/2026/10/22/repub/analysis-trump-deportations-near-1m-but-few-are-criminals/",
+   "published": "Thu, 22 Oct 2026 09:51:17 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Residents push back on Saline data center wastewater permit",
-   "link": "https://www.mlive.com/news/ann-arbor/2026/10/residents-voice-concerns-over-saline-data-center-at-egle-meeting.html",
-   "published": "Thu, 22 Oct 2026 02:23:01 +0000"
+   "title": "Pike talking in sentences after botched Tennessee execution",
+   "link": "https://www.mlive.com/news/2026/10/christa-pike-talking-in-sentences-after-botched-tennessee-execution.html",
+   "published": "Thu, 22 Oct 2026 11:39:15 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Country Music Hall of Fame singer dead at 71: ‘We are completely heartbroken’",
-   "link": "https://www.mlive.com/life/2026/10/country-music-hall-of-fame-singer-dead-at-71-we-are-completely-heartbroken.html",
-   "published": "Thu, 22 Oct 2026 01:45:47 +0000"
+   "title": "Grand Rapids launches search to reshape major site along the Grand River",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/10/grand-rapids-launches-search-to-reshape-major-site-along-the-grand-river.html",
+   "published": "Thu, 22 Oct 2026 11:32:30 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "In second debate, Rogers questions El-Sayed’s loyalties. It’s ‘beneath you,’ Democrat responds.",
-   "link": "https://www.mlive.com/news/detroit/2026/10/in-second-debate-rogers-questions-el-sayeds-loyalties-its-beneath-you-democrat-responds.html",
-   "published": "Thu, 22 Oct 2026 01:40:50 +0000"
+   "title": "Big Ten picks: MLive’s predictions for Michigan-Indiana, Michigan State-UCLA",
+   "link": "https://www.mlive.com/sports/2026/10/big-ten-picks-mlives-predictions-for-michigan-indiana-michigan-state-ucla.html",
+   "published": "Thu, 22 Oct 2026 11:32:00 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Detroit Housing Commission pauses home sales as tenants struggle to qualify",
+   "link": "https://outliermedia.org/detroit-housing-commission-home-sales-buying/",
+   "published": "Thu, 22 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -139,12 +145,6 @@
    "title": "Fix up your home, care for yourself and community: Get involved in Detroit",
    "link": "https://outliermedia.org/home-repair-maintenance-opportunities-detroit-get-involved/",
    "published": "Wed, 21 Oct 2026 09:45:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Here’s what you need to vote in Michigan",
-   "link": "https://outliermedia.org/michigan-voter-id-laws-what-to-know/",
-   "published": "Tue, 20 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Final Michigan US Senate debate puts Rogers, El-Sayed against each other on the issues",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/final-michigan-us-senate-debate-puts-rogers-el-sayed-against-each-other-on-the-issues",
-   "published": "Thu, 22 Oct 2026 04:29:05 GMT"
+   "title": "Meet Michigan's Attorney General candidates: Doug Lloyd",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/doug-lloyd-michigan-attorney-general-candidate",
+   "published": "Thu, 22 Oct 2026 10:30:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Wednesday, Oct. 21, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-10-21/stateside-wednesday-oct-21-2026",
-   "published": "Wed, 21 Oct 2026 20:19:54 GMT"
+   "title": "Meet Michigan's Attorney General candidates: Eli Savit",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/eli-savit-michigan-attorney-general-candidate",
+   "published": "Thu, 22 Oct 2026 10:30:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "What is glycidyl methacrylate? What to know about chemical in Toledo tank explosion",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-21/what-is-glycidyl-methacrylate",
-   "published": "Wed, 21 Oct 2026 16:46:29 GMT"
+   "title": "Mallory McMorrow blames fake poll for disrupting her Senate campaign",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/michigan-pollsters-react-to-fake-polling-scandal",
+   "published": "Thu, 22 Oct 2026 09:15:53 GMT"
   }
  ]
 }
