@@ -1,7 +1,19 @@
 {
- "generated": "2026-10-23T17:02:47+00:00",
+ "generated": "2026-10-23T21:21:32+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Greater Lansing gains a new Aldi location",
+   "link": "https://lansingcitypulse.com/greater-lansing-gains-a-new-aldi-location/",
+   "published": "Fri, 23 Oct 2026 20:40:27 +0000"
+  },
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "TOP 5 UPSCALE DINING",
+   "link": "https://lansingcitypulse.com/top-5-upscale-dining/",
+   "published": "Fri, 23 Oct 2026 20:31:24 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Whitmer encourages Michiganders to vote early",
@@ -9,16 +21,10 @@
    "published": "Fri, 23 Oct 2026 00:00:17 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "Opinion: Environmentalist/author Bill McKibben says older ‘experienced Americans’ are going for El-Sayed, Lawrence",
-   "link": "https://lansingcitypulse.com/opinion-environmentalist-author-bill-mckibben-says-older-experienced-americans-are-going-for-el-sayed-lawrence/",
-   "published": "Thu, 22 Oct 2026 20:41:31 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Man found dead at Eaton County Jail",
-   "link": "https://lansingcitypulse.com/man-found-dead-at-eaton-county-jail/",
-   "published": "Wed, 21 Oct 2026 21:27:06 +0000"
+   "outlet": "Metro Times",
+   "title": "Dan Campbell versus the pretty boy",
+   "link": "https://www.metrotimes.com/arts/culture/dan-campbell-versus-the-pretty-boy/",
+   "published": "Fri, 23 Oct 2026 19:27:50 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -33,10 +39,16 @@
    "published": "Wed, 21 Oct 2026 18:28:57 +0000"
   },
   {
-   "outlet": "Metro Times",
-   "title": "Mike Rogers keeps lying about Abdul El-Sayed. We counted the ways",
-   "link": "https://www.metrotimes.com/news/mike-rogers-keeps-lying-about-abdul-el-sayed-we-counted-the-ways/",
-   "published": "Wed, 21 Oct 2026 16:43:10 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "To fix Michigan schools, experts urge better reading skills, less politics",
+   "link": "https://bridgemi.com/talent-education/to-fix-michigan-schools-experts-urge-better-reading-skills-less-politics/",
+   "published": "Fri, 23 Oct 2026 18:34:29 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Fact check: Abdul El-Sayed not a ‘fake doctor’ or licensed physician",
+   "link": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/",
+   "published": "Fri, 23 Oct 2026 17:59:56 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -45,16 +57,10 @@
    "published": "Fri, 23 Oct 2026 16:00:00 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "University enrollment drops 2% in Michigan, first drop in three years",
-   "link": "https://bridgemi.com/talent-education/university-enrollment-drops-2-in-michigan-first-drop-in-three-years/",
-   "published": "Thu, 22 Oct 2026 21:32:26 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Abdul El-Sayed vs. Mike Rogers: These voting groups may decide the Michigan race",
-   "link": "https://bridgemi.com/michigan-government/abdul-el-sayed-vs-mike-rogers-these-voting-groups-may-decide-the-michigan-race/",
-   "published": "Thu, 22 Oct 2026 20:23:56 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Election 2026: Get to know the ballot issues Detroiters can vote on",
+   "link": "https://www.bridgedetroit.com/election-2026-get-to-know-the-ballot-issues/",
+   "published": "Fri, 23 Oct 2026 17:27:31 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -67,12 +73,6 @@
    "title": "Council member’s controversial inquiry into east side bars ends after answers from BSEED",
    "link": "https://www.bridgedetroit.com/eastside-bars-restaurants-renata-miller/",
    "published": "Fri, 23 Oct 2026 00:24:35 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Election 2026: Need special accommodations to vote? What you need to know.",
-   "link": "https://www.bridgedetroit.com/election-2026-special-accommodations-to-vote-what-you-need-to-know/",
-   "published": "Thu, 22 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Trump’s DOJ sues over Alaska Senate race, expanding preelection legal fights",
+   "link": "https://michiganadvance.com/2026/10/23/repub/trumps-doj-sues-over-alaska-senate-race-expanding-preelection-legal-fights/",
+   "published": "Fri, 23 Oct 2026 18:34:27 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "2026 ballot measures are written at a graduate-school reading level, report finds",
+   "link": "https://michiganadvance.com/2026/10/23/repub/2026-ballot-measures-are-written-at-a-graduate-school-reading-level-report-finds/",
+   "published": "Fri, 23 Oct 2026 17:10:33 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Your Weekly Michigan Political Brief",
    "link": "https://michiganadvance.com/2026/10/23/your-weekly-michigan-political-brief-54/",
    "published": "Fri, 23 Oct 2026 16:00:19 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Democratic divisions could hurt El-Sayed, but Trump’s economy may matter more",
-   "link": "https://michiganadvance.com/2026/10/23/democratic-divisions-could-hurt-el-sayed-but-trumps-economy-may-matter-more/",
-   "published": "Fri, 23 Oct 2026 14:31:27 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "A clerk tried to remove voters from the rolls. How her county and the state of Michigan stopped her.",
-   "link": "https://michiganadvance.com/2026/10/23/a-clerk-tried-to-remove-voters-from-the-rolls-how-her-county-and-the-state-of-michigan-stopped-her/",
-   "published": "Fri, 23 Oct 2026 13:30:09 +0000"
+   "outlet": "MLive",
+   "title": "Tally Hall fans explain their love for newly reunited Ann Arbor rock band",
+   "link": "https://www.mlive.com/news/ann-arbor/2026/10/tally-hall-fans-explain-their-love-for-newly-reunited-ann-arbor-rock-band.html",
+   "published": "Fri, 23 Oct 2026 21:09:56 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Fall color just isn’t quitting in Michigan, here’s a fresh update",
-   "link": "https://www.mlive.com/weather/2026/10/fall-color-just-isnt-quitting-in-michigan-heres-a-fresh-update.html",
-   "published": "Fri, 23 Oct 2026 16:57:19 +0000"
+   "title": "5 social casinos like Chumba with bigger welcome offers this month",
+   "link": "https://www.mlive.com/sweepstakes-casinos/2026/10/5-social-casinos-like-chumba-with-bigger-welcome-offers-this-month.html",
+   "published": "Fri, 23 Oct 2026 21:06:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Trump unleashes on ‘horrible little reporter’ who grilled him on controversial Ramaswamy ad",
-   "link": "https://www.mlive.com/politics/2026/10/trump-unleashes-on-horrible-little-reporter-who-grilled-him-on-controversial-ramaswamy-ad.html",
-   "published": "Fri, 23 Oct 2026 16:51:21 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Dan Campbell calls Sam LaPorta situation a distraction for outside world, not Lions",
-   "link": "https://www.mlive.com/lions/2026/10/dan-campbell-calls-sam-laporta-situation-a-distraction-for-outside-world-not-lions.html",
-   "published": "Fri, 23 Oct 2026 16:44:04 +0000"
+   "title": "How to watch the Detroit Pistons vs. Miami Heat for free tonight",
+   "link": "https://www.mlive.com/tv/2026/10/how-to-watch-the-detroit-pistons-vs-miami-heat-for-free-tonight.html",
+   "published": "Fri, 23 Oct 2026 21:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,21 +148,27 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "Michigan environmental news: Gelman Plume settlement expands cleanup efforts near Huron River",
+   "link": "https://planetdetroit.org/2026/10/michigan-environmental-news-gelman-epa-toledo-spill/",
+   "published": "Fri, 23 Oct 2026 20:50:34 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Michigan bills would hike cost of dumping radioactive waste by 1,400%",
+   "link": "https://planetdetroit.org/2026/10/michigan-radioactive-waste-fee-1400-percent/",
+   "published": "Fri, 23 Oct 2026 19:03:26 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Fact-checking the El-Sayed-Rogers Senate debate: Immigration, trade, corporate money claims",
    "link": "https://planetdetroit.org/2026/10/el-sayed-rogers-senate-debate-fact/",
    "published": "Thu, 22 Oct 2026 17:18:58 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Detroit teens speak out: ‘They just need someone who’s willing to listen’",
-   "link": "https://planetdetroit.org/2026/10/detroit-youth-support-guidance/",
-   "published": "Wed, 21 Oct 2026 21:19:22 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Detroit museum, zoo millages on the November ballot: What’s at stake?",
-   "link": "https://planetdetroit.org/2026/10/detroit-museum-zoo-millages/",
-   "published": "Wed, 21 Oct 2026 16:00:19 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Michigan drag queens unite to help Grand Rapids ‘Slay the Vote’ ahead of Election Day",
+   "link": "https://gandernewsroom.com/news/elections/michigan-drag-queens-unite-to-help-grand-rapids-slay-the-vote-ahead-of-election-day/",
+   "published": "Fri, 23 Oct 2026 17:05:07 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -177,28 +183,22 @@
    "published": "Wed, 21 Oct 2026 20:28:27 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Sean McCann’s pitch to West Michigan: More good-paying jobs, lower costs",
-   "link": "https://gandernewsroom.com/news/politics/sean-mccann-michigan/",
-   "published": "Wed, 21 Oct 2026 19:27:25 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Friday, Oct. 23",
+   "link": "https://www.michiganpublic.org/stateside/2026-10-23/stateside-friday-oct-23",
+   "published": "Fri, 23 Oct 2026 20:48:59 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Why is Michigan such a swing state?",
-   "link": "https://www.michiganpublic.org/podcast/on-hand/2026-10-23/why-is-michigan-such-a-swing-state",
-   "published": "Fri, 23 Oct 2026 16:05:28 GMT"
+   "title": "Why Detroit voters are a key focus in Michigan's Senate race",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-23/why-detroit-voters-are-a-key-focus-in-michigans-senate-race",
+   "published": "Fri, 23 Oct 2026 18:52:21 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Nearly one million Michiganders have already voted more than a week before election day",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-23/nearly-one-million-michiganders-have-already-voted-more-than-a-week-before-election-day",
-   "published": "Fri, 23 Oct 2026 13:57:16 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet Michigan's Attorney General candidates for 2026 election",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-23/michigan-attorney-general-candidates-2026",
-   "published": "Fri, 23 Oct 2026 13:00:00 GMT"
+   "title": "EPA and Gelman reach agreement over Ann Arbor groundwater contamination site",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-23/epa-and-gelman-reach-agreement-over-ann-arbor-groundwater-contamination-site-2",
+   "published": "Fri, 23 Oct 2026 18:49:54 GMT"
   }
  ]
 }
