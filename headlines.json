@@ -1,7 +1,13 @@
 {
- "generated": "2026-10-22T21:32:17+00:00",
+ "generated": "2026-10-23T04:44:06+00:00",
  "count": 33,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Whitmer encourages Michiganders to vote early",
+   "link": "https://lansingcitypulse.com/whitmer-encourages-michiganders-to-vote-early/",
+   "published": "Fri, 23 Oct 2026 00:00:17 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Opinion: Environmentalist/author Bill McKibben says older ‘experienced Americans’ are going for El-Sayed, Lawrence",
@@ -13,12 +19,6 @@
    "title": "Man found dead at Eaton County Jail",
    "link": "https://lansingcitypulse.com/man-found-dead-at-eaton-county-jail/",
    "published": "Wed, 21 Oct 2026 21:27:06 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Carhartt coming … tomorrow",
-   "link": "https://lansingcitypulse.com/carhartt-coming-tomorrow/",
-   "published": "Wed, 21 Oct 2026 21:20:37 +0000"
   },
   {
    "outlet": "Metro Times",
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "University enrollment drops 2% in Michigan, first drop in three years",
+   "link": "https://bridgemi.com/talent-education/university-enrollment-drops-2-in-michigan-first-drop-in-three-years/",
+   "published": "Thu, 22 Oct 2026 21:32:26 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Abdul El-Sayed vs. Mike Rogers: These voting groups may decide the Michigan race",
    "link": "https://bridgemi.com/michigan-government/abdul-el-sayed-vs-mike-rogers-these-voting-groups-may-decide-the-michigan-race/",
    "published": "Thu, 22 Oct 2026 20:23:56 +0000"
@@ -51,28 +57,22 @@
    "published": "Thu, 22 Oct 2026 19:40:34 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "A Michigan clerk tried to kick voters off rolls. How her county, state stopped her",
-   "link": "https://bridgemi.com/michigan-government/michigan-clerk-tried-to-kick-voters-off-rolls-how-her-county-state-stopped-her/",
-   "published": "Thu, 22 Oct 2026 18:22:39 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Elections, data centers, education take center stage at Bridge Issues Summit",
+   "link": "https://www.bridgedetroit.com/elections-data-centers-education-take-center-stage-at-bridge-issues-summit/",
+   "published": "Fri, 23 Oct 2026 00:44:12 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
+   "title": "Council member’s controversial inquiry into east side bars ends after answers from BSEED",
+   "link": "https://www.bridgedetroit.com/eastside-bars-restaurants-renata-miller/",
+   "published": "Fri, 23 Oct 2026 00:24:35 +0000"
   },
   {
    "outlet": "BridgeDetroit",
    "title": "Election 2026: Need special accommodations to vote? What you need to know.",
    "link": "https://www.bridgedetroit.com/election-2026-special-accommodations-to-vote-what-you-need-to-know/",
    "published": "Thu, 22 Oct 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Detroit City Council member’s probe of east side bars sparks uproar",
-   "link": "https://www.bridgedetroit.com/detroit-city-council-members-probe-of-east-side-bars-sparks-uproar/",
-   "published": "Wed, 21 Oct 2026 19:15:29 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Help Bridge keep Detroit voters informed this election",
-   "link": "https://www.bridgedetroit.com/help-bridge-keep-detroit-voters-informed-this-election/",
-   "published": "Wed, 21 Oct 2026 13:00:00 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "These White suburban moms regret voting for Trump — but aren’t sold on Democrats",
-   "link": "https://michiganadvance.com/2026/10/22/these-white-suburban-moms-regret-voting-for-trump-but-arent-sold-on-democrats/",
-   "published": "Thu, 22 Oct 2026 19:30:04 +0000"
+   "title": "Why the new progressive Democrats in Congress might unite with the old Dems, for now",
+   "link": "https://michiganadvance.com/2026/10/22/repub/why-the-new-progressive-democrats-in-congress-might-unite-with-the-old-dems-for-now/",
+   "published": "Thu, 22 Oct 2026 23:01:45 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "DOJ to send election monitors to seven Michigan communities",
-   "link": "https://michiganadvance.com/2026/10/22/doj-to-send-election-monitors-to-seven-michigan-communities/",
-   "published": "Thu, 22 Oct 2026 18:31:59 +0000"
+   "title": "The percentage of people without health insurance is growing",
+   "link": "https://michiganadvance.com/2026/10/22/repub/the-percentage-of-people-without-health-insurance-is-growing/",
+   "published": "Thu, 22 Oct 2026 22:36:24 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan AG urges state regulators to reject Consumers Energy dam sale",
-   "link": "https://michiganadvance.com/2026/10/22/michigan-ag-urges-state-regulators-to-reject-consumers-energy-dam-sale/",
-   "published": "Thu, 22 Oct 2026 16:53:22 +0000"
+   "title": "Dems in Congress say they’re wary Trump won’t accept results of election",
+   "link": "https://michiganadvance.com/2026/10/22/repub/dems-in-congress-say-theyre-wary-trump-wont-accept-results-of-election/",
+   "published": "Thu, 22 Oct 2026 21:22:05 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Austrailian TV reporter saves man from drowning moments before truck sinks in floodwater",
-   "link": "https://www.mlive.com/news/2026/10/tv-reporter-saves-man-from-drowning-moments-before-truck-sinks-in-floodwater.html",
-   "published": "Thu, 22 Oct 2026 21:13:00 +0000"
+   "title": "Frankenmuth, Heritage, Valley Lutheran claim soccer district titles",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/frankenmuth-heritage-valley-lutheran-claim-soccer-district-titles.html",
+   "published": "Fri, 23 Oct 2026 04:05:27 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Jackson Lumen Christi claims first boys tennis state title in school history",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/jackson-lumen-christi-claims-first-boys-tennis-state-title-in-school-history.html",
-   "published": "Thu, 22 Oct 2026 21:03:36 +0000"
+   "title": "Ann Arbor-area field hockey regional semifinal scoreboard",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/ann-arbor-area-field-hockey-regional-semifinal-scoreboard.html",
+   "published": "Fri, 23 Oct 2026 02:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Election forecaster announces major shift in Ohio race amid backlash to Ramaswamy ad",
-   "link": "https://www.mlive.com/politics/2026/10/election-forecaster-announces-major-shift-in-ohio-race-amid-backlash-to-ramaswamy-ad.html",
-   "published": "Thu, 22 Oct 2026 21:00:00 +0000"
+   "title": "Rivalry battles headline Ann Arbor-area boys soccer district final highlights",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/rivalry-battles-headline-ann-arbor-area-boys-soccer-district-final-highlights.html",
+   "published": "Fri, 23 Oct 2026 02:15:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "James campaign talks environmental policies in Macomb County",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/james-campaign-talks-environmental-policies-in-macomb-county",
+   "published": "Fri, 23 Oct 2026 01:50:25 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Not-so-veiled warnings from ACLU, AG Nessel, to anyone with election interference plans",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-22/not-so-veiled-warnings-from-aclu-ag-nessel-to-anyone-with-election-interference-plans",
+   "published": "Thu, 22 Oct 2026 23:05:33 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Stateside: Thursday, Oct. 22, 2026",
    "link": "https://www.michiganpublic.org/stateside/2026-10-22/stateside-thursday-oct-22-2026",
    "published": "Thu, 22 Oct 2026 20:53:36 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Fuel loading to resume at Palisades after workers remove damaged fuel assembly",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-10-22/palisades-nuclear-plant-fuel-assembly",
-   "published": "Thu, 22 Oct 2026 17:34:31 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Here are 28 things to do in Michigan this weekend, October 23-25",
-   "link": "https://www.michiganpublic.org/community/2026-10-22/here-are-28-things-to-do-in-michigan-this-weekend-october-23-25",
-   "published": "Thu, 22 Oct 2026 14:43:59 GMT"
   }
  ]
 }
