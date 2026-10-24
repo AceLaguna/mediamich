@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T04:31:14+00:00",
+ "generated": "2026-10-24T10:53:34+00:00",
  "count": 33,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Election 2026: Early in-person voting begins in Detroit. What to know.",
+   "link": "https://www.bridgedetroit.com/election-2026-early-in-person-voting-begins-in-detroit-what-to-know/",
+   "published": "Sat, 24 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "It’s ‘indecent’: Bedrock CEO pushes back on Detroit council member’s RenCen funding questions",
    "link": "https://www.bridgedetroit.com/bedrock-ceo-council-member-clash-renaissance-center/",
    "published": "Sat, 24 Oct 2026 01:33:00 +0000"
@@ -67,12 +73,6 @@
    "title": "Election 2026: Get to know the ballot issues Detroiters can vote on",
    "link": "https://www.bridgedetroit.com/election-2026-get-to-know-the-ballot-issues/",
    "published": "Fri, 23 Oct 2026 17:27:31 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Elections, data centers, education take center stage at Bridge Issues Summit",
-   "link": "https://www.bridgedetroit.com/elections-data-centers-education-take-center-stage-at-bridge-issues-summit/",
-   "published": "Fri, 23 Oct 2026 00:44:12 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -112,21 +112,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Club-handed pick-six part of craziness in Western’s wild win over Central",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/club-handed-pick-six-part-of-craziness-in-westerns-wild-win-over-central.html",
-   "published": "Sat, 24 Oct 2026 04:16:10 +0000"
+   "title": "Bill Simmons reveals what viewers didn’t see from Magic Johnson at ESPN",
+   "link": "https://www.mlive.com/sports/2026/10/magic-johnsons-espn-days-remembered-by-bill-simmons.html",
+   "published": "Sat, 24 Oct 2026 10:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Vote for your Flint-area football Friday Night Hero from Week 9",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/vote-for-your-flint-area-football-friday-night-hero-from-week-9.html",
-   "published": "Sat, 24 Oct 2026 04:08:15 +0000"
+   "title": "Beloved rock frontman dies at 54 after cancer battle: ‘Grateful for the life I built’",
+   "link": "https://www.mlive.com/life/2026/10/beloved-rock-frontman-dies-at-54-after-cancer-battle-grateful-for-the-life-i-built.html",
+   "published": "Sat, 24 Oct 2026 10:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Vote for Week 9 Saginaw-area football Friday Night Hero",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/vote-for-week-9-saginaw-area-football-friday-night-hero.html",
-   "published": "Sat, 24 Oct 2026 04:06:40 +0000"
+   "title": "Here is every Michigan high school football team in the 2026 state playoffs",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/here-is-every-michigan-high-school-football-team-in-the-2026-state-playoffs.html",
+   "published": "Sat, 24 Oct 2026 10:28:00 +0000"
   },
   {
    "outlet": "Outlier Media",
