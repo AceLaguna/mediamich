@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T10:53:34+00:00",
+ "generated": "2026-10-24T15:53:29+00:00",
  "count": 33,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Late $1.8M surge for John James tests Michigan campaign finance law",
+   "link": "https://bridgemi.com/michigan-government/late-1-8m-surge-for-john-james-tests-michigan-campaign-finance-law/",
+   "published": "Sat, 24 Oct 2026 15:33:40 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "To fix Michigan schools, experts urge better reading skills, less politics",
    "link": "https://bridgemi.com/talent-education/to-fix-michigan-schools-experts-urge-better-reading-skills-less-politics/",
    "published": "Fri, 23 Oct 2026 18:34:29 +0000"
@@ -49,12 +55,6 @@
    "title": "Fact check: Abdul El-Sayed not a ‘fake doctor’ or licensed physician",
    "link": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/",
    "published": "Fri, 23 Oct 2026 17:59:56 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Bridge Michigan News Quiz, Oct. 23: Prove your smarts",
-   "link": "https://bridgemi.com/news-quiz/bridge-michigan-news-quiz-oct-23-prove-your-smarts/",
-   "published": "Fri, 23 Oct 2026 16:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -94,39 +94,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "‘We don’t want it’: Voter backlash against data centers consumes midterm elections",
-   "link": "https://michiganadvance.com/2026/10/23/repub/we-dont-want-it-voter-backlash-against-data-centers-consumes-midterm-elections/",
-   "published": "Fri, 23 Oct 2026 21:55:02 +0000"
+   "title": "Reporters roundtable: Gubernatorial and legislative races to watch",
+   "link": "https://michiganadvance.com/2026/10/24/repub/reporters-roundtable-gubernatorial-and-legislative-races-to-watch/",
+   "published": "Sat, 24 Oct 2026 13:00:52 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump’s DOJ sues over Alaska Senate race, expanding preelection legal fights",
-   "link": "https://michiganadvance.com/2026/10/23/repub/trumps-doj-sues-over-alaska-senate-race-expanding-preelection-legal-fights/",
-   "published": "Fri, 23 Oct 2026 18:34:27 +0000"
+   "title": "EPA and Gelman reach agreement over Ann Arbor groundwater contamination site",
+   "link": "https://michiganadvance.com/2026/10/24/epa-and-gelman-reach-agreement-over-ann-arbor-groundwater-contamination-site/",
+   "published": "Sat, 24 Oct 2026 12:30:45 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "2026 ballot measures are written at a graduate-school reading level, report finds",
-   "link": "https://michiganadvance.com/2026/10/23/repub/2026-ballot-measures-are-written-at-a-graduate-school-reading-level-report-finds/",
-   "published": "Fri, 23 Oct 2026 17:10:33 +0000"
+   "title": "Commentary: Getting beyond the ideological force behind Michigan’s political and economic woes",
+   "link": "https://michiganadvance.com/2026/10/24/getting-beyond-the-ideological-force-behind-michigans-political-and-economic-woes/",
+   "published": "Sat, 24 Oct 2026 12:00:53 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bill Simmons reveals what viewers didn’t see from Magic Johnson at ESPN",
-   "link": "https://www.mlive.com/sports/2026/10/magic-johnsons-espn-days-remembered-by-bill-simmons.html",
-   "published": "Sat, 24 Oct 2026 10:30:00 +0000"
+   "title": "Golesh on 7-year-old self on being Auburn coach: ‘That’s pretty badass’",
+   "link": "https://www.mlive.com/sports/2026/10/alex-golesh-on-7-year-old-soviet-union-self-on-being-auburn-coach-thats-pretty-badass.html",
+   "published": "Sat, 24 Oct 2026 15:45:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Beloved rock frontman dies at 54 after cancer battle: ‘Grateful for the life I built’",
-   "link": "https://www.mlive.com/life/2026/10/beloved-rock-frontman-dies-at-54-after-cancer-battle-grateful-for-the-life-i-built.html",
-   "published": "Sat, 24 Oct 2026 10:30:00 +0000"
+   "title": "Kelloggsville Public Schools seeks $38.18M bond Nov. 3: What to know",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/10/kelloggsville-public-schools-seeks-3818m-bond-nov-3-what-to-know.html",
+   "published": "Sat, 24 Oct 2026 15:45:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Here is every Michigan high school football team in the 2026 state playoffs",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/here-is-every-michigan-high-school-football-team-in-the-2026-state-playoffs.html",
-   "published": "Sat, 24 Oct 2026 10:28:00 +0000"
+   "title": "Kent County zoo, museum tax is up for 10-year renewal. What voters should know",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/10/kent-county-zoo-museum-tax-is-up-for-10-year-renewal-what-voters-should-know.html",
+   "published": "Sat, 24 Oct 2026 15:30:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Fact check: Rogers' claims about El-Sayed's mother don't match the evidence",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-24/fact-check-rogers-claims-about-el-sayeds-mother-dont-match-the-evidence",
+   "published": "Sat, 24 Oct 2026 15:28:16 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Early voting in Michigan has begun for the 2026 election. Here's what to know.",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-24/early-voting-in-michigan-has-begun-for-the-2026-election-heres-what-to-know",
+   "published": "Sat, 24 Oct 2026 11:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Meet the Democratic and Republican candidates for the Wayne State Board of Governors",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-23/meet-the-democratic-and-republican-candidates-for-the-wayne-state-board-of-governors",
    "published": "Sat, 24 Oct 2026 01:26:42 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Lawyer sees “chaos” in Michigan Court of Appeals ruling on landlord-tenant case",
-   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-23/lawyer-sees-chaos-in-michigan-court-of-appeals-ruling-on-landlord-tenant-case",
-   "published": "Sat, 24 Oct 2026 00:01:52 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "TWTS: A healthy dose of healthy language",
-   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-10-23/twts-a-healthy-dose-of-healthy-language",
-   "published": "Fri, 23 Oct 2026 23:36:37 GMT"
   }
  ]
 }
