@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T20:47:57+00:00",
+ "generated": "2026-10-26T04:41:05+00:00",
  "count": 33,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Fact checks, takeaways: Donald Trump rips Dems, downplays gas prices in Michigan",
+   "link": "https://bridgemi.com/michigan-government/fact-checks-takeaways-donald-trump-rips-dems-downplays-gas-prices-in-michigan/",
+   "published": "Sun, 25 Oct 2026 23:08:45 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Fact checks, takeaways: Barack Obama blasts Trump, touts El-Sayed, in Detroit",
    "link": "https://bridgemi.com/michigan-government/fact-checks-takeaways-barack-obama-blasts-trump-touts-el-sayed-in-detroit/",
    "published": "Sun, 25 Oct 2026 01:48:38 +0000"
@@ -49,12 +55,6 @@
    "title": "Late $1.8M surge for John James tests Michigan campaign finance law",
    "link": "https://bridgemi.com/michigan-government/late-1-8m-surge-for-john-james-tests-michigan-campaign-finance-law/",
    "published": "Sat, 24 Oct 2026 15:33:40 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "To fix Michigan schools, experts urge better reading skills, less politics",
-   "link": "https://bridgemi.com/talent-education/to-fix-michigan-schools-experts-urge-better-reading-skills-less-politics/",
-   "published": "Fri, 23 Oct 2026 18:34:29 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -94,6 +94,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Trump invokes anti-Muslim rhetoric to attack El-Sayed at Michigan rally supporting Rogers, James",
+   "link": "https://michiganadvance.com/2026/10/25/trump-invokes-anti-muslim-rhetoric-to-attack-el-sayed-at-michigan-rally-supporting-rogers-james/",
+   "published": "Sun, 25 Oct 2026 21:36:05 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Trump vowed to stop an ‘energy emergency.’ Then he created a real one.",
    "link": "https://michiganadvance.com/2026/10/25/trump-vowed-to-stop-an-energy-emergency-then-he-created-a-real-one/",
    "published": "Sun, 25 Oct 2026 11:45:12 +0000"
@@ -105,28 +111,22 @@
    "published": "Sun, 25 Oct 2026 10:00:23 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Obama on attacks against El-Sayed: ‘We have seen this movie before. I starred in it.’",
-   "link": "https://michiganadvance.com/2026/10/24/obama-on-attacks-against-el-sayed-we-have-seen-this-movie-before-i-starred-in-it/",
-   "published": "Sun, 25 Oct 2026 00:23:52 +0000"
+   "outlet": "MLive",
+   "title": "Cade Cunningham leads short-handed Pistons to 3-0 start with win over 76ers",
+   "link": "https://www.mlive.com/pistons/2026/10/cade-cunningham-leads-short-handed-pistons-to-3-0-start-with-win-over-76ers.html",
+   "published": "Mon, 26 Oct 2026 02:16:19 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Daylight saving time, Halloween meet in 2026: It won’t happen again for a long tme",
-   "link": "https://www.mlive.com/news/2026/10/daylight-saving-time-halloween-meet-in-2026-it-wont-happen-again-for-a-long-tme.html",
-   "published": "Sun, 25 Oct 2026 20:42:01 +0000"
+   "title": "Overheard inside the Lions’ locker room: Did not hear a whistle and mini playoff game",
+   "link": "https://www.mlive.com/lions/2026/10/overheard-inside-the-lions-locker-room-did-not-hear-a-whistle-and-mini-playoff-game.html",
+   "published": "Mon, 26 Oct 2026 02:06:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Steelers win in Paris, but Rodgers says work remains",
-   "link": "https://www.mlive.com/sports/2026/10/steelers-won-in-paris-but-aaron-rodgers-saw-a-problem.html",
-   "published": "Sun, 25 Oct 2026 20:32:33 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Roddy Gayle Jr.’s return a bright spot in Michigan’s otherwise disappointing final exhibition",
-   "link": "https://www.mlive.com/wolverines/basketball/2026/10/roddy-gayle-jrs-return-a-bright-spot-in-michigans-otherwise-disappointing-final-exhibition.html",
-   "published": "Sun, 25 Oct 2026 20:29:22 +0000"
+   "title": "Less processed food, more nutrition training: RFK Jr. in Grand Rapids to promote pledges",
+   "link": "https://www.mlive.com/news/2026/10/less-processed-food-more-nutrition-training-rfk-jr-in-grand-rapids-to-promote-pledges.html",
+   "published": "Mon, 26 Oct 2026 01:59:53 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -184,21 +184,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-25/trump-escalates-anti-muslim-attacks-against-el-sayed-in-michigan-drawing-arab-american-rebuke",
+   "published": "Mon, 26 Oct 2026 01:28:40 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Bills introduced to help victims of deed fraud in Michigan",
+   "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-10-25/bills-introduced-to-help-victims-of-deed-fraud-in-michigan",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Obama hypes up El-Sayed, Benson in Detroit",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-25/obama-hypes-up-el-sayed-benson-in-detroit",
    "published": "Sun, 25 Oct 2026 04:12:58 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Fact check: Rogers' claims about El-Sayed's mother don't match the evidence",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-24/fact-check-rogers-claims-about-el-sayeds-mother-dont-match-the-evidence",
-   "published": "Sat, 24 Oct 2026 15:28:16 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Early voting in Michigan has begun for the 2026 election. Here's what to know.",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-24/early-voting-in-michigan-has-begun-for-the-2026-election-heres-what-to-know",
-   "published": "Sat, 24 Oct 2026 11:00:00 GMT"
   }
  ]
 }
