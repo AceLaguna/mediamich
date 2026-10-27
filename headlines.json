@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T04:58:33+00:00",
+ "generated": "2026-10-27T12:05:16+00:00",
  "count": 30,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Detroit school district proposes bringing libraries back to 89 schools",
+   "link": "https://www.bridgedetroit.com/detroit-school-libraries-air-conditioning-building-upgrades/",
+   "published": "Tue, 27 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Fact check: Mike Rogers faces voter suppression claims over Detroit comments",
    "link": "https://www.bridgedetroit.com/fact-check-mike-rogers-faces-voter-suppression-claims-over-detroit-comments/",
    "published": "Mon, 26 Oct 2026 21:09:35 +0000"
@@ -49,12 +55,6 @@
    "title": "Fact checks ahead of the November general election",
    "link": "https://www.bridgedetroit.com/fact-check-november-2026-general-election/",
    "published": "Mon, 26 Oct 2026 18:43:51 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "2 Coleman Young statues planned for Detroit, Washington D.C.",
-   "link": "https://www.bridgedetroit.com/coleman-young-statue-unveiling/",
-   "published": "Mon, 26 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -76,39 +76,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Commentary: A New Approach to Closing the Disability Wealth Gap",
-   "link": "https://michiganadvance.com/2026/10/26/a-new-approach-to-closing-the-disability-wealth-gap/",
-   "published": "Tue, 27 Oct 2026 00:00:01 +0000"
+   "title": "900+ women criminally charged for their conduct during pregnancies",
+   "link": "https://michiganadvance.com/2026/10/27/repub/900-women-criminally-charged-for-their-conduct-during-pregnancies/",
+   "published": "Tue, 27 Oct 2026 10:20:51 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Democrats ask TV stations to take down James ad amid campaign finance allegations",
-   "link": "https://michiganadvance.com/2026/10/26/democrats-ask-tv-stations-to-take-down-james-ad-amid-campaign-finance-allegations/",
-   "published": "Mon, 26 Oct 2026 20:40:43 +0000"
+   "title": "Brighter streetlights cut nighttime violence, but only for a while, study finds",
+   "link": "https://michiganadvance.com/2026/10/27/repub/brighter-streetlights-cut-nighttime-violence-but-only-for-a-while-study-finds/",
+   "published": "Tue, 27 Oct 2026 10:20:27 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump DOJ’s demand for emergency order in California vote counting dismissed by appeals court",
-   "link": "https://michiganadvance.com/2026/10/26/repub/trump-dojs-suit-over-california-vote-counting-meets-a-doubtful-appeals-court-panel/",
-   "published": "Mon, 26 Oct 2026 16:59:44 +0000"
+   "title": "Community solar bills languish as Michigan debates energy affordability",
+   "link": "https://michiganadvance.com/2026/10/27/community-solar-bills-languish-as-michigan-debates-energy-affordability/",
+   "published": "Tue, 27 Oct 2026 09:00:59 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Red Wings’ Michal Postava steps up in shootout to win first NHL start",
-   "link": "https://www.mlive.com/redwings/2026/10/red-wings-michal-postava-steps-up-in-shootout-to-win-first-nhl-start.html",
-   "published": "Tue, 27 Oct 2026 04:29:29 +0000"
+   "title": "Rank the top 10 Ann Arbor-area football teams after the regular season",
+   "link": "https://www.mlive.com/highschoolsports/2026/10/rank-the-top-ann-arbor-area-football-teams-after-the-regular-season.html",
+   "published": "Tue, 27 Oct 2026 12:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Former embattled Michigan State coordinator gets unexpected new shot in Big Ten",
-   "link": "https://www.mlive.com/spartans/football/2026/10/former-embattled-michigan-state-coordinator-gets-unexpected-new-shot-in-big-ten.html",
-   "published": "Tue, 27 Oct 2026 03:43:45 +0000"
+   "title": "Man critically wounded in Wyoming shooting",
+   "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-critically-wounded-in-wyoming-shooting.html",
+   "published": "Tue, 27 Oct 2026 11:59:53 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Troy Aikman struggles to fight back tears live on air during MNF announcement",
-   "link": "https://www.mlive.com/sports/2026/10/troy-aikman-struggles-to-fight-back-tears-live-on-air-during-mnf-announcement.html",
-   "published": "Tue, 27 Oct 2026 02:31:17 +0000"
+   "title": "Jackson voters to decide whether city treasurer should remain elected position",
+   "link": "https://www.mlive.com/news/jackson/2026/10/jackson-voters-to-decide-whether-city-treasurer-should-remain-elected-position.html",
+   "published": "Tue, 27 Oct 2026 11:54:48 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "‘I just dropped it’: Detroit renters struggle to recover their security deposits",
+   "link": "https://outliermedia.org/detroit-security-deposit-landlords-tenants-rights/",
+   "published": "Tue, 27 Oct 2026 10:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -121,12 +127,6 @@
    "title": "Meet Carole Hawke-Diop, this month’s featured Detroit Documenter",
    "link": "https://outliermedia.org/carole-hawke-diop-featured-detroit-documenter/",
    "published": "Wed, 21 Oct 2026 10:00:00 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Fix up your home, care for yourself and community: Get involved in Detroit",
-   "link": "https://outliermedia.org/home-repair-maintenance-opportunities-detroit-get-involved/",
-   "published": "Wed, 21 Oct 2026 09:45:00 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -166,21 +166,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Monday, Oct. 26, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-10-26/stateside-monday-oct-26-2026",
-   "published": "Tue, 27 Oct 2026 00:36:43 GMT"
+   "title": "Meet Michigan's Attorney General candidates: Jeff Polonowski",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-27/meet-michigans-attorney-general-candidates-jeff-polonowski",
+   "published": "Tue, 27 Oct 2026 11:51:21 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Democrats accuse John James campaign of campaign finance violations over TV ads",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-26/democrats-accuse-john-james-campaign-of-campaign-finance-violations-over-tv-ads",
-   "published": "Mon, 26 Oct 2026 21:49:52 GMT"
+   "title": "2026 Michigan Voting Guide: When & how to cast your ballot",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-27/how-to-vote-michigan-2026",
+   "published": "Tue, 27 Oct 2026 11:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan candidates make final push one week before midterm election",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-26/michigan-candidates-make-final-push-one-week-before-midterm-election",
-   "published": "Mon, 26 Oct 2026 21:02:23 GMT"
+   "title": "Meet Michigan's governor candidates in 2026 election: Douglas Campbell",
+   "link": "https://www.michiganpublic.org/section/stateside/2026-10-27/meet-michigans-governor-candidates-in-2026-election-douglas-campbell",
+   "published": "Tue, 27 Oct 2026 10:00:00 GMT"
   }
  ]
 }
