@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T22:37:18+00:00",
+ "generated": "2026-10-27T04:58:33+00:00",
  "count": 30,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Bernie Sanders in Michigan MAGA-land: Dems, GOP seek votes in unfamiliar areas",
+   "link": "https://bridgemi.com/michigan-government/bernie-sanders-in-michigan-maga-land-dems-gop-seek-votes-in-unfamiliar-areas/",
+   "published": "Mon, 26 Oct 2026 22:49:04 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Issues Watch returns Nov. 4 to discuss Michigan’s midterm election results",
    "link": "https://bridgemi.com/events/issues-watch-returns-nov-4-to-discuss-michigans-midterm-election-results/",
    "published": "Mon, 26 Oct 2026 21:43:17 +0000"
@@ -31,12 +37,6 @@
    "title": "Experts predict more Michigan data center regulations amid public pushback",
    "link": "https://bridgemi.com/michigan-environment-watch/experts-predict-more-michigan-data-center-regulations-amid-public-pushback/",
    "published": "Mon, 26 Oct 2026 20:31:48 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Fact check: Mike Rogers faces voter suppression claims over Detroit comments",
-   "link": "https://bridgemi.com/michigan-government/fact-check-mike-rogers-faces-voter-suppression-claims-over-detroit-comments/",
-   "published": "Mon, 26 Oct 2026 18:35:16 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,39 +76,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Commentary: A New Approach to Closing the Disability Wealth Gap",
+   "link": "https://michiganadvance.com/2026/10/26/a-new-approach-to-closing-the-disability-wealth-gap/",
+   "published": "Tue, 27 Oct 2026 00:00:01 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Democrats ask TV stations to take down James ad amid campaign finance allegations",
    "link": "https://michiganadvance.com/2026/10/26/democrats-ask-tv-stations-to-take-down-james-ad-amid-campaign-finance-allegations/",
    "published": "Mon, 26 Oct 2026 20:40:43 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump DOJ’s suit over California vote counting meets a doubtful appeals court panel",
+   "title": "Trump DOJ’s demand for emergency order in California vote counting dismissed by appeals court",
    "link": "https://michiganadvance.com/2026/10/26/repub/trump-dojs-suit-over-california-vote-counting-meets-a-doubtful-appeals-court-panel/",
    "published": "Mon, 26 Oct 2026 16:59:44 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Commentary: In the 2026 midterms, state and local election officials are working hard to protect your vote",
-   "link": "https://michiganadvance.com/2026/10/26/in-the-2026-midterms-state-and-local-election-officials-are-working-hard-to-protect-your-vote/",
-   "published": "Mon, 26 Oct 2026 12:00:26 +0000"
+   "outlet": "MLive",
+   "title": "Red Wings’ Michal Postava steps up in shootout to win first NHL start",
+   "link": "https://www.mlive.com/redwings/2026/10/red-wings-michal-postava-steps-up-in-shootout-to-win-first-nhl-start.html",
+   "published": "Tue, 27 Oct 2026 04:29:29 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Lenox collectors are snagging 25% extra off the 2026 Spice Village Ornament with this promo code",
-   "link": "https://www.mlive.com/shopping/2026/10/lenox-collectors-are-snagging-25-extra-off-the-2026-spice-village-ornament-with-this-promo-code.html",
-   "published": "Mon, 26 Oct 2026 22:30:00 +0000"
+   "title": "Former embattled Michigan State coordinator gets unexpected new shot in Big Ten",
+   "link": "https://www.mlive.com/spartans/football/2026/10/former-embattled-michigan-state-coordinator-gets-unexpected-new-shot-in-big-ten.html",
+   "published": "Tue, 27 Oct 2026 03:43:45 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "RFK Jr. touts Michigan hospitals as leaders in shifting to healthier food",
-   "link": "https://www.mlive.com/news/2026/10/rfk-jr-touts-michigan-hospitals-as-leaders-in-shifting-to-healthier-food.html",
-   "published": "Mon, 26 Oct 2026 22:22:50 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "First look: Outkast just created the most unexpected Georgia Bulldogs apparel collection with Nike",
-   "link": "https://www.mlive.com/shopping/2026/10/first-look-outkast-just-created-the-most-unexpected-georgia-bulldogs-apparel-collection-with-nike.html",
-   "published": "Mon, 26 Oct 2026 22:00:00 +0000"
+   "title": "Troy Aikman struggles to fight back tears live on air during MNF announcement",
+   "link": "https://www.mlive.com/sports/2026/10/troy-aikman-struggles-to-fight-back-tears-live-on-air-during-mnf-announcement.html",
+   "published": "Tue, 27 Oct 2026 02:31:17 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -130,6 +130,12 @@
   },
   {
    "outlet": "Planet Detroit",
+   "title": "VOICES: Faith, fairness, and the cost of keeping the lights on in Detroit",
+   "link": "https://planetdetroit.org/2026/10/voices-cost-of-keeping-the-lights-on-in-detroit/",
+   "published": "Mon, 26 Oct 2026 23:10:55 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
    "title": "Michigan offers $4 million in grants for electric garbage trucks",
    "link": "https://planetdetroit.org/2026/10/michigan-electric-garbage-truck-grants/",
    "published": "Mon, 26 Oct 2026 20:17:50 +0000"
@@ -141,10 +147,10 @@
    "published": "Fri, 23 Oct 2026 20:50:34 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "Michigan bills would hike cost of dumping radioactive waste by 1,400%",
-   "link": "https://planetdetroit.org/2026/10/michigan-radioactive-waste-fee-1400-percent/",
-   "published": "Fri, 23 Oct 2026 19:03:26 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "Why Michigan stoners on Reddit can’t stop talking about Hill Street Genetics",
+   "link": "https://gandernewsroom.com/news/hill-street-genetics-michigan/",
+   "published": "Mon, 26 Oct 2026 22:42:37 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
@@ -159,10 +165,10 @@
    "published": "Mon, 26 Oct 2026 17:03:39 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Who’s spending to keep Huizenga in Congress? Crypto companies and banks",
-   "link": "https://gandernewsroom.com/news/politics/huizenga-crypto-and-banks/",
-   "published": "Mon, 26 Oct 2026 16:28:28 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Stateside: Monday, Oct. 26, 2026",
+   "link": "https://www.michiganpublic.org/stateside/2026-10-26/stateside-monday-oct-26-2026",
+   "published": "Tue, 27 Oct 2026 00:36:43 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
@@ -175,12 +181,6 @@
    "title": "Michigan candidates make final push one week before midterm election",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-26/michigan-candidates-make-final-push-one-week-before-midterm-election",
    "published": "Mon, 26 Oct 2026 21:02:23 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Where Michigan’s 2026 governor candidates stand on key issues",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-26/michigan-governor-candidates-2026",
-   "published": "Mon, 26 Oct 2026 19:32:31 GMT"
   }
  ]
 }
