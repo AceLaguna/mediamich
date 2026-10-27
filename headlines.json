@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T12:05:16+00:00",
+ "generated": "2026-10-27T17:57:57+00:00",
  "count": 30,
  "headlines": [
   {
@@ -22,21 +22,27 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Panel: Michigan healthcare costs are rising, complicated, but still fixable",
+   "link": "https://bridgemi.com/michigan-health-watch/panel-michigan-healthcare-costs-are-rising-complicated-but-still-fixable/",
+   "published": "Tue, 27 Oct 2026 16:02:35 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "What to know about voting in Michigan’s Nov. 3 election",
+   "link": "https://bridgemi.com/michigan-government/what-to-know-about-voting-in-michigans-nov-3-election/",
+   "published": "Tue, 27 Oct 2026 15:36:34 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Bernie Sanders in Michigan MAGA-land: Dems, GOP seek votes in unfamiliar areas",
    "link": "https://bridgemi.com/michigan-government/bernie-sanders-in-michigan-maga-land-dems-gop-seek-votes-in-unfamiliar-areas/",
    "published": "Mon, 26 Oct 2026 22:49:04 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Issues Watch returns Nov. 4 to discuss Michigan’s midterm election results",
-   "link": "https://bridgemi.com/events/issues-watch-returns-nov-4-to-discuss-michigans-midterm-election-results/",
-   "published": "Mon, 26 Oct 2026 21:43:17 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Experts predict more Michigan data center regulations amid public pushback",
-   "link": "https://bridgemi.com/michigan-environment-watch/experts-predict-more-michigan-data-center-regulations-amid-public-pushback/",
-   "published": "Mon, 26 Oct 2026 20:31:48 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Michigan Proposal 1 and 2: What to know about statewide ballot measures",
+   "link": "https://www.bridgedetroit.com/michigan-proposal-1-and-2-what-to-know-about-statewide-ballot-measures/",
+   "published": "Tue, 27 Oct 2026 15:53:42 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -49,12 +55,6 @@
    "title": "Fact check: Mike Rogers faces voter suppression claims over Detroit comments",
    "link": "https://www.bridgedetroit.com/fact-check-mike-rogers-faces-voter-suppression-claims-over-detroit-comments/",
    "published": "Mon, 26 Oct 2026 21:09:35 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Fact checks ahead of the November general election",
-   "link": "https://www.bridgedetroit.com/fact-check-november-2026-general-election/",
-   "published": "Mon, 26 Oct 2026 18:43:51 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -76,39 +76,39 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "900+ women criminally charged for their conduct during pregnancies",
-   "link": "https://michiganadvance.com/2026/10/27/repub/900-women-criminally-charged-for-their-conduct-during-pregnancies/",
-   "published": "Tue, 27 Oct 2026 10:20:51 +0000"
+   "title": "High power bills, blackouts land Michigan utilities on the ballot",
+   "link": "https://michiganadvance.com/2026/10/27/high-power-bills-blackouts-land-michigan-utilities-on-the-ballot/",
+   "published": "Tue, 27 Oct 2026 17:00:16 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Brighter streetlights cut nighttime violence, but only for a while, study finds",
-   "link": "https://michiganadvance.com/2026/10/27/repub/brighter-streetlights-cut-nighttime-violence-but-only-for-a-while-study-finds/",
-   "published": "Tue, 27 Oct 2026 10:20:27 +0000"
+   "title": "Trump’s DOJ sends 1,000 election monitors to 50 states, locations not yet disclosed",
+   "link": "https://michiganadvance.com/2026/10/27/repub/trumps-doj-sends-1000-election-monitors-to-50-states-locations-not-yet-disclosed/",
+   "published": "Tue, 27 Oct 2026 16:06:06 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Community solar bills languish as Michigan debates energy affordability",
-   "link": "https://michiganadvance.com/2026/10/27/community-solar-bills-languish-as-michigan-debates-energy-affordability/",
-   "published": "Tue, 27 Oct 2026 09:00:59 +0000"
+   "title": "Commentary: Michiganders in manufactured housing deserve protection from corporate exploitation",
+   "link": "https://michiganadvance.com/2026/10/27/michiganders-in-manufactured-housing-deserve-protection-from-corporate-exploitation/",
+   "published": "Tue, 27 Oct 2026 12:00:30 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Rank the top 10 Ann Arbor-area football teams after the regular season",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/rank-the-top-ann-arbor-area-football-teams-after-the-regular-season.html",
-   "published": "Tue, 27 Oct 2026 12:00:00 +0000"
+   "title": "Roger Goodell says an NFL game in Tokyo could happen as soon as next year",
+   "link": "https://www.mlive.com/sports/2026/10/nfl-commissioner-says-one-new-country-is-clearly-on-the-leagues-list-after-paris-game.html",
+   "published": "Tue, 27 Oct 2026 17:49:29 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Man critically wounded in Wyoming shooting",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-critically-wounded-in-wyoming-shooting.html",
-   "published": "Tue, 27 Oct 2026 11:59:53 +0000"
+   "title": "53-year-old Ohio man killed in motorcycle crash",
+   "link": "https://www.mlive.com/news/2026/10/53-year-old-ohio-man-killed-in-motorcycle-crash.html",
+   "published": "Tue, 27 Oct 2026 17:47:37 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Jackson voters to decide whether city treasurer should remain elected position",
-   "link": "https://www.mlive.com/news/jackson/2026/10/jackson-voters-to-decide-whether-city-treasurer-should-remain-elected-position.html",
-   "published": "Tue, 27 Oct 2026 11:54:48 +0000"
+   "title": "NewsNation’s Chris Cuomo to broadcast from Detroit, talk directly to Michigan voters",
+   "link": "https://www.mlive.com/detroit/2026/10/newsnations-chris-cuomo-to-broadcast-from-detroit-talk-directly-to-michigan-voters.html",
+   "published": "Tue, 27 Oct 2026 17:40:39 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -148,33 +148,33 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
+   "title": "Will Lawrence targets Tom Barrett’s corporate donors in closing campaign push",
+   "link": "https://gandernewsroom.com/news/elections/will-lawrence-final-case/",
+   "published": "Tue, 27 Oct 2026 16:17:38 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
+   "title": "Michigan woman’s harrowing illegal abortion at 15 shaped the rest of her life",
+   "link": "https://gandernewsroom.com/news/reproductive-rights/illegal-abortion/",
+   "published": "Tue, 27 Oct 2026 15:19:45 +0000"
+  },
+  {
+   "outlet": "The 'Gander Newsroom",
    "title": "Why Michigan stoners on Reddit can’t stop talking about Hill Street Genetics",
    "link": "https://gandernewsroom.com/news/hill-street-genetics-michigan/",
    "published": "Mon, 26 Oct 2026 22:42:37 +0000"
   },
   {
-   "outlet": "The 'Gander Newsroom",
-   "title": "Michigan CSAs offer another way to buy fresh produce as grocery prices rise",
-   "link": "https://gandernewsroom.com/local/culture/michigan-csas/",
-   "published": "Mon, 26 Oct 2026 20:49:22 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "8 quick hits of cannabis news from across Michigan",
-   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-102626/",
-   "published": "Mon, 26 Oct 2026 17:03:39 +0000"
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Whitmer joins west Michigan Democrats on campaign trail",
+   "link": "https://www.michiganpublic.org/politics-government/2026-10-27/whitmer-joins-west-michigan-democrats-on-campaign-trail",
+   "published": "Tue, 27 Oct 2026 14:20:38 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Meet Michigan's Attorney General candidates: Jeff Polonowski",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-27/meet-michigans-attorney-general-candidates-jeff-polonowski",
    "published": "Tue, 27 Oct 2026 11:51:21 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "2026 Michigan Voting Guide: When & how to cast your ballot",
-   "link": "https://www.michiganpublic.org/politics-government/2026-10-27/how-to-vote-michigan-2026",
-   "published": "Tue, 27 Oct 2026 11:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
