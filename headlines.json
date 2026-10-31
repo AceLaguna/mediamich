@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T05:34:36+00:00",
+ "generated": "2026-10-31T12:19:45+00:00",
  "count": 30,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "Michigan population steady at 10.1M. Detroit, Grand Rapids up slightly",
+   "link": "https://www.bridgedetroit.com/michigan-population-steady-at-10-1m-detroit-grand-rapids-up-slightly/",
+   "published": "Sat, 31 Oct 2026 10:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Election 2026: Know your rights as a Detroit voter",
    "link": "https://www.bridgedetroit.com/know-your-rights-as-a-detroit-voter/",
    "published": "Fri, 30 Oct 2026 21:10:58 +0000"
@@ -49,12 +55,6 @@
    "title": "Need a ride to the polls? Here are some Election Day options",
    "link": "https://www.bridgedetroit.com/need-a-ride-to-the-polls-here-are-some-election-day-options/",
    "published": "Fri, 30 Oct 2026 20:25:24 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "DOJ again warns election officials of potential criminal prosecution, days before midterm elections",
-   "link": "https://www.bridgedetroit.com/doj-again-warns-election-officials-of-potential-criminal-prosecution-days-before-midterm-elections/",
-   "published": "Fri, 30 Oct 2026 19:10:09 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -76,39 +76,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Caring for aging parents is getting more expensive",
+   "link": "https://michiganadvance.com/2026/10/31/repub/caring-for-aging-parents-is-getting-more-expensive/",
+   "published": "Sat, 31 Oct 2026 12:00:57 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Commentary: School librarians are vanishing from Michigan schools just when they are needed most",
+   "link": "https://michiganadvance.com/2026/10/31/school-librarians-are-vanishing-from-michigan-schools-just-when-they-are-needed-most/",
+   "published": "Sat, 31 Oct 2026 12:00:02 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Trump loses appeals over California ballots, Homeland Security operations",
    "link": "https://michiganadvance.com/2026/10/30/repub/trump-loses-appeals-over-california-ballots-homeland-security-operations/",
    "published": "Fri, 30 Oct 2026 21:53:56 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Trump continues rally spree in attempt to blunt Dem momentum in midterms lead-up",
-   "link": "https://michiganadvance.com/2026/10/30/repub/trump-continues-rally-spree-in-attempt-to-blunt-dem-momentum-in-midterms-lead-up/",
-   "published": "Fri, 30 Oct 2026 21:53:37 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "Stevens sets conditions for unity event with El-Sayed ahead of election",
-   "link": "https://michiganadvance.com/2026/10/30/stevens-sets-conditions-for-unity-event-with-el-sayed-ahead-of-election/",
-   "published": "Fri, 30 Oct 2026 20:20:34 +0000"
+   "outlet": "MLive",
+   "title": "From a California craving to a Flint original: The story behind The Poke Bowl",
+   "link": "https://www.mlive.com/news/flint/2026/10/from-a-california-craving-to-a-flint-original-the-story-behind-the-poke-bowl.html",
+   "published": "Sat, 31 Oct 2026 12:02:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bay City area playoff results, recaps, reactions: Six teams keep the season rolling",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/bay-city-area-playoff-results-recaps-reactions-six-teams-keep-the-season-rolling.html",
-   "published": "Sat, 31 Oct 2026 04:50:05 +0000"
+   "title": "How to watch Texas Tech vs. Arizona football in top-25 showdown for free today",
+   "link": "https://www.mlive.com/tv/2026/10/how-to-watch-texas-tech-vs-arizona-football-in-top-25-showdown-for-free-today.html",
+   "published": "Sat, 31 Oct 2026 12:01:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Moore than enough: Montrose star QB leads squad to thrilling 45-42 win over Durand",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/moore-than-enough-montrose-star-qb-leads-squad-to-thrilling-45-42-win-over-durand.html",
-   "published": "Sat, 31 Oct 2026 04:43:27 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Cast a vote for Jackson-area Friday Night Hero",
-   "link": "https://www.mlive.com/highschoolsports/2026/10/cast-a-vote-for-jackson-area-friday-night-hero.html-3",
-   "published": "Sat, 31 Oct 2026 04:14:26 +0000"
+   "title": "Popular rock singer’s doctors told him to stop performing: ‘Health hasn’t been great’",
+   "link": "https://www.mlive.com/life/2026/10/popular-rock-singers-doctors-told-him-to-stop-performing-health-hasnt-been-great.html",
+   "published": "Sat, 31 Oct 2026 12:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Daylight saving time 2026 ends Sunday: Clocks fall back as permanent DST stalls",
+   "link": "https://www.michiganpublic.org/arts-life/2026-10-31/when-does-the-time-change-2026",
+   "published": "Sat, 31 Oct 2026 11:00:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan AG challenges electricity contracts for Google's massive data center outside Detroit",
    "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-10-30/michigan-ag-challenges-electricity-contracts-for-googles-massive-data-center-outside-detroit",
    "published": "Sat, 31 Oct 2026 01:54:33 GMT"
@@ -175,12 +181,6 @@
    "title": "Outside groups spend millions on ads to weaken Black support for El-Sayed in Michigan Senate race",
    "link": "https://www.michiganpublic.org/politics-government/2026-10-30/outside-groups-spend-millions-on-ads-to-weaken-black-support-for-el-sayed-in-michigan-senate-race",
    "published": "Fri, 30 Oct 2026 23:32:07 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "TWTS: A phrase made from \"scratch\"",
-   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-10-30/twts-a-phrase-made-from-scratch",
-   "published": "Fri, 30 Oct 2026 21:02:12 GMT"
   }
  ]
 }
