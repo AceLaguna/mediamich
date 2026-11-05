@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T06:39:25+00:00",
+ "generated": "2026-11-05T19:53:43+00:00",
  "count": 30,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "‘A beautifully American story’: El-Sayed’s win resonates with Muslim Americans",
+   "link": "https://bridgemi.com/michigan-politics/a-beautifully-american-story-el-sayeds-senate-win-resonates-with-muslim-americans/",
+   "published": "Thu, 05 Nov 2026 14:35:43 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Bridge Listens Issues Watch recap: Behind the Democrat rout in Michigan",
    "link": "https://bridgemi.com/events/bridge-listens-issues-watch-recap-behind-the-democrat-rout-in-michigan/",
    "published": "Wed, 04 Nov 2026 21:40:26 +0000"
@@ -33,10 +39,10 @@
    "published": "Wed, 04 Nov 2026 21:27:03 +0000"
   },
   {
-   "outlet": "Bridge Michigan",
-   "title": "Now, the hard part: Jocelyn Benson has big plans. Michigan has big problems",
-   "link": "https://bridgemi.com/michigan-politics/now-the-hard-part-jocelyn-benson-has-big-plans-michigan-has-big-problems/",
-   "published": "Wed, 04 Nov 2026 20:40:44 +0000"
+   "outlet": "BridgeDetroit",
+   "title": "Detroit school board’s new elected members bring history, criticism, and fresh ideas",
+   "link": "https://www.bridgedetroit.com/detroit-school-boards-new-elected-members-bring-history-criticism-and-fresh-ideas/",
+   "published": "Thu, 05 Nov 2026 14:36:29 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -49,12 +55,6 @@
    "title": "Highland Park mayor to request recount after community leader wins",
    "link": "https://www.bridgedetroit.com/highland-park-mayor-race-recount/",
    "published": "Wed, 04 Nov 2026 20:30:11 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "Jocelyn Benson is Michigan’s next governor. Here’s what education will look like in her administration.",
-   "link": "https://www.bridgedetroit.com/jocelyn-benson-is-michigans-next-governor-heres-what-education-will-look-like-in-her-administration/",
-   "published": "Wed, 04 Nov 2026 18:13:15 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -76,57 +76,57 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Following midterm landslide, Democrats pressed by supporters to deliver on promises",
-   "link": "https://michiganadvance.com/2026/11/04/repub/following-midterm-landslide-democrats-pressed-by-supporters-to-deliver-on-promises/",
-   "published": "Thu, 05 Nov 2026 00:00:42 +0000"
+   "title": "Commentary: Mike Rogers never understood Michigan — but Michigan voters understood him",
+   "link": "https://michiganadvance.com/2026/11/05/mike-rogers-never-understood-michigan-but-michigan-voters-understood-him/",
+   "published": "Thu, 05 Nov 2026 18:00:47 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Democrats won Congress. Now they have to figure out how to deal with Trump.",
-   "link": "https://michiganadvance.com/2026/11/04/repub/democrats-won-congress-now-they-have-to-figure-out-how-to-deal-with-trump/",
-   "published": "Wed, 04 Nov 2026 23:30:15 +0000"
+   "title": "After flipping Michigan’s 4th District, McCann plans bipartisanship approach in Congress",
+   "link": "https://michiganadvance.com/2026/11/05/after-flipping-michigans-4th-district-mccann-plans-bipartisanship-approach-in-congress/",
+   "published": "Thu, 05 Nov 2026 17:02:38 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Midterm winners include several who made history",
-   "link": "https://michiganadvance.com/2026/11/04/repub/midterm-winners-include-several-who-made-history/",
-   "published": "Wed, 04 Nov 2026 23:00:45 +0000"
+   "title": "Commentary: Healthcare workers must stand up to ICE",
+   "link": "https://michiganadvance.com/2026/11/05/healthcare-workers-must-stand-up-to-ice/",
+   "published": "Thu, 05 Nov 2026 13:00:35 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Dominik Shine registers first four-goal game in Griffins history",
-   "link": "https://www.mlive.com/griffins/2026/11/dominik-shine-registers-first-four-goal-game-in-griffins-history.html",
-   "published": "Thu, 05 Nov 2026 05:12:44 +0000"
+   "title": "Michigan regulators set deadline for Consumers hydro fleet sale",
+   "link": "https://www.mlive.com/environment/2026/11/michigan-regulators-set-deadline-for-consumers-hydro-fleet-sale.html",
+   "published": "Thu, 05 Nov 2026 19:50:09 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Saginaw-area volleyball highlights, including updated district final pairings",
-   "link": "https://www.mlive.com/highschoolsports/2026/11/saginaw-area-volleyball-highlights-including-updated-district-final-pairings.html",
-   "published": "Thu, 05 Nov 2026 04:50:00 +0000"
+   "title": "Josh and Jase try olive burgers, defend Sparty while on MSU campus",
+   "link": "https://www.mlive.com/life/2026/11/josh-and-jase-try-olive-burgers-defend-sparty-while-on-msu-campus.html",
+   "published": "Thu, 05 Nov 2026 19:45:53 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Here are the district scores and schedules for Jackson-area volleyball teams",
-   "link": "https://www.mlive.com/highschoolsports/2026/11/here-are-the-district-scores-and-schedules-for-jackson-area-volleyball-teams.html",
-   "published": "Thu, 05 Nov 2026 03:42:28 +0000"
+   "title": "I’m obsessed with Carhartt sweatshirts for layering and these two styles just dropped to half price",
+   "link": "https://www.mlive.com/shopping/2026/11/im-obsessed-with-carhartt-sweatshirts-for-layering-and-these-two-styles-just-dropped-to-half-price.html",
+   "published": "Thu, 05 Nov 2026 19:45:28 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Detroit eviction cases could be reshaped by court ruling",
+   "link": "https://outliermedia.org/detroit-evictions-cases-landlords-tenants-court-ruling/",
+   "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Things to do in Detroit in November: Turkey giveaways, fundraisers and tree lighting ceremony",
+   "link": "https://outliermedia.org/detroit-things-to-do-november-thanksgiving-turkey-giveaways/",
+   "published": "Thu, 05 Nov 2026 10:45:00 +0000"
   },
   {
    "outlet": "Outlier Media",
    "title": "Here’s who won five seats on the Detroit school board",
    "link": "https://outliermedia.org/detroit-school-board-2026-election-results/",
    "published": "Wed, 04 Nov 2026 17:34:40 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Detroit Documenters take city’s pulse at the polls",
-   "link": "https://outliermedia.org/detroit-documenters-polls-election-day-voting/",
-   "published": "Wed, 04 Nov 2026 17:07:35 +0000"
-  },
-  {
-   "outlet": "Outlier Media",
-   "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator",
-   "link": "https://outliermedia.org/abdul-el-sayed-wins-michigan-senate-election/",
-   "published": "Wed, 04 Nov 2026 12:00:44 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -148,39 +148,39 @@
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Democrats sweep Michigan’s statewide races, win control of Legislature",
-   "link": "https://gandernewsroom.com/news/politics/michigan-2026-election-results/",
-   "published": "Wed, 04 Nov 2026 01:00:00 +0000"
+   "title": "4 reasons why communities are pushing back on data centers in Michigan",
+   "link": "https://gandernewsroom.com/local/local-news/data-centers-in-michigan/",
+   "published": "Thu, 05 Nov 2026 18:53:28 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Looking for spooky attire? See Michigan’s popular Halloween costumes",
-   "link": "https://gandernewsroom.com/local/culture/looking-for-spooky-attire-see-michigans-popular-halloween-costumes/",
-   "published": "Thu, 29 Oct 2026 16:30:10 +0000"
+   "title": "Want to have a tiny house in Michigan? Here’s everything you need to know",
+   "link": "https://gandernewsroom.com/local/culture/tiny-homes-in-michigan/",
+   "published": "Thu, 05 Nov 2026 18:51:11 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Here’s where to get free and discounted rides to the polls  on Election Day in Michigan",
-   "link": "https://gandernewsroom.com/news/elections/free-rides-to-the-polls-michigan/",
-   "published": "Wed, 28 Oct 2026 21:16:49 +0000"
+   "title": "Lawrence says Democrats must deliver bold change after election victories",
+   "link": "https://gandernewsroom.com/news/elections/lawrence-democrats-bold-change/",
+   "published": "Thu, 05 Nov 2026 17:50:08 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan Democrats prepare for a second trifecta in state government",
-   "link": "https://www.michiganpublic.org/politics-government/2026-11-04/michigan-democrats-prepare-for-a-second-trifecta-in-state-government",
-   "published": "Thu, 05 Nov 2026 00:52:00 GMT"
+   "title": "Michigan General Election Results 2026",
+   "link": "https://www.michiganpublic.org/politics-government/2026-11-03/michigan-election-results-2026",
+   "published": "Thu, 05 Nov 2026 18:30:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Wednesday, Nov. 4, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-11-04/stateside-wednesday-nov-4-2026",
-   "published": "Wed, 04 Nov 2026 21:35:53 GMT"
+   "title": "Here are 28 things to do in Michigan this weekend, November 6-8",
+   "link": "https://www.michiganpublic.org/community/2026-11-05/things-to-do-this-weekend-michigan",
+   "published": "Thu, 05 Nov 2026 16:31:24 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Meet the newly elected Grand Rapids Public School board members",
-   "link": "https://www.michiganpublic.org/politics-government/2026-11-04/meet-the-newly-elected-grand-rapids-public-school-board-members",
-   "published": "Wed, 04 Nov 2026 20:39:57 GMT"
+   "title": "Here’s who won five seats on the Detroit school board",
+   "link": "https://www.michiganpublic.org/education/2026-11-05/detroit-school-board-election-2026",
+   "published": "Thu, 05 Nov 2026 15:32:23 GMT"
   }
  ]
 }
