@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T12:55:00+00:00",
+ "generated": "2026-11-07T21:45:50+00:00",
  "count": 30,
  "headlines": [
   {
@@ -40,6 +40,12 @@
   },
   {
    "outlet": "BridgeDetroit",
+   "title": "DTE to sell non-utility business to fund grid upgrades, data center growth",
+   "link": "https://www.bridgedetroit.com/dte-to-sell-non-utility-business-to-fund-grid-upgrades-data-center-growth/",
+   "published": "Sat, 07 Nov 2026 13:00:00 +0000"
+  },
+  {
+   "outlet": "BridgeDetroit",
    "title": "Displaced residents of Leland House in Detroit to get $15K each",
    "link": "https://www.bridgedetroit.com/displaced-residents-of-leland-house-in-detroit-to-get-15k-each/",
    "published": "Fri, 06 Nov 2026 22:40:32 +0000"
@@ -49,12 +55,6 @@
    "title": "Another Detroit concrete crusher? Sir Crush-A-Lot draws neighborhood opposition",
    "link": "https://www.bridgedetroit.com/another-detroit-concrete-crusher-sir-crush-a-lot-draws-neighborhood-opposition/",
    "published": "Fri, 06 Nov 2026 19:52:56 +0000"
-  },
-  {
-   "outlet": "BridgeDetroit",
-   "title": "DTE, Consumers sue to block ‘money out of politics’ proposal approved by voters",
-   "link": "https://www.bridgedetroit.com/dte-consumers-sue-to-block-money-out-of-politics-proposal-approved-by-voters/",
-   "published": "Fri, 06 Nov 2026 15:50:46 +0000"
   },
   {
    "outlet": "Great Lakes Echo",
@@ -76,39 +76,39 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "Democrats will hold most legislative trifectas since 1984",
+   "link": "https://michiganadvance.com/2026/11/07/repub/democrats-will-hold-most-legislative-trifectas-since-1984/",
+   "published": "Sat, 07 Nov 2026 18:00:02 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Commentary: The true guardians of our democracy",
+   "link": "https://michiganadvance.com/2026/11/07/the-true-guardians-of-our-democracy/",
+   "published": "Sat, 07 Nov 2026 13:00:07 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Democratic wins put Medicaid expansion back in play in holdout states",
    "link": "https://michiganadvance.com/2026/11/07/repub/democratic-wins-put-medicaid-expansion-back-in-play-in-holdout-states/",
    "published": "Sat, 07 Nov 2026 12:11:50 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Latino voters singled out by top Democrat for credit in congressional victories",
-   "link": "https://michiganadvance.com/2026/11/07/repub/latino-voters-singled-out-by-top-democrat-for-credit-in-congressional-victories/",
-   "published": "Sat, 07 Nov 2026 12:06:35 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "GOP Congress faces funding deadline, farm bill, lengthy to-do list in year-end session",
-   "link": "https://michiganadvance.com/2026/11/07/repub/gop-congress-faces-funding-deadline-farm-bill-lengthy-to-do-list-in-year-end-session/",
-   "published": "Sat, 07 Nov 2026 12:05:46 +0000"
+   "outlet": "MLive",
+   "title": "Trump threatens legal action against Sen. Slotkin amid White House corruption claims",
+   "link": "https://www.mlive.com/politics/2026/11/trump-threatens-legal-action-against-sen-slotkin-amid-white-house-corruption-claims.html",
+   "published": "Sat, 07 Nov 2026 21:42:24 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Marching bands: Follow along with live updates from MCBA state championship finals",
-   "link": "https://www.mlive.com/news/2026/11/marching-bands-follow-along-with-live-updates-from-mcba-state-championship-finals.html",
-   "published": "Sat, 07 Nov 2026 12:45:00 +0000"
+   "title": "Lions place Jack Campbell on injured reserve, add 3 players for Dolphins game",
+   "link": "https://www.mlive.com/lions/2026/11/lions-place-jack-campbell-on-injured-reserve-add-3-players-for-dolphins-game.html",
+   "published": "Sat, 07 Nov 2026 21:38:13 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Downtown Saginaw wing spot brings home-cooked flavor and a strong sense of community",
-   "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/downtown-saginaw-wing-spot-brings-home-cooked-flavor-and-a-strong-sense-of-community.html",
-   "published": "Sat, 07 Nov 2026 12:31:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "5 people shot over 4 days in Kalamazoo: Where each case stands",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/11/5-people-shot-over-4-days-in-kalamazoo-where-each-case-stands.html",
-   "published": "Sat, 07 Nov 2026 12:25:00 +0000"
+   "title": "NFL Hall of Famer, Big Ten radio analyst hospitalized",
+   "link": "https://www.mlive.com/sports/2026/11/nfl-hall-of-famer-big-ten-radio-analyst-hospitalized-after-medical-emergency.html",
+   "published": "Sat, 07 Nov 2026 21:31:04 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Flu season is starting early, so experts say get the vaccine ASAP if you haven't already",
-   "link": "https://www.michiganpublic.org/health/2026-11-06/flu-season-is-starting-early-so-experts-say-get-the-vaccine-asap-if-you-havent-already",
-   "published": "Sat, 07 Nov 2026 01:11:00 GMT"
+   "title": "Dearborn Mayor says Senate election drives record voter turnout",
+   "link": "https://www.michiganpublic.org/politics-government/2026-11-07/dearborn-mayor-says-senate-election-drives-record-voter-turnout",
+   "published": "Sat, 07 Nov 2026 14:51:17 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "TWTS: When a wave becomes a tsunami",
-   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-11-06/twts-when-a-wave-becomes-a-tsunami",
-   "published": "Fri, 06 Nov 2026 23:26:25 GMT"
+   "title": "What's the history behind the MSU v. U-M rivalry?",
+   "link": "https://www.michiganpublic.org/podcast/on-hand/2026-11-07/whats-the-history-behind-the-msu-v-u-m-rivalry",
+   "published": "Sat, 07 Nov 2026 14:46:58 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Friday, Nov. 6, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-11-06/stateside-friday-nov-6-2026",
-   "published": "Fri, 06 Nov 2026 22:29:52 GMT"
+   "title": "What's next for Michigan Democrats after winning a state government trifecta?",
+   "link": "https://www.michiganpublic.org/politics-government/2026-11-07/michigan-democratic-trifecta-midterm-election-2026",
+   "published": "Sat, 07 Nov 2026 13:00:00 GMT"
   }
  ]
 }
