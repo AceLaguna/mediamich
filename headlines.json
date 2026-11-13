@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T23:34:14+00:00",
+ "generated": "2026-11-13T06:36:48+00:00",
  "count": 30,
  "headlines": [
   {
@@ -10,15 +10,21 @@
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "A New Way of Seeing the Universe: MSU’s Contribution to Nobel-Winning Neutrino Research",
+   "title": "A new way of seeing the universe: MSU’s contribution to Nobel-winning neutrino research",
    "link": "https://lansingcitypulse.com/a-new-way-of-seeing-the-universe-msus-contribution-to-nobel-winning-neutrino-research/",
    "published": "Wed, 11 Nov 2026 21:23:00 +0000"
   },
   {
    "outlet": "Lansing City Pulse",
-   "title": "Blue-Nami ‘26: Fewer Split Tickets Turn Familiar Dem Margins Into Historic Gains",
+   "title": "Blue-nami ‘26: Fewer split tickets turn familiar Dem margins into historic gains",
    "link": "https://lansingcitypulse.com/blue-nami-26-fewer-split-tickets-turn-familiar-dem-margins-into-historic-gains/",
    "published": "Wed, 11 Nov 2026 20:46:00 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
+   "title": "Michigan sues Mackinac Island ferry operator, claims it’s a monopoly",
+   "link": "https://bridgemi.com/business-watch/michigan-sues-mackinac-island-ferry-operator-claims-its-a-monopoly/",
+   "published": "Fri, 13 Nov 2026 02:24:36 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -31,12 +37,6 @@
    "title": "Jocelyn Benson wants to raise Michigan teacher pay. Union isn’t sold on plan",
    "link": "https://bridgemi.com/michigan-education-watch/jocelyn-benson-wants-to-raise-michigan-teacher-pay-union-isnt-sold-on-plan/",
    "published": "Thu, 12 Nov 2026 22:18:07 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Michigan Democrats promised lower costs. Here are 7 ideas (it won’t be easy)",
-   "link": "https://bridgemi.com/michigan-politics/michigan-democrats-promised-lower-costs-here-are-7-ideas-it-wont-be-easy/",
-   "published": "Thu, 12 Nov 2026 17:41:21 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,6 +76,12 @@
   },
   {
    "outlet": "Michigan Advance",
+   "title": "A third of US abortions were provided by non-physicians last year, Guttmacher says",
+   "link": "https://michiganadvance.com/2026/11/12/repub/a-third-of-us-abortions-were-provided-by-non-physicians-last-year-guttmacher-says/",
+   "published": "Fri, 13 Nov 2026 00:49:40 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
    "title": "Nessel launches antitrust lawsuit against Mackinac ferry operator, alleging monopoly",
    "link": "https://michiganadvance.com/2026/11/12/nessel-launches-antitrust-lawsuit-against-mackinac-ferry-operator-alleging-monopoly/",
    "published": "Thu, 12 Nov 2026 22:14:45 +0000"
@@ -87,28 +93,22 @@
    "published": "Thu, 12 Nov 2026 22:01:44 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "Advance Notice for Thursday, Nov. 12",
-   "link": "https://michiganadvance.com/2026/11/12/advance-notice/",
-   "published": "Thu, 12 Nov 2026 21:00:00 +0000"
+   "outlet": "MLive",
+   "title": "Frankenmuth, Midland Dow fall in volleyball regional championships",
+   "link": "https://www.mlive.com/highschoolsports/2026/11/frankenmuth-midland-dow-fall-in-volleyball-regional-championships.html",
+   "published": "Fri, 13 Nov 2026 04:55:51 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Grand Rapids eyes limits on Flock data sharing with ICE partners",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/11/commission-eyes-limits-on-flock-data-sharing-amid-privacy-concerns-in-grand-rapids.html",
-   "published": "Thu, 12 Nov 2026 23:27:29 +0000"
+   "title": "Valley Lutheran sweeps St. Louis for fourth consecutive Division 3 volleyball regional title",
+   "link": "https://www.mlive.com/highschoolsports/2026/11/valley-lutheran-sweeps-st-louis-for-fourth-consecutive-division-3-volleyball-regional-title.html",
+   "published": "Fri, 13 Nov 2026 04:06:25 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bill that could add $1,450 a month on average for 58,000 veterans heads to U.S. Senate",
-   "link": "https://www.mlive.com/news/2026/11/bill-that-could-add-1450-a-month-on-average-for-58000-veterans-heads-to-us-senate.html",
-   "published": "Thu, 12 Nov 2026 23:21:29 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "Check out the Jackson-area regional final football picks",
-   "link": "https://www.mlive.com/highschoolsports/2026/11/check-out-the-jackson-area-regional-final-football-picks.html",
-   "published": "Thu, 12 Nov 2026 23:08:33 +0000"
+   "title": "Bay City area roundup: Regional champ outdueled on doorstep of title defense",
+   "link": "https://www.mlive.com/highschoolsports/2026/11/bay-city-area-roundup-regional-champ-outdueled-on-doorstep-of-title-defense.html",
+   "published": "Fri, 13 Nov 2026 03:45:16 +0000"
   },
   {
    "outlet": "Outlier Media",
