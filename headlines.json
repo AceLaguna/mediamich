@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T07:50:06+00:00",
+ "generated": "2026-11-17T20:51:03+00:00",
  "count": 30,
  "headlines": [
   {
@@ -22,6 +22,12 @@
   },
   {
    "outlet": "Bridge Michigan",
+   "title": "Opinion | Michigan has delayed water upgrades long enough. Lansing needs to act",
+   "link": "https://bridgemi.com/guest-commentary/opinion-michigan-has-delayed-water-upgrades-long-enough-lansing-needs-to-act/",
+   "published": "Tue, 17 Nov 2026 19:30:04 +0000"
+  },
+  {
+   "outlet": "Bridge Michigan",
    "title": "Defying court order, Trump admin again forces Michigan coal plant to stay open",
    "link": "https://bridgemi.com/michigan-environment-watch/defying-court-order-trump-admin-again-forces-michigan-coal-plant-to-stay-open/",
    "published": "Mon, 16 Nov 2026 21:43:48 +0000"
@@ -31,12 +37,6 @@
    "title": "Report: Half of Michiganders with disabilities struggle to afford basic costs",
    "link": "https://bridgemi.com/quality-life/report-half-of-michiganders-with-disabilities-struggle-to-afford-basic-costs/",
    "published": "Fri, 13 Nov 2026 20:55:42 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Bridge Michigan News Quiz, Nov. 13: Partly cloudy, chance of amazing",
-   "link": "https://bridgemi.com/news-quiz/bridge-michigan-news-quiz-nov-13-partly-cloudy-chance-of-amazing/",
-   "published": "Fri, 13 Nov 2026 17:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -76,39 +76,45 @@
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Trump volleys back to Congress in blame game over aviation ground stop",
-   "link": "https://michiganadvance.com/2026/11/16/repub/trump-volleys-back-to-congress-in-blame-game-over-aviation-ground-stop/",
-   "published": "Mon, 16 Nov 2026 23:00:11 +0000"
+   "title": "Scholten, Michigan Head Start Association criticize Trump rollback of teacher pay increases",
+   "link": "https://michiganadvance.com/2026/11/17/scholten-michigan-head-start-association-criticize-trump-rollback-of-teacher-pay-increases/",
+   "published": "Tue, 17 Nov 2026 17:12:01 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Americans increasingly see crime declining, but fears of scams persist, survey finds",
-   "link": "https://michiganadvance.com/2026/11/16/repub/americans-increasingly-see-crime-declining-but-fears-of-scams-persist-survey-finds/",
-   "published": "Mon, 16 Nov 2026 22:59:54 +0000"
+   "title": "US Senate Dems call for pause on router installation that caused air travel ground stop",
+   "link": "https://michiganadvance.com/2026/11/17/repub/us-senate-dems-call-for-pause-on-router-installation-that-caused-air-travel-ground-stop/",
+   "published": "Tue, 17 Nov 2026 17:06:03 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "New World screwworm spreading rapidly across Southwestern states",
-   "link": "https://michiganadvance.com/2026/11/16/repub/new-world-screwworm-spreading-rapidly-across-southwestern-states/",
-   "published": "Mon, 16 Nov 2026 22:59:38 +0000"
+   "title": "Experts credit smooth midterms to election workers, Democratic rout",
+   "link": "https://michiganadvance.com/2026/11/17/repub/experts-credit-smooth-midterms-to-election-workers-democratic-rout/",
+   "published": "Tue, 17 Nov 2026 15:29:02 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Amidst steadfast opposition, gravel mine in Jackson County plans to resubmit application",
-   "link": "https://www.mlive.com/news/jackson/2026/11/amidst-steadfast-opposition-gravel-mine-in-jackson-county-plans-to-resubmit-application.html",
-   "published": "Tue, 17 Nov 2026 04:15:44 +0000"
+   "title": "A-list actor open to playing James Bond villan",
+   "link": "https://www.mlive.com/life/2026/11/a-list-actor-open-to-playing-james-bond-villan-opposite-robert-pattinsons-007.html",
+   "published": "Tue, 17 Nov 2026 20:45:52 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Lowell residents respond to first draft of data center regulations",
-   "link": "https://www.mlive.com/news/grand-rapids/2026/11/lowell-residents-respond-to-first-draft-of-data-center-regulations.html",
-   "published": "Tue, 17 Nov 2026 03:46:19 +0000"
+   "title": "Big Sean says major Detroit entertainment project remains in the works",
+   "link": "https://www.mlive.com/news/detroit/2026/11/big-sean-says-major-detroit-entertainment-project-remains-in-the-works.html",
+   "published": "Tue, 17 Nov 2026 20:41:31 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Exhalting standout performers with Bay City Athlete of the Week for Nov. 16",
-   "link": "https://www.mlive.com/highschoolsports/2026/11/exhalting-standout-performers-with-bay-city-athlete-of-the-week-for-nov-16.html",
-   "published": "Tue, 17 Nov 2026 03:40:48 +0000"
+   "title": "TV host reveals she’s expecting third baby at 59",
+   "link": "https://www.mlive.com/life/2026/11/tv-host-reveals-shes-expecting-third-baby-at-59.html",
+   "published": "Tue, 17 Nov 2026 20:40:57 +0000"
+  },
+  {
+   "outlet": "Outlier Media",
+   "title": "Detroit remains hungry for fresh food options",
+   "link": "https://outliermedia.org/detroit-peoples-food-co-op-black-owned-grocery/",
+   "published": "Tue, 17 Nov 2026 11:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -123,10 +129,16 @@
    "published": "Wed, 11 Nov 2026 10:15:00 +0000"
   },
   {
-   "outlet": "Outlier Media",
-   "title": "‘A historic turning point’: Muslim Americans celebrate Abdul El-Sayed’s victory",
-   "link": "https://outliermedia.org/abdul-el-sayed-senate-michigan-muslim-americans/",
-   "published": "Fri, 06 Nov 2026 21:05:28 +0000"
+   "outlet": "Planet Detroit",
+   "title": "Federal energy officials order Campbell coal plant to keep running through February despite court ruling",
+   "link": "https://planetdetroit.org/2026/11/campbell-coal-plant-federal-order-costs/",
+   "published": "Tue, 17 Nov 2026 17:57:26 +0000"
+  },
+  {
+   "outlet": "Planet Detroit",
+   "title": "Big US data centers emit more carbon than Denmark: Harvard study",
+   "link": "https://planetdetroit.org/2026/11/data-center-pollution-harvard-study/",
+   "published": "Tue, 17 Nov 2026 17:33:27 +0000"
   },
   {
    "outlet": "Planet Detroit",
@@ -135,52 +147,40 @@
    "published": "Mon, 16 Nov 2026 23:02:30 +0000"
   },
   {
-   "outlet": "Planet Detroit",
-   "title": "The Clinton River Trail is back in Rochester. Here’s how it got rebuilt.",
-   "link": "https://planetdetroit.org/2026/11/clinton-river-trail-rebuilt-rochester/",
-   "published": "Mon, 16 Nov 2026 16:12:47 +0000"
-  },
-  {
-   "outlet": "Planet Detroit",
-   "title": "Ypsilanti Township data center site is ‘highly archaeologically sensitive’: State historic office",
-   "link": "https://planetdetroit.org/2026/11/um-hyperscale-data-center-huron-river-archaeology/",
-   "published": "Fri, 13 Nov 2026 21:15:58 +0000"
+   "outlet": "The 'Gander Newsroom",
+   "title": "15 events happening this weekend in Michigan (Nov. 20-22)",
+   "link": "https://gandernewsroom.com/local/things-to-do/15-events-happening-this-weekend-in-michigan-nov-20-22/",
+   "published": "Tue, 17 Nov 2026 17:57:04 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "A first-timer’s guide to Lansing’s beloved Silver Bells in the City holiday celebration",
-   "link": "https://gandernewsroom.com/local/things-to-do/a-first-timers-guide-to-lansings-beloved-silver-bells-in-the-city-holiday-celebration/",
-   "published": "Mon, 16 Nov 2026 22:47:21 +0000"
+   "title": "From House speaker to Senate leader, Michigan’s state elections made history",
+   "link": "https://gandernewsroom.com/news/elections/state-elections-historic-firsts/",
+   "published": "Tue, 17 Nov 2026 17:01:00 +0000"
   },
   {
    "outlet": "The 'Gander Newsroom",
-   "title": "Michigan dispensaries are treating Grand Theft Auto VI like a national holiday",
-   "link": "https://gandernewsroom.com/news/cannabis/michigan-dispensaries-gta-vi/",
-   "published": "Mon, 16 Nov 2026 21:09:14 +0000"
-  },
-  {
-   "outlet": "The 'Gander Newsroom",
-   "title": "How old is too old to shovel snow? What experts say as winter arrives",
-   "link": "https://gandernewsroom.com/local/local-news/how-old-is-too-old-to-shovel-snow-what-experts-say-as-winter-arrives/",
-   "published": "Mon, 16 Nov 2026 17:29:32 +0000"
+   "title": "8 quick hits of cannabis news from across Michigan",
+   "link": "https://gandernewsroom.com/news/cannabis/cannabis-news-michigan-111626/",
+   "published": "Tue, 17 Nov 2026 13:18:22 +0000"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "EGLE releases roadmap to rein in climate change contributions from Michigan industry",
-   "link": "https://www.michiganpublic.org/environment-climate-change/2026-11-16/egle-releases-roadmap-to-rein-in-climate-change-contributions-from-michigan-industry",
-   "published": "Tue, 17 Nov 2026 02:15:51 GMT"
+   "title": "What is kratom? Michigan physicians warn of addiction and health risks",
+   "link": "https://www.michiganpublic.org/health/2026-11-17/kratom-health-risks-michigan",
+   "published": "Tue, 17 Nov 2026 19:21:04 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan's next attorney general plans departure from Washtenaw County Prosecutor's Office",
-   "link": "https://www.michiganpublic.org/politics-government/2026-11-16/michigans-next-attorney-general-plans-departure-from-washtenaw-county-prosecutors-office",
-   "published": "Mon, 16 Nov 2026 23:58:08 GMT"
+   "title": "Detroit delays vote on $2.2-billion RenCen project as public comments pour in",
+   "link": "https://www.michiganpublic.org/transportation-infrastructure/2026-11-17/renaissance-center-project-detroit-vote",
+   "published": "Tue, 17 Nov 2026 18:29:50 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Stateside: Monday, Nov. 16, 2026",
-   "link": "https://www.michiganpublic.org/stateside/2026-11-16/stateside-monday-november-16-2026",
-   "published": "Mon, 16 Nov 2026 21:26:13 GMT"
+   "title": "Michigan industry leader warns of risks as Canada, China discuss auto trade",
+   "link": "https://www.michiganpublic.org/economy/2026-11-17/china-canada-auto-trade-talks-united-states-michigan",
+   "published": "Tue, 17 Nov 2026 17:15:33 GMT"
   }
  ]
 }
