@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:38:04+00:00",
+ "generated": "2026-11-26T08:09:48+00:00",
  "count": 30,
  "headlines": [
   {
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "What’s all the buzz about yellowjackets this fall?",
+   "link": "https://greatlakesecho.org/2026/11/25/whats-all-the-buzz-about-yellowjackets-this-fall/",
+   "published": "Thu, 26 Nov 2026 01:42:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Cold weather creates safety concerns for Great Lakes boaters",
    "link": "https://greatlakesecho.org/2026/11/25/cold-weather-creates-safety-concerns-for-great-lakes-boaters/",
    "published": "Wed, 25 Nov 2026 13:43:08 +0000"
@@ -69,46 +75,40 @@
    "published": "Sat, 21 Nov 2026 10:54:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "A buzz-worthy solution to the goose poop problem",
-   "link": "https://greatlakesecho.org/2026/11/20/a-buzz-worthy-solution-to-the-goose-poop-problem/",
-   "published": "Fri, 20 Nov 2026 14:43:52 +0000"
+   "outlet": "Michigan Advance",
+   "title": "‘Free of everything evil’: Kilmar Abrego Garcia speaks out from Spain, after fleeing US",
+   "link": "https://michiganadvance.com/2026/11/25/repub/free-of-everything-evil-kilmar-abrego-garcia-speaks-out-from-spain-after-fleeing-us/",
+   "published": "Wed, 25 Nov 2026 22:47:48 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "Michigan legislators challenge prison officials over inmate’s medical care and mold claims",
-   "link": "https://michiganadvance.com/2026/11/25/michigan-legislators-challenge-prison-officials-over-inmates-medical-care-and-mold-claims/",
-   "published": "Wed, 25 Nov 2026 19:30:06 +0000"
+   "title": "Federal court blocks second Trump order on birthright citizenship",
+   "link": "https://michiganadvance.com/2026/11/25/repub/federal-court-blocks-second-trump-order-on-birthright-citizenship/",
+   "published": "Wed, 25 Nov 2026 22:47:23 +0000"
   },
   {
    "outlet": "Michigan Advance",
-   "title": "US Supreme Court to weigh bans on AR-15s, similar guns in big Second Amendment case",
-   "link": "https://michiganadvance.com/2026/11/25/repub/us-supreme-court-to-weigh-bans-on-ar-15s-similar-guns-in-big-second-amendment-case/",
-   "published": "Wed, 25 Nov 2026 19:03:35 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "US economy heats up on AI investment, consumer spending",
-   "link": "https://michiganadvance.com/2026/11/25/repub/us-economy-heats-up-on-ai-investment-consumer-spending/",
-   "published": "Wed, 25 Nov 2026 18:01:53 +0000"
+   "title": "Temporary Protected Status to expire for Lebanese immigrants in the US",
+   "link": "https://michiganadvance.com/2026/11/25/repub/temporary-protected-status-to-expire-for-lebanese-immigrants-in-the-us/",
+   "published": "Wed, 25 Nov 2026 22:46:51 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Bill Clinton, Barack Obama disciple nearing decision on 2028 presidential campaign",
-   "link": "https://www.mlive.com/politics/2026/11/bill-clinton-barack-obama-disciple-nearing-decision-on-2028-presidential-campaign.html",
-   "published": "Wed, 25 Nov 2026 21:33:24 +0000"
+   "title": "Amazon’s Black Friday sale ends soon — here’s the exact cutoff time and best deals left",
+   "link": "https://www.mlive.com/shopping/2026/11/amazons-black-friday-sale-ends-soon-heres-the-exact-cutoff-time-and-best-deals-left.html",
+   "published": "Thu, 26 Nov 2026 08:05:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Where to watch Timberwolves vs. Thunder basketball for free today",
-   "link": "https://www.mlive.com/tv/2026/11/where-to-watch-timberwolves-vs-thunder-basketball-for-free-today.html",
-   "published": "Wed, 25 Nov 2026 21:30:00 +0000"
+   "title": "Why are crowds suddenly trying to move some of America’s biggest landmarks?",
+   "link": "https://www.mlive.com/news/2026/11/why-are-crowds-suddenly-trying-to-move-some-of-americas-biggest-landmarks.html",
+   "published": "Thu, 26 Nov 2026 08:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Portage pedestrian dies 5 days after being struck by vehicle",
-   "link": "https://www.mlive.com/news/kalamazoo/2026/11/portage-pedestrian-dies-5-days-after-being-struck-by-vehicle.html",
-   "published": "Wed, 25 Nov 2026 21:19:17 +0000"
+   "title": "Bay County sports roundup: Defenseman achieves rare milestone in victory",
+   "link": "https://www.mlive.com/highschoolsports/2026/11/bay-county-sports-roundup-defenseman-achieves-rare-milestone-in-victory.html",
+   "published": "Thu, 26 Nov 2026 07:01:14 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,6 +166,12 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Michigan AG’s office reissues holiday consumer safety warnings, joins another federal lawsuit",
+   "link": "https://www.michiganpublic.org/politics-government/2026-11-25/michigan-ags-office-reissues-holiday-consumer-safety-warnings-joins-another-federal-lawsuit",
+   "published": "Thu, 26 Nov 2026 01:52:40 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Thousands of Flint water settlement claimants may learn award amounts this week",
    "link": "https://www.michiganpublic.org/criminal-justice-legal-system/2026-11-25/flint-water-settlement-awards",
    "published": "Wed, 25 Nov 2026 20:57:14 GMT"
@@ -175,12 +181,6 @@
    "title": "Gathering Around the Table: A Special Edition of The Dish",
    "link": "https://www.michiganpublic.org/podcast/the-dish/2026-11-25/gathering-around-the-table-a-special-edition-of-the-dish",
    "published": "Wed, 25 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "MSU's renowned horse breeding program is hiding in plain sight, and you can visit for free",
-   "link": "https://www.michiganpublic.org/education/2026-11-25/michigan-state-university-horse-breeding-program",
-   "published": "Wed, 25 Nov 2026 18:20:36 GMT"
   }
  ]
 }
