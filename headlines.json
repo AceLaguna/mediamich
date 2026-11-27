@@ -1,7 +1,13 @@
 {
- "generated": "2026-11-27T08:20:17+00:00",
+ "generated": "2026-11-27T21:11:11+00:00",
  "count": 30,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "Little Free Libraries provide books, community sharing",
+   "link": "https://lansingcitypulse.com/little-free-libraries-provide-books-community-sharing/",
+   "published": "Fri, 27 Nov 2026 20:37:17 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Michigan airport officials expect smooth holiday travel despite groundstop fallout",
@@ -15,28 +21,22 @@
    "published": "Wed, 25 Nov 2026 09:18:00 +0000"
   },
   {
-   "outlet": "Lansing City Pulse",
-   "title": "David Campbell Hill returns from nearly five-decade hiatus with first solo novel",
-   "link": "https://lansingcitypulse.com/david-campbell-hill-returns-from-nearly-five-decade-hiatus-with-first-solo-novel/",
-   "published": "Wed, 25 Nov 2026 09:15:00 +0000"
+   "outlet": "Bridge Michigan",
+   "title": "911 emergency? Michigan counties turning to voters to keep services running",
+   "link": "https://bridgemi.com/michigan-politics/911-emergency-michigan-counties-turning-to-voters-to-keep-services-running/",
+   "published": "Fri, 27 Nov 2026 18:25:41 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Q&A: How Michigan could ‘make it easier to purchase a home’",
-   "link": "https://bridgemi.com/michigan-politics/qa-how-michigan-could-make-it-easier-to-purchase-a-home/",
-   "published": "Thu, 26 Nov 2026 15:00:00 +0000"
+   "title": "Secret donors helped Democratic nominees dominate Michigan Supreme Court races",
+   "link": "https://bridgemi.com/michigan-politics/secret-donors-helped-democratic-nominees-dominate-michigan-supreme-court-races/",
+   "published": "Fri, 27 Nov 2026 17:46:37 +0000"
   },
   {
    "outlet": "Bridge Michigan",
-   "title": "Where to live? From Green Houses to accessory dwellings, Michigan seniors have more options",
-   "link": "https://bridgemi.com/quality-life/where-to-live-from-green-houses-to-accessory-dwellings-michigan-seniors-have-more-options/",
-   "published": "Thu, 26 Nov 2026 12:45:00 +0000"
-  },
-  {
-   "outlet": "Bridge Michigan",
-   "title": "Initiatives across Michigan aim to help older adults stay in their homes",
-   "link": "https://bridgemi.com/quality-life/initiatives-across-michigan-aim-to-help-older-adults-stay-in-their-homes/",
-   "published": "Thu, 26 Nov 2026 12:00:00 +0000"
+   "title": "Bridge Michigan News Quiz, Nov. 27: So-so leftovers, amazing trivia galore",
+   "link": "https://bridgemi.com/news-quiz/bridge-michigan-news-quiz-nov-27-so-so-leftovers-amazing-trivia-galore/",
+   "published": "Fri, 27 Nov 2026 17:00:00 +0000"
   },
   {
    "outlet": "BridgeDetroit",
@@ -58,6 +58,12 @@
   },
   {
    "outlet": "Great Lakes Echo",
+   "title": "Great Lakes books for winter gifts, reading",
+   "link": "https://greatlakesecho.org/2026/11/27/great-lakes-books-for-winter-gifts-reading/",
+   "published": "Fri, 27 Nov 2026 12:00:00 +0000"
+  },
+  {
+   "outlet": "Great Lakes Echo",
    "title": "Michigan DNR considers lifting bear hunting ban on Bois Blanc Island",
    "link": "https://greatlakesecho.org/2026/11/26/michigan-dnr-considers-lifting-bear-hunting-ban-on-bois-blanc-island/",
    "published": "Thu, 26 Nov 2026 12:44:00 +0000"
@@ -69,10 +75,16 @@
    "published": "Thu, 26 Nov 2026 01:42:00 +0000"
   },
   {
-   "outlet": "Great Lakes Echo",
-   "title": "Cold weather creates safety concerns for Great Lakes boaters",
-   "link": "https://greatlakesecho.org/2026/11/25/cold-weather-creates-safety-concerns-for-great-lakes-boaters/",
-   "published": "Wed, 25 Nov 2026 13:43:08 +0000"
+   "outlet": "Michigan Advance",
+   "title": "Commentary: Treating homelessness as a crime doesn’t work",
+   "link": "https://michiganadvance.com/2026/11/27/treating-homelessness-as-a-crime-doesnt-work/",
+   "published": "Fri, 27 Nov 2026 12:00:16 +0000"
+  },
+  {
+   "outlet": "Michigan Advance",
+   "title": "Lawmakers are reaching across the aisle for Michigan’s trails system",
+   "link": "https://michiganadvance.com/2026/11/27/lawmakers-are-reaching-across-the-aisle-for-michigans-trails-system/",
+   "published": "Fri, 27 Nov 2026 11:00:00 +0000"
   },
   {
    "outlet": "Michigan Advance",
@@ -81,34 +93,22 @@
    "published": "Thu, 26 Nov 2026 19:00:56 +0000"
   },
   {
-   "outlet": "Michigan Advance",
-   "title": "A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
-   "link": "https://michiganadvance.com/2026/11/26/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication/",
-   "published": "Thu, 26 Nov 2026 11:00:46 +0000"
-  },
-  {
-   "outlet": "Michigan Advance",
-   "title": "‘Free of everything evil’: Kilmar Abrego Garcia speaks out from Spain, after fleeing US",
-   "link": "https://michiganadvance.com/2026/11/25/repub/free-of-everything-evil-kilmar-abrego-garcia-speaks-out-from-spain-after-fleeing-us/",
-   "published": "Wed, 25 Nov 2026 22:47:48 +0000"
+   "outlet": "MLive",
+   "title": "Michigan’s AD search is back to square one after Trev Alberts debacle",
+   "link": "https://www.mlive.com/wolverines/football/2026/11/michigans-ad-search-is-back-to-square-one-after-trev-alberts-debacle.html",
+   "published": "Fri, 27 Nov 2026 21:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "403,000 gallons leaked at Hawaii power plant. Officials explain what happened",
-   "link": "https://www.mlive.com/news/2026/11/403000-gallons-of-fuel-leaked-at-hawaii-power-plant-why-no-one-knew-for-months.html",
-   "published": "Fri, 27 Nov 2026 08:00:00 +0000"
+   "title": "Dear Abby: Neighbor horrified when man uses car exhaust to kill his late wife's cat",
+   "link": "https://www.mlive.com/advice/2026/11/dear-abby-neighbor-horrified-when-man-uses-car-exhaust-to-kill-his-late-wifes-cat.html",
+   "published": "Fri, 27 Nov 2026 21:00:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Hunters found a human skull in Wisconsin. Police linked it to a 4-year-old mystery",
-   "link": "https://www.mlive.com/news/2026/11/hunters-found-a-skull-in-the-woods-police-say-it-may-solve-a-4-year-mystery.html",
-   "published": "Fri, 27 Nov 2026 07:00:00 +0000"
-  },
-  {
-   "outlet": "MLive",
-   "title": "What to do if you hit something while driving",
-   "link": "https://www.mlive.com/news/2026/11/you-hit-something-while-driving-but-dont-know-what-heres-what-to-do-next.html",
-   "published": "Fri, 27 Nov 2026 06:30:00 +0000"
+   "title": "Dearborn Divine Child’s big second-half comeback tops Kenowa Hills for repeat Division 4 state title",
+   "link": "https://www.mlive.com/highschoolsports/2026/11/dearborn-divine-childs-big-second-half-comeback-tops-kenowa-hills-for-repeat-division-4-state-title.html",
+   "published": "Fri, 27 Nov 2026 20:50:56 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Families line Detroit streets to celebrate the 100th America's Thanksgiving Parade",
-   "link": "https://www.michiganpublic.org/arts-life/2026-11-26/families-line-detroit-streets-to-celebrate-the-100th-americas-thanksgiving-parade",
-   "published": "Thu, 26 Nov 2026 17:52:00 GMT"
+   "title": "Michigan state parks offer outdoor alternative to Black Friday craze",
+   "link": "https://www.michiganpublic.org/environment-climate-change/2026-11-27/michigan-state-parks-offer-outdoor-alternative-to-black-friday-craze",
+   "published": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "John U. Bacon: Michigan's failed athletic director search shows 'utter incompetence'",
-   "link": "https://www.michiganpublic.org/sports/2026-11-26/john-u-bacon-michigans-failed-athletic-director-search-shows-utter-incompetence",
-   "published": "Thu, 26 Nov 2026 13:26:39 GMT"
+   "title": "Michigan economic development agency finds replacement for expired business grant program",
+   "link": "https://www.michiganpublic.org/economy/2026-11-27/michigan-economic-development-agency-finds-replacement-for-expired-business-grant-program",
+   "published": "Fri, 27 Nov 2026 10:00:00 GMT"
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Why the Detroit Lions play on Thanksgiving Day every year",
-   "link": "https://www.michiganpublic.org/sports/2026-11-26/why-do-the-detroit-lions-play-on-thanksgiving-every-year",
-   "published": "Thu, 26 Nov 2026 11:00:00 GMT"
+   "title": "Michigan retailers optimistic going into holiday shopping season",
+   "link": "https://www.michiganpublic.org/economy/2026-11-27/michigan-retailers-optimistic-going-into-holiday-shopping-season",
+   "published": "Fri, 27 Nov 2026 10:00:00 GMT"
   }
  ]
 }
