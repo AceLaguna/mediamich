@@ -1,7 +1,13 @@
 {
- "generated": "2026-11-27T21:11:11+00:00",
+ "generated": "2026-11-28T07:41:19+00:00",
  "count": 30,
  "headlines": [
+  {
+   "outlet": "Lansing City Pulse",
+   "title": "TOP 5 BBQ",
+   "link": "https://lansingcitypulse.com/top-5-bbq/",
+   "published": "Fri, 27 Nov 2026 21:39:59 +0000"
+  },
   {
    "outlet": "Lansing City Pulse",
    "title": "Little Free Libraries provide books, community sharing",
@@ -13,12 +19,6 @@
    "title": "Michigan airport officials expect smooth holiday travel despite groundstop fallout",
    "link": "https://lansingcitypulse.com/michigan-airport-officials-expect-smooth-holiday-travel-despite-groundstop-fallout/",
    "published": "Wed, 25 Nov 2026 20:26:42 +0000"
-  },
-  {
-   "outlet": "Lansing City Pulse",
-   "title": "Hollister showed Lansing what a mayor could do",
-   "link": "https://lansingcitypulse.com/hollister-showed-lansing-what-a-mayor-could-do/",
-   "published": "Wed, 25 Nov 2026 09:18:00 +0000"
   },
   {
    "outlet": "Bridge Michigan",
@@ -94,21 +94,21 @@
   },
   {
    "outlet": "MLive",
-   "title": "Michigan’s AD search is back to square one after Trev Alberts debacle",
-   "link": "https://www.mlive.com/wolverines/football/2026/11/michigans-ad-search-is-back-to-square-one-after-trev-alberts-debacle.html",
-   "published": "Fri, 27 Nov 2026 21:00:00 +0000"
+   "title": "ICE arrested him days after a $1 million lottery win. Can he keep the money?",
+   "link": "https://www.mlive.com/news/2026/11/he-won-1-million-then-ice-arrested-him-can-he-keep-the-lottery-money.html",
+   "published": "Sat, 28 Nov 2026 07:30:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Dear Abby: Neighbor horrified when man uses car exhaust to kill his late wife's cat",
-   "link": "https://www.mlive.com/advice/2026/11/dear-abby-neighbor-horrified-when-man-uses-car-exhaust-to-kill-his-late-wifes-cat.html",
-   "published": "Fri, 27 Nov 2026 21:00:00 +0000"
+   "title": "Casinos like Chumba: 5 picks our team is backing this long weekend",
+   "link": "https://www.mlive.com/sweepstakes-casinos/2026/11/casinos-like-chumba-5-picks-our-team-is-backing-this-long-weekend.html",
+   "published": "Sat, 28 Nov 2026 07:02:00 +0000"
   },
   {
    "outlet": "MLive",
-   "title": "Dearborn Divine Child’s big second-half comeback tops Kenowa Hills for repeat Division 4 state title",
-   "link": "https://www.mlive.com/highschoolsports/2026/11/dearborn-divine-childs-big-second-half-comeback-tops-kenowa-hills-for-repeat-division-4-state-title.html",
-   "published": "Fri, 27 Nov 2026 20:50:56 +0000"
+   "title": "Call Woody Hayes’ old phone number and you’ll still hear the OSU legend",
+   "link": "https://www.mlive.com/sports/2026/11/woody-hayes-died-in-1987-but-you-can-still-call-him-heres-what-happens.html",
+   "published": "Sat, 28 Nov 2026 07:00:00 +0000"
   },
   {
    "outlet": "Outlier Media",
@@ -166,21 +166,21 @@
   },
   {
    "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "Auchter's Art: By any means necessary",
+   "link": "https://www.michiganpublic.org/opinion/2026-11-27/auchters-art-by-any-means-necessary",
+   "published": "Sat, 28 Nov 2026 03:04:05 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
+   "title": "TWTS: Odds, ends, and other linguistic leftovers",
+   "link": "https://www.michiganpublic.org/podcast/thats-what-they-say/2026-11-27/twts-odds-ends-and-other-linguistic-leftovers",
+   "published": "Fri, 27 Nov 2026 21:45:00 GMT"
+  },
+  {
+   "outlet": "Michigan Public (WUOM 91.7)",
    "title": "Michigan state parks offer outdoor alternative to Black Friday craze",
    "link": "https://www.michiganpublic.org/environment-climate-change/2026-11-27/michigan-state-parks-offer-outdoor-alternative-to-black-friday-craze",
    "published": "Fri, 27 Nov 2026 11:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan economic development agency finds replacement for expired business grant program",
-   "link": "https://www.michiganpublic.org/economy/2026-11-27/michigan-economic-development-agency-finds-replacement-for-expired-business-grant-program",
-   "published": "Fri, 27 Nov 2026 10:00:00 GMT"
-  },
-  {
-   "outlet": "Michigan Public (WUOM 91.7)",
-   "title": "Michigan retailers optimistic going into holiday shopping season",
-   "link": "https://www.michiganpublic.org/economy/2026-11-27/michigan-retailers-optimistic-going-into-holiday-shopping-season",
-   "published": "Fri, 27 Nov 2026 10:00:00 GMT"
   }
  ]
 }
